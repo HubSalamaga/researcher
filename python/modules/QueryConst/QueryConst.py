@@ -119,8 +119,15 @@ class Const:
         """
         with open(file_path, 'r') as file:
             for query in file:
-                query = query.strip()  # Remove any leading/trailing whitespace
-                #  GDZIEŚ TUTAJ TRZEBA ROZSZERZYĆ QUERY O DZISIEJSZA DATE ZMIENIAMY TYLKO QUERY
+                query = query.strip()
+                from_format = "%Y-%m-%d"
+                to_format = "%Y/%m/%d"
+                current_date = str(current_date)
+                previous_date = str(previous_date)
+                current_date = Const.convert_date_format(current_date,from_format,to_format)  # Remove any leading/trailing whitespace
+                previous_date = Const.convert_date_format(previous_date,from_format,to_format)
+                #("2024/04/15"[PubDate] : "2024/04/22"[PubDate])
+                query = str(query + " AND " "(" + previous_date + "[PubDate]" + " :"  + " " + current_date + "[PubDate]" + ")") #  GDZIEŚ TUTAJ TRZEBA ROZSZERZYĆ QUERY O DZISIEJSZA DATE ZMIENIAMY TYLKO QUERY
                 folder_name_components = [download_dir, query]
                 folder_name = "/".join(folder_name_components)
                 if not os.path.exists(folder_name):  # Checks whether destination directory hasn't been yet created
@@ -193,3 +200,12 @@ class Const:
                 pass
         except Exception as e:
             print("An error has occured {e}")
+    @staticmethod
+    def convert_date_format(date_str, from_format, to_format):
+        # Parse the input date string using the from_format
+        date_obj = datetime.datetime.strptime(date_str, from_format)
+        
+        # Format the date object using the to_format
+        converted_date_str = date_obj.strftime(to_format)
+        
+        return converted_date_str
