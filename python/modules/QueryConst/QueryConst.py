@@ -2,6 +2,7 @@
 import os
 import time
 import datetime
+from bs4 import BeautifulSoup
 
 class Const:
     @staticmethod
@@ -209,3 +210,27 @@ class Const:
         converted_date_str = date_obj.strftime(to_format)
         
         return converted_date_str
+    @staticmethod
+    def extract_body_from_html_files(folder_path):
+        """Add try catch statements 
+        veryfiy paths allow for mulitple inputs"""
+        if not os.path.isdir(folder_path):
+            raise ValueError("The provided path is not a valid directory")
+        
+        body_contents = {}
+        for filename in os.listdir(folder_path):
+            if filename.endswith('.html'):
+                file_path = os.path.join(folder_path,filename)
+                with open(file_path,'r',encoding='utf-8') as file:
+                    soup = BeautifulSoup(file, 'html.parser')
+                    body = soup.find('body')
+                    if body:
+                        body_path = os.path.join(folder_path,"html_bodies")
+                        if not os.path.exists(body_path):
+                            os.makedirs(body_path)
+                        output_file_path = os.path.join(body_path, f"{os.path.splitext(filename)[0]}_body.html")
+                        with open(output_file_path,'w', encoding='utf-8') as output_file:
+                            output_file.write(str(body))
+                    else:
+                        print(f"No body tag found")
+        return body_contents
