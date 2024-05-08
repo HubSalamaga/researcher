@@ -1,0 +1,1127 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS One</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709805</article-id><article-id pub-id-type="pmc">11073738</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0302889</article-id><article-id pub-id-type="publisher-id">PONE-D-24-02424</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Fossils</subject><subj-group><subject>Trace Fossils</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Fossils</subject><subj-group><subject>Trace Fossils</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subj-group><subject>Ichnology</subject><subj-group><subject>Trace Fossils</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Paleobiology</subject><subj-group><subject>Ichnology</subject><subj-group><subject>Trace Fossils</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Eukaryota</subject><subj-group><subject>Animals</subject><subj-group><subject>Vertebrates</subject><subj-group><subject>Amniotes</subject><subj-group><subject>Reptiles</subject><subj-group><subject>Testudines</subject><subj-group><subject>Turtles</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Zoology</subject><subj-group><subject>Animals</subject><subj-group><subject>Vertebrates</subject><subj-group><subject>Amniotes</subject><subj-group><subject>Reptiles</subject><subj-group><subject>Testudines</subject><subj-group><subject>Turtles</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Physiology</subject><subj-group><subject>Physiological Processes</subject><subj-group><subject>Ingestion</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Fossils</subject><subj-group><subject>Marine Fossils</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Fossils</subject><subj-group><subject>Marine Fossils</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Musculoskeletal System</subject><subj-group><subject>Skeleton</subject><subj-group><subject>Humerus</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Musculoskeletal System</subject><subj-group><subject>Skeleton</subject><subj-group><subject>Humerus</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Fossils</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Earth Sciences</subject><subj-group><subject>Paleontology</subject><subj-group><subject>Fossils</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Digestive System</subject><subj-group><subject>Gastrointestinal Tract</subject><subj-group><subject>Stomach</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Digestive System</subject><subj-group><subject>Gastrointestinal Tract</subject><subj-group><subject>Stomach</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Eukaryota</subject><subj-group><subject>Animals</subject><subj-group><subject>Vertebrates</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Zoology</subject><subj-group><subject>Animals</subject><subj-group><subject>Vertebrates</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>First evidence of marine turtle gastroliths in a fossil specimen: Paleobiological implications in comparison to modern analogues</article-title><alt-title alt-title-type="running-head">First record of marine turtle gastroliths from the Upper Cretaceous of northeastern Italy</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Serafini</surname><given-names>Giovanni</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-3781-7965</contrib-id><name><surname>Gordon</surname><given-names>Caleb M.</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-4280-304X</contrib-id><name><surname>Amalfitano</surname><given-names>Jacopo</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6482-6683</contrib-id><name><surname>Wings</surname><given-names>Oliver</given-names></name><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="aff005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-4693-7221</contrib-id><name><surname>Esteban</surname><given-names>Nicole</given-names></name><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-9401-913X</contrib-id><name><surname>Stokes</surname><given-names>Holly</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-4401-5410</contrib-id><name><surname>Giusberti</surname><given-names>Luca</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Dipartimento di Scienze Chimiche e Geologiche, Universit&#xE0; di Modena e Reggio Emilia, Modena, Emilia-Romagna, Italy</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Department of Earth &amp; Planetary Sciences, Yale University, New Haven, CT, United States of America</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>Centro di Ateneo per i Musei, Universit&#xE0; Degli Studi di Padova, Padova, Veneto, Italy</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>Naturkundemuseum Bamberg, Bamberg, Bavaria, Germany</addr-line></aff><aff id="aff005"><label>5</label>
+<addr-line>Staatliche Naturwissenschaftliche Sammlungen Bayerns, M&#xFC;nchen, Germany</addr-line></aff><aff id="aff006"><label>6</label>
+<addr-line>Faculty of Science and Engineering, Swansea University, Swansea, Wales, United Kingdom</addr-line></aff><aff id="aff007"><label>7</label>
+<addr-line>Dipartimento di Geoscienze, Universit&#xE0; Degli Studi di Padova, Padova, Veneto, Italy</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Surmik</surname><given-names>Dawid</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>University of Silesia, POLAND</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>jacopo.amalfitano@unipd.it</email></corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>19</volume><issue>5</issue><elocation-id>e0302889</elocation-id><history><date date-type="received"><day>18</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>15</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Serafini et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Serafini et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pone.0302889.pdf"/><abstract><p>Semi-articulated remains of a large chelonioid turtle from the Turonian strata (Upper Cretaceous; ca. 93.9&#x2013;89.8 Myr) near Sant&#x2019;Anna d&#x2019;Alfaedo (Verona province, northeastern Italy) are described for the first time. Together with the skeletal elements, the specimen also preserves pebbles inside the thoracic area which are lithologically distinct from the surrounding matrix. These allochthonous clasts are here interpreted as geo-gastroliths, in-life ingested stones that resided in the digestive tract of the animal. This interpretation marks the first reported evidence of geophagy in a fossil marine turtle. SEM-EDS analysis, together with macroscopic petrological characterization, confirm the presence of both siliceous and carbonatic pebbles. These putative geo-gastroliths have morphometries and size ranges more similar to those of gastroliths in different taxa (fossils and extant) than allochthonous &#x201C;dropstone&#x201D; clasts from the same deposit that were carried by floating vegetation A dense pitted pattern of superficial erosion is microscopically recognizable on the carbonatic gastroliths, consistent with surface etching due to gastric acids. The occurrence of a similar pattern was demonstrated by the experimental etching of carbonatic pebbles with synthetic gastric juice. Gut contents of modern green sea turtles (<italic toggle="yes">Chelonia mydas</italic>) were surveyed for substrate ingestion, providing direct evidence of geophagic behavior in extant chelonioids. Comparison with modern turtle dietary habits may suggests that the pebbles were ingested as a way to supplement calcium after or in preparation for egg deposition, implying that the studied specimen was possibly a gravid female.</p></abstract><funding-group><award-group id="award001"><funding-source>
+<institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100010841</institution-id><institution>Paleontological Society</institution></institution-wrap>
+</funding-source><award-id>Richard K. Bambach Student Research Award</award-id><principal-award-recipient>
+<name><surname>Serafini</surname><given-names>Giovanni</given-names></name>
+</principal-award-recipient></award-group><funding-statement>The author Giovanni Serafini received a Richard K. Bambach Student Research Award from the Paleontological Society for this study. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><fig-count count="9"/><table-count count="2"/><page-count count="28"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the manuscript and its <xref rid="sec031" ref-type="sec">Supporting Information</xref> files.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the manuscript and its <xref rid="sec031" ref-type="sec">Supporting Information</xref> files.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec001">
+      <title>Introduction</title>
+      <p>Gastroliths are any hard objects without a caloric value that are found in or have passed through the digestive tract of an animal [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>&#x2013;<xref rid="pone.0302889.ref003" ref-type="bibr">3</xref>]. Following the classification of Wings [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>], gastroliths can be subdivided into <italic toggle="yes">bio-gastroliths</italic>, mineral concretions physiologically formed in the guts of decapod crustaceans prior to ecdysis [<xref rid="pone.0302889.ref004" ref-type="bibr">4</xref>&#x2013;<xref rid="pone.0302889.ref006" ref-type="bibr">6</xref>]; <italic toggle="yes">patho-gastroliths</italic>, stone-like pathological growths nucleated around ingested materials (e.g. hairs or vegetal fibers by grazing mammals; [<xref rid="pone.0302889.ref007" ref-type="bibr">7</xref>]; i.e. bezoars); and <italic toggle="yes">geo-gastroliths</italic>, sedimentary particles deliberately or accidentally ingested by animals [<xref rid="pone.0302889.ref002" ref-type="bibr">2</xref>,<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>]. Geo-gastroliths are the direct result of geophagy, the ingestion of rocks or soil by an animal. This behavior is widespread in metazoans, particularly in vertebrates [<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>], and many hypotheses to account for geophagy have been proposed. Common (and not mutually exclusive) explanations of geophagy in both extant and fossil vertebrates fall under the following categories:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p><italic toggle="yes">Alimentary hypotheses</italic> posit that sediment is ingested as mineral supplement [<xref rid="pone.0302889.ref009" ref-type="bibr">9</xref>,<xref rid="pone.0302889.ref010" ref-type="bibr">10</xref>], for trituration of ingesta [<xref rid="pone.0302889.ref002" ref-type="bibr">2</xref>,<xref rid="pone.0302889.ref011" ref-type="bibr">11</xref>,<xref rid="pone.0302889.ref012" ref-type="bibr">12</xref>], for mixing of ingesta [<xref rid="pone.0302889.ref013" ref-type="bibr">13</xref>] or for stomach cleansing [<xref rid="pone.0302889.ref014" ref-type="bibr">14</xref>,<xref rid="pone.0302889.ref015" ref-type="bibr">15</xref>].</p>
+        </list-item>
+        <list-item>
+          <p><italic toggle="yes">Buoyancy control hypotheses</italic> posit that ingested stones function as ballast and hydrostatic control in aquatic vertebrates [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>,<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0302889.ref016" ref-type="bibr">16</xref>] and reference therein).</p>
+        </list-item>
+        <list-item>
+          <p><italic toggle="yes">Pathological hypotheses</italic> posit <italic toggle="yes">the</italic> deliberate ingestion of sediment to attempt the removal of parasites from stomach/intestine walls [<xref rid="pone.0302889.ref017" ref-type="bibr">17</xref>] or unwilling stress/pathology-induced stone ingestion [<xref rid="pone.0302889.ref018" ref-type="bibr">18</xref>].</p>
+        </list-item>
+        <list-item>
+          <p><italic toggle="yes">Accidental ingestion hypotheses</italic> posit that stones have been mistaken as prey items [<xref rid="pone.0302889.ref019" ref-type="bibr">19</xref>], ingested directly with food as by-catch [<xref rid="pone.0302889.ref020" ref-type="bibr">20</xref>], or ingested indirectly by the consumption of prey items that themselves contain gastroliths [<xref rid="pone.0302889.ref006" ref-type="bibr">6</xref>,<xref rid="pone.0302889.ref021" ref-type="bibr">21</xref>].</p>
+        </list-item>
+      </list>
+      <p>Geo-gastroliths have been reported in various vertebrate clades [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>]. Birds are by far the most common reported example of geophagic vertebrates, especially herbivorous taxa with thick-walled gastric mills specialized for grinding hard food [<xref rid="pone.0302889.ref011" ref-type="bibr">11</xref>,<xref rid="pone.0302889.ref013" ref-type="bibr">13</xref>,<xref rid="pone.0302889.ref022" ref-type="bibr">22</xref>], but the phenomenon is also well documented in crocodylians [<xref rid="pone.0302889.ref023" ref-type="bibr">23</xref>,<xref rid="pone.0302889.ref024" ref-type="bibr">24</xref>], various other non-avian sauropsids [<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0302889.ref020" ref-type="bibr">20</xref>,<xref rid="pone.0302889.ref025" ref-type="bibr">25</xref>] and marine mammals [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>,<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0302889.ref026" ref-type="bibr">26</xref>]. The fossil record is fairly extensive for gastroliths in vertebrates, since pebbles are easily preserved and contained by the ribcage of the animals during taphonomic processes [<xref rid="pone.0302889.ref013" ref-type="bibr">13</xref>]. Among fossil vertebrates, marine amniotes are well known to host geo-gastroliths [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>,<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0302889.ref027" ref-type="bibr">27</xref>], especially sauropterygians, which are regularly found to contain stomach stones [<xref rid="pone.0302889.ref027" ref-type="bibr">27</xref>&#x2013;<xref rid="pone.0302889.ref030" ref-type="bibr">30</xref>].</p>
+      <p>However, among fossil pelagic reptiles, marine turtles have never been described with associated gastroliths [<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0302889.ref016" ref-type="bibr">16</xref>]. Taylor [<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>], while listing occurrences of gastroliths in tetrapods, states that &#x201C;gastroliths are rare or unknown from marine turtles&#x201D;. To our knowledge, the only previous reported specimen of fossil marine turtle with preserved sediment particles in the body cavity is a cheloniid from the Rupelian of southern Germany (Unterfeld) described by Alexander &amp; Frey [<xref rid="pone.0302889.ref031" ref-type="bibr">31</xref>]; these particles are however described as naturally occurring mineral concretions nucleated during carcass decomposition and fossilization, rather than geo-gastroliths [<xref rid="pone.0302889.ref031" ref-type="bibr">31</xref>]. Reports of geophagic behavior in extant chelonians are also scarce: extant tortoises have been observed to ingest sediment particles during ecological and veterinary surveys [10), and previous analyses of gut contents suggest at least some sporadic ingestion of sediments by marine chelonioids (e.g. green sea turtles: [<xref rid="pone.0302889.ref032" ref-type="bibr">32</xref>,<xref rid="pone.0302889.ref033" ref-type="bibr">33</xref>]; leatherbacks with accidentally ingested sand: [<xref rid="pone.0302889.ref034" ref-type="bibr">34</xref>]). However, despite occasional reports of geophagy in extant turtles, the widespread nature of geophagic behavior in various other marine amniotes, and the high preservation potential of gastroliths, no gastroliths have yet been described in fossil marine turtles.</p>
+      <p>Here we describe a large chelonioid turtle (IGVR 91051) from the Upper Cretaceous strata of Scaglia Rossa near Sant&#x2019;Anna d&#x2019;Alfaedo (Verona province, northeastern Italy) that preserves gastroliths between its axial and dermoskeletal elements. The turtle fossil record of the Scaglia Rossa is best known for the holotype of <italic toggle="yes">Protosphargis veronensis</italic>, a large pelagic chelonioid of dubious taxonomic affinities [<xref rid="pone.0302889.ref035" ref-type="bibr">35</xref>&#x2013;<xref rid="pone.0302889.ref037" ref-type="bibr">37</xref>]. IGVR 91051 is a large, semi-articulated individual discovered in the early 2000&#x2019;s; the specimen still lacks an official description. Our study summarily reports the anatomy and taxonomy of IGVR-91051 but refrains from attempting to resolve the position of <italic toggle="yes">Protosphargis</italic> or IGVR 91051 within Chelonioidea, a task that requires a separate investigation. Our analysis focuses instead on the preserved geo-gastroliths present in the former digestive tract of the specimen, with a detailed characterization of their morphology, composition, surface etching pattern, and function. We also present new direct evidence of stomach stones within modern sea turtles, with the reappraisal of gastric content in specimens of <italic toggle="yes">Chelonia mydas</italic> from the Republic of Seychelles. For the first time modern sea turtle gastroliths are figured and characterized, and their frequency of occurrence is compared between sexes and breeding vs. non-breeding individuals. Our data suggest a long and under-appreciated history of chelonioid geophagy that extends back to the Cretaceous.</p>
+      <sec id="sec002">
+        <title>Geological and paleontological context</title>
+        <p>The specimen was found in a quarry of Scaglia Rossa near the village Sant&#x2019;Anna d&#x2019;Alfaedo (Lessini Mountains of Verona Province, northeastern Italy; <xref rid="pone.0302889.g001" ref-type="fig">Fig 1</xref>). The Scaglia Rossa (SAA) is a lithostratigraphic unit deposited in the Trento Plateau and Belluno Basin [<xref rid="pone.0302889.ref038" ref-type="bibr">38</xref>,<xref rid="pone.0302889.ref039" ref-type="bibr">39</xref>], in what is now the Veneto region of northeastern Italy, during a time interval that extends from the Turonian to the early Eocene [<xref rid="pone.0302889.ref040" ref-type="bibr">40</xref>,<xref rid="pone.0302889.ref041" ref-type="bibr">41</xref>]. This formation is represented by pink and reddish limestones, cherty limestones and marly limestones rich in planktic foraminifera that were originally deposited in a pelagic/hemipelagic setting [<xref rid="pone.0302889.ref041" ref-type="bibr">41</xref>,<xref rid="pone.0302889.ref042" ref-type="bibr">42</xref>]. Usually, Scaglia Rossa is poor in macrofossils, mainly represented by irregular echinoids and mollusks (ammonites, inoceramids and rudists; [<xref rid="pone.0302889.ref043" ref-type="bibr">43</xref>,<xref rid="pone.0302889.ref044" ref-type="bibr">44</xref>]). Marine vertebrate remains are exceedingly rare (chondrichthyan and teleostean fish, marine turtles and mosasaurs) and mostly come from a peculiar lithofacies known as &#x201C;lastame&#x201D; or "Pietra di Prun" (&#x201C;Prun Stone&#x201D;) (e.g., [<xref rid="pone.0302889.ref040" ref-type="bibr">40</xref>,<xref rid="pone.0302889.ref042" ref-type="bibr">42</xref>,<xref rid="pone.0302889.ref043" ref-type="bibr">43</xref>,<xref rid="pone.0302889.ref045" ref-type="bibr">45</xref>,<xref rid="pone.0302889.ref046" ref-type="bibr">46</xref>]). The &#x201C;lastame&#x201D;, corresponding to the "lithozone 2" of Scaglia Rossa in Lozar &amp; Grosso [<xref rid="pone.0302889.ref039" ref-type="bibr">39</xref>], is a ca. 7-meter-thick package of nodular/subnodular limestone and marly limestone intensively quarried in the Lessini Mountains of Verona province for decorative and building stone (e.g., [<xref rid="pone.0302889.ref047" ref-type="bibr">47</xref>]). &#x201C;Lastame&#x201D; dates back to Turonian p.p.-Coniacian p.p. [<xref rid="pone.0302889.ref043" ref-type="bibr">43</xref>,<xref rid="pone.0302889.ref044" ref-type="bibr">44</xref>], but most of the vertebrate skeletons and partial remains so far investigated comes from the middle-upper Turonian interval (e.g., [<xref rid="pone.0302889.ref048" ref-type="bibr">48</xref>]). A sedimentological peculiarity of &#x201C;lastame&#x201D; is represented by the presence of allochthonous stones (pebbles and cobbles) in some beds of the lower half of the lithozone (e.g., [<xref rid="pone.0302889.ref043" ref-type="bibr">43</xref>,<xref rid="pone.0302889.ref049" ref-type="bibr">49</xref>]): these exotic clasts, sometimes associated with teredinid tubes, have been interpreted as dropstones, fragments of rocks carried at sea by floating driftwood that released them on the seafloor after decomposition [<xref rid="pone.0302889.ref050" ref-type="bibr">50</xref>,<xref rid="pone.0302889.ref051" ref-type="bibr">51</xref>]. These dropstones are made up of sedimentary, magmatic and metamorphic rocks and their source areas are unknown, although Massari &amp; Savazzi [<xref rid="pone.0302889.ref050" ref-type="bibr">50</xref>] noted some affinities with lithologies of the Upper Cretaceous Lombardian Flysch. Paleodepth interpretation of &#x201C;lastame&#x201D; in the Sant&#x2019;Anna d&#x2019;Alfaedo area is quite controversial and debated (ranging from 50 to 100 m to full bathyal; [<xref rid="pone.0302889.ref044" ref-type="bibr">44</xref>,<xref rid="pone.0302889.ref052" ref-type="bibr">52</xref>,<xref rid="pone.0302889.ref053" ref-type="bibr">53</xref>]). The vertebrate macrofauna so far recovered in the Lessinian &#x201C;lastame&#x201D; includes: the sharks <italic toggle="yes">Cretoxyrhina mantelli</italic>, <italic toggle="yes">Cretodus crassidens</italic>, <italic toggle="yes">Ptychodus</italic> spp., the batomorph <italic toggle="yes">Onchosaurus pharao</italic>, still unidentified teleostean remains, marine turtles (detailed below), and the yaguarasaurinid mosasaurs <italic toggle="yes">Romeosaurus fumanensis</italic> and <italic toggle="yes">R</italic>. <italic toggle="yes">sorbinii</italic> (e.g., [<xref rid="pone.0302889.ref040" ref-type="bibr">40</xref>,<xref rid="pone.0302889.ref042" ref-type="bibr">42</xref>,<xref rid="pone.0302889.ref046" ref-type="bibr">46</xref>,<xref rid="pone.0302889.ref048" ref-type="bibr">48</xref>,<xref rid="pone.0302889.ref054" ref-type="bibr">54</xref>&#x2013;<xref rid="pone.0302889.ref056" ref-type="bibr">56</xref>]). Vertebrate remains show virtually no current-mediated displacement of bones [<xref rid="pone.0302889.ref040" ref-type="bibr">40</xref>,<xref rid="pone.0302889.ref042" ref-type="bibr">42</xref>,<xref rid="pone.0302889.ref050" ref-type="bibr">50</xref>] and usually represent various degrees of disarticulation of slowly decaying carcasses exposed for extended time intervals on the seabed under low-energy conditions [<xref rid="pone.0302889.ref054" ref-type="bibr">54</xref>]. To our knowledge, none of these fossil vertebrates were recovered from the same beds that yielded the dropstones (see also [<xref rid="pone.0302889.ref050" ref-type="bibr">50</xref>]).</p>
+        <fig position="float" id="pone.0302889.g001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g001</object-id>
+          <label>Fig 1</label>
+          <caption>
+            <title>Schematic and simplified paleogeography of the central-eastern Southern Alps during the Late Cretaceous superimposed on present-day geography and indication of the site of finding of IGVR 9105.</title>
+            <p>1. Shallow-water carbonate platform deposits (Friuli Platform). 2 Slope-resedimented deposits of the Friuli Platform (&#x201C;Fadalto Limestone&#x201D;). 3. Basinal pelagic limestones (Scaglia Rossa and equivalent deposits). Modified after [<xref rid="pone.0302889.ref044" ref-type="bibr">44</xref>,<xref rid="pone.0302889.ref057" ref-type="bibr">57</xref>]. Map modified and reprinted from [<xref rid="pone.0302889.ref057" ref-type="bibr">57</xref>] under a CC BY license, with permission from Rivista Italiana di Paleontologia e Stratigrafia, original copyright year 2013.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g001" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec003">
+        <title>The &#x201C;lastame&#x201D; turtles</title>
+        <p>Turtle remains from the Lessinian &#x201C;lastame&#x201D; are relatively well represented, with a long history of discovery dating back to the mid-19th century. Capellini [<xref rid="pone.0302889.ref035" ref-type="bibr">35</xref>] erected the species <italic toggle="yes">Protosphargis veronensis</italic> based on the first specimen found in 1852 in the surroundings of Sant&#x2019;Anna d&#x2019;Alfaedo (in a quarry at Monte Guaiti), which was originally misinterpreted as human remains (e.g., [<xref rid="pone.0302889.ref058" ref-type="bibr">58</xref>&#x2013;<xref rid="pone.0302889.ref060" ref-type="bibr">60</xref>]); this taxon, after the two exhaustive publications of Capellini [<xref rid="pone.0302889.ref035" ref-type="bibr">35</xref>,<xref rid="pone.0302889.ref061" ref-type="bibr">61</xref>], was only sporadically cited in the literature or in exhibition catalogs, but was never the object of modern studies, despite the finding of new material in the 19th and 20th centuries. Specifically, a large and remarkably complete specimen was found in a quarry at Monte Loffa (Sant&#x2019;Anna d&#x2019;Alfaedo, Verona) in 1972 and preliminary ascribed to <italic toggle="yes">P</italic>. <italic toggle="yes">veronensis</italic> (e.g., [<xref rid="pone.0302889.ref043" ref-type="bibr">43</xref>,<xref rid="pone.0302889.ref062" ref-type="bibr">62</xref>]). The fossil, housed at the Museum of Natural History of Verona, was never formally described. The most recent discovery of a possible <italic toggle="yes">Protosphargis</italic> from the study area refers to the semi-articulated specimen herein described (IGVR 91051; <xref rid="pone.0302889.g002" ref-type="fig">Fig 2</xref>), recovered in the 2000s in a quarry at Masue, south of S. Anna d&#x2019;Alfaedo village (<xref rid="pone.0302889.g001" ref-type="fig">Fig 1</xref>) and close to the type locality of the holotype of <italic toggle="yes">P</italic>. <italic toggle="yes">veronensis</italic>. A renewed interest in Italian Cretaceous marine turtles is due to De Lapparent [<xref rid="pone.0302889.ref063" ref-type="bibr">63</xref>] and Hirayama [<xref rid="pone.0302889.ref036" ref-type="bibr">36</xref>], who discussed the systematic position of <italic toggle="yes">Protosphargis</italic>. More recently, Chesi &amp; Delfino [<xref rid="pone.0302889.ref037" ref-type="bibr">37</xref>] and Chesi [<xref rid="pone.0302889.ref064" ref-type="bibr">64</xref>] listed and discussed the findings of marine turtles from the Upper Cretaceous of Italy, including <italic toggle="yes">P</italic>. <italic toggle="yes">veronensis</italic> and some undetermined Dermochelyoidae and Cheloniidae.</p>
+        <fig position="float" id="pone.0302889.g002">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g002</object-id>
+          <label>Fig 2</label>
+          <caption>
+            <title>Scaglia Rossa &#x201C;lastame&#x201D; slab preserving the protostegid IGVR 9105.</title>
+            <p>Scale bar 30 cm.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g002" position="float"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="materials|methods" id="sec004">
+      <title>Material and methods</title>
+      <p>IGVR 91051 (<xref rid="pone.0302889.g002" ref-type="fig">Fig 2</xref>) is currently housed in the Community Theatre of Sant&#x2019; Anna d&#x2019;Alfaedo (Verona province) on a roughly 170 x 190 cm slab of subnodular pink-reddish marly limestones. The specimen contains 10 allochthonous pebbles (G1 to G10) interpreted as geo-gastroliths.</p>
+      <sec id="sec005">
+        <title>Comparative 2D analysis on gastroliths</title>
+        <p>Pebbles preserved within IGVR 91051 were morphologically characterized following part of the identification route standardized by Wings [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>]. To test the hypothesized gastrolith status of these stones, we compared their shape and size to those of abiotically dispersed allochthonous clasts from the same formation, <italic toggle="yes">bona fide</italic> gastroliths recovered from Recent tetrapods, and <italic toggle="yes">bona fide</italic> gastroliths recovered from tetrapod fossils. Following previous researchers [<xref rid="pone.0302889.ref065" ref-type="bibr">65</xref>&#x2013;<xref rid="pone.0302889.ref070" ref-type="bibr">70</xref>], we measured particle size and shape with three parameters: long axis length (equivalent here to Feret diameter, <italic toggle="yes">sensu</italic> [<xref rid="pone.0302889.ref069" ref-type="bibr">69</xref>]), circularity (4&#x3C0; &#x2219; stone area/perimeter^2), and roundness (4 &#x2219; stone area / &#x3C0; &#x2219; (long axis length)^2). Circularity measures how close in shape a particle is to a circle, whereas roundness measures the angularity or &#x201C;jaggedness&#x201D; of its corners [<xref rid="pone.0302889.ref066" ref-type="bibr">66</xref>,<xref rid="pone.0302889.ref068" ref-type="bibr">68</xref>]. Given that these and similar parameters can be measured from two-dimensional projections of a particle on ImageJ [<xref rid="pone.0302889.ref070" ref-type="bibr">70</xref>], we were able to obtain a large dataset of stones by sampling photographs. To measure these parameters, we obtained scaled high-resolution photographs of n = 585 stones from a variety of specimens (<xref rid="pone.0302889.s002" ref-type="supplementary-material">S1 Table</xref>). These included n = 10 stones preserved within the chelonioid IGVR 91051 (G1&#x2013;G10), n = 81 allochthonous clasts from Scaglia Rossa &#x201C;lastame&#x201D; (on display at the Museo Paleontologico e Preistorico of S. Anna d&#x2019;Alfaedo, Verona), and n = 494 <italic toggle="yes">bona fide</italic> gastroliths from a combination of extant sea turtles (<italic toggle="yes">Chelonia mydas</italic>), extant crocodilians (<italic toggle="yes">Crocodylus acutus</italic>, <italic toggle="yes">C</italic>. <italic toggle="yes">niloticus</italic>, <italic toggle="yes">C</italic>. <italic toggle="yes">novaguineae</italic>, <italic toggle="yes">Tomistoma schlegelli</italic>), and several extinct aquatic reptiles (two species of plesiosaur, one species of ichthyosaur, and the stem reptiles <italic toggle="yes">Hovasaurus boulei</italic> and <italic toggle="yes">Barasaurus besairiei</italic>). All size and shape measurements were collected in ImageJ (v. 1.53t). The long axis of each stone was measured manually using the &#x201C;Straight Line&#x201D; tool, and its circularity and roundness were computed in ImageJ by tracing the two-dimensional perimeter of each stone using the &#x201C;Freehand selections&#x201D; tool (see ImageJ User Guide: [<xref rid="pone.0302889.ref071" ref-type="bibr">71</xref>]). Annotated TIFFs containing all free-hand perimeter traces are available in our supporting information, and the associated measurements are given in <xref rid="pone.0302889.s002" ref-type="supplementary-material">S1 Table</xref>. We compared raw measurement distributions among bins with box-and-dot plots, and then Box-Cox&#x2013;transformed all variables [<xref rid="pone.0302889.ref072" ref-type="bibr">72</xref>,<xref rid="pone.0302889.ref073" ref-type="bibr">73</xref>] to maximize their normality and homoscedasticity among groups prior to statistical analysis. We then performed a series of statistical tests, including one-way analyses of variance (ANOVAs) with post hoc Tukey tests to compare group means, and Levene&#x2019;s tests with post hoc Tukey&#x2019;s HSD on the ANOVA residuals to compare group variances. Statistical tests were performed using the lm(), aov(), and TukeyHSD() functions in the R <italic toggle="yes">stats</italic> package (v. 4.2.1: [<xref rid="pone.0302889.ref074" ref-type="bibr">74</xref>]; script S2), and the leveneTest() function in the package <italic toggle="yes">car</italic> (v. 3.1&#x2013;2: [<xref rid="pone.0302889.ref075" ref-type="bibr">75</xref>]). Individual plots and outputs from statistical analyses were generated with the R package <italic toggle="yes">ggplot2</italic> (v. 3.4.2: [<xref rid="pone.0302889.ref076" ref-type="bibr">76</xref>]) and compiled into multi-panel figures with <ext-link xlink:href="http://BioRender.com" ext-link-type="uri">BioRender.com</ext-link> under the Student Plan Promo. All of the code used for statistical analysis and plot generation is available in our supporting information.</p>
+      </sec>
+      <sec id="sec006">
+        <title>Osteological and taphonomic characterization</title>
+        <p>Osteological and macro-petrographical analysis were performed under both natural and UV light in order to discriminate elements artificially re-attached with glue to the slab during restoration. Ultraviolet light was produced with a 95 W triple wavelength discharge lamp from WayTooCool LLC (UVA peak emission: 360 nm; UVB peak emission: 316 nm; UVC peak emission: 254 nm). Photographs were taken with either a Canon EOS 700D or with a Nikon D300S. 3D renditions of the slab&#x2019;s elements such as isocurves and mapping of the depth differences were achieved by means of photogrammetry with Agisoft Photoscan. In order to test the composition of the gastroliths and adjacent matrix, six sediment samples were extracted from the slab for scanning electron microscopy&#x2013;associated energy dispersive x-ray spectroscopy (SEM-EDS) analysis (S1: sample of matrix around G1; S2: sample of G2; S3: sample of G3; S4: sample of matrix around G5; S5: sample of greenish matrix near G6 and G9; S6: matrix around G6). SEM was carried out on a FEI Quanta 200 scanning electron microscope equipped with an EDAX Element-C2B detector (EDX), a backscattered electron detector and an Everhart&#x2013;Thornley secondary electron detector housed at the CEASC (Centro di Analisi e Servizi per la Certificazione) of Padova University.</p>
+      </sec>
+      <sec id="sec007">
+        <title>Experimental acid etching</title>
+        <p>In order to compare the surface pitting of the <italic toggle="yes">in situ</italic> gastroliths with the surface etching caused by gastric acids, a set of eight unrelated pebbles (each around 2 cm long) of both carbonatic and siliceous composition (seven calcilutites and one agatha not from the Scaglia Rossa) were experimentally exposed to a synthetic gastric juice solution for different periods of time. A 500 ml solution was made with 5 ml of concentrated hydrochloric acid in 375 ml of milli-Q followed by the addition and dissolution of 2.5 g of dried pepsin and making up to the mark with milli-Q. Solution pH was corrected with NaOH 1 M up to 1.7, according to the acidity of extant tortoises reported by Wright et al. [<xref rid="pone.0302889.ref077" ref-type="bibr">77</xref>]. Pebbles were submerged in 15&#x2013;20 ml of solution and kept in flasks at a constant temperature of 32&#xB0;C in a bath of silicone oil. Pebbles were photographed before the treatment, after 48 hours and after 34 days. Solution in each flask was substituted every 2 days in order to mimic gastric secretions renewal.</p>
+      </sec>
+      <sec id="sec008">
+        <title>Gastrolith extraction from modern turtle gut contents</title>
+        <p>Gastrolith presence in extant sea turtles was investigated using from data collected from a previous study of green sea turtle (<italic toggle="yes">Chelonia mydas</italic>) diet in the Republic of Seychelles in the Western Indian Ocean (methods described in [<xref rid="pone.0302889.ref033" ref-type="bibr">33</xref>]). Samples from Stokes et al. [<xref rid="pone.0302889.ref033" ref-type="bibr">33</xref>] were re-analyzed to trace back the presence of gastroliths. As explained below, the frequency of gastroliths in the Seychelles samples was investigated between sexes and in gravid/non gravid females. Gravidity of females was confirmed by inspection of ovarian follicles &gt; 2cm [<xref rid="pone.0302889.ref078" ref-type="bibr">78</xref>], and the majority of breeding females were captured on the nesting beach. A subsample (20&#x2013;50%) of the original sample of gut content removed from the esophagus and upper cardiac region of the stomach biomass was analyzed for dietary content for the study by Stokes et al. [<xref rid="pone.0302889.ref033" ref-type="bibr">33</xref>]. Gastroliths were found in 71% of gravid female green sea turtles (n = 17) and &lt; 5% of male or non-breeding females (n = 28). All gastroliths (&gt; 5 mm) identified from remainder of gut content from four gravid females were carbonatic (n = 41). Dilute hydrochloric acid was used to test their carbonatic composition.</p>
+        <p>No animals were sacrificed specifically for this study. All sea turtle research was approved by Swansea University Ethics Committee (Ethics Reference Number: STU_BIOL_157334_011020182616_1; AWERB IP Reference Number: IP-2021-01). In the Seychelles, no turtles were killed specifically to provide diet samples for the study of Stokes et al. [<xref rid="pone.0302889.ref033" ref-type="bibr">33</xref>]. The necropsy was conducted under research permit (000XSE22) from the Commissioner&#x2019;s Representative for the British Indian Ocean Territory (BIOT) and complied with all relevant local and national legislation.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec009">
+      <title>Results</title>
+      <sec id="sec010">
+        <title>Systematic paleontology</title>
+        <p>TESTUDINES Linnaeus, 1758 [<xref rid="pone.0302889.ref079" ref-type="bibr">79</xref>]</p>
+        <p>CRYPTODIRA Cope, 1868 [<xref rid="pone.0302889.ref080" ref-type="bibr">80</xref>] <italic toggle="yes">sensu</italic> Evers et al. [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>]</p>
+        <p>PAN-CHELONIOIDEA sensu Evers et al. [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>]</p>
+        <p>PROTOSTEGIDAE Cope, 1873 [<xref rid="pone.0302889.ref082" ref-type="bibr">82</xref>]</p>
+        <p>cf. <italic toggle="yes">Protosphargis veronensis</italic> Capellini, 1884 [<xref rid="pone.0302889.ref035" ref-type="bibr">35</xref>]</p>
+        <p>Figs <xref rid="pone.0302889.g002" ref-type="fig">2</xref>&#x2013;<xref rid="pone.0302889.g004" ref-type="fig">4</xref></p>
+        <fig position="float" id="pone.0302889.g003">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g003</object-id>
+          <label>Fig 3</label>
+          <caption>
+            <title>Anatomical interpretation of IGVR 91051.</title>
+            <p>A) Anatomical drawing with color-based differentiation of skeletal regions. B) Detail of left humerus. C) Detail of right humerus. Abbreviations: ac, acromion; co, coracoid; dt, dentary; epi, epiplastron; f, femur; fi, fibula; h, humerus; hyo, hyoplastron; hyp, hypoplastron; il, ilium; int, intermedium; isc, ischium; p.p, peripheral plate; pu, pubis; r, rib head; ral, radiale; sc, scapula; spy, suprapygal; ta, tarsal; ti, tibia; ul, ulna; ulr, ulnare; xip, xiphiplastron. Scale bars: 10 cm.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g003" position="float"/>
+        </fig>
+        <fig position="float" id="pone.0302889.g004">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g004</object-id>
+          <label>Fig 4</label>
+          <caption>
+            <title>Gastrolith locations and compositions.</title>
+            <p>A) Designation and distribution of the ten preserved gastroliths on IGVR 91051 and of the other materials foreign to the skeleton. B) SEM-EDS spectra of G3 highlighting its siliceous composition. C) SEM-EDS spectra of G2 highlighting its carbonatic composition. Abbreviations: brc., brachiopod; crn, crinoid element.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g004" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec011">
+        <title>Description</title>
+        <sec id="sec012">
+          <title>General features</title>
+          <p>The specimen IGVR 91051 lies exposed on the dorsal side (<xref rid="pone.0302889.g002" ref-type="fig">Fig 2</xref>). The specimen preserves almost exclusively postcranial remains, except for the anterior part of the dentary, which has a short symphysis. Several skeletal elements are partially articulated in anatomical connection, but the limbs and peripherals exhibit taphonomic loss (Figs <xref rid="pone.0302889.g002" ref-type="fig">2</xref> and <xref rid="pone.0302889.g003" ref-type="fig">3A</xref>). Manus and pes are mostly lost. Beside the skeletal remains, the IGVR 91051 slab also preserves two brachiopods and crinoid stem elements (<xref rid="pone.0302889.g004" ref-type="fig">Fig 4A</xref>). Carbonatic and siliceous allochthonous pebbles are grouped anteriorly (<xref rid="pone.0302889.g004" ref-type="fig">Fig 4</xref>).</p>
+        </sec>
+        <sec id="sec013">
+          <title>Shell</title>
+          <p>The shell is preserved as several associated elements of the carapace and the plastron. The carapace is strongly reduced, with large costo-peripheral fontanelles, which apparently extended more than half of the length of the ribs. There are only 4 pairs of costal elements preserved, with a general teardrop shape, expanded medially and tapering peripherally (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>). The teardrop shape of the costals exhibits some minor variations of lateral extension: the anterior-most elements have a posterior flange, the medial elements have an anterior and a posterior flange, while the posterior-most costals have an anterior flange. This teardrop pattern seems present also in another specimen (MCSNV V 10670; [<xref rid="pone.0302889.ref040" ref-type="bibr">40</xref>]: Fig 13B). Posterior to the right costal plate series, 3 sub-rectangular elements of dubious identity are recognizable (?posterior peripherals; <xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>). The lateral peripherals are very narrow, simple, and elongated elements, still in connection on the left side and completely displaced on the right side. A subtriangular, posteriorly tapering element placed caudally to the pelvic bones is interpreted as a suprapygal, present as a single element indicated by its large size (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>). The plastron is also strongly reduced, with central plastral fontanelles and reduced contact between hyo- and hypoplastra: IGVR 91051 preserves the left and right hyoplastron, heavily ossified and strongly frilled with thin digitations (also defined as strong serrations: see [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>,<xref rid="pone.0302889.ref083" ref-type="bibr">83</xref>]), and the right hypoplastron, also characterized by a jagged margin (Figs <xref rid="pone.0302889.g002" ref-type="fig">2</xref> and <xref rid="pone.0302889.g003" ref-type="fig">3A</xref>). The strong serrations of hyo- and hypoplastra are present along the surfaces that face other bones, but serrations are absent along the margin of the central fontanelle and the lateral contact area of hyo- and hypoplastra. The right hypolastron articulates with a rod-like posteriorly elongated and narrow element, interpreted as the proximal portion of the xiphiplastron. The xiphiplastron has an elongate anterolateral process articulating along the posterolateral margin of the hypoplastron, resulting in an oblique suture, and the hypoplastron extends posteriorly along the anteromedial margin of the xiphiplastron (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>).</p>
+        </sec>
+        <sec id="sec014">
+          <title>Vertebral column</title>
+          <p>There are four cervical vertebrae, isolated in proximity to the pectoral girdle elements, and six trunk vertebrae, still in anatomical connection to each other, to rib heads and costal elements of the carapace (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>). The cervical series is represented by the axis and three procoelous posterior centra and disarticulated neural arches. The transverse process of the centrum is situated anteriorly and all centra are rounded in cross section as in protostegids and unlike in cheloniids and dermochelyids [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>]; the posterior centra are greatly flattened. The trunk centra are elongated anteroposteriorly and narrow and articulate bilaterally with ribs heads. Rib heads are aligned with the junctions of adjacent vertebral centra.</p>
+        </sec>
+        <sec id="sec015">
+          <title>Pectoral girdle</title>
+          <p>Elements of the left pectoral girdle (coracoid, scapula) are present. Scapula and coracoid are unfused at the level of the glenoid (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>). The right pectoral girdle is represented by the right scapula (with scapular and acromion processes visible and damaged) and a fragmented coracoid. The right scapula appears smaller than the left one, most likely due to diagenetic alteration or preparation damage. The internal angle of the acromion and scapular processes is ca. 115&#xB0; (&gt;110&#xB0;). The acromion process is roughly as long as the scapular process. The coracoid is flat and narrow, approximately as long as the humerus and has a rather expanded asymmetric distal end.</p>
+        </sec>
+        <sec id="sec016">
+          <title>Pelvic girdle</title>
+          <p>Several elements of the pelvis are preserved in IGVR 91051 (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>). Each pair of pubes, ischia and ilia are preserved but slightly scattered, but were possibly joined by cartilage when alive, as in young cheloniids and <italic toggle="yes">Dermochelys coriacea</italic> [<xref rid="pone.0302889.ref084" ref-type="bibr">84</xref>,<xref rid="pone.0302889.ref085" ref-type="bibr">85</xref>]. The pubis is a L-shaped flat bone with an expanded medial process in correspondence of the pubic symphysis and a lateral protruding process. The lateral pubic process is flat, square-shaped, and prominent: it extends anterolaterally, being deflected about 59&#xB0; from the sagittal plane of the pubic symphysis. The lateral process protrudes anteriorly beyond the medial process. The medial process has a limited posterior extension. The ischium is broad and slightly triangular. The ischiatic symphysis is short, indicating a single large thyroid fenestra. The metischial process is not visible. The ilium is comma-shaped, rather broad and posteriorly elongated.</p>
+        </sec>
+        <sec id="sec017">
+          <title>Forelimb</title>
+          <p>The left forelimb is represented only by the humerus and some purported distal carpal elements near the dentary. The right forelimb exhibits a partial articulation of humerus, ulna, radius and wrist elements (ulnare, intermedium, radiale) and three of the first phalanges. The right humerus is exposed on the dorsal side (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3B</xref>) while the left one is exposed on the ventral side (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3C</xref>). The humerus is longer than the femur. It has a slender shaft and an enlarged medial process, almost at the same level of the caput humeri; the lateral process is slightly squared, located distally to the caput humeri but along the proximal end of the shaft. The lateral process is also seemingly not restricted to the anterior surface of the shaft, but slightly expanded onto the ventral surface with a gentle protuberance (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3B and 3C</xref>). The medial concavity of the lateral process is poorly preserved but apparently present. The distal articulation exhibits a rounded epiphyseal surface without clearly defined articulation facets. The radius is curved, approximately at mid-length. The radius length corresponds to ca. 68% of the humerus length. The ulna has the distal end slightly larger than the proximal end. The ulna is just over half the length of the humerus (ca. 58%).</p>
+        </sec>
+        <sec id="sec018">
+          <title>Hindlimb</title>
+          <p>The hindlimb elements preserved in IGVR 91051 include both femora, the tibiae and three distal phalanges (<xref rid="pone.0302889.g003" ref-type="fig">Fig 3A</xref>). The femora are preserved <italic toggle="yes">in situ</italic> posterior to the tibiae, indicating taphonomic displacement. The femur is shorter than the humerus (ca. 77%). The shaft is straight and slender, the head is spherical, and the trochanters are well-separated from each other, without a connecting ridge between them. The tibial articulation is large and bulbous. The tibia is slightly more than half the length of the femur (ca. 63%), is stout and its shaft slightly broader than the femur shaft.</p>
+        </sec>
+      </sec>
+      <sec id="sec019">
+        <title>Taphonomy of the specimen</title>
+        <p>IGVR 91051 exhibits a by-element completeness of 65&#x2013;70%, with most of the carapace/plastron and axial skeleton still preserved, together with all four propodials and related girdles (Figs <xref rid="pone.0302889.g001" ref-type="fig">1</xref> and <xref rid="pone.0302889.g002" ref-type="fig">2</xref>). The specimen is less complete distally towards the limbs. It also lacks the entire skull aside from a single dentary. Likewise, elements at the core of the skeleton (e.g. thoracic vertebrae, rib heads, costal plates and plastron components) are preserved in closer association, while they become disarticulated as one moves progressively towards the outside of the carapace (peripheral plates). Outside of the carapace area, each skeletal element seems instead to have drifted northeast (<italic toggle="yes">sensu</italic> slab orientation), most notably the right humerus. Peripheral elements do not appear to share a preferential orientation, excluding a possible sorting by bottom currents. Gastroliths are mostly grouped on the left side of the specimen, with only two being found on the animal&#x2019;s right side (<xref rid="pone.0302889.g004" ref-type="fig">Fig 4A</xref>). Pebbles on the left side reside in a roughly 50X60 cm area, with some of the elements parallel one to another. The position of the gastroliths in relation to the original layout of the gut are later discussed in detail (see stomach necrolysis paragraph). UV analysis confirmed that the allochthonous clasts are genuinely attached to the slab and not glued, as artificially attached elements are clearly recognizable by the pale blue halo of the fluorescent glue/cement (<xref rid="pone.0302889.g005" ref-type="fig">Fig 5A and 5B</xref>). 3D photogrammetric maps highlight that gastroliths are less elevated than surrounding pectoral elements (<xref rid="pone.0302889.g005" ref-type="fig">Fig 5C</xref>), while they share similar depths of the plastron elements; this supports a ventral landing of the carcass on the seafloor, as the more ventral elements (stomach contents and plastron elements) reached the sediment first. The associated fossil fauna is too scanty to properly attribute its presence to a precise deadfall ecological stage of the carcass decomposition: future in-depth taphonomic studies on the fossil assemblage of all SAA tetrapods must be conducted before framing the role of brachiopods found around carcasses. Finally, the specimen skeletal tissue is mostly represented by exposed cancellous bone, suggesting chemical erosion of the compact bone by means of water dissolution. When preserved, the compact tissue presents sub-circular areas of depression, where the laminar cortical structure appears to have internally collapsed. This pattern, almost exclusively visible under UV light (<xref rid="pone.0302889.g005" ref-type="fig">Fig 5A and 5B</xref>), could also be consistent with bioerosion. Both chemical and biological erosion are an index of long exposure of the carcass on the seafloor before burial, which is consistent with the slow sedimentation rates estimated for the SAA [<xref rid="pone.0302889.ref041" ref-type="bibr">41</xref>].</p>
+        <fig position="float" id="pone.0302889.g005">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g005</object-id>
+          <label>Fig 5</label>
+          <caption>
+            <title>Preservational and taphonomic details of IGVR 91051.</title>
+            <p>A) Anterior left region of the skeleton under UVA-B-C light showcasing the lack of fluorescence-response of the glue near the gastroliths. B) Detail of costal and peripheral carapace elements under ultraviolet light. C) Photogrammetry 3D depth map of the anterior portion of the specimen. Gastroliths indicated with magenta arrows. Scale bars: A) 5 cm; B) 10 cm; C) 30 cm.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g005" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec020">
+        <title>IGVR 91051 gastrolith characterization</title>
+        <p>Ten rounded pebbles are exposed from the matrix between the axial and dermoskeletal elements of IGVR 91051 (Figs <xref rid="pone.0302889.g004" ref-type="fig">4A</xref> and <xref rid="pone.0302889.g006" ref-type="fig">6</xref>); these clasts are petrologically distinct from the surrounding sediment, as they differ greatly in shape and color from the pelagic limestone nodules of the slab. Preserved pebbles were labeled as G1 to G10, arbitrarily starting from the top right of the slab (<xref rid="pone.0302889.g004" ref-type="fig">Fig 4A</xref>). Eight pebbles are located on the left side of the specimen, while only two (G9 and G10) lay to the right of the vertebral column. A detailed description of each pebble, together with SEM-EDS data on their composition is reported in <xref rid="pone.0302889.t001" ref-type="table">Table 1</xref>.</p>
+        <fig position="float" id="pone.0302889.g006">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g006</object-id>
+          <label>Fig 6</label>
+          <caption>
+            <title>Close-ups of the preserved gastroliths within IGVR 9105.</title>
+            <p>A) G1. B) G2. C) G3. D) G4. E) G5. F) From the left G6 and G7. G) G8. H) G9. I) G10. Scale bars: A,C,E,F,H 2) cm; B,G,I) 1 cm.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g006" position="float"/>
+        </fig>
+        <table-wrap position="float" id="pone.0302889.t001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.t001</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Summary of gastroliths characterization in IGVR 91051.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0302889.t001" id="pone.0302889.t001g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1"/>
+                  <th align="center" rowspan="1" colspan="1">Size<xref rid="t001fn001" ref-type="table-fn">*</xref></th>
+                  <th align="center" rowspan="1" colspan="1">Roundness</th>
+                  <th align="center" rowspan="1" colspan="1">Sphericity</th>
+                  <th align="center" rowspan="1" colspan="1">Luster</th>
+                  <th align="center" rowspan="1" colspan="1">Surface</th>
+                  <th align="center" rowspan="1" colspan="1">Color</th>
+                  <th align="center" rowspan="1" colspan="1">Composition</th>
+                  <th align="center" rowspan="1" colspan="1">Figure</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G1</td>
+                  <td align="center" rowspan="1" colspan="1">2.4 x 1.9 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Sub-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">Low</td>
+                  <td align="center" rowspan="1" colspan="1">Dull</td>
+                  <td align="center" rowspan="1" colspan="1">Cracked and crossed by calcite veins, pitted</td>
+                  <td align="center" rowspan="1" colspan="1">Rust-reddish</td>
+                  <td align="center" rowspan="1" colspan="1">Carbonatic</td>
+                  <td align="center" rowspan="1" colspan="1">6A</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G2</td>
+                  <td align="center" rowspan="1" colspan="1">1.9 cm &#xD8;</td>
+                  <td align="center" rowspan="1" colspan="1">Well-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">High</td>
+                  <td align="center" rowspan="1" colspan="1">n.a.</td>
+                  <td align="center" rowspan="1" colspan="1">n.a. (sectioned)</td>
+                  <td align="center" rowspan="1" colspan="1">Light gold</td>
+                  <td align="center" rowspan="1" colspan="1">Carbonatic</td>
+                  <td align="center" rowspan="1" colspan="1">6B</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G3</td>
+                  <td align="center" rowspan="1" colspan="1">2.2 x 1.6 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Well-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">High</td>
+                  <td align="center" rowspan="1" colspan="1">Vitreous</td>
+                  <td align="center" rowspan="1" colspan="1">Mostly smooth</td>
+                  <td align="center" rowspan="1" colspan="1">Dark red with gray patches</td>
+                  <td align="center" rowspan="1" colspan="1">Siliceous</td>
+                  <td align="center" rowspan="1" colspan="1">6C</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G4</td>
+                  <td align="center" rowspan="1" colspan="1">2.5 x 1.4 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Well-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">Medium</td>
+                  <td align="center" rowspan="1" colspan="1">Vitreous</td>
+                  <td align="center" rowspan="1" colspan="1">Densely pitted</td>
+                  <td align="center" rowspan="1" colspan="1">Light brown</td>
+                  <td align="center" rowspan="1" colspan="1">Carbonatic</td>
+                  <td align="center" rowspan="1" colspan="1">6D</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G5</td>
+                  <td align="center" rowspan="1" colspan="1">5.3 x 2.4 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Sub-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">Medium</td>
+                  <td align="center" rowspan="1" colspan="1">Vitreous</td>
+                  <td align="center" rowspan="1" colspan="1">Rugose texture, crossed by cracks and scratches</td>
+                  <td align="center" rowspan="1" colspan="1">Dark red</td>
+                  <td align="center" rowspan="1" colspan="1">Siliceous</td>
+                  <td align="center" rowspan="1" colspan="1">6E</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G6</td>
+                  <td align="center" rowspan="1" colspan="1">3 x 2 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Rounded</td>
+                  <td align="center" rowspan="1" colspan="1">Medium</td>
+                  <td align="center" rowspan="1" colspan="1">Vitreous</td>
+                  <td align="center" rowspan="1" colspan="1">Smooth and glossy</td>
+                  <td align="center" rowspan="1" colspan="1">Dark green</td>
+                  <td align="center" rowspan="1" colspan="1">Siliceous</td>
+                  <td align="center" rowspan="1" colspan="1">6F</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G7</td>
+                  <td align="center" rowspan="1" colspan="1">2.5 x 2.2 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Rounded</td>
+                  <td align="center" rowspan="1" colspan="1">High</td>
+                  <td align="center" rowspan="1" colspan="1">Dull</td>
+                  <td align="center" rowspan="1" colspan="1">Roughened texture with cracks and tears</td>
+                  <td align="center" rowspan="1" colspan="1">Dark brown</td>
+                  <td align="center" rowspan="1" colspan="1">Siliceous</td>
+                  <td align="center" rowspan="1" colspan="1">6F</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G8</td>
+                  <td align="center" rowspan="1" colspan="1">1.2 x 1 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Sub-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">Low</td>
+                  <td align="center" rowspan="1" colspan="1">Dull</td>
+                  <td align="center" rowspan="1" colspan="1">Smooth</td>
+                  <td align="center" rowspan="1" colspan="1">Light brown-rust</td>
+                  <td align="center" rowspan="1" colspan="1">Siliceous</td>
+                  <td align="center" rowspan="1" colspan="1">6G</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G9</td>
+                  <td align="center" rowspan="1" colspan="1">2.8 x 2.6 cm</td>
+                  <td align="left" rowspan="1" colspan="1">Sub-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">Low</td>
+                  <td align="center" rowspan="1" colspan="1">Resinous</td>
+                  <td align="center" rowspan="1" colspan="1">Smooth and glossy with cracks</td>
+                  <td align="center" rowspan="1" colspan="1">Light brown-reddish</td>
+                  <td align="center" rowspan="1" colspan="1">Siliceous</td>
+                  <td align="center" rowspan="1" colspan="1">6H</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">G10</td>
+                  <td align="center" rowspan="1" colspan="1">1.9 x 1.1 cm</td>
+                  <td align="center" rowspan="1" colspan="1">Well-rounded</td>
+                  <td align="center" rowspan="1" colspan="1">Medium</td>
+                  <td align="center" rowspan="1" colspan="1">Dull</td>
+                  <td align="center" rowspan="1" colspan="1">Densely pitted</td>
+                  <td align="center" rowspan="1" colspan="1">Light gray</td>
+                  <td align="center" rowspan="1" colspan="1">Carbonatic</td>
+                  <td align="center" rowspan="1" colspan="1">6I</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t001fn001">
+              <p>* Maximum outcropping width and height.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Only two of the preserved pebbles were directly sampled for SEM-EDS analysis (G2 and G3; <xref rid="pone.0302889.g004" ref-type="fig">Fig 4B and 4C</xref>), as the other clasts were too hard to be drilled with the available Dremel. However, additional samples were taken of the matrix peripheral to some pebbles to test if some small fragments had detached from the stones during acid etching. Samples of sediment adjacent to G1, G5 and G6 were sampled and revealed EDS spectra typical of a calcium carbonate substrate (with high peaks of calcium, oxygen, and carbon), consistent with the lithological composition of the slab. Widespread calcispheres, possibly attributable to dinoflagellate cysts, can be observed in these samples, ranging from globular to ellipsoidal in shape and approximately 50 &#x3BC;m in diameter.</p>
+      </sec>
+      <sec id="sec021">
+        <title>2D morphometric comparison</title>
+        <p>The set of suspected gastroliths within IGVR 91051 (G1&#x2013;G10), along with the sets of <italic toggle="yes">bona fide</italic> fossil and Recent gastroliths (see <xref rid="pone.0302889.s002" ref-type="supplementary-material">S1 Table</xref>), were each significantly more circular than the SAA allochthonous clasts (<xref rid="pone.0302889.g007" ref-type="fig">Fig 7A</xref>; ANOVAs with post hoc Tukey tests: each <italic toggle="yes">p</italic> &lt; 0.0001). In contrast, the IGVR 19501 stones (G1&#x2013;G10) had circularities statistically indistinguishable from those of fossil and Recent gastroliths (post hoc Tukey tests: each <italic toggle="yes">p</italic> &gt; 0.05). The suspected IGVR 19501 gastroliths thus bear a closer geometric resemblance to confirmed gastroliths (from varied taxa and preservational settings) than they do to abiotically dispersed clasts from their formation of origin. Surprisingly, roundness did not differ significantly between any two groups in our data set (ANOVA: <italic toggle="yes">p</italic> = 0.03; post hoc Tukey tests: each <italic toggle="yes">p</italic> &gt; 0.05), indicating that the observed differences in circularity among groups did not reflect changes in the rounding of the individual corners of particles. Long axis length was significantly more variable in the SAA allochthonous clasts than it was for IGVR 91051 stones or the <italic toggle="yes">bona fide</italic> gastrolith groups (<xref rid="pone.0302889.g007" ref-type="fig">Fig 7B and 7C</xref>; Levene&#x2019;s test with post hoc Tukey comparisons: each <italic toggle="yes">p</italic> &lt; 0.05). All ten stones within IGVR 91051 fall within the size range of genuine gastroliths from our data set, whereas the abiotically dispersed SAA clasts span a far wider size range. Thus, in both shape and size, the suspected gastroliths within IGVR 91051 (G1&#x2013;G10) resemble <italic toggle="yes">bona fide</italic> gastroliths far more than other studied allochthonous clasts from the SAA Formation.</p>
+        <fig position="float" id="pone.0302889.g007">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g007</object-id>
+          <label>Fig 7</label>
+          <caption>
+            <title>2D Morphometric analysis.</title>
+            <p>A) Stones preserved within the trunk of chelonioid IGVR 19501 were significantly more circular than abiotically dispersed allochthonous clasts from the same formation (SAA), as were <italic toggle="yes">bona fide</italic> gastroliths from other species. B-D) <italic toggle="yes">Bona fide</italic> gastroliths were also significantly smaller than abiotically dispersed SAA clasts, which had significantly higher variance in size than both the stones preserved within IGVR 19501 and the <italic toggle="yes">bona fide</italic> gastroliths. Single asterisks (*) indicate significant among-group test results (ANOVA and Levene&#x2019;s test <italic toggle="yes">p</italic> &lt; 0.05), whereas double asterisks (**) indicate that the designated group differs significantly from the set of SAA clasts (pairwise post hoc Tukey tests, <italic toggle="yes">p</italic> &lt; 0.05).</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g007" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec022">
+        <title>Experimentally etched pebbles</title>
+        <p>The seven carbonatic pebbles used to extrapolate surface etching patterns in experimental settings displayed visible changes in their surface texture after exposure to HCl and pepsin: pre-existing scratches and crevices are highlighted after the 48h treatment, but are deepened after the 34 days. Most notably, pitting of the surface is drastically increased after the full treatment; the fifth sample (C5) is illustrated in <xref rid="pone.0302889.g008" ref-type="fig">Fig 8</xref> in comparison to IGVR 91051 gastroliths. Pitting in C5 is most consistent with the surface pattern found on G4 and G10. Changes in roundness and smoothness were not detected in the experimentally etched pebbles, most likely due to the absence of tumbling action. However, almost every carbonatic pebble experienced a loss of 0.1 g (between 3.8 and 12% weight loss) by means of dissolution after the 36-day treatment. Siliceous pebbles did not experience any appreciable change after the full treatment, which is consistent with previous studies (e.g., [<xref rid="pone.0302889.ref002" ref-type="bibr">2</xref>]) and the absence of distinct surface pitting in the siliceous gastroliths of IGVR 91051.</p>
+        <fig position="float" id="pone.0302889.g008">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g008</object-id>
+          <label>Fig 8</label>
+          <caption>
+            <title>Surface etching patterns on carbonatic pebbles.</title>
+            <p>A) Surface pits and cracks on G3. B) Surface pitting of G4. C) Experimentally etched pebble before (i) and after a month (ii) of treatment. Scale bars 5 mm.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g008" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec023">
+        <title>Geo-gastroliths characterized in modern turtles</title>
+        <p>In extant green sea turtles examined for this study, gastroliths were found with a frequency of 71% in gravid females (n = 17) and &lt; 5% of males and non-breeding females (n = 28) sampled in the Western Indian Ocean (<xref rid="pone.0302889.t002" ref-type="table">Table 2</xref>). In the four gravid females from which stones were extracted, all identified gastroliths were carbonatic in nature (n = 41). Retrieved ingested clasts were mostly composed of coral fragments (<xref rid="pone.0302889.g009" ref-type="fig">Fig 9A and 9B</xref>), consistent with the availability of carbonate sediment particles in the Seychelles coral atoll. In one gravid female (sample 23, <xref rid="pone.0302889.s002" ref-type="supplementary-material">S1 Table</xref>), bivalve shell fragments were also identified among gastroliths. Gastroliths from the Seychelles dataset possess uniformly pitted surfaces, and, although rounded, they appear variable in shape, most likely due to the action of gastric acid on the &#x201C;softer&#x201D; aragonitic material. No siliceous particles were identified in any of the specimens sampled. We also contacted several marine reptile rehabilitation centers for information on gastrolith-bearing turtles, and present here applicable results with their permission. In particular, we showcase a radiograph of a 20-year-old female <italic toggle="yes">Eretmochelys imbricata</italic> from the Red Sea provided by the Israeli Sea Turtle Rescue Center that contains gravel in its colon (<xref rid="pone.0302889.g009" ref-type="fig">Fig 9C</xref>); this specimen highlights how ingested particles eventually transit to the end of the digestive system.</p>
+        <fig position="float" id="pone.0302889.g009">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.g009</object-id>
+          <label>Fig 9</label>
+          <caption>
+            <title>Extant chelonioid gastroliths.</title>
+            <p>A) 28 carbonatic elements extracted from the gut contents of <italic toggle="yes">Chelonia mydas</italic> sample #23 retrieved from the Republic of the Seychelles. B) 6 carbonatic elements extracted from the gut contents of <italic toggle="yes">Chelonia mydas</italic> sample #10 retrieved from the Republic of the Seychelles. C) Radiograph of a 20-year-old female <italic toggle="yes">Eretmochelys imbricata</italic> from the Red Sea with gravel in the colon (image courtesy of Efrat Weizman Kohavi, Israeli Sea Turtle Rescue Center). Scale bars: A,B) 2 cm.</p>
+          </caption>
+          <graphic xlink:href="pone.0302889.g009" position="float"/>
+        </fig>
+        <table-wrap position="float" id="pone.0302889.t002">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302889.t002</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Gastrolith distribution in the surveyed Seychelles dataset.</title>
+            <p>Gastroliths (coralline rock fragments) were found in the majority of guts from gravid female green sea turtles (<italic toggle="yes">Chelonia mydas</italic>) but not in non-breeding female or male individuals in a study of green turtles legally harvested in the Republic of Seychelles in 1982&#x2013;1983.</p>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0302889.t002" id="pone.0302889.t002g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="center" rowspan="1" colspan="1"/>
+                  <th align="center" rowspan="1" colspan="1">Male</th>
+                  <th align="center" rowspan="1" colspan="1">Non-breeding female</th>
+                  <th align="center" rowspan="1" colspan="1">Gravid female</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">Number of individuals (n)</td>
+                  <td align="center" rowspan="1" colspan="1">26</td>
+                  <td align="center" rowspan="1" colspan="1">2</td>
+                  <td align="center" rowspan="1" colspan="1">17</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">Relative proportion</td>
+                  <td align="center" rowspan="1" colspan="1">
+<xref rid="t002fn002" ref-type="table-fn">*</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1">
+<xref rid="t002fn002" ref-type="table-fn">*</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1">15&#xB1;6</td>
+                </tr>
+                <tr>
+                  <td align="center" rowspan="1" colspan="1">FO (%)</td>
+                  <td align="center" rowspan="1" colspan="1">4</td>
+                  <td align="center" rowspan="1" colspan="1">0</td>
+                  <td align="center" rowspan="1" colspan="1">71</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t002fn001">
+              <p>Data represent relative proportion of gastroliths in the biomass of dietary components (mean &#xB1; SE) and frequency of occurrence (FO) of gastroliths. Further details provided in [<xref rid="pone.0302889.ref033" ref-type="bibr">33</xref>].</p>
+            </fn>
+            <fn id="t002fn002">
+              <p>*&lt;0.1mg (trace)</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec024">
+      <title>Discussion</title>
+      <sec id="sec025">
+        <title>Taxonomic discussion</title>
+        <p>The phylogenetic relationships of fossil marine turtles are strongly debated (e.g., [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>,<xref rid="pone.0302889.ref083" ref-type="bibr">83</xref>,<xref rid="pone.0302889.ref086" ref-type="bibr">86</xref>,<xref rid="pone.0302889.ref087" ref-type="bibr">87</xref>]). Among fossil marine turtles, protostegids have been recovered as stem-cryptodirans (e.g., [<xref rid="pone.0302889.ref088" ref-type="bibr">88</xref>&#x2013;<xref rid="pone.0302889.ref094" ref-type="bibr">94</xref>]), stem-chelonioids [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>,<xref rid="pone.0302889.ref086" ref-type="bibr">86</xref>], or crown-chelonioids as the sister group to dermochelyids [<xref rid="pone.0302889.ref083" ref-type="bibr">83</xref>,<xref rid="pone.0302889.ref095" ref-type="bibr">95</xref>&#x2013;<xref rid="pone.0302889.ref098" ref-type="bibr">98</xref>]. While a precise taxonomic placement is pending a full phylogenetic analysis, IGVR 91051 exhibits a suite of characters that tentatively allow us to attribute this specimen to the total-group Chelonioidea <italic toggle="yes">sensu</italic> Evers et al. [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>]: reduced carapace and plastron with presence of costo-peripheral and central plastral fontanelles; serrations on the margins of hyo- and hypoplastra; the position of the lateral process of the humerus, located distally to the caput humeri but along the proximal end of the shaft; the humerus length greater than the femur length. The specimen also exhibits a few other characteristics that are considered synapomorphic features of crown-group Chelonioidea and shared by Protostegidae: absence of cervical scutes; xiphiplastral shape as anteroposterior elongate rods; internal angle between the acromion and scapular processes greater than or equal to 110&#xB0;; coracoid length similar to humerus length; and a rounded distal articular surface of the humerus without clearly defined articulation facets [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>]. Furthermore, IGVR 91051 exhibits at least two characters which are autapomorphies of Protostegidae: radius with curved shaft [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>]; lateral process of the humerus expanded onto the ventral surface of the shaft [<xref rid="pone.0302889.ref083" ref-type="bibr">83</xref>]. Moreover, the specimen seems to possess a single suprapygal as shared by Protostegidae [<xref rid="pone.0302889.ref081" ref-type="bibr">81</xref>] though additional elements might have not been preserved. A relatively high taxonomic diversity of marine turtles from the &#x201C;lastame&#x201D; has been reported [<xref rid="pone.0302889.ref045" ref-type="bibr">45</xref>,<xref rid="pone.0302889.ref064" ref-type="bibr">64</xref>,<xref rid="pone.0302889.ref099" ref-type="bibr">99</xref>]; however, the largest specimens so far recovered are referred to the taxon <italic toggle="yes">Protosphargis veronensis</italic> (e.g., [37,43,45). IGVR 91051 exhibits many similarities in the shell and humerus morphology with the holotype of <italic toggle="yes">P</italic>. <italic toggle="yes">veronensis</italic> and other material provisionally referred to this taxon ([<xref rid="pone.0302889.ref035" ref-type="bibr">35</xref>,<xref rid="pone.0302889.ref037" ref-type="bibr">37</xref>,<xref rid="pone.0302889.ref040" ref-type="bibr">40</xref>,<xref rid="pone.0302889.ref043" ref-type="bibr">43</xref>,<xref rid="pone.0302889.ref045" ref-type="bibr">45</xref>,<xref rid="pone.0302889.ref061" ref-type="bibr">61</xref>]). For this reason, the specimen described herein is provisionally identified as cf. <italic toggle="yes">P</italic>. <italic toggle="yes">veronensis</italic>. The taxon <italic toggle="yes">Protosphargis</italic> has been referred to Protostegidae (e.g., [<xref rid="pone.0302889.ref095" ref-type="bibr">95</xref>,<xref rid="pone.0302889.ref096" ref-type="bibr">96</xref>,<xref rid="pone.0302889.ref100" ref-type="bibr">100</xref>]). However, the necessary thorough morphological revision to investigate its phylogenetic affinities is beyond the scope of this paper. The characters herein described nonetheless support the provisional referral of the taxon to Protostegidae, pending a comprehensive taxonomic revision of the marine turtles from the &#x201C;lastame&#x201D;.</p>
+      </sec>
+      <sec id="sec026">
+        <title>The pebbles preserved within IGVR 91051 are geo-gastroliths</title>
+        <p>We present different lines of evidence that strongly support the gastrolith nature of the pebbles preserved inside IGVR 91051. Firstly, these allochthonous stones have not been artificially attached on the slab during restoration as highlighted by UV-light fluorescence (<xref rid="pone.0302889.g005" ref-type="fig">Fig 5A</xref>), and they are localized exclusively inside the thoracic area of the specimen (<xref rid="pone.0302889.g004" ref-type="fig">Fig 4A</xref>). In addition, they have sizes and shapes more akin to those of bona fide geo-gastroliths from other fossil and extant taxa than abiotically dispersed dropstones naturally occurring in the SAA (<xref rid="pone.0302889.g007" ref-type="fig">Fig 7</xref>). SEM-EDS spectra, coupled with macroscopic petrographic identification, highlight a compositional variability in the preserved pebbles, which contrast with the compositional homogeneity reported for authigenic mineral precipitates that can be mistaken for gastroliths (e.g. [<xref rid="pone.0302889.ref003" ref-type="bibr">3</xref>]). Moreover, the pattern of surface pitting on the carbonatic pebbles in IGVR 91051 is comparable with that of experimentally etched calcilutites treated with HCl and pepsin to mimic turtle gastric solution (<xref rid="pone.0302889.g008" ref-type="fig">Fig 8C</xref>). All lines of evidence thus support that the pebbles preserved within this specimen are gastroliths. Since these gastroliths are structurally and chemically recognizable as naturally occurring sediments rather than pathological calcium oxalate concretions, they can be described as geo-gastroliths, external sediment particles ingested by the animal. IGVR 91051 therefore represents the first reported case of a fossil turtle hosting geo-gastroliths.</p>
+      </sec>
+      <sec id="sec027">
+        <title>Implications for necrolysis</title>
+        <p>Assuming the surface of the slab to represent the upper bedding plane of the stratum, the specimen landed ventrally to the seafloor; despite the dermatoskeleton being greatly reduced in protostegids, the carapace appears to have shielded the core elements from scattering (e.g. pelvic girdle). The ten gastroliths in IGVR 91051 are mostly grouped in close proximity, suggesting also little scattering during necrolysis of the digestive tract. G1 to G8 are found in an arc on the left side of the specimen&#x2019;s main body axis (Figs <xref rid="pone.0302889.g002" ref-type="fig">2</xref> and <xref rid="pone.0302889.g004" ref-type="fig">4A</xref>), which is consistent with the position of the &#x201C;J&#x201D; shaped stomach in turtles and most sauropsids [<xref rid="pone.0302889.ref101" ref-type="bibr">101</xref>&#x2013;<xref rid="pone.0302889.ref103" ref-type="bibr">103</xref>]. Interestingly, at least two subgroups of pebbles on the left side are found arrayed in two parallel lines (G8, G6, G7 and G3, G4; Figs <xref rid="pone.0302889.g004" ref-type="fig">4A</xref> and <xref rid="pone.0302889.s001" ref-type="supplementary-material">S1</xref>). The peculiar arrangement of these pebbles could be coincidental, as the action of currents might be responsible for the movement of these rounded elements on a muddy seafloor, while the surrounding pectoral girdle bones could have influenced the final position of the gastroliths (i.e. G3 and G4 resting between left coracoid and hyoplastron). An alternative hypothesis might rely on an anatomical explanation. The stomachs of most extant turtles present a gastric relief with regularly spaced, robust and smooth longitudinal folds parallel one to another [<xref rid="pone.0302889.ref101" ref-type="bibr">101</xref>,<xref rid="pone.0302889.ref102" ref-type="bibr">102</xref>,<xref rid="pone.0302889.ref104" ref-type="bibr">104</xref>] (<xref rid="pone.0302889.s001" ref-type="supplementary-material">S1 Fig</xref>). These folds have different patterns of density and pronunciation throughout the stomach compartments of living Chelonioidea [<xref rid="pone.0302889.ref103" ref-type="bibr">103</xref>,<xref rid="pone.0302889.ref105" ref-type="bibr">105</xref>]. Longitudinal folds of mucosa are straight but can become more convoluted towards the cardia and pylorus, persisting to the duodenum [<xref rid="pone.0302889.ref102" ref-type="bibr">102</xref>]. A possible interpretation of the peculiar two-lined arrangement of gastroliths in IGVR 91051 is that they might have resided between, or inside, longitudinal folds, either from the stomach or duodenum. In this scenario, the pebbles might have helped to pin down the stomach musculature during necrolytic detachment from the esophagus and small intestine, which then resulted in the preservation of some remnants of the gut content not far from the anatomical position. We are aware that this speculative explanation requires more solid observations on additional specimens. Thus, at present, whether the arrangement of pebbles within the digestive tract reflect its soft-tissue anatomy or random taphonomic processes remains unclear.</p>
+      </sec>
+      <sec id="sec028">
+        <title>Gastroliths in Chelonioidea</title>
+        <p>Even in extant vertebrates, geophagy is a controversial topic, and its function in marine tetrapods is often not fully understood. One of the most historically popular theories regarding the consumption of gastroliths by marine reptiles and marine mammals is that they might provide ballast and buoyancy control [<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>,<xref rid="pone.0302889.ref016" ref-type="bibr">16</xref>]. Although it has received some recent support in alligators [<xref rid="pone.0302889.ref024" ref-type="bibr">24</xref>], this theory was challenged by Everhart [<xref rid="pone.0302889.ref029" ref-type="bibr">29</xref>], Henderson [<xref rid="pone.0302889.ref106" ref-type="bibr">106</xref>] and Wings [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>], who suggested that gastrolith weights should have minimal influence on the buoyancy or stability of aquatic megafauna (e.g. plesiosaurs; [<xref rid="pone.0302889.ref106" ref-type="bibr">106</xref>]), including sea turtles ([<xref rid="pone.0302889.ref008" ref-type="bibr">8</xref>]). We would tend to exclude the possibility that pebbles in IGVR 91051 or in the Seychelles and Red Sea specimens had a ballast or hydrostatic-control function, since their cumulative weight (a few hundred grams) is negligible compared to the turtle mass, and since their presence seems sex-specific. Pathological explanations of geophagy are also considered controversial: disease- or stress-induced ingestion of substrate has been observed in modern tetrapods (especially in captivity), but likely represent isolated events [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>]. Similarly, the deliberate ingestion of sediments to eliminate parasites (eg, intestinal helminths), although reported in scientific literature (e.g. in cormorants; [<xref rid="pone.0302889.ref017" ref-type="bibr">17</xref>]) is a behavior difficult to generalize in different groups of geophagic vertebrates. In contrast, alimentary hypotheses are generally regarded as more plausible explanations for geophagy [<xref rid="pone.0302889.ref001" ref-type="bibr">1</xref>], with direct observational lines of evidence supporting the use of gastroliths for grinding and mixing ingesta in various groups of extant vertebrates, together with the consumption of substrate as a mineral supplement. For extant turtles, it has long been hypothesized that breeding females ingest calcareous material to provide calcium for eggshell production, restore depleted calcium reserves or neutralize stomach acid whilst fasting [<xref rid="pone.0302889.ref032" ref-type="bibr">32</xref>]. These factors are important for extant green sea turtles that may lay a mean of six egg clutches containing &gt; 120 eggs at two-week intervals during a nesting season, as eggs of each clutch are shelled before oviposition [<xref rid="pone.0302889.ref107" ref-type="bibr">107</xref>,<xref rid="pone.0302889.ref108" ref-type="bibr">108</xref>]. Here we suggest that gastroliths are important dietary components for extant breeding female green turtles in the Republic of Seychelles, as evidenced by presence of calcareous gastroliths in the intestinal tract in the majority of gravid females but rarely present in non-gravid females or male green sea turtles from the same location (<xref rid="pone.0302889.g008" ref-type="fig">Fig 8A and 8B</xref>; <xref rid="pone.0302889.t002" ref-type="table">Table 2</xref>). Similarly, calcareous substrates were identified in stomach contents of gravid green sea turtles nesting on Caribbean beaches of Costa Rica and Raine Island, Australia [<xref rid="pone.0302889.ref032" ref-type="bibr">32</xref>,<xref rid="pone.0302889.ref109" ref-type="bibr">109</xref>], and gravid hawksbill turtles (<italic toggle="yes">Eretmochelys imbricata</italic>) in the Caribbean [<xref rid="pone.0302889.ref110" ref-type="bibr">110</xref>]. In contrast, stomach contents examined in male and non-breeding female green sea turtles foraging on seagrass in Nicaragua contained little or no calcareous matter [<xref rid="pone.0302889.ref111" ref-type="bibr">111</xref>]. Similarly, the ingestion of Ca-rich substrate was observed in terrestrial [<xref rid="pone.0302889.ref010" ref-type="bibr">10</xref>] and freshwater tortoises [<xref rid="pone.0302889.ref112" ref-type="bibr">112</xref>], leading the respective authors to discuss mineral supplement as a plausible explanation for geophagy. On the other hand, accidental ingestion of sediment was also reported in leatherback sea turtles [<xref rid="pone.0302889.ref034" ref-type="bibr">34</xref>] females and males alike, but such occurrences only involved non-selected and loose material (sand).</p>
+      </sec>
+      <sec id="sec029">
+        <title>Was IGVR 91051 a gravid female?</title>
+        <p>Taken in comparison with modern chelonioids, our discovery of gastroliths within the fossilized shell of IGVR 91051 provides evidence that the individual was potentially a gravid female marine turtle, which may have been close to a nesting beach or traveling to return to a foraging ground after nesting. This is supported by the nature of the gastroliths as terrigenous pebbles, most likely from a beach or estuarine setting; such environments tend to be visited by modern marine turtles only for nesting and egg deposition. The consumption of sediment particles could have very well functioned as a calcium supplement after (or in preparation for) egg production. Cadena et al. [<xref rid="pone.0302889.ref113" ref-type="bibr">113</xref>] demonstrated that Cretaceous protostegids developed egg shells that were much thicker than those of modern chelonioids, which would have made their calcium intake requirements particularly demanding. From this perspective, the ingestion of siliceous clasts together with the carbonatic ones should be considered coincidental, suggesting that protostegids had no chemico-physical way to distinguish calciferous and non-calciferous sediments. We should not, however, <italic toggle="yes">a priori</italic> exclude other possible explanations for the presence of gastroliths in IGVR 91051: the ingestion of pebbles could have been accidental or could have facilitated mechanical digestion of food being processed in the stomach. Kear [<xref rid="pone.0302889.ref114" ref-type="bibr">114</xref>] describes inoceramid bivalve fragments in the gut contents of <italic toggle="yes">Notochelone</italic> (c.f.) from the upper Albian of Queensland, suggesting that some protostegids, as already hypothesized by Hirayama (1994), fed on hard-shelled mollusks, a food class that could have benefited from trituration by gastroliths. We note, nevertheless, that the dentary on IGVR 91051 is thin and gracile, seemingly unsuited for a durophagous diet, which may suggest a more soft-bodied prey specialization for <italic toggle="yes">Protosphargis veronensis</italic>, in which case gastroliths would not have been needed as a digestive aid. Moreover, no mollusk shell fragments are found associated with gastroliths in IGVR 91051, and the associated brachiopods and crinoids are not related with gut content. While we do not exclude these alternative explanations, we think that our hypothesis better fits the available lines of evidence. The proposed function of ingested particles as a calcium supplement in gravid females could also explain the overall rarity of gastroliths in fossil marine turtles. If gastroliths had food-grinding functions (or other general alimentary functions) in Cretaceous chelonioids, their presence would have been more common in the fossil record. Our hypothesis, deeply rooted in the dietary habits and life history of modern sea turtles, justifies the rarity of gastroliths in fossil marine turtles, as it is likely that, in order to preserve ingested stones, the specimen had to be female, at sexual maturity, in breeding season and near egg deposition, besides also being fossilized in the right conditions.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec030">
+      <title>Conclusions</title>
+      <p>In this study we provide the first description of IGVR 91051, a large chelonioid from the Turonian of Sant&#x2019;Anna d&#x2019;Alfaedo, northeastern Italy. The specimen is the first fossil marine turtle to be reported with gastroliths preserved in its body cavity. Our study highlights the following results:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>IGVR 91051 can be ascribed to Protostegidae based on propodial and epipodial morphology; within Protostegidae, the specimen is tentatively ascribed to <italic toggle="yes">Protosphargis veronensis</italic> [<xref rid="pone.0302889.ref035" ref-type="bibr">35</xref>] due to humeral and shell anatomy.</p>
+        </list-item>
+        <list-item>
+          <p>The taphonomy of the specimen suggests little disturbance on the seabed by currents and a long exposure before burial underlined by the strong erosion of the skeletal tissue.</p>
+        </list-item>
+        <list-item>
+          <p>The specimen preserves 10 allochthonous pebbles (carbonatic and siliceous) between anterior plastron elements; 8 of these pebbles are grouped on the left side of the specimen, in a layout consistent with the position of the &#x201C;J&#x201D; shaped stomach of modern turtles.</p>
+        </list-item>
+        <list-item>
+          <p>A 2D morphometric analysis highlights that these pebbles are size-selected, and statistically more similar in size and shape to gastroliths from other fossil and extant taxa than they are to abiotically dispersed dropstones from the SAA.</p>
+        </list-item>
+        <list-item>
+          <p>The superficial pitted pattern of IGVR 91051 carbonatic gastroliths closely resembles the etching profile of carbonatic pebbles experimentally subjected to HCl and pepsin.</p>
+        </list-item>
+        <list-item>
+          <p>The majority of the gastroliths are preserved on the left side of the animal&#x2019;s axis. This is consistent with the anatomical position of the stomach of many sauropsids and suggests little scattering of the gut content during soft tissue decay.</p>
+        </list-item>
+      </list>
+      <p>Moreover, our investigation of geophagy in modern sea turtles revealed that:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>The majority of Seychelles specimens from which gastroliths were retrieved in gut contents were gravid females, suggesting a link between the consumption of substrate and reproductive physiology. This percentage is also consistent with other rare gastroliths-bearing specimens reported in the literature and veterinary observations.</p>
+        </list-item>
+        <list-item>
+          <p>The consumption of carbonate clasts by marine turtles may serve as a behavioral means to supplement calcium intake during egg-shell development.</p>
+        </list-item>
+      </list>
+      <p>While we cannot exclude the possibility that IGVR 91051 consumed gastroliths either accidentally or as a digestive aid for the processing of ingesta, we propose that the studied specimen was likely a gravid female, thanks to modern analogues comparison. This study thus solidifies our understanding of geophagy in extant chelonioids and extends the history of this behavior back to the Cretaceous.</p>
+    </sec>
+    <sec id="sec031" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0302889.s001" position="float" content-type="local-data">
+        <label>S1 Fig</label>
+        <caption>
+          <title>Gastrolith arrangement on IGVR 91051.</title>
+          <p>A,B) Lined gastroliths in both picture and anatomical drawing possibly matching former stomach foldings. C) Cropped stomach and partial small intestine of a female <italic toggle="yes">Chelonia mydas</italic> during necropsy (photo courtesy of Ellen Wood) with detail (D) of longitudinal folds in the mucosa highlighted in blue.</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pone.0302889.s001.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302889.s002" position="float" content-type="local-data">
+        <label>S1 Table</label>
+        <caption>
+          <title>Gastroliths and allochthonous Scaglia Rossa-&#x201C;lastame&#x201D; dropstones used in the 2D morphometric analysis.</title>
+          <p>(XLSX)</p>
+        </caption>
+        <media xlink:href="pone.0302889.s002.xlsx"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302889.s003" position="float" content-type="local-data">
+        <label>S1 File</label>
+        <caption>
+          <title>R script for the 2D morphometric analysis in <xref rid="pone.0302889.g007" ref-type="fig">Fig 7</xref>.</title>
+          <p>(TXT)</p>
+        </caption>
+        <media xlink:href="pone.0302889.s003.txt"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The Sant&#x2019;Anna d&#x2019;Alfaedo municipality is acknowledged for the access to IGVR 91051, as well as the Soprintendenza Archeologia Belle Arti e Paesaggio of the Verona province for providing the required permits to study and sample the specimen. Thanks are due to Roberto Zorzin (Verona Natural History Museum) for reporting the specimen and to Stefano Castelli (Padova University) for providing high resolution pictures and photogrammetry. We would like to thank Brian Stacy (National Oceanic and Atmospheric Administration), Cesare Andrea Papazzoni (University of Modena and Reggio Emilia), Cheng Long (Wuhan Center of China Geological Survey), Efrat Weizman Kohavi (Israel Nature and Heritage Foundation), Jacques Gauthier (Yale University), Rebecca McKean (St. Norbert College), and Xander Combrink (Tshwane University of Technology) for sending us high-resolution photographs of gastroliths or SAA clasts to use in visual comparisons and morphometric analyses. We also appreciate Gregory Watkins-Colwell (Yale Peabody Museum) and Brandon Mercado (Yale University) for their help in mounting and computerized tomography (CT) scanning one specimen of <italic toggle="yes">Tomistoma schlegelli</italic> (YPM HERR 015065), and thank Gregory Watkins-Colwell, Nicole Guerrera, and Stephanie Thorn for providing access to CT data of <italic toggle="yes">Crocodylus novaguineae</italic> specimen YPM HERR 017124. We thank Ellen Wood for taking photographs of a <italic toggle="yes">Chelonia mydas</italic> necropsy undertaken by Holly Stokes that helped us make comparisons between IGVR 91051 and extant stone-bearing turtles. We are particularly thankful also to Jeanne Mortimer (Island Conservation Society, Republic of Seychelles; University of Florida, USA) who collected and curated the green turtle gut samples in 1982&#x2013;83. Rene Lauer and Bruce Lauer from the Lauer Foundation for Paleontology, Science and Education (PSE) are heartily thanked for providing one of the authors (GS) with the professional triple-wavelength UV lamp and photographic filters used in this study as a sponsor of his current PhD project. Lene Liebe Delsett is thanked for providing suggestions to methodology section during the revision of GS PhD thesis. Academic editor Dawid Surmik, the reviewers Tomasz Szczygielski and Martin Qvarnstr&#xF6;m are thanked for providing insightful comments and constructive observations that greatly improved the manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0302889.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Wings</surname><given-names>O.</given-names></name>
+<source>A review of gastrolith function with implications for fossil vertebrates and a revised classification: Acta Palaeontologica Polonica</source>, <year>2007</year>; <volume>52</volume>(<issue>1</issue>): <fpage>1</fpage>&#x2013;<lpage>16</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Wings</surname><given-names>O.</given-names></name>
+<source>A simulated bird gastric mill and its implications for fossil gastrolith authenticity: Fossil Record</source>, <year>2009</year>; <volume>12</volume>(<issue>1</issue>): <fpage>91</fpage>&#x2013;<lpage>97</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>S</given-names></name>, <name><surname>Li</surname><given-names>Z</given-names></name>, <name><surname>Bailleul</surname><given-names>AM</given-names></name>, <name><surname>Wang</surname><given-names>M</given-names></name>, <name><surname>O&#x2019;Connor</surname><given-names>J</given-names></name>. <article-title>Investigating possible gastroliths in a referred specimen of <italic toggle="yes">Bohaiornis guoi</italic> (Aves: Enantiornithes).</article-title>
+<source>Frontiers in Earth Science</source>, <year>2021</year>; <volume>9</volume>:<fpage>635727</fpage>: 1&#x2013;13.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="book"><name><surname>Storer</surname><given-names>TI</given-names></name>. <source>General zoology.</source>
+<publisher-loc>New York and London:</publisher-loc>
+<publisher-name>McGraw-Hill,</publisher-name>
+<year>1943</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Frizzell</surname><given-names>DL</given-names></name>, <name><surname>Harriet</surname><given-names>E</given-names></name>. <article-title>Crustacean gastroliths from the Claiborne Eocene of Texas.</article-title>
+<source>Micropaleontology</source>, <year>1958</year>; <volume>4</volume> (<issue>3</issue>): <fpage>273</fpage>&#x2013;<lpage>80</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Scott</surname><given-names>D</given-names></name>, <name><surname>Duncan</surname><given-names>KW</given-names></name>. <article-title>The function of freshwater crayfish gastroliths and their occurrence in perch, trout and shag stomachs</article-title>. <source>New Zealand Journal of Marine and Freshwater Research</source>, <year>1967</year>; <volume>1</volume>: <fpage>99</fpage>&#x2013;<lpage>104</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Allred&#x2212;Crouch</surname><given-names>AL</given-names></name>, <name><surname>Young</surname><given-names>EA</given-names></name>. <article-title>Bezoars&#x2014;when the &#x201C;knot in the stomach&#x201D; is real.</article-title>
+<source>Postgraduate Medicine</source>, <year>1985</year>; <volume>78</volume>: <fpage>261</fpage>&#x2013;<lpage>265</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/00325481.1985.11699169</pub-id>
+<pub-id pub-id-type="pmid">4048035</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Taylor</surname><given-names>MA</given-names></name>. <article-title>Stomach stones for feeding or buoyancy? The occurrence and function of gastroliths in marine tetrapods</article-title>. <source>Philosophical Transactions of the Royal Society of London. Series B</source>, <year>1993</year>; <volume>341</volume>: <fpage>163</fpage>&#x2013;<lpage>175</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Kreulen</surname><given-names>DA</given-names></name>. <article-title>Lick use by large herbivores: a review of benefits and banes of soil consumption.</article-title>
+<source>Mammal Review</source>, <year>1985</year>; <volume>15</volume>(<issue>3</issue>):<fpage>107</fpage>&#x2013;<lpage>123</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Moore</surname><given-names>JA</given-names></name>, <name><surname>Dornburg</surname><given-names>A</given-names></name>. <article-title>Ingestion of fossil seashells, stones and small mammal bones by gravid Gopher tortoises (<italic toggle="yes">Gopherus polyphemus</italic>) in South Florida.</article-title>
+<source>Bulletin of the Peabody Museum of Natural History</source>, <year>2014</year>; <volume>55</volume>(<issue>1</issue>): <fpage>55</fpage>&#x2013;<lpage>63</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Thomas</surname><given-names>GJ</given-names></name>, <name><surname>Owen</surname><given-names>M</given-names></name>, <name><surname>Richards</surname><given-names>P</given-names></name>. <article-title>Grit in waterfowl at the Ouse Washes, England.</article-title>
+<source>Wildfowl</source>, <year>1977</year>; <volume>28</volume>: <fpage>136</fpage>&#x2013;<lpage>138</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Bishton</surname><given-names>G.</given-names></name>
+<article-title>The diet and foraging behaviour of the Dunnock <italic toggle="yes">Prunella modularis</italic> in a hedgerow habitat</article-title>. <source>Ibis</source>, <year>1986</year>; <volume>128</volume>: <fpage>526</fpage>&#x2013;<lpage>539</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>Identification</surname><given-names>Wings O.</given-names></name>, <article-title>distribution, and function of gastroliths in dinosaurs and extant birds with emphasis on ostriches (<italic toggle="yes">Struthio camelus</italic>). Ph.D. thesis</article-title>, <source>The University of Bonn, Bonn</source>; <year>2004</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="book"><name><surname>King</surname><given-names>JE</given-names></name>. <source>Seals of the World</source>. <publisher-loc>London</publisher-loc>: <publisher-name>British Museum (Natural History);</publisher-name>
+<year>1983</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Wings</surname><given-names>O</given-names></name>, <name><surname>Sander</surname><given-names>PM</given-names></name>. <article-title>No gastric mill in sauropod dinosaurs: new evidence from analysis of gastroliths mass and function in ostriches.</article-title>
+<source>Proceedings of the Royal Society B: Biological Sciences</source>, <year>2004</year>; <volume>274</volume> (<issue>1610</issue>): <fpage>635</fpage>&#x2013;<lpage>640</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="book"><name><surname>Taylor</surname><given-names>MA</given-names></name>. <part-title>Stone, bone or blubber? Buoyancy control strategies in aquatic tetrapods</part-title>. In: <name><surname>Maddock</surname><given-names>L</given-names></name>, <name><surname>Bone</surname><given-names>Q</given-names></name>, <name><surname>Rayner</surname><given-names>JMV</given-names></name>editors. <source>Mechanics and Physiology of Animal Swimming</source>. <publisher-name>Cambridge, Cambridge University Press;</publisher-name>
+<year>1994</year>: pp. <fpage>151</fpage>&#x2013;<lpage>161</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Robinson</surname><given-names>SA</given-names></name>, <name><surname>Forbes</surname><given-names>MR</given-names></name>, <name><surname>Herbert</surname><given-names>CE</given-names></name>. <article-title>Is the ingestion of small stones by double-crested cormorants a self-medication behavior?</article-title>
+<source>The Condor</source>, <year>2008</year>; <volume>110</volume>(<issue>4</issue>): <fpage>782</fpage>&#x2013;<lpage>785</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Rhodin</surname><given-names>AGJ</given-names></name>. <article-title>Pathological lithophagy in <italic toggle="yes">Testudo horsfieldi</italic></article-title>. <source>Journal of Herpetology</source>, <year>1974</year>; <volume>8</volume>: <fpage>385</fpage>&#x2013;<lpage>386</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Gans</surname><given-names>C.</given-names></name>
+<article-title>A further note on the regurgitation of artificial eggs by snakes</article-title>. <source>Herpetologica</source>, <year>1953</year>; <volume>9</volume>: <fpage>183</fpage>&#x2013;<lpage>184</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Kennedy</surname><given-names>JP</given-names></name>. <article-title>Food habits of the rusty lizard <italic toggle="yes">Sceloporus olivaceus</italic> Smith</article-title>. <source>Texas Journal of Science</source>, <year>1956</year>; <volume>8</volume>: <fpage>328</fpage>&#x2013;<lpage>349</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Shimada</surname><given-names>K.</given-names></name>
+<article-title>Paleoecological relationships of the Late Cretaceous lamniform shark, <italic toggle="yes">Cretoxyrhina mantelli</italic> (Agassiz).</article-title>
+<source>Journal of Paleontology</source>, <year>1997</year>; <volume>71</volume>: <fpage>926</fpage>&#x2013;<lpage>933</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Gionfriddo</surname><given-names>JP</given-names></name>, <name><surname>Best</surname><given-names>LB</given-names></name>. <article-title>Grit use by birds&#x2014;a review.</article-title>
+<source>Current Ornithology,</source>
+<year>1999</year>; <volume>15</volume>: <fpage>89</fpage>&#x2013;<lpage>148</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Welman</surname><given-names>JB</given-names></name>, <name><surname>Worthington</surname><given-names>EB</given-names></name>. <article-title>The food of the crocodile (<italic toggle="yes">Crocodilus niloticus</italic> L.).</article-title>
+<source>Journal of Zoology</source>, <year>1944</year>; <volume>A113</volume>(<issue>3&#x2013;4</issue>), <fpage>108</fpage>&#x2013;<lpage>112</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Uriona</surname><given-names>TJ</given-names></name>, <name><surname>Lyon</surname><given-names>M</given-names></name>, <name><surname>Farmer</surname><given-names>CG</given-names></name>. <article-title>Lithophagy prolongs voluntary dives in American alligators (<italic toggle="yes">Alligator mississippiensis</italic>).</article-title>
+<source>Integrative Organismal Biology</source>, <year>2019</year>; <volume>1</volume>(<issue>1</issue>): <fpage>oby008</fpage>.<pub-id pub-id-type="pmid">33791515</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Henderson</surname><given-names>D.M.</given-names></name>
+<article-title>Effects of stomach stones on the buoyancy and equilibrium of a floating crocodilian: a computational analysis</article-title>. <source>Canadian Journal of Zoology</source>, <year>2003</year>; <volume>81</volume>: <fpage>1346</fpage>&#x2013;<lpage>1357</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="book"><name><surname>Laws</surname><given-names>RM</given-names></name>. <part-title>Seals</part-title>. In: <name><surname>Laws</surname><given-names>R.M.</given-names></name>editor. <source>Antarctic Ecology.</source>
+<publisher-loc>London</publisher-loc>, <publisher-name>Academic Press</publisher-name>; <year>1984</year>: pp <fpage>621</fpage>&#x2013;<lpage>715</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><name><surname>Martill</surname><given-names>DM</given-names></name>. <article-title>Pliosaur stomach contents from the Oxford Clay.</article-title>
+<source>Mercian Geologist</source>, <year>1992</year>; <volume>13</volume>: <fpage>37</fpage>&#x2013;<lpage>42</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Brown</surname><given-names>B.</given-names></name>
+<article-title>Stomach stones and food of plesiosaurs</article-title>. <source>Science, New York</source>, <year>1904</year>; <volume>20</volume>: <fpage>184</fpage>&#x2013;<lpage>185</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1126/science.20.501.184</pub-id>
+<pub-id pub-id-type="pmid">17737868</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><name><surname>Everhart</surname><given-names>MJ</given-names></name>. <article-title>Gastroliths associated with plesiosaur remains in the Sharon Spring Member of the Pierre Shale (Late Cretaceous), western Kansas.</article-title>
+<source>Kansas Academy of Science, Transactions</source>, <year>2000</year>; <volume>103</volume> (<issue>12</issue>): <fpage>64</fpage>&#x2013;<lpage>75</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><name><surname>Schmeisser</surname><given-names>RL</given-names></name>, <name><surname>Gillette</surname><given-names>DD</given-names></name>. <article-title>Unusual occurrence of gastroliths in a polycotylid plesiosaur from the Upper Cretaceous Tropic Shale, southern Utah.</article-title>
+<source>Palaios</source>, <year>2009</year>; <volume>24</volume>: <fpage>453</fpage>&#x2013;<lpage>459</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><name><surname>Alexander</surname><given-names>S</given-names></name>, <name><surname>Frey</surname><given-names>E</given-names></name>. <article-title>Zwei Meeresschildkr&#xF6;ten (Cheloniidae) aus der Tongrube Unterfeld bei Rauenberg (Unteroligoz&#xE4;n, Rupelium).</article-title>
+<source>Kaupia</source>, <year>2010</year>; <volume>17</volume>: <fpage>73</fpage>&#x2013;<lpage>105</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><name><surname>Tucker</surname><given-names>AD</given-names></name>, <name><surname>Read</surname><given-names>MA</given-names></name>. <article-title>Frequency of foraging by gravid green turtles (<italic toggle="yes">Chelonia mydas</italic>) at Raine Island, Great Barrier Reef.</article-title>
+<source>Journal of Herpetology</source>, <year>2001</year>; <volume>35</volume>: <fpage>500</fpage>&#x2013;<lpage>503</lpage>. <pub-id pub-id-type="doi">10.2307/1565970</pub-id>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><name><surname>Stokes</surname><given-names>HJ</given-names></name>, <name><surname>Mortimer</surname><given-names>JA</given-names></name>, <name><surname>Hays</surname><given-names>GC</given-names></name>. <name><surname>Unsworth</surname><given-names>RKF</given-names></name>, <name><surname>Lalo&#xEB;</surname><given-names>J-O</given-names></name>, <name><surname>Esteban</surname><given-names>N</given-names></name>. <article-title>Green turtle diet is dominated by seagrass in the Western Indian Ocean except amongst gravid females</article-title>. <source>Marine Biology</source>, <year>2019</year>; <volume>166</volume>(<issue>10</issue>), <fpage>135</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><name><surname>Den Hartog</surname><given-names>JC</given-names></name>, <name><surname>Van Nierop</surname><given-names>MM</given-names></name>. <article-title>A study on the gut contents of six leathery turtles <italic toggle="yes">Dermochelys coriacea</italic> (Linnaeus) (Reptilia: Testudines: Dermochelyidae) from British waters and from the Netherlands.</article-title>
+<source>Zoologische Verhandelingen Leiden</source>, <year>1984</year>; <volume>209</volume>: <fpage>1</fpage>&#x2013;<lpage>36</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><name><surname>Capellini</surname><given-names>G.</given-names></name>
+<article-title>Il chelonio veronese (<italic toggle="yes">Protosphargis veronensis</italic>, Cap.) scoperto nel 1852 nel Cretaceo superiore presso Sant&#x2019;Anna di Alfaedo in Valpolicella</article-title>. <source>Memorie dell&#x2019;Accademia dei Lincei,</source>
+<year>1884</year>; <volume>318</volume> (<issue>1883&#x2013;1884</issue>): <fpage>291</fpage>&#x2013;<lpage>320</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>Hirayama</surname><given-names>R.</given-names></name>
+<article-title>Systematic position of <italic toggle="yes">Protosphargis veronensis</italic> Capellini, an enigmatic sea turtle from the Late Cretaceous of Italy</article-title>. <source>Journal of Vertebrate Paleontology</source>, <year>2005</year>; <volume>25</volume>, <fpage>70A</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="book"><name><surname>Chesi</surname><given-names>F</given-names></name>, <name><surname>Delfino</surname><given-names>M</given-names></name>. <part-title>The Italian fossil record of the sea turtles.</part-title> In: <name><surname>Bologna</surname><given-names>M.A.</given-names></name>, <name><surname>Capula</surname><given-names>M.</given-names></name>, <name><surname>Carpaneto</surname><given-names>G.M.</given-names></name>, <name><surname>Luiselli</surname><given-names>L.</given-names></name>, <name><surname>Marangoni</surname><given-names>C.</given-names></name>, <name><surname>Venchi</surname><given-names>A</given-names></name>. editors. <source>Atti del 6&#xB0; Congresso Nazionale della Societas Herpetologica Italica (Roma, 27 Settembre&#x2014;1 Ottobre 2006);</source>
+<publisher-loc>Latina</publisher-loc>: <publisher-name>Edizioni Belvedere;</publisher-name>
+<year>2007</year>: pp. <fpage>95</fpage>&#x2013;<lpage>116</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><name><surname>Bosellini</surname><given-names>A</given-names></name>, <name><surname>Broglio-Loriga</surname><given-names>C</given-names></name>, <name><surname>Busetto</surname><given-names>C</given-names></name>. <article-title>I bacini cretacei del Trentino.</article-title>
+<source>Rivista Italiana di Paleontologia e Stratigrafia</source>, <year>1978</year>; <volume>84</volume>: <fpage>897</fpage>&#x2013;<lpage>946</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><name><surname>Lozar</surname><given-names>F</given-names></name>, <name><surname>Grosso</surname><given-names>F</given-names></name>. <article-title>Biostratigrafia della successione cretacica del margine dei Lessini occidentali (Provincia di Verona, Italia).</article-title>
+<source>Bollettino del Museo Regionale di Scienze Naturali, Torino,</source>
+<year>1997</year>; <volume>15</volume>: <fpage>111</fpage>&#x2013;<lpage>136</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><name><surname>Amalfitano</surname><given-names>J</given-names></name>, <name><surname>Dalla Vecchia</surname><given-names>FM</given-names></name>, <name><surname>Giusberti</surname><given-names>L</given-names></name>, <name><surname>Fornaciari</surname><given-names>E</given-names></name>, <name><surname>Luciani</surname><given-names>V</given-names></name>, <name><surname>Roghi</surname><given-names>G</given-names></name>. <article-title>Direct evidence of trophic interaction between a large lamniform shark, <italic toggle="yes">Cretodus</italic> sp., and a marine turtle from the Cretaceous of northeastern Italy.</article-title>
+<source>Palaeogeography, Palaeoclimatology, Palaeoecology</source>, <year>2017</year>; <volume>469</volume>: <fpage>104</fpage>&#x2013;<lpage>121</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><name><surname>Massari</surname><given-names>F</given-names></name>, <name><surname>Medizza</surname><given-names>F</given-names></name>, <name><surname>Channell</surname><given-names>JET</given-names></name>. <article-title>Santonian to Maastrichtian stratigraphy of some pelagic limestone sections of the Venetian Alps (Northern Italy).</article-title>
+<source>Newsletters of Stratigraphy</source>, <year>1983</year>; <volume>12</volume>: <fpage>18</fpage>&#x2013;<lpage>28</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><name><surname>Amalfitano</surname><given-names>J</given-names></name>, <name><surname>Giusberti</surname><given-names>L</given-names></name>, <name><surname>Dalla Vecchia</surname><given-names>FM</given-names></name>, <name><surname>Kriwet</surname><given-names>J</given-names></name>. <article-title>First skeletal remains of the giant sawfish <italic toggle="yes">Onchosaurus</italic> (Neoselachii, Sclerorhynchiformes) from the Upper Cretaceous of northeastern Italy.</article-title>
+<source>Cretaceous Research</source>, <year>2017</year>; <volume>69</volume>: <fpage>124</fpage>&#x2013;<lpage>135</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Cigala-Fulgosi</surname><given-names>F</given-names></name>, <name><surname>Kotsakis</surname><given-names>T</given-names></name>, <name><surname>Massari</surname><given-names>F</given-names></name>, <name><surname>Medizza</surname><given-names>F</given-names></name>, <name><surname>Sorbini</surname><given-names>L</given-names></name>. <article-title>Il giacimento di S. Anna d&#x2019;Alfaedo. I vertebrati fossili italiani&#x2014;Catalogo della mostra.</article-title>
+<source>Verona</source>, <year>1980</year>: <fpage>123</fpage>&#x2013;<lpage>129</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="book"><name><surname>Trevisani</surname><given-names>E</given-names></name>, <name><surname>Cestari</surname><given-names>R</given-names></name>. <part-title>Upper Cretaceous bivalves from basinal highs (Venetian Prealps. northern Italy).</part-title> In: <name><surname>Scott</surname><given-names>R.W</given-names></name> (Ed.), <source>Cretaceous rudists and carbonate platforms: environmental feedback.</source>
+<publisher-name>SEPM Special Publication</publisher-name>, <year>2007</year>; <volume>87</volume>, <fpage>71</fpage>&#x2013;<lpage>80</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><name><surname>Dalla Vecchia</surname><given-names>FM</given-names></name>, <name><surname>Barbera</surname><given-names>C</given-names></name>, <name><surname>Bizzarini</surname><given-names>F</given-names></name>, <name><surname>Bravi</surname><given-names>S</given-names></name>, <name><surname>Delfino</surname><given-names>M</given-names></name>, <name><surname>Giusberti</surname><given-names>L</given-names></name>, <etal>et al</etal>. <name><surname>Il Cretaceo</surname><given-names>marino</given-names></name>. In: <name><surname>Bonfiglio</surname><given-names>L</given-names></name>., editor. <article-title>Paleontologia dei vertebrati in Italia.</article-title>
+<source>Evoluzione biologica, significato ambientale e paleogeografia. Verona: Memorie del Museo Civico di Storia Naturale di Verona, serie 2, Sezione di Scienze della Terra</source>; <year>2005</year>: pp. <fpage>101</fpage>&#x2013;<lpage>116</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref046">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><name><surname>Palci</surname><given-names>A</given-names></name>, <name><surname>Caldwell</surname><given-names>MW</given-names></name>, <name><surname>Papazzoni</surname><given-names>CA</given-names></name>. <article-title>A new genus and subfamily of mosasaurs from the Upper Cretaceous of northern Italy</article-title>. <source>Journal of Vertebrate Paleontology</source>, <year>2013</year>; <volume>33</volume> (<issue>3</issue>): <fpage>599</fpage>&#x2013;<lpage>612</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref047">
+        <label>47</label>
+        <mixed-citation publication-type="book"><name><surname>Ginevra</surname><given-names>M</given-names></name>, <name><surname>Saralli</surname><given-names>M</given-names></name>, <name><surname>Sedea</surname><given-names>R</given-names></name>, <name><surname>Zampieri</surname><given-names>D</given-names></name>. <part-title>Le cave della Lessinia (la pietra di Prun).</part-title>
+<publisher-loc>Venezia</publisher-loc>: <source>Regione Veneto. Giunta Regionale&#x2014;Assessorato alle politiche per l&#x2019;ambiente. Segreteria regionale all&#x2019;ambiente.</source>
+<publisher-name>Direzione geologia e ciclo dell&#x2019;acqua. Servizio cave</publisher-name>. <year>2000</year>; <volume>2</volume>; <fpage>1</fpage>&#x2013;<lpage>95</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref048">
+        <label>48</label>
+        <mixed-citation publication-type="journal"><name><surname>Amalfitano</surname><given-names>J</given-names></name>, <name><surname>Dalla Vecchia</surname><given-names>FM</given-names></name>, <name><surname>Carnevale</surname><given-names>G</given-names></name>, <name><surname>Fornaciari</surname><given-names>E</given-names></name>, <name><surname>Roghi</surname><given-names>G</given-names></name>, <name><surname>Giusberti</surname><given-names>L</given-names></name>. <article-title>Morphology and paleobiology of the Late Cretaceous large-sized shark <italic toggle="yes">Cretodus crassidens</italic> (Dixon, 1850) (Neoselachii; Lamniformes).</article-title>
+<source>Journal of Paleontology</source>, <year>2022</year>; <volume>96</volume>(<issue>5</issue>): <fpage>1166</fpage>&#x2013;<lpage>1188</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref049">
+        <label>49</label>
+        <mixed-citation publication-type="journal"><name><surname>Sorbini</surname><given-names>L.</given-names></name>
+<article-title>Prima segnalazione di ciottoli di rocce eruttive e metamorfiche inclusi nella Scaglia Rossa dei Lessini occidentali</article-title>. <source>Memorie del Museo Civico di Storia Naturale di Verona</source>, <year>1968</year>; <volume>15</volume>: <fpage>233</fpage>&#x2013;<lpage>235</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref050">
+        <label>50</label>
+        <mixed-citation publication-type="journal"><name><surname>Massari</surname><given-names>F</given-names></name>, <name><surname>Savazzi</surname><given-names>E</given-names></name>. <article-title>Driftwood transportation of exotic pebbles in the Upper Cretaceous Scaglia Rossa veneta (Mt. Loffa, Southern Alps) suggested by Teredinid tubes</article-title>. <source>Neues Jahrbuch f&#xFC;r Geologie und Pal&#xE4;ontologie&#x2014;Monatshefte Jg</source>. <year>1981</year>; <volume>5</volume>: <fpage>311</fpage>&#x2013;<lpage>320</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref051">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><name><surname>Gonzato</surname><given-names>G</given-names></name>, <name><surname>Ferrari</surname><given-names>AM</given-names></name>. <article-title>Le &#x201C;Dropstone&#x201D;nelle Formazioni dei Monti Lessini.</article-title>
+<source>La Lessinia&#x2014;Ieri Oggi Domani. Quaderno culturale</source>, <year>2020</year>; <volume>43</volume>: <fpage>51</fpage>&#x2013;<lpage>58</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref052">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><name><surname>Venturini</surname><given-names>S.</given-names></name>
+<article-title>Ammoniti e rudiste nel &#x2BB;lastame&#x2BC; della diga foranea di Grado (Gorizia): una curiosit&#xE0; paleontologica ed un problema paleoambientale.</article-title>
+<source>Natura Nascosta,</source>
+<year>2012</year>; <volume>44</volume>: <fpage>10</fpage>&#x2013;<lpage>20</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref053">
+        <label>53</label>
+        <mixed-citation publication-type="journal"><name><surname>Walliser</surname><given-names>EO</given-names></name>, <name><surname>Sch&#xF6;ne</surname><given-names>BR</given-names></name>. <article-title>Paleoceanography of the Late Cretaceous northwestern Tethys Ocean: Seasonal upwelling or steady thermocline?.</article-title>
+<source>PLoS One, 2020; 15(8), e0238040.</source>
+<comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0238040</pub-id>
+<pub-id pub-id-type="pmid">32853273</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref054">
+        <label>54</label>
+        <mixed-citation publication-type="journal"><name><surname>Amalfitano</surname><given-names>J</given-names></name>, <name><surname>Giusberti</surname><given-names>L</given-names></name>, <name><surname>Fornaciari</surname><given-names>E</given-names></name>, <name><surname>Dalla Vecchia</surname><given-names>FM</given-names></name>, <name><surname>Luciani</surname><given-names>V</given-names></name>, <name><surname>Kriwet</surname><given-names>J</given-names></name>
+<etal>et al</etal>. <article-title>Large deadfalls of the &#x2BB;ginsu&#x2BC; shark <italic toggle="yes">Cretoxyrhina mantelli</italic> (Agassiz, 1835) (Neoselachii, Lamniformes) from the Upper Cretaceous of northeastern Italy.</article-title>
+<source>Cretaceous Research</source>, <year>2019</year>; <volume>98</volume>: <fpage>250</fpage>&#x2013;<lpage>275</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref055">
+        <label>55</label>
+        <mixed-citation publication-type="journal"><name><surname>Amadori</surname><given-names>M</given-names></name>, <name><surname>Amalfitano</surname><given-names>J</given-names></name>, <name><surname>Giusberti</surname><given-names>L</given-names></name>, <name><surname>Fornaciari</surname><given-names>E</given-names></name>, <name><surname>Luciani</surname><given-names>V</given-names></name>, <name><surname>Carnevale</surname><given-names>G</given-names></name>, <etal>et al</etal>. <article-title>First associated tooth set of a high-cusped <italic toggle="yes">Ptychodus</italic> (Chondrichthyes, Elasmobranchii) from the Upper Cretaceous of northeastern Italy, and resurrection of <italic toggle="yes">Ptychodus altior</italic> Agassiz, 1835.</article-title>
+<source>Cretaceous Research</source>, <year>2019</year>; <volume>93</volume>: <fpage>330</fpage>&#x2013;<lpage>345</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref056">
+        <label>56</label>
+        <mixed-citation publication-type="journal"><name><surname>Amadori</surname><given-names>M</given-names></name>, <name><surname>Amalfitano</surname><given-names>J</given-names></name>, <name><surname>Giusberti</surname><given-names>L</given-names></name>, <name><surname>Fornaciari</surname><given-names>E</given-names></name>, <name><surname>Carnevale</surname><given-names>G</given-names></name>, <name><surname>Kriwet</surname><given-names>J</given-names></name>. A <article-title>revision of the Upper Cretaceous shark <italic toggle="yes">Ptychodus mediterraneus</italic> Canavari, 1916 from northeastern Italy, with a reassessment of <italic toggle="yes">P</italic>. <italic toggle="yes">latissimus</italic> and <italic toggle="yes">P</italic>. <italic toggle="yes">polygyrus</italic> Agassiz, 1835 (Chondrichthyes; Elasmobranchii).</article-title>
+<source>Cretaceous Research</source>, <year>2020</year>; <volume>110</volume>, <fpage>104386</fpage>: 1&#x2013;37.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref057">
+        <label>57</label>
+        <mixed-citation publication-type="journal"><name><surname>Cestari</surname><given-names>R.</given-names></name>, <name><surname>Trevisani</surname><given-names>E.</given-names></name>, <name><surname>Roghi</surname><given-names>G.</given-names></name>
+<article-title>Record of a rudist from pelagic basinal limestones (Upper Cretaceous, Lessini Mountains, Northern Italy).</article-title>
+<source>Rivista Italiana di Paleontologia e Stratigrafia</source>, <year>2013</year>, <volume>119</volume>(<issue>1</issue>): <fpage>31</fpage>&#x2013;<lpage>39</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref058">
+        <label>58</label>
+        <mixed-citation publication-type="journal"><name><surname>Massalongo</surname><given-names>A.</given-names></name>
+<article-title>Sopra un nuovo genere di Pandanee fossili della provincia veronese.</article-title>
+<source>Verona, Tipografia Antonelli</source>, <year>1853</year>: pp. <fpage>1</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref059">
+        <label>59</label>
+        <mixed-citation publication-type="journal"><name><surname>Capellini</surname><given-names>G.</given-names></name>
+<article-title>Sui primi resti di <italic toggle="yes">Protostega</italic> in Europa. Rendiconto delle Sessioni della R.</article-title>
+<source>Accademia delle Scienze dell&#x2019;Istituto di Bologna,</source>
+<year>1883</year>; <volume>1882</volume>&#x2013;<issue>1883</issue>: <fpage>46</fpage>&#x2013;<lpage>47</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref060">
+        <label>60</label>
+        <mixed-citation publication-type="journal"><name><surname>De Stefani</surname><given-names>S.</given-names></name>
+<article-title>Sui primi resti fossili di un ittiosauro e di un cheloniano scoperti nella provincia veronese.</article-title>
+<source>Estratto dal v. LX, Serie III, Fasc. I dell&#x2019;Accademia d&#x2019;Agricoltura Arti e Commercio di Verona</source>, <year>1883</year>; <volume>60</volume>: <fpage>1</fpage>&#x2013;<lpage>11</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref061">
+        <label>61</label>
+        <mixed-citation publication-type="journal"><name><surname>Capellini</surname><given-names>G.</given-names></name>
+<article-title>Le piastre marginali della <italic toggle="yes">Protosphargis veronensis</italic>.</article-title>
+<source>Estratto dal Rendiconto delle Sessioni della R. Accademia delle Scienze dell&#x2019;Istituto di Bologna,</source>
+<year>1898</year>; <volume>1897</volume>&#x2013;<issue>1898</issue>: <fpage>1</fpage>&#x2013;<lpage>19</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref062">
+        <label>62</label>
+        <mixed-citation publication-type="journal"><name><surname>Aspes</surname><given-names>A</given-names></name>, <name><surname>Zorzin</surname><given-names>R</given-names></name>. <article-title>Guida al Museo di Storia Naturale di S. Anna d&#x2019;Alfaedo (VR).</article-title>
+<source>La Grafica di Vago, Verona</source>; <year>1984</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref063">
+        <label>63</label>
+        <mixed-citation publication-type="journal"><name><surname>Lapparent de</surname><given-names>BF</given-names></name>. <article-title>The European turtle fauna from the Triassic to the present</article-title>. <source>Dumerilia</source>, <year>2001</year>; <volume>4</volume>(<issue>3</issue>): <fpage>155</fpage>&#x2013;<lpage>217</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref064">
+        <label>64</label>
+        <mixed-citation publication-type="journal"><name><surname>Chesi</surname><given-names>F.</given-names></name>
+<article-title>Il registro fossile italiano dei cheloni</article-title>. <source>PhD thesis. Universit&#xE0; degli Studi di Firenze</source>. <year>2008</year>; Available from: <ext-link xlink:href="https://hdl.handle.net/2158/543460" ext-link-type="uri">https://hdl.handle.net/2158/543460</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref065">
+        <label>65</label>
+        <mixed-citation publication-type="journal"><name><surname>Cox</surname><given-names>EP</given-names></name>. <article-title>A method of assigning numerical and percentage values to the degree of roundness of sand grains</article-title>. <source>Journal of Paleontology</source>, <year>1927</year>; <volume>1</volume>(<issue>3</issue>): <fpage>179</fpage>&#x2013;<lpage>183</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref066">
+        <label>66</label>
+        <mixed-citation publication-type="journal"><name><surname>Wadell</surname><given-names>H.</given-names></name>, <article-title>Volume shape, and roundness of rock particles</article-title>. <source>The Journal of Geology</source>, <year>1932</year>; <volume>40</volume>(<issue>5</issue>): <fpage>443</fpage>&#x2013;<lpage>451</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref067">
+        <label>67</label>
+        <mixed-citation publication-type="journal"><name><surname>Wadell</surname><given-names>H.</given-names></name>
+<article-title>The coefficient of resistance as a function of Reynolds number for solids of various shapes</article-title>. <source>Journal of the Franklin Institute</source>, <year>1934</year>; <volume>217</volume>(<issue>4</issue>), <fpage>459</fpage>&#x2013;<lpage>490</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref068">
+        <label>68</label>
+        <mixed-citation publication-type="journal"><name><surname>Krumbein</surname><given-names>WC</given-names></name>. <article-title>Measurement and geological significance of shape and roundness of sedimentary particles</article-title>. <source>Journal of Sedimentary Petrology</source>, <year>1941</year>; <volume>11</volume>(<issue>2</issue>): <fpage>64</fpage>&#x2013;<lpage>72</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref069">
+        <label>69</label>
+        <mixed-citation publication-type="journal"><name><surname>Walton</surname><given-names>WH</given-names></name>. <article-title>Feret&#x2019;s statistical diameter as a measure of particle size</article-title>. <source>Nature</source>, <year>1948</year>; <volume>162</volume>, <fpage>329</fpage>&#x2013;<lpage>330</lpage>. <pub-id pub-id-type="doi">10.1038/162329b0</pub-id>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref070">
+        <label>70</label>
+        <mixed-citation publication-type="journal"><name><surname>Takashimizu</surname><given-names>Y</given-names></name>, <name><surname>Liyoshi</surname><given-names>M</given-names></name>. <article-title>New parameter of roundness R: circularity corrected by aspect ratio</article-title>. <source>Progress in Earth and Planetary Science</source>, <year>2016</year>; <volume>3</volume>: <fpage>16</fpage> pp. <pub-id pub-id-type="doi">10.1186/s40645-015-0078-x</pub-id>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref071">
+        <label>71</label>
+        <mixed-citation publication-type="journal"><name><surname>Ferreira</surname><given-names>T</given-names></name>, <name><surname>Rasband</surname><given-names>W</given-names></name>. <article-title>ImageJ User Guide: IJ 1.46r</article-title>, <source>Revised edition</source>; <year>2012</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref072">
+        <label>72</label>
+        <mixed-citation publication-type="journal"><name><surname>Box</surname><given-names>GEP</given-names></name>, <name><surname>Cox</surname><given-names>DR</given-names></name>. <article-title>An analysis of transformations revisited, rebutted</article-title>. <source>Journal of the American Statistical Association</source>, <year>1982</year>; <volume>77</volume>: <fpage>209</fpage>&#x2013;<lpage>210</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref073">
+        <label>73</label>
+        <mixed-citation publication-type="journal"><name><surname>Sakia</surname><given-names>RM</given-names></name>. <article-title>The Box-Cox transformation technique: a review</article-title>. <source>The Statistician</source>, <year>1992</year>; <volume>41</volume>: <fpage>169</fpage>&#x2013;<lpage>178</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref074">
+        <label>74</label>
+        <mixed-citation publication-type="book"><collab>R Core Team 2022: R Core Team</collab>. <year>2022</year>. <source>R: A language and environment for statistical computing</source>. <publisher-name>R Foundation for Statistical Computing,</publisher-name>
+<publisher-loc>Vienna, Austria</publisher-loc>. Available from <ext-link xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R-project.org/</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref075">
+        <label>75</label>
+        <mixed-citation publication-type="book"><name><surname>Fox</surname><given-names>J</given-names></name>, <name><surname>Weisberg</surname><given-names>S</given-names></name>. <source>An R Companion to Applied Regression, Third edition</source>. <publisher-name>Sage</publisher-name>, <publisher-loc>Thousand Oaks, CA</publisher-loc>; <year>2019</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref076">
+        <label>76</label>
+        <mixed-citation publication-type="book"><name><surname>Wickham</surname><given-names>H.</given-names></name>
+<source><italic toggle="yes">ggplot2</italic>: <italic toggle="yes">Elegant Graphics for Data Analysis</italic></source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Springer-Verlag</publisher-name>; <year>2016</year>. Available from <ext-link xlink:href="https://ggplot2.tidyverse.org" ext-link-type="uri">https://ggplot2.tidyverse.org</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref077">
+        <label>77</label>
+        <mixed-citation publication-type="journal"><name><surname>Wright</surname><given-names>RD</given-names></name>, <name><surname>Florey</surname><given-names>HW</given-names></name>, <name><surname>Sanders</surname><given-names>AG</given-names></name>. <article-title>Observations on the gastric mucosa of reptilia</article-title>. <source>Quarterly Journal of Experimental Physiology and Cognate Medical Science</source>. <year>1957</year>; <volume>42</volume>(<issue>1</issue>): <fpage>1</fpage>&#x2013;<lpage>14</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1113/expphysiol.1957.sp001224</pub-id>
+<pub-id pub-id-type="pmid">13485352</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref078">
+        <label>78</label>
+        <mixed-citation publication-type="journal"><name><surname>Owens</surname><given-names>DW</given-names></name>. <article-title>The comparative reproductive physiology of sea turtles</article-title>. <source>American Zoologist</source>, <year>1980</year>; <volume>20</volume>: <fpage>549</fpage>&#x2013;<lpage>563</lpage>. <pub-id pub-id-type="doi">10.1093/icb/20.3.549</pub-id>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref079">
+        <label>79</label>
+        <mixed-citation publication-type="book"><name><surname>Linnaeus</surname><given-names>C.</given-names></name>
+<source>Systema Naturae per Regna Tria Naturae (tenth edition),</source> Volume <volume>1</volume>, <publisher-loc>Regnum Animale:</publisher-loc>
+<publisher-name>Stockholm, Laurentii Salvii;</publisher-name>
+<year>1758</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref080">
+        <label>80</label>
+        <mixed-citation publication-type="journal"><name><surname>Cope</surname><given-names>ED</given-names></name>. <article-title>On the origin of genera.</article-title>
+<source>Proceedings of the Academy of Natural Sciences of Philadelphia</source>, <year>1868</year>; <volume>20</volume>: <fpage>242</fpage>&#x2013;<lpage>300</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref081">
+        <label>81</label>
+        <mixed-citation publication-type="journal"><name><surname>Evers</surname><given-names>SW</given-names></name>, <name><surname>Barrett</surname><given-names>PM</given-names></name>, <name><surname>Benson</surname><given-names>RBJ</given-names></name>. <article-title>Anatomy of <italic toggle="yes">Rhinochelys pulchriceps</italic> (Protostegidae) and marine adaptation during the early evolution of chelonioids</article-title>. <source>PeerJ</source>, <year>2019</year>; <volume>7</volume>:<fpage>e6811</fpage><pub-id pub-id-type="pmid">31106054</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref082">
+        <label>82</label>
+        <mixed-citation publication-type="book"><name><surname>Cope</surname><given-names>ED</given-names></name>. <source>On the geology and paleontology of the Cretaceous strata of Kansas</source>. <publisher-loc>Washington, D.C.</publisher-loc>: <publisher-name>U.S. Geological Survey, Fifth Annual Report</publisher-name>, <year>1873</year>: <fpage>323</fpage>&#x2013;<lpage>335</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref083">
+        <label>83</label>
+        <mixed-citation publication-type="journal"><name><surname>Evers</surname><given-names>SW</given-names></name>, <name><surname>Benson</surname><given-names>RB</given-names></name>. <article-title>A new phylogenetic hypothesis of turtles with implications for the timing and number of evolutionary transitions to marine lifestyles in the group.</article-title>
+<source>Palaeontology</source>, <year>2018</year>; <volume>62</volume>(<issue>1</issue>): <fpage>93</fpage>&#x2013;<lpage>134</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref084">
+        <label>84</label>
+        <mixed-citation publication-type="journal"><name><surname>Wyneken</surname><given-names>J.</given-names></name>
+<article-title>The anatomy of sea turtles. National Marine Fisheries Service</article-title>, <source>U.S. Department of Commerce, NOAA Technical Memorandum NMFS-SEFSC-470;</source>
+<year>2001</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref085">
+        <label>85</label>
+        <mixed-citation publication-type="book"><name><surname>Wyneken</surname><given-names>J.</given-names></name>
+<part-title>The external morphology, musculoskeletal system, and neuro-anatomy of sea turtles</part-title>. In: <name><surname>Lutz</surname><given-names>P.L.</given-names></name>, <name><surname>Musick</surname><given-names>J.A.</given-names></name>, <name><surname>Wyneken</surname><given-names>J</given-names></name>. editors. <source>The Biology of Sea Turtles</source> Volume <volume>II</volume>. <publisher-loc>Boca Raton, London, New York, Washington DC:</publisher-loc>
+<collab>CRC Press</collab>; <year>2003</year>: pp. <fpage>39</fpage>&#x2013;<lpage>77</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref086">
+        <label>86</label>
+        <mixed-citation publication-type="journal"><name><surname>Gentry</surname><given-names>AD</given-names></name>, <name><surname>Ebersole</surname><given-names>JA</given-names></name>, <name><surname>Kiernan</surname><given-names>CR</given-names></name>. <article-title><italic toggle="yes">Asmodochelys parhami</italic>, a new fossil marine turtle from the Campanian Demopolis Chalk and the stratigraphic congruence of competing marine turtle phylogenies</article-title>. <source>Royal Society Open Science</source>, <year>2019</year>; <volume>6</volume>(<issue>12</issue>), <fpage>191950</fpage>.<pub-id pub-id-type="pmid">31903219</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref087">
+        <label>87</label>
+        <mixed-citation publication-type="journal"><name><surname>Castillo-Visa</surname><given-names>O</given-names></name>, <name><surname>Luj&#xE1;n</surname><given-names>&#xC0;H</given-names></name>, <name><surname>Galobart</surname><given-names>&#xC0;</given-names></name>, <name><surname>Sell&#xE9;s</surname><given-names>A</given-names></name>. <article-title>A gigantic bizarre marine turtle (Testudines: Chelonioidea) from the Middle Campanian (Late Cretaceous) of South-western Europe</article-title>. <source>Scientific Reports</source>, <year>2022</year>; <volume>12</volume>(<issue>1</issue>), <fpage>18322</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41598-022-22619-w</pub-id>
+<pub-id pub-id-type="pmid">36396968</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref088">
+        <label>88</label>
+        <mixed-citation publication-type="journal"><name><surname>Joyce</surname><given-names>WG</given-names></name>. <article-title>Phylogenetic relationships of Mesozoic Turtles</article-title>. <source>Bulletin of Peabody Museum of Natural History</source>, <year>2007</year>; <volume>48</volume>(<issue>1</issue>): <fpage>3</fpage>&#x2013;<lpage>102</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref089">
+        <label>89</label>
+        <mixed-citation publication-type="journal"><name><surname>Danilov</surname><given-names>IG</given-names></name>, <name><surname>Parham</surname><given-names>JF</given-names></name>. <article-title>A reassessment of some poorly known turtles from the Middle Jurassic of China with comments on the antiquity of extant turtles</article-title>. <source>Journal of Vertebrate Paleontology</source>, <year>2008</year>; <volume>28</volume>: <fpage>306</fpage>&#x2013;<lpage>318</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref090">
+        <label>90</label>
+        <mixed-citation publication-type="journal"><name><surname>Sterli</surname><given-names>J.</given-names></name>
+<article-title>Phylogenetic relationships among extinct and extant turtles: the position of Pleurodira and the effects of the fossils on rooting crown-group turtles</article-title>. <source>Contributions to Zoology</source>, <year>2010</year>; <volume>79</volume>: <fpage>93</fpage>&#x2013;<lpage>106</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref091">
+        <label>91</label>
+        <mixed-citation publication-type="journal"><name><surname>Anquetin</surname><given-names>J.</given-names></name>
+<article-title>Reassessment of the phylogenetic interrelationships of basal turtles (Testudinata).</article-title>
+<source>Journal of Systematic Palaeontology</source>, <year>2012</year>; <volume>10</volume>(<issue>1</issue>): <fpage>3</fpage>&#x2013;<lpage>45</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref092">
+        <label>92</label>
+        <mixed-citation publication-type="journal"><name><surname>Tong</surname><given-names>H</given-names></name>, <name><surname>Meylan</surname><given-names>P</given-names></name>. <article-title>Morphology and relationships of <italic toggle="yes">Brachyopsemys tingitana</italic> gen</article-title>. <source>et sp. nov. from the Early Paleocene of Morocco and recognition of the new eucryptodiran turtle family: Sandownidae. Morphology and evolution of turtles</source>, <year>2013</year>; <fpage>187</fpage>&#x2013;<lpage>212</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref093">
+        <label>93</label>
+        <mixed-citation publication-type="journal"><name><surname>Sterli</surname><given-names>J</given-names></name>, <name><surname>de la Fuente</surname><given-names>MS</given-names></name>. <article-title>New evidence from the Palaeocene of Patagonia (Argentina) on the evolution and palaeo-biogeography of Meiolaniformes (Testudinata, new taxon name).</article-title>
+<source>Journal of Systematic Palaeontology</source>, <year>2013</year>; <volume>11</volume>(<issue>7</issue>): <fpage>835</fpage>&#x2013;<lpage>852</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref094">
+        <label>94</label>
+        <mixed-citation publication-type="journal"><name><surname>Anquetin</surname><given-names>J</given-names></name>, <name><surname>P&#xFC;ntener</surname><given-names>C</given-names></name>, <name><surname>Billon-Bruyat</surname><given-names>JP</given-names></name>. <article-title><italic toggle="yes">Portlandemys gracilis</italic> n. sp., a new coastal marine turtle from the Late Jurassic of Porrentruy (Switzerland) and a reconsideration of plesiochelyid cranial anatomy</article-title>. <source>PLoS One</source>, <year>2015</year>; <volume>10</volume>(<issue>6</issue>): <fpage>e0129193</fpage>.<pub-id pub-id-type="pmid">26106888</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref095">
+        <label>95</label>
+        <mixed-citation publication-type="journal"><name><surname>Hirayama</surname><given-names>R.</given-names></name>
+<article-title>Phylogenetic systematics of chelonioid sea turtles</article-title>. <source>The Island Arc</source>, <year>1994</year>; <volume>3</volume>: <fpage>270</fpage>&#x2013;<lpage>284</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref096">
+        <label>96</label>
+        <mixed-citation publication-type="book"><name><surname>Hirayama</surname><given-names>R.</given-names></name>
+<part-title>Distribution and diversity of Cretaceous chelonioids.</part-title> In: <name><surname>Callaway</surname><given-names>J.M.</given-names></name>, <name><surname>Nicholls</surname><given-names>E.L</given-names></name>. editors. <source>Ancient Marine Reptiles.</source>
+<publisher-loc>San Diego,</publisher-loc>
+<publisher-name>Academic Press</publisher-name>, <year>1997</year>: pp. <fpage>225</fpage>&#x2013;<lpage>241</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref097">
+        <label>97</label>
+        <mixed-citation publication-type="journal"><name><surname>Kear</surname><given-names>BP</given-names></name>, <name><surname>Lee</surname><given-names>MS</given-names></name>. <article-title>A primitive protostegid from Australia and early sea turtle evolution</article-title>. <source>Biology letters</source>, <year>2006</year>; <volume>2</volume>(<issue>1</issue>): <fpage>116</fpage>&#x2013;<lpage>119</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1098/rsbl.2005.0406</pub-id>
+<pub-id pub-id-type="pmid">17148342</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref098">
+        <label>98</label>
+        <mixed-citation publication-type="journal"><name><surname>Cadena</surname><given-names>EA</given-names></name>, <name><surname>Parham</surname><given-names>JF</given-names></name>. <article-title>Oldest known marine turtle? A new protostegid from the Lower Cretaceous of Colombia</article-title>. <source>PaleoBios</source>, <year>2015</year>; <volume>32</volume>(<issue>1</issue>): <fpage>1</fpage>&#x2013;<lpage>42</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref099">
+        <label>99</label>
+        <mixed-citation publication-type="journal"><name><surname>Villa</surname><given-names>A</given-names></name>, <name><surname>Chesi</surname><given-names>F</given-names></name>, <name><surname>Rabi</surname><given-names>M</given-names></name>, <name><surname>Rook</surname><given-names>M</given-names></name>, <name><surname>Delfino</surname><given-names>M</given-names></name>. <article-title>A preliminary description of new Late Cretaceous chelonian remains from Sant&#x2019;Anna d&#x2019;Alfaedo (Verona, Italy).</article-title>
+<source>Giornate della Paleontologia XIV edizione&#x2014;Bari, 11&#x2013;13 giugno 2014&#x2014;Volume dei Riassunti</source>, <year>2014</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref100">
+        <label>100</label>
+        <mixed-citation publication-type="journal"><name><surname>M&#x142;ynarsky</surname><given-names>M.</given-names></name>
+<article-title>Testudines Handbuch der Pal&#xE4;oherpetologie/Handbook of Paleoherpetology, Part 7</article-title>. <source>Gustav Fischer Verlag, Stuttgart</source>, <year>1976</year>: pp. <fpage>130</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref101">
+        <label>101</label>
+        <mixed-citation publication-type="book"><name><surname>Gans</surname><given-names>C.</given-names></name>
+<source>Biology of the Reptilia</source>. Volume <volume>6</volume>. <publisher-loc>London</publisher-loc>: <publisher-name>Academic press Inc;</publisher-name>
+<year>1976</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref102">
+        <label>102</label>
+        <mixed-citation publication-type="book"><name><surname>Parson</surname><given-names>TS</given-names></name>, <name><surname>Cameron</surname><given-names>JE</given-names></name>. <part-title>Internal relief of the digestive tract.</part-title> In: <source>Biology of the Reptilia</source> Volume <volume>6</volume>
+<name><surname>Morphology Gans</surname><given-names>EC</given-names></name>, <name><surname>Parson</surname><given-names>TS</given-names></name>, editors. <publisher-loc>London</publisher-loc>: <publisher-name>Academic press Inc;</publisher-name>
+<year>1976</year>: pp. <fpage>159</fpage>&#x2013;<lpage>223</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref103">
+        <label>103</label>
+        <mixed-citation publication-type="journal"><name><surname>Magalh&#xE3;es</surname><given-names>M</given-names></name>, <name><surname>Santos</surname><given-names>A</given-names></name>, <name><surname>Silva</surname><given-names>N</given-names></name>, <name><surname>Moura</surname><given-names>C</given-names></name>. <article-title>Anatomy of the digestive tube of sea turtles (Reptilia: Testudines).</article-title>
+<source>Zoologia (Curitiba),</source>
+<year>2012</year>; <volume>29</volume> (<issue>1</issue>): <fpage>70</fpage>&#x2013;<lpage>76</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref104">
+        <label>104</label>
+        <mixed-citation publication-type="journal"><name><surname>Burne</surname><given-names>R.H.</given-names></name>
+<article-title>Notes on the muscular and visceral anatomy of the leathery turtle (<italic toggle="yes">Dermochelys coriacea</italic>).</article-title>
+<source>Proceedings of the Zoological Society of London</source>, <year>1905</year>; <volume>75</volume> (<issue>2</issue>): <fpage>291</fpage>&#x2013;<lpage>324</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref105">
+        <label>105</label>
+        <mixed-citation publication-type="journal"><name><surname>Jacobshagen</surname><given-names>E.</given-names></name>
+<article-title>Zur Morphologie des Ober- flachenreliefs der Rumpfdarmschleimhaut der Reptilien</article-title>. <source>Jenaische Zeitschrift f&#xFC;r Naturwissenschaft,</source>
+<year>1920</year>; <volume>56</volume>: <fpage>362</fpage>&#x2013;<lpage>430</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref106">
+        <label>106</label>
+        <mixed-citation publication-type="journal"><name><surname>Henderson</surname><given-names>DM</given-names></name>. <source>Floating point: a computational study of buoyancy, equilibrium, and gastroliths in plesiosaurs. Lethaia</source>, <year>2006</year>; <volume>39</volume>: <fpage>227</fpage>&#x2013;<lpage>244</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref107">
+        <label>107</label>
+        <mixed-citation publication-type="journal"><name><surname>Esteban</surname><given-names>N</given-names></name>, <name><surname>Mortimer</surname><given-names>JA</given-names></name>, <name><surname>Hays</surname><given-names>GC</given-names></name>. <article-title>How numbers of nesting sea turtles can be overestimated by nearly a factor of two</article-title>. <source>Proceedings of the Royal Society B</source>, <year>2017</year>; <volume>284</volume>: <fpage>20162581</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1098/rspb.2016.2581</pub-id>
+<pub-id pub-id-type="pmid">28202810</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref108">
+        <label>108</label>
+        <mixed-citation publication-type="journal"><name><surname>Stokes</surname><given-names>HJ</given-names></name>, <name><surname>Esteban</surname><given-names>N</given-names></name>, <name><surname>Hays</surname><given-names>GC</given-names></name>. <article-title>Nest site selection in sea turtles show consistencies across the globe in the face of climate change</article-title>. <source>Animal Behaviour</source>, <year>2024</year>; <volume>208</volume>: <fpage>59</fpage>&#x2013;<lpage>68</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref109">
+        <label>109</label>
+        <mixed-citation publication-type="book"><name><surname>Mortimer</surname><given-names>JA</given-names></name>. <part-title>The feeding ecology of sea turtles.</part-title> In: <name><surname>Bjorndal</surname><given-names>KA</given-names></name>, editor. <source>Biology and Conservation of Sea Turtles.</source>
+<publisher-loc>Washington, DC</publisher-loc>: <publisher-name>Smithsonian Institution Press</publisher-name>; <year>1982</year>. pp.<fpage>103</fpage>&#x2013;<lpage>109</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref110">
+        <label>110</label>
+        <mixed-citation publication-type="journal"><name><surname>Meylan</surname><given-names>AB</given-names></name>. <article-title>Feeding ecology of the hawksbill turtle (<italic toggle="yes">Eretmochelys imbricata</italic>): spongivory as a feeding niche in the coral reef community.</article-title>
+<source>PhD thesis, University of Florida, Gainesville, FL</source>. 1984; available from <pub-id pub-id-type="doi">10.5962/bhl.title.49069</pub-id>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref111">
+        <label>111</label>
+        <mixed-citation publication-type="journal"><name><surname>Mortimer</surname><given-names>JA</given-names></name>. <article-title>The feeding ecology of the West Caribbean green turtle (<italic toggle="yes">Chelonia mydas</italic>) in Nicaragua.</article-title>
+<source>Biotropica</source>, <year>1981</year>; <volume>13</volume> (<issue>1</issue>): <fpage>49</fpage>&#x2013;<lpage>58</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.2307/2387870</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref112">
+        <label>112</label>
+        <mixed-citation publication-type="journal"><name><surname>Terebiznik</surname><given-names>M</given-names></name>, <name><surname>Moldowan</surname><given-names>PD</given-names></name>, <name><surname>Leivesley</surname><given-names>JA</given-names></name>, <name><surname>Massey</surname><given-names>MD</given-names></name>, <name><surname>Lacroix</surname><given-names>C</given-names></name>, <name><surname>Connoy</surname><given-names>JWH</given-names></name>., <etal>et al</etal>. <article-title>Hatchling turtles ingest natural and artificial incubation substrates at high frequency</article-title>. <source>Behavioral Ecology and Sociobiology</source>, <year>2020</year>; <volume>74</volume>: <fpage>130</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref113">
+        <label>113</label>
+        <mixed-citation publication-type="journal"><name><surname>Cadena</surname><given-names>E-A</given-names></name>, <name><surname>Parra-Ruge</surname><given-names>ML</given-names></name>, <name><surname>Parra-Ruge</surname><given-names>J</given-names></name>, <name><surname>de</surname><given-names>D</given-names></name>, <name><surname>Padilla-Bernal</surname><given-names>S</given-names></name>. <article-title>A gravid fossil turtle from the Early Cretaceous reveals a different egg development strategy to that of extant marine turtles</article-title>. <source>Palaeontology</source>, <year>2019</year>; <volume>62</volume>(<issue>4</issue>): <fpage>533</fpage>&#x2013;<lpage>545</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302889.ref114">
+        <label>114</label>
+        <mixed-citation publication-type="journal"><name><surname>Kear</surname><given-names>BP</given-names></name>. <article-title>First gut contents in a Cretaceous sea turtle</article-title>. <source>Biology Letters</source>, <year>2006</year>; <volume>2</volume>: <fpage>113</fpage>&#x2013;<lpage>115</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1098/rsbl.2005.0374</pub-id>
+<pub-id pub-id-type="pmid">17148341</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

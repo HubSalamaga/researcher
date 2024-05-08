@@ -1,0 +1,364 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">HIV AIDS (Auckl)</journal-id><journal-id journal-id-type="iso-abbrev">HIV AIDS (Auckl)</journal-id><journal-id journal-id-type="publisher-id">hiv</journal-id><journal-title-group><journal-title>HIV/AIDS (Auckland, N.Z.)</journal-title></journal-title-group><issn pub-type="epub">1179-1373</issn><publisher><publisher-name>Dove</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38711541</article-id><article-id pub-id-type="pmc">11073524</article-id><article-id pub-id-type="publisher-id">455885</article-id><article-id pub-id-type="doi">10.2147/HIV.S455885</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Time to Treatment Failure and Its Predictors Among Second-Line ART Clients in Amhara Region, Ethiopia: A Retrospective Follow-Up Study</article-title><alt-title alt-title-type="running-authors">Abuhay et al</alt-title><alt-title alt-title-type="running-title">Abuhay et al</alt-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9538-7612</contrib-id><name><surname>Abuhay</surname><given-names>Habtamu Wagnew</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="an0001" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Endalew</surname><given-names>Tizazu</given-names></name><xref rid="aff0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Birhan</surname><given-names>Tilahun Yemanu</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ft0001" ref-type="author-notes">*</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Muche</surname><given-names>Achenef Asmamaw</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="ft0001" ref-type="author-notes">*</xref></contrib><aff id="aff0001"><label>1</label><institution>Department of Epidemiology and Biostatistics, Institute of Public Health, College of Medicine and Health Sciences, University of Gondar</institution>, <addr-line>Gondar</addr-line>, <country>Ethiopia</country></aff><aff id="aff0002"><label>2</label><institution>University of Gondar Compressive Specialized Hospital</institution>, <addr-line>Gondar</addr-line>, <country>Ethiopia</country></aff></contrib-group><author-notes><corresp id="an0001">Correspondence: Habtamu Wagnew Abuhay, <phone content-type="general">Tel +251918172838</phone>, Email hab7wagnew@gmail.com</corresp><fn id="ft0001"><label>*</label><p>These authors contributed equally to this work</p></fn></author-notes><pub-date pub-type="epub"><day>02</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>16</volume><fpage>183</fpage><lpage>192</lpage><history><date date-type="received"><day>20</day><month>12</month><year>2023</year></date><date date-type="accepted"><day>26</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Abuhay et al.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Abuhay et al.</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at <ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link> and incorporate the Creative Commons Attribution &#x2013; Non Commercial (unported, v3.0) License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">http://creativecommons.org/licenses/by-nc/3.0/</ext-link>). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (<ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link>).</license-p></license></permissions><abstract><sec id="s2001"><title>Background</title><p>Second-line antiretroviral treatment failure has become a major public health issue, and the time to treatment failure among second-line ART clients varies globally, and the Sub-Saharan African region having a high rate of second-line ART treatment failures. In addition, after the ART treatment guideline changed there is limited information on Ethiopia. Therefore, this study aimed to assess time to treatment failure and its determinants among second-line ART clients in Amhara Region, Ethiopia.</p></sec><sec id="s2002"><title>Methods</title><p>A multi-centered retrospective follow-up study was conducted. A random sample of 860 people on second-line ART was selected by using a computer-generated simple random sampling technique from January 30, 2016, to January 30, 2021, at the University of Gondar Compressive Specialized Hospital, Felege Hiwot Compressive Specialized Referral Hospital, and Debre Tabor Compressive Specialized Referral Hospital, in Amhara region, Ethiopia. Data was captured using a checklist.</p></sec><sec id="s2003"><title>Results</title><p>A total of 81 (9.4%) ART clients developed second-line treatment failure, with a median follow-up time of 29 months with an interquartile range (IQR: 18, 41]. The risk of second-line treatment failure is higher among patients aged 15 to 30 years (adjusted hazard ratio (AHR) = 2.01, 95% confidence interval (CI): [1.16, 3.48]). Being unable to read and write (AHR = 1.312, 95% CI: [1.068, 1.613]), and poor ART drug adherence (AHR = 3.067, 95% CI: [1.845, 5.099]) were significant predictors of second-line ART treatment failures.</p></sec><sec id="s2004"><title>Conclusion</title><p>In the current study, the time to second-line ART treatment failure was high compared with a previous similar study in Ethiopia. Factors like being younger age, ART clients who are not being able to read and write, and having poor ART drug adherence was significant predictors of second-line ART treatment failure.</p></sec></abstract><kwd-group kwd-group-type="author"><title>Keywords</title><kwd>HIV/AIDS</kwd><kwd>treatment failure</kwd><kwd>second-line ART</kwd><kwd>retrospective study</kwd><kwd>Amhara region</kwd><kwd>Ethiopia</kwd></kwd-group><counts><fig-count count="1"/><table-count count="9"/><ref-count count="31"/><page-count count="10"/></counts></article-meta></front>
+  <body>
+    <sec id="s0001">
+      <title>Background</title>
+      <p>HIV/AIDS continues to be a major global public health issue; in 2023, globally, an estimated 38.4 million people were living with HIV, and 650,000 people died from HIV-related causes.<xref rid="cit0001" ref-type="bibr">1</xref> Africa is the most affected region, in 2018, around 25.7 million people lived with HIV.<xref rid="cit0002" ref-type="bibr">2</xref> In Ethiopia, there were 610,000 HIV-infected patients; of those, around 404,405 patients were on antiretroviral therapy (ART).<xref rid="cit0003" ref-type="bibr">3</xref>,<xref rid="cit0004" ref-type="bibr">4</xref></p>
+      <p>ART should be initiated for all individuals living with HIV immediately after confirming the diagnosis, and it reduces morbidity and mortality rates among HIV-infected people.<xref rid="cit0004" ref-type="bibr">4</xref>,<xref rid="cit0005" ref-type="bibr">5</xref> Monitoring the viral load of individuals receiving ART is important to ensure successful treatment and determine whether treatment failure occurs. Routine viral load testing is a more sensitive indicator of treatment failure.<xref rid="cit0006" ref-type="bibr">6</xref> Currently, the possibility of treatment failure and the need for second-line ART are increasing as more and more people enroll in ART treatments.<sup>5</sup></p>
+      <p>Second-line ART is started after first-line ART fails, and the first-line regimen contains two nucleoside reverse transcript inhibitors (NRTI) and one non-nucleoside reverse transcript inhibitor (NNRTI). In the second-line regimen, added protease inhibitors (PI).<xref rid="cit0007" ref-type="bibr">7</xref> The benefit of the change of regimen from early failure of first-line to second-line ART is to decrease mortality and drug resistance, as well as to increase viral suppression.<xref rid="cit0008" ref-type="bibr">8</xref></p>
+      <p>The time to treatment failure for second-line ART varies both within and between countries. Studies, in low-income countries show that 18.8% of HIV-positive clients experience second-line treatment failure.<xref rid="cit0009" ref-type="bibr">9</xref> According to studies in South Africa, there was a median time of 54 months for treatment failure.<xref rid="cit0010" ref-type="bibr">10</xref> Other studies conducted indicated that the time to second-line treatment failure was&#xA0;13.23 months.<xref rid="cit0011" ref-type="bibr">11</xref> Various factors shorten the time to treatment failure of second-line ART among adults. These factors are younger age, being male, marital status (widowed), rural residence, WHO stage III and IV, and poor ART drug adherence status.<xref rid="cit0011" ref-type="bibr">11&#x2013;14</xref></p>
+      <p>According to the Ethiopian Public Health Institute&#x2019;s (EPHI) national routine viral load program data, 40 (20%) out of 198 patients sampled had virological failure for second-line ART treatment.<xref rid="cit0015" ref-type="bibr">15</xref> The definitions and criteria for ART treatment failure have changed. Previous studies used clinical failure, immunological failure, or both as criteria for ART treatment failure.</p>
+      <p>However, currently, viral load is recommended and used as the preferred monitoring method to diagnose and confirm treatment failure.<xref rid="cit0005" ref-type="bibr">5</xref> Despite this, there is no adequate information about the time to second-line treatment failure and its predictors&#xA0;in Ethiopia. Therefore, the purpose of this study aimed to determine the time to treatment failure and its predictors among clients receiving second-line ART in Amhara Region, Ethiopia.</p>
+    </sec>
+    <sec id="s0002">
+      <title>Methods</title>
+      <sec id="s0002-s2001">
+        <title>Study Design, Period, and Setting</title>
+        <p>An institutional-based retrospective follow-up study was conducted from January 30, 2016, to January 30, 2021.</p>
+        <p>The study was conducted at the University of Gondar Compressive Specialized Referral Hospital (UoGCSRH), Felege Hiwot Compressive Specialized Referral Hospital, and Debre Tabor Compressive Specialized Referral Hospital, which are located in the Amhara National Regional State, Ethiopia.</p>
+      </sec>
+      <sec id="s0002-s2002">
+        <title>Sample and Population</title>
+        <p>All HIV-positive adults on second-line ART follow-up in Northwest Ethiopia were the source population.</p>
+        <p>All adults on second-line ART follow-ups at selected comprehensive and specialized referral hospitals in Amhara Region, from January 30, 2016, to January 30, 2021, were&#xA0;included in the study population. A total of 860 study subjects were estimated. The sample size was determined using a variable significantly associated with time to treatment failure among second-line ART clients from a previous study conducted in the Amhara region.<xref rid="cit0016" ref-type="bibr">16</xref> Using the following assumptions: power = 80%, &#x1FB3; = 0.05, &#xDF; = 0.2, withdrawal = 0.1, then adding 10% of the incompleteness of the chart, the Schoenfeld formula was used to determine the sample size.<xref rid="cit0017" ref-type="bibr">17</xref> Therefore, the large sample size selected is 782, adding to the incompleteness of the chart by 10%. Therefore, 860 was the total sample size for this study.</p>
+        <p>All patients enrolled in second-line ART attained at the ART clinic, and those aged greater than or equal to 15 years, were included in the study.</p>
+        <p>ART users&#x2019; incomplete documentation to the time of second-line ART treatment started, as well as an unknown date for second-line treatment failure, were excluded. In the Amhara region, there are eight referral hospitals, and the study was conducted in three randomly selected referral hospitals: The University of Gondar Compressive Specialized Hospital, Felege Hiwot Referral Hospital, and Debre Tabor Referral Hospital. After the random selection of hospitals, we distributed the sample size proportionally among those hospitals. In those referral hospitals, a total of 1470 clients registered on second-line ART service, and then we proportionally allocated the sample size from each hospital. Finally, the study participants&#x2019; charts were selected by using a computer-generated simple random sampling method.</p>
+      </sec>
+      <sec id="s0002-s2003">
+        <title>Data Collection Procedure, Study Variable, and Measurement</title>
+        <p>A structured English version of the data collection checklist was developed. Data was collected from medical records, registries, and computer databases. Two days of training were given to three ART nurses and one supervisor for each hospital. The checklist was pretested at UoGCSH by 30 ART clients.</p>
+        <p>The dependent variable for this study was time to treatment failure, and it was defined as the length of time from the start of second-line ART treatment until the patient has a high viral load level (&gt;1000 copies/mL) in two consecutive measurements is considered to have failed second-line antiretroviral treatment (ART).<xref rid="cit0005" ref-type="bibr">5</xref> This was determined by reviewing whether the patient was diagnosed with second-line ART failure or not on his or her medical record.</p>
+        <p>The independent variables were socio-demographic variables: age, sex, residence, marital status, educational status, and occupation.</p>
+        <p>Treatment and related factors: co-trimoxazol therapy, Isoniazid (INH) Preventive Therapy, drug regimen, second-line ART regimen, such as AZT+3TC+LPV/r (Zidovudine, Lamivudine, Lopinavir/ritonavir), AZT+3TC+ATV/r (Zidovudine, Lamivudine, Atazanavir/ritonavir), TDF+3TC+LPV/r (Tenofovir, Lamivudine, Lopinavir/ritonavir), TDF+3TC+ATV/r (Tenofovir, Lamivudine, Atazanavir/ritonavir), ABC+3TC+LPV/r (Abacavir, Lamivudine, Lopinavir/ritonavir).</p>
+        <p>HIV/AIDS and related factors, such as WHO stage, opportunistic infection, TB coinfection, adherence status, and functional status.</p>
+        <p>A structured and pre-tested checklist was used to collect the data. Twelve BSc nurses, as data collectors reviewed and extracted the data from patient charts and registries.</p>
+      </sec>
+      <sec id="s0002-s2004">
+        <title>Data Processing and Statistical Analysis</title>
+        <p>Data was checked and entered using Epi-data version 4.6 statistical software and then exported to STATA version 14.2 for analysis. Before analysis, data was edited, verified, cleaned, coded, and merged as necessary to make it suitable for analysis. In addition, multiple imputations were done to handle missing data. Descriptive statistics for categorical variables were done by percentages, frequencies, and graphs. Continuous variables were also described using mean, median, standard deviation, and IQR. A life table was used to estimate the cumulative survival of second-line ART clients. The time to treatment failure among second-line ART clients was estimated using Kaplan&#x2013;Meier (KM) and Log rank tests to compare survival times between groups of categorical variables.</p>
+        <p>From the survival sub-models, the Cox proportional hazard model was selected based on the lowest AIC values. The factors significantly associated with time to treatment failure in the bi-variable analysis at p-values less than 0.2 were included in the multivariable survival model. Variables in the multivariable Cox-proportional hazard model with a p-value &lt;0.05 that were contained in the 95% CI were considered significant. Proportional hazard assumptions were also checked using the cumulative hazard plot and global test, both of which indicate PHA was satisfied.</p>
+      </sec>
+    </sec>
+    <sec id="s0003">
+      <title>Results</title>
+      <sec id="s0003-s2001">
+        <title>Socio-Demographic Characteristics</title>
+        <p>In this study, a total of 860 second-line ART patients were included. The mean (SD) age of study participants was 39.28 (11.36) years. The majority of study participants, 449 (52.2%) and 717 (83.1%) were males and urban residents, respectively. Nearly half of the study participants, 428 (49.3%) and 463 (53.84%), were married and had secondary and above educational status, respectively (<xref rid="t0001" ref-type="table">Table 1</xref>).<table-wrap position="float" id="t0001"><label>Table 1</label><caption><p>Socio-Demographic Characteristics of ART Clients on Treatment at in Amhara Region, Ethiopia, January 30, 2016-January 30, 2021 (n = 860)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Variables</th><th rowspan="1" colspan="1">Categories</th><th rowspan="1" colspan="1">Frequency</th><th rowspan="1" colspan="1">Percent (%)</th></tr></thead><tbody><tr><td rowspan="2" colspan="1"><bold>Sex</bold></td><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">449</td><td rowspan="1" colspan="1">52.21</td></tr><tr><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">411</td><td rowspan="1" colspan="1">47.79</td></tr><tr><td rowspan="2" colspan="1"><bold>Residence</bold></td><td rowspan="1" colspan="1">Urban</td><td rowspan="1" colspan="1">715</td><td rowspan="1" colspan="1">83.13</td></tr><tr><td rowspan="1" colspan="1">Rural</td><td rowspan="1" colspan="1">145</td><td rowspan="1" colspan="1">16.87</td></tr><tr><td rowspan="4" colspan="1"><bold>Marital status</bold></td><td rowspan="1" colspan="1">Single</td><td rowspan="1" colspan="1">182</td><td rowspan="1" colspan="1">21.16</td></tr><tr><td rowspan="1" colspan="1">Married</td><td rowspan="1" colspan="1">424</td><td rowspan="1" colspan="1">49.30</td></tr><tr><td rowspan="1" colspan="1">Divorce</td><td rowspan="1" colspan="1">100</td><td rowspan="1" colspan="1">11.62</td></tr><tr><td rowspan="1" colspan="1">Widowed</td><td rowspan="1" colspan="1">154</td><td rowspan="1" colspan="1">17.90</td></tr><tr><td rowspan="3" colspan="1"><bold>Educational status</bold></td><td rowspan="1" colspan="1">Not being able to read and write</td><td rowspan="1" colspan="1">185</td><td rowspan="1" colspan="1">21.51</td></tr><tr><td rowspan="1" colspan="1">Primary</td><td rowspan="1" colspan="1">212</td><td rowspan="1" colspan="1">24.65</td></tr><tr><td rowspan="1" colspan="1">Secondary or above</td><td rowspan="1" colspan="1">463</td><td rowspan="1" colspan="1">53.84</td></tr><tr><td rowspan="6" colspan="1"><bold>Occupation</bold></td><td rowspan="1" colspan="1">Daily labor</td><td rowspan="1" colspan="1">128</td><td rowspan="1" colspan="1">14.88</td></tr><tr><td rowspan="1" colspan="1">Employed</td><td rowspan="1" colspan="1">322</td><td rowspan="1" colspan="1">37.45</td></tr><tr><td rowspan="1" colspan="1">Farmer</td><td rowspan="1" colspan="1">95</td><td rowspan="1" colspan="1">11.05</td></tr><tr><td rowspan="1" colspan="1">Housewife</td><td rowspan="1" colspan="1">92</td><td rowspan="1" colspan="1">10.70</td></tr><tr><td rowspan="1" colspan="1">Merchant</td><td rowspan="1" colspan="1">133</td><td rowspan="1" colspan="1">15.46</td></tr><tr><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">90</td><td rowspan="1" colspan="1">10.64</td></tr></tbody></table><table-wrap-foot><fn id="tfn0001"><p><bold>Note</bold>: Other= Student, None Employees.</p></fn></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+      <sec id="s0003-s2002">
+        <title>Treatment and HIV/AIDS-Related Characteristics</title>
+        <p>The majority of study participants, 697 (92%) had good adherence, and 734 (85%) were on isoniazid preventive therapy (IPT). Regarding the second-line ART regimen, nearly one-third of 306 (36%) patients were under AZT+3TC+ATV/r, and other 359 (42%) were under TDF+3TC+ATV/r, respectively (<xref rid="t0002" ref-type="table">Table 2</xref>).<table-wrap position="float" id="t0002"><label>Table 2</label><caption><p>Treatment and HIV/AIDS-Related Characteristics Among Second-Line ART Clients on Treatment in Amhara Region, Ethiopia, January 30, 2016-January 30, 2021</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Variables</th><th rowspan="1" colspan="1">Categories</th><th rowspan="1" colspan="1">Frequency</th><th rowspan="1" colspan="1">Percent (%)</th></tr></thead><tbody><tr><td rowspan="2" colspan="1"><bold>Adherence</bold></td><td rowspan="1" colspan="1">Good</td><td rowspan="1" colspan="1">697</td><td rowspan="1" colspan="1">92.44</td></tr><tr><td rowspan="1" colspan="1">Poor</td><td rowspan="1" colspan="1">57</td><td rowspan="1" colspan="1">7.56</td></tr><tr><td rowspan="2" colspan="1"><bold>Isoniazid preventive therapy (IPT)</bold></td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">734</td><td rowspan="1" colspan="1">85.35</td></tr><tr><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">126</td><td rowspan="1" colspan="1">14.65</td></tr><tr><td rowspan="2" colspan="1"><bold>Cotrimoxazole preventive therapy (CPT)</bold></td><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">765</td><td rowspan="1" colspan="1">88.95</td></tr><tr><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">95</td><td rowspan="1" colspan="1">11.05</td></tr><tr><td rowspan="6" colspan="1"><bold>Second-line ART Regimen</bold></td><td rowspan="1" colspan="1">AZT+3TC+LPV/r</td><td rowspan="1" colspan="1">36</td><td rowspan="1" colspan="1">4.19</td></tr><tr><td rowspan="1" colspan="1">AZT+3TC+ATV/r</td><td rowspan="1" colspan="1">306</td><td rowspan="1" colspan="1">35.58</td></tr><tr><td rowspan="1" colspan="1">TDF+3TC+LPV/r</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">2.90</td></tr><tr><td rowspan="1" colspan="1">TDF+3TC+ATV/r</td><td rowspan="1" colspan="1">359</td><td rowspan="1" colspan="1">41.74</td></tr><tr><td rowspan="1" colspan="1">ABC+3TC+LPV/r</td><td rowspan="1" colspan="1">21</td><td rowspan="1" colspan="1">2.44</td></tr><tr><td rowspan="1" colspan="1">Other</td><td rowspan="1" colspan="1">99</td><td rowspan="1" colspan="1">11.51</td></tr><tr><td rowspan="3" colspan="1"><bold>Functional Status</bold></td><td rowspan="1" colspan="1">Work</td><td rowspan="1" colspan="1">761</td><td rowspan="1" colspan="1">88.48</td></tr><tr><td rowspan="1" colspan="1">Ambulate</td><td rowspan="1" colspan="1">96</td><td rowspan="1" colspan="1">11.16</td></tr><tr><td rowspan="1" colspan="1">Bedridden</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">0.46</td></tr></tbody></table><table-wrap-foot><fn id="tfn0002"><p><bold>Abbreviations</bold>: AZT+3TC+LPV/r, Zidovudine, Lamivudine, Lopinavir/ritonavir; AZT+3TC+ATV/r, Zidovudine, Lamivudine, Atazanavir/ritonavir; TDF+3TC+LPV/r, Tenofovir, Lamivudine, Lopinavir/ritonavir; TDF+3TC+ATV/r, Tenofovir, Lamivudine, Atazanavir/ritonavir; ABC+3TC+LPV/r, Abacavir, Lamivudine, Lopinavir/ritonavir; Other, other specify Including DTG/Dolutegravir.</p></fn></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+      <sec id="s0003-s2003">
+        <title>Time to Treatment Failure Among Second-Line ART Patients</title>
+        <p>The patients were followed for a minimum of 6 and a maximum of 60 months, with a median follow-up time of 29 months [IQR, (18, 41)], and the median survival time to treatment failure was 31 months with an IQR of [25.0 to 38.7]. Out of 860 study participants followed, a total of 81 (9.4%), 95% CI [7.4, 11.3] ART clients developed second-line treatment failure in 25,970 person-months (PM) of observations. The incidence density was 3.01 per 1000 PM with a 95% CI of [2.51, 3.87] or 37 per 1000 person-year (PY) with a 95% CI of [30.0, 46.0].</p>
+        <p>The cumulative survival probability of the client was 0.913 at 10 months and 0.728 at 30 months. The cumulative survival probability for second-line ART treatment during the follow-up period was found to be decreased (<xref rid="f0001" ref-type="fig">Figure 1</xref>).<fig position="float" id="f0001" fig-type="figure"><label>Figure 1</label><caption><p>Overall Kaplan-Meier estimate for second-line ART clients on treatment in Amhara region, Ethiopia.</p></caption><graphic xlink:href="HIV-16-183-g0001" content-type="print-only" position="float"/></fig></p>
+      </sec>
+      <sec id="s0003-s2004">
+        <title>Variable Selection and Model Comparisons of Sub-Models</title>
+        <p>Variables substantially associated with second-line treatment failure in the bi-variable analysis with p-values less than 0.2 were included in the multivariable survival model. Then, variable selection precedes model comparison, done by using AIC, BIC, and log-likelihood to select a model among different survival sub-models. Based on our data, the Cox proportional hazard model was the best-fitted survival sub-model, which has the lowest log-likelihood, AIC, and BIC for the model comparison (<xref rid="t0003" ref-type="table">Table 3</xref>).<table-wrap position="float" id="t0003"><label>Table 3</label><caption><p>Summary of Model Comparisons for the Survival Sub-Models</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="6" align="center" rowspan="1">Survival sub-models</th></tr><tr><th rowspan="1" colspan="1">Model</th><th rowspan="1" colspan="1">Weibull</th><th rowspan="1" colspan="1">Cox</th><th rowspan="1" colspan="1">Exponential</th><th rowspan="1" colspan="1">Log-logistic</th><th rowspan="1" colspan="1">Log-normal</th></tr></thead><tbody><tr><td rowspan="1" colspan="1"><bold>AIC</bold></td><td rowspan="1" colspan="1">635.77</td><td rowspan="1" colspan="1"><bold>322.78</bold></td><td rowspan="1" colspan="1">666.72</td><td rowspan="1" colspan="1">636.56</td><td rowspan="1" colspan="1">641.13</td></tr><tr><td rowspan="1" colspan="1"><bold>BIC</bold></td><td rowspan="1" colspan="1">721.00</td><td rowspan="1" colspan="1"><bold>398.33</bold></td><td rowspan="1" colspan="1">747.21</td><td rowspan="1" colspan="1">7421.78</td><td rowspan="1" colspan="1">7426.35</td></tr><tr><td rowspan="1" colspan="1"><bold>Log-likelihood</bold></td><td rowspan="1" colspan="1">&#x2212;349.88</td><td rowspan="1" colspan="1"><bold>&#x2212;145.35</bold></td><td rowspan="1" colspan="1">&#x2212;0.366.36</td><td rowspan="1" colspan="1">&#x2212;350.28</td><td rowspan="1" colspan="1">&#x2212;352.56</td></tr></tbody></table><table-wrap-foot><fn id="tfn0003"><p><bold>Abbreviations</bold>: AIC, Akaike information criteria; BIC, Bayesian information criteria.</p></fn></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+      <sec id="s0003-s2005">
+        <title>Assessing Proportional Hazard Assumptions</title>
+        <p>To fit a survival sub-model, we have to assess the PHA of the model. The PHA states that the hazard ratio of the groups needs to be the same over time. We checked PHA using a cumulative hazard plot and the Schoenfeld residual test method (global test, X<sup>2</sup>= 21.68 with a p-value of 0.153). Both indicate PHA was satisfied.</p>
+      </sec>
+      <sec id="s0003-s2006">
+        <title>Predictors of Time to Second-Line ART Treatment Failure</title>
+        <p>The result showed that some covariates were found to be statistically significant for the time to second-line ART treatment failure.</p>
+        <p>After adjusting for other variables in the model, the age category of 15 to 30 second-line ART clients two times increases the risk of developing second-line treatment failure as compared to an age greater than 46 years, (AHR = 2.01, 95% CI [1.16&#x2013;3.48]).</p>
+        <p>When other variables are held constant, the risk of developing second-line treatment failure is 31% higher among ART clients who are not being able to read and write (AHR = 1.31, 95% CI [1.06&#x2013;1.61]) as compared to secondary and above educational statuses.</p>
+        <p>After adjusting for other variables in the model, the hazard of developing second-line treatment failure is 3.1 times higher among poor ART drug adherence compared to good ART drug adherence (AHR = 3.06, 95% CI [1.84&#x2013;5.09]), as presented in (<xref rid="t0004" ref-type="table">Table 4</xref>).<table-wrap position="float" id="t0004"><label>Table 4</label><caption><p>Factors Associated with Second-Line ART Treatment Failure Among ART Clients in Amhara Region, Ethiopia, January 30, 2016&#x2013;January 30, 2021</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" colspan="1">Variables</th><th rowspan="2" colspan="1">Categories</th><th colspan="2" rowspan="1">Second-line ART Treatment Failure</th><th rowspan="2" colspan="1">AHR (95% CI)</th><th rowspan="2" colspan="1">P-value</th></tr><tr><th rowspan="1" colspan="1">Censored</th><th rowspan="1" colspan="1">Event</th></tr></thead><tbody><tr><td rowspan="3" colspan="1"><bold>Age</bold></td><td rowspan="1" colspan="1">46 and above</td><td rowspan="1" colspan="1">287</td><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">31 to 45 age</td><td rowspan="1" colspan="1">450</td><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">1.21 [0.81&#x2013;1.74]</td><td rowspan="1" colspan="1">0.099</td></tr><tr><td rowspan="1" colspan="1">15 to 30 age</td><td rowspan="1" colspan="1">42</td><td rowspan="1" colspan="1">59</td><td rowspan="1" colspan="1">2.01 [1.16&#x2013;3.48]</td><td rowspan="1" colspan="1">0.000***</td></tr><tr><td rowspan="2" colspan="1"><bold>Sex</bold></td><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">388</td><td rowspan="1" colspan="1">23</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">391</td><td rowspan="1" colspan="1">58</td><td rowspan="1" colspan="1">0.92 [79&#x2013;1.06]</td><td rowspan="1" colspan="1">0.265</td></tr><tr><td rowspan="3" colspan="1"><bold>Educational status</bold></td><td rowspan="1" colspan="1">Secondary or above</td><td rowspan="1" colspan="1">440</td><td rowspan="1" colspan="1">23</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Primary</td><td rowspan="1" colspan="1">203</td><td rowspan="1" colspan="1">9</td><td rowspan="1" colspan="1">0.76 [0.46&#x2013;1.81]</td><td rowspan="1" colspan="1">0.085</td></tr><tr><td rowspan="1" colspan="1">Not being able to read and write</td><td rowspan="1" colspan="1">136</td><td rowspan="1" colspan="1">49</td><td rowspan="1" colspan="1">1.31 [1.06&#x2013;1.61]</td><td rowspan="1" colspan="1">0.010**</td></tr><tr><td rowspan="3" colspan="1"><bold>Functional status</bold></td><td rowspan="1" colspan="1">Ambulated</td><td rowspan="1" colspan="1">83</td><td rowspan="1" colspan="1">13</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Bedridden</td><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">0.50 [0.15&#x2013;1.60]</td><td rowspan="1" colspan="1">0.245</td></tr><tr><td rowspan="1" colspan="1">Work</td><td rowspan="1" colspan="1">698</td><td rowspan="1" colspan="1">68</td><td rowspan="1" colspan="1">0.80[0.63&#x2013;1.02]</td><td rowspan="1" colspan="1">0.078</td></tr><tr><td rowspan="2" colspan="1"><bold>Isoniazid preventive therapy (IPT)</bold></td><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">110</td><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">671</td><td rowspan="1" colspan="1">65</td><td rowspan="1" colspan="1">1.19 [0.96&#x2013;1.47]</td><td rowspan="1" colspan="1">0.098</td></tr><tr><td rowspan="2" colspan="1"><bold>Adherence</bold></td><td rowspan="1" colspan="1">Good</td><td rowspan="1" colspan="1">657</td><td rowspan="1" colspan="1">40</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Poor</td><td rowspan="1" colspan="1">41</td><td rowspan="1" colspan="1">16</td><td rowspan="1" colspan="1">3.06 [1.84&#x2013;5.09]</td><td rowspan="1" colspan="1">0.000***</td></tr></tbody></table><table-wrap-foot><fn id="tfn0004"><p><bold>Notes</bold>: ***Expressed as p-value <bold>&lt;</bold>0.001, **p-value <bold>&lt;</bold>0.01.</p></fn><fn id="tfn0005"><p><bold>Abbreviation</bold>: AHR, adjusted hazard ratio.</p></fn></table-wrap-foot></table-wrap>
+</p>
+      </sec>
+    </sec>
+    <sec id="s0004">
+      <title>Discussion</title>
+      <p>Second-line ART treatment failure is a major public health concern. It is associated with increased morbidity and mortality. People who fail second-line ART are at higher risk of developing serious opportunistic infections and AIDS-defining illnesses. It limits treatment options and contributes to the development of drug resistance. In addition, second-line failure is a particularly serious problem in resource-limited settings. Therefore, this study investigated the time to treatment failure and its predictors among second-line ART clients at referral hospitals in Amhara Region, Ethiopia. In this study, factors like age, educational status, and ART drug adherence were significantly associated with the risk of second-line ART treatment failure.</p>
+      <p>In this study, 81 (9.41%) study participants had failed second-line ART treatment, with a median survival time to treatment failure was 31 months. This result indicates that the time to second-line treatment failure was longer than in studies conducted in the Amhara region (13.23 months),<xref rid="cit0011" ref-type="bibr">11</xref> and studies conducted in four resource limited countries were 11.9 months.<xref rid="cit0018" ref-type="bibr">18</xref> However, it was lower than compared to studies in South Africa, with a median time to treatment failure of 54 months.<xref rid="cit0010" ref-type="bibr">10</xref> The possible reason for this variation might be due to the differences in the definition of treatment failure criteria. The current study used WHO 2016 virological treatment failure criteria in contrast to the prior study&#x2019;s use of WHO 2006 immunological and clinical failure criteria.<xref rid="cit0019" ref-type="bibr">19</xref>,<xref rid="cit0020" ref-type="bibr">20</xref></p>
+      <p>The overall incidence of treatment failure in this study was 37 per 1000 PY. This result is low as compared with studies done in Amhara,<xref rid="cit0021" ref-type="bibr">21</xref> and Tigray regions,<xref rid="cit0022" ref-type="bibr">22</xref> where the incidence rate of treatment failure was 61.7 and 72.3 per 1000 PY. However, this study&#x2019;s result was higher than that of a study conducted in southeast Ethiopia, at 9.38 per 1000 PY.<xref rid="cit0023" ref-type="bibr">23</xref> The reason for the difference could be related to the study time difference in the diagnostic criteria for treatment failure, the increase of more ART treatment facilities, and increased ART drug supply, all of which may be contributing to this discrepancy.</p>
+      <p>According to our findings, the hazard of second-line ART treatment failure was higher in patients in the younger age groups of 15 to 30 years compared to patients aged 46 and above. This result is in line with studies conducted in northeast Ethiopia,<xref rid="cit0024" ref-type="bibr">24</xref> Zimbabwe,<xref rid="cit0025" ref-type="bibr">25</xref> and Brazil,<xref rid="cit0026" ref-type="bibr">26</xref> where age less than 30 years has been associated with increased second-line treatment failure. This could be due to the fact that the prevalence of smoking and alcohol consumption is higher among young adults than among adolescents.<xref rid="cit0027" ref-type="bibr">27</xref> In addition, alcohol can interfere the metabolism and absorption of medications. It can also damage the liver, which is the primary organ responsible for metabolizing ART medications.<xref rid="cit0028" ref-type="bibr">28</xref></p>
+      <p>This study revealed that second-line treatment failure is higher among ART clients who are not being able to read and write as compared to those with secondary and higher educational status. This result disagrees with a study done in northeast Ethiopia, which showed that tertiary-level education had increased odds of treatment failure as compared to those who could not write or read.<xref rid="cit0029" ref-type="bibr">29</xref> The difference could be due to a methodological difference from the previous study, which was a case-control study, as well as a time difference contributing to the discrepancy.</p>
+      <p>In this study, it was found that patients who had poor second-line ART drug adherence increased the risk of treatment failure. This result is in agreement with previous studies in Ethiopia that show the rate of treatment failure is higher for clients who have poor ART drug adherence.<xref rid="cit0016" ref-type="bibr">16</xref> Also, other studies in sub-Saharan Africa and southern Vietnam support the finding that patients with suboptimal adherence to second-line treatment were independent predictors of treatment failure compared to patients with optimal adherence.<xref rid="cit0020" ref-type="bibr">20</xref>,<xref rid="cit0030" ref-type="bibr">30</xref> The possible reason could be because of poor ART drug adherence, in which patients take less of their ordered ART drugs, allows for more viral replication<xref rid="cit0031" ref-type="bibr">31</xref> which in turn increases viral loads and decreases CD4 count. Furthermore, ART clients will face treatment failure.</p>
+      <p>For those living with HIV, maintaining adherence to second-line antiretroviral medication is essential. Several important strategies have demonstrated potential for raising adherence to second-line ART, such as peer support and counseling, which can assist in identifying obstacles, formulating plans of action, and promoting strong commitment. Additionally, mobile phone interventions like medication trackers, SMS reminders, and educational messages can help reduce treatment failure and maximize adherence to ART treatment.</p>
+      <p>The clinical and public health implications of this study are enormous. This study was to provide valuable information to healthcare professionals and ART clients about factors associated with the risk of second-line treatment failure. Therefore, it helps to maximize the duration of second-line treatments and minimize the morbidity, mortality, and loss of productivity associated with treatment failures by identifying the variable most significantly associated with treatment failure in ART clients.</p>
+    </sec>
+    <sec id="s0005">
+      <title>Conclusion</title>
+      <p>In the current study, the time to second-line ART treatment failure was high compared with a previous similar study in Ethiopia. Factors like being younger age, not being able to read and write, and poor adherence were significant predictors of time to second-line ART treatment failure.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We would like to express our sincere gratitude to the University of Gondar College of Medicine and Health Sciences and the Institute of Public Health for all necessary services and support. We also want to thank selected referral hospital clinical directors and chart room workers for their contributions to this study.</p>
+    </ack>
+    <sec sec-type="data-availability" id="s0006">
+      <title>Data Sharing Statement</title>
+      <p>All result-based data are available within the manuscript and supporting information. The dataset used for this analysis can be provided after a reasonable request of the corresponding author.</p>
+    </sec>
+    <sec id="s0007">
+      <title>Ethical Approval and Informed Consent</title>
+      <p>This study was conducted in accordance with the Declaration of Helsinki. Ethical approval was obtained from the Institute of Public Health, College of Medicine and Health Sciences, University of Gondar Institutional Review Board (IRB) and the reference number was Ref No/IPH/1744/2013. Before we accessed the data from medical records, it was fully anonymized, and the IRB waived the requirement for informed consent. In addition, official permission was obtained from the clinical directors of the selected referral hospitals. The privacy of the patient&#x2019;s medical records was maintained; names were not included, and the checklist was kept locked.</p>
+    </sec>
+    <sec id="s0008">
+      <title>Author Contributions</title>
+      <p>All authors were involved in the conception, study design, execution, acquisition of data, analysis and interpretation, drafting the manuscript, revising or critically reviewing the manuscript, giving final approval of the version to be published, agreeing on the journal to which the article has been submitted, and agreeing to be accountable for all aspects of the work.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="s0009">
+      <title>Disclosure</title>
+      <p>The authors declare that they have no competing interests in this work.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="cit0001">
+        <label>1.</label>
+        <mixed-citation publication-type="webpage"><collab>World Health Organization WHO</collab>. <article-title>WHO fact sheet</article-title>; <year>2021</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.who.int/news-room/fact-sheets/detail/hiv-aids" ext-link-type="uri">https://www.who.int/news-room/fact-sheets/detail/hiv-aids</ext-link>. <date-in-citation>Accessed <month>April</month>
+<day>29</day>, 2024</date-in-citation>.</mixed-citation>
+      </ref>
+      <ref id="cit0002">
+        <label>2.</label>
+        <mixed-citation publication-type="webpage"><collab>World Health Organization</collab>
+<article-title>Africa Health topics HIV/AIDS</article-title>; <year>2018</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.afro.who.int/health-topics/hivaids#:~:text=In%20terms%20of%20people%20living,accounts%20for%205.4%20million%20PLHIV" ext-link-type="uri">https://www.afro.who.int/health-topics/hivaids#:~:text=In%20terms%20of%20people%20living,accounts%20for%205.4%20million%20PLHIV</ext-link>. <date-in-citation>Accessed <month>April</month>
+<day>29</day>, 2024</date-in-citation>.</mixed-citation>
+      </ref>
+      <ref id="cit0003">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Demsie</surname>
+<given-names>DG</given-names></string-name>, <string-name><surname>Bantie</surname>
+<given-names>AT</given-names></string-name>, <string-name><surname>Allene</surname>
+<given-names>MD</given-names></string-name>, <string-name><surname>Alema</surname>
+<given-names>NM</given-names></string-name>, <string-name><surname>Gebrie</surname>
+<given-names>D</given-names></string-name>. <article-title>Antiretroviral treatment failure among HIV-positive adults taking first-line therapy and associated risk factors at Adigrat General hospital, Adigrat, Ethiopia 2019: a cross sectional study</article-title>. <source><italic toggle="yes">Int J Surg Open</italic></source>. <year>2020</year>;<volume>26</volume>:<fpage>16</fpage>&#x2013;<lpage>21</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ijso.2020.08.001</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0004">
+        <label>4.</label>
+        <mixed-citation publication-type="webpage"><collab>Ethiopian factsheets UC</collab>. <article-title>ETHIOPIA, FEDERAL MINSTRY OF HEALTH</article-title>; <year>2021</year>. <comment>Available from</comment>: <ext-link xlink:href="https://www.unaids.org/en/regionscountries/countries/ethiopia" ext-link-type="uri">https://www.unaids.org/en/regionscountries/countries/ethiopia</ext-link>. <date-in-citation>Accessed <month>April</month>
+<day>29</day>, 2024</date-in-citation>.</mixed-citation>
+      </ref>
+      <ref id="cit0005">
+        <label>5.</label>
+        <mixed-citation publication-type="book"><string-name><surname>Ethiopia</surname>
+<given-names>F</given-names></string-name>. <source><italic toggle="yes">National Consolidated Guidelines for Comprehensive HIV Prevention, Care and Treatment</italic></source>. <publisher-loc>Addis Ababa</publisher-loc>: <publisher-name>Fmoh</publisher-name>; <year>2018</year>:<fpage>1</fpage>&#x2013;<lpage>238</lpage>.</mixed-citation>
+      </ref>
+      <ref id="cit0006">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Laxmeshwar</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Acharya</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Das</surname>
+<given-names>M</given-names></string-name>, et al. <article-title>Routine viral load monitoring and enhanced adherence counselling at a public ART centre in Mumbai, India</article-title>. <source><italic toggle="yes">PLoS One</italic></source>. <year>2020</year>;<volume>15</volume>(<issue>5</issue>):<fpage>e0232576</fpage>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0232576</pub-id><pub-id pub-id-type="pmid">32369504</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0007">
+        <label>7.</label>
+        <mixed-citation publication-type="newspaper"><collab>ETHIOPIA FMOH</collab>. <article-title>National guidelines for comprehensive HIV prevention, care and treatment</article-title>; <year>2014</year>.</mixed-citation>
+      </ref>
+      <ref id="cit0008">
+        <label>8.</label>
+        <mixed-citation publication-type="book"><collab>Update UGA</collab>. <source><italic toggle="yes">Communities at the Centre&#x2014;Defending Rights, Breaking Barriers, Reaching People with HIV Services</italic></source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>Update UGA</publisher-name>; <year>2019</year>:<fpage>316</fpage>.</mixed-citation>
+      </ref>
+      <ref id="cit0009">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Eholi&#xE9;</surname>
+<given-names>SP</given-names></string-name>, <string-name><surname>Aoussi</surname>
+<given-names>FE</given-names></string-name>, <string-name><surname>Ouattara</surname>
+<given-names>IS</given-names></string-name>, <string-name><surname>Bissagn&#xE9;n&#xE9;</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Anglaret</surname>
+<given-names>X</given-names></string-name>. <article-title>HIV treatment and care in resource&#x2010;constrained environments: challenges for the next decade</article-title>. <source><italic toggle="yes">J Internat AIDS Soc</italic></source>. <year>2012</year>;<volume>15</volume>(<issue>2</issue>):<fpage>17334</fpage>. doi:<pub-id pub-id-type="doi">10.7448/IAS.15.2.17334</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0010">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Evans</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Hirasen</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Berhanu</surname>
+<given-names>R</given-names></string-name>, et al. <article-title>Predictors of switch to and early outcomes on third-line antiretroviral therapy at a large public-sector clinic in Johannesburg, South Africa</article-title>. <source><italic toggle="yes">AIDS Res Ther</italic></source>. <year>2018</year>;<volume>15</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>12</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s12981-018-0196-9</pub-id><pub-id pub-id-type="pmid">29338735</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0011">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Alene</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Awoke</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Yenit</surname>
+<given-names>MK</given-names></string-name>, <string-name><surname>Tsegaye</surname>
+<given-names>AT</given-names></string-name>. <article-title>Incidence and predictors of second-line antiretroviral treatment failure among adults living with HIV in Amhara region: a multi-centered retrospective follow-up study</article-title>. <source><italic toggle="yes">BMC Infect Dis</italic></source>. <year>2019</year>;<volume>19</volume>(<issue>1</issue>):<fpage>599</fpage>. doi:<pub-id pub-id-type="doi">10.1186/s12879-019-4243-5</pub-id><pub-id pub-id-type="pmid">31288748</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0012">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Wong</surname>
+<given-names>JK</given-names></string-name>, <string-name><surname>G&#xFC;nthard</surname>
+<given-names>HF</given-names></string-name>, <string-name><surname>Havlir</surname>
+<given-names>DV</given-names></string-name>, et al. <article-title>Reduction of HIV-1 in blood and lymph nodes following potent antiretroviral therapy and the virologic correlates of treatment failure</article-title>. <source><italic toggle="yes">Proceed Nat Acad Sci</italic></source>
+<year>1997</year>;<volume>94</volume>(<issue>23</issue>):<fpage>12574</fpage>&#x2013;<lpage>12579</lpage>.</mixed-citation>
+      </ref>
+      <ref id="cit0013">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Collier</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Iwuji</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Derache</surname>
+<given-names>A</given-names></string-name>, et al. <article-title>Virological outcomes of second-line protease inhibitor&#x2013;based treatment for human immunodeficiency virus type 1 in a high-prevalence rural South African setting: a competing-risks prospective cohort analysis</article-title>. <source><italic toggle="yes">Clinl Infect Dis</italic></source>. <year>2017</year>;<volume>64</volume>(<issue>8</issue>):<fpage>1006</fpage>&#x2013;<lpage>1016</lpage>. doi:<pub-id pub-id-type="doi">10.1093/cid/cix015</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0014">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Wandeler</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Keiser</surname>
+<given-names>O</given-names></string-name>, <string-name><surname>Mulenga</surname>
+<given-names>L</given-names></string-name>, et al. <article-title>Tenofovir in second-line ART in Zambia and South Africa: collaborative analysis of cohort studies</article-title>. <source><italic toggle="yes">J Acqu Imm Defic Synd</italic></source>. <year>2012</year>;<volume>61</volume>(<issue>1</issue>):<fpage>41</fpage>. doi:<pub-id pub-id-type="doi">10.1097/QAI.0b013e3182632540</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0015">
+        <label>15.</label>
+        <mixed-citation publication-type="newspaper"><collab>Ethiopian Public Helth Instituete (EPHIA)</collab>. <article-title>Final Report pdf</article-title>; <year>2017</year>.</mixed-citation>
+      </ref>
+      <ref id="cit0016">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Endalamaw</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Mekonnen</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Geremew</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Yehualashet</surname>
+<given-names>FA</given-names></string-name>, <string-name><surname>Tesera</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Habtewold</surname>
+<given-names>TD</given-names></string-name>. <article-title>HIV/AIDS treatment failure and associated factors in Ethiopia: meta-analysis</article-title>. <source><italic toggle="yes">BMC Public Health</italic></source>. <year>2020</year>;<volume>20</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>12</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s12889-020-8160-8</pub-id><pub-id pub-id-type="pmid">31898494</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0017">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Schoenfeld</surname>
+<given-names>DA</given-names></string-name>. <article-title>Sample-size formula for the proportional-hazards regression model</article-title>. <source><italic toggle="yes">Biometrics</italic></source>. <year>1983</year>;<volume>39</volume>:<fpage>499</fpage>&#x2013;<lpage>503</lpage>. doi:<pub-id pub-id-type="doi">10.2307/2531021</pub-id><pub-id pub-id-type="pmid">6354290</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0018">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Pujades-Rodr&#xED;guez</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Balkan</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Arnould</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Brinkhof</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Calmy</surname>
+<given-names>A</given-names></string-name>. <article-title>Treatment failure and mortality factors in patients receiving second-line HIV therapy in resource-limited countries</article-title>. <source><italic toggle="yes">JAMA</italic></source>. <year>2010</year>;<volume>304</volume>(<issue>3</issue>):<fpage>303</fpage>&#x2013;<lpage>312</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2010.980</pub-id><pub-id pub-id-type="pmid">20639564</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0019">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Tsegaye</surname>
+<given-names>AT</given-names></string-name>, <string-name><surname>Alemu</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Ayele</surname>
+<given-names>TA</given-names></string-name>. <article-title>Incidence and determinants of mortality among adult HIV infected patients on second-line antiretroviral treatment in Amhara region, Ethiopia: a retrospective follow up study</article-title>. <source><italic toggle="yes">Pan Afr Med J</italic></source>. <year>2019</year>;<volume>2019</volume>:<fpage>33</fpage>.</mixed-citation>
+      </ref>
+      <ref id="cit0020">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Edessa</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Sisay</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Asefa</surname>
+<given-names>F</given-names></string-name>. <article-title>Second-line HIV treatment failure in sub-Saharan Africa: a systematic review and meta-analysis</article-title>. <source><italic toggle="yes">PLoS One</italic></source>. <year>2019</year>;<volume>14</volume>(<issue>7</issue>):<fpage>e0220159</fpage>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0220159</pub-id><pub-id pub-id-type="pmid">31356613</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0021">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Tsegaye</surname>
+<given-names>AT</given-names></string-name>, <string-name><surname>Wubshet</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Awoke</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Alene</surname>
+<given-names>KA</given-names></string-name>. <article-title>Predictors of treatment failure on second-line antiretroviral therapy among adults in northwest Ethiopia: a multicentre retrospective follow-up study</article-title>. <source><italic toggle="yes">BMJ open</italic></source>. <year>2016</year>;<volume>6</volume>(<issue>12</issue>):<fpage>e012537</fpage>. doi:<pub-id pub-id-type="doi">10.1136/bmjopen-2016-012537</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0022">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Zenebe Haftu</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Desta</surname>
+<given-names>AA</given-names></string-name>, <string-name><surname>Bezabih</surname>
+<given-names>NM</given-names></string-name>, et al. <article-title>Incidence and factors associated with treatment failure among HIV infected adolescent and adult patients on second-line antiretroviral therapy in public hospitals of Northern Ethiopia: multicenter retrospective study</article-title>. <source><italic toggle="yes">PLoS One</italic></source>. <year>2020</year>;<volume>15</volume>(<issue>9</issue>):<fpage>e0239191</fpage>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0239191</pub-id><pub-id pub-id-type="pmid">32986756</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0023">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Haile</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Takele</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Gashaw</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Demelash</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Nigatu</surname>
+<given-names>D</given-names></string-name>. <article-title>Predictors of treatment failure among Adult Antiretroviral Treatment (ART) clients in Bale zone hospitals, South Eastern Ethiopia</article-title>. <source><italic toggle="yes">PLoS One</italic></source>. <year>2016</year>;<volume>11</volume>(<issue>10</issue>):<fpage>e0164299</fpage>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0164299</pub-id><pub-id pub-id-type="pmid">27716827</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0024">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Seid</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Cherie</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Ahmed</surname>
+<given-names>K</given-names></string-name>. <article-title>Determinants of virologic failure among adults on second line antiretroviral therapy in Wollo, Amhara Regional State, Northeast Ethiopia</article-title>. <source><italic toggle="yes">HIV/AIDS-Res Palliative Care</italic></source>. <year>2020</year>;<volume>2020</volume>:<fpage>697</fpage>&#x2013;<lpage>706</lpage>.</mixed-citation>
+      </ref>
+      <ref id="cit0025">
+        <label>25.</label>
+        <mixed-citation publication-type="newspaper"><string-name><surname>Chimbetete</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Katzenstein</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Shamu</surname>
+<given-names>T</given-names></string-name>, et al. <article-title>HIV-1 drug resistance and third-line therapy outcomes in patients failing second-line therapy in Zimbabwe</article-title>. <source>Paper presented at: Open forum infectious diseases</source>; <year>2018</year>.</mixed-citation>
+      </ref>
+      <ref id="cit0026">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Cardoso</surname>
+<given-names>SW</given-names></string-name>, <string-name><surname>Luz</surname>
+<given-names>PM</given-names></string-name>, <string-name><surname>Velasque</surname>
+<given-names>L</given-names></string-name>, et al. <article-title>Outcomes of second-line combination antiretroviral therapy for HIV-infected patients: a cohort study from Rio de Janeiro, Brazil</article-title>. <source><italic toggle="yes">BMC Infect Dis</italic></source>. <year>2014</year>;<volume>14</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>11</lpage>. doi:<pub-id pub-id-type="doi">10.1186/s12879-014-0699-5</pub-id><pub-id pub-id-type="pmid">24380631</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0027">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Underwood</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>Brener</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Ford</surname>
+<given-names>CA</given-names></string-name>. <article-title>Amplifying improvements in the centers for disease control and prevention youth risk behavior surveillance system</article-title>. <source><italic toggle="yes">J Adolesc Health</italic></source>. <year>2020</year>;<volume>67</volume>(<issue>3</issue>):<fpage>338</fpage>&#x2013;<lpage>339</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.jadohealth.2020.06.023</pub-id><pub-id pub-id-type="pmid">32693985</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0028">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Ding</surname>
+<given-names>W-X</given-names></string-name>, <string-name><surname>Yang</surname>
+<given-names>L</given-names></string-name>. <article-title>Alcohol and drug-induced liver injury: metabolism, mechanisms, pathogenesis and potential therapies</article-title>. <source><italic toggle="yes">Liver Res</italic></source>. <year>2019</year>;<volume>3</volume>(<issue>3&#x2013;4</issue>):<fpage>129</fpage>&#x2013;<lpage>131</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.livres.2019.11.006</pub-id><pub-id pub-id-type="pmid">32309012</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0029">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Babo</surname>
+<given-names>YD</given-names></string-name>, <string-name><surname>Alemie</surname>
+<given-names>GA</given-names></string-name>, <string-name><surname>Fentaye</surname>
+<given-names>FW</given-names></string-name>. <article-title>Predictors of first-line antiretroviral therapy failure amongst HIV-infected adult clients at Woldia Hospital, Northeast Ethiopia</article-title>. <source><italic toggle="yes">PLoS One</italic></source>. <year>2017</year>;<volume>12</volume>(<issue>11</issue>):<fpage>e0187694</fpage>. doi:<pub-id pub-id-type="doi">10.1371/journal.pone.0187694</pub-id><pub-id pub-id-type="pmid">29095936</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0030">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Thao</surname>
+<given-names>VP</given-names></string-name>, <string-name><surname>Quang</surname>
+<given-names>VM</given-names></string-name>, <string-name><surname>Wolbers</surname>
+<given-names>M</given-names></string-name>, et al. <article-title>Second-line HIV therapy outcomes and determinants of mortality at the largest HIV referral center in Southern Vietnam</article-title>. <source><italic toggle="yes">Medicine</italic></source>. <year>2015</year>;<volume>94</volume>(<issue>43</issue>):<fpage>e1715</fpage>. doi:<pub-id pub-id-type="doi">10.1097/MD.0000000000001715</pub-id><pub-id pub-id-type="pmid">26512561</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0031">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Tegegne</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Mamo</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Negash</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Habte</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Gobena</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Letta</surname>
+<given-names>S</given-names></string-name>. <article-title>Poor adherence to highly active antiretroviral therapy and associated factors among people living with HIV in Eastern Ethiopia</article-title>. <source><italic toggle="yes">SAGE Open Medicine</italic></source>. <year>2022</year>;<volume>10</volume>:<fpage>20503121221104429</fpage>. doi:<pub-id pub-id-type="doi">10.1177/20503121221104429</pub-id><pub-id pub-id-type="pmid">35769492</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

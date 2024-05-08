@@ -1,0 +1,566 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Transplant Direct</journal-id><journal-id journal-id-type="iso-abbrev">Transplant Direct</journal-id><journal-id journal-id-type="publisher-id">TXD</journal-id><journal-title-group><journal-title>Transplantation Direct</journal-title></journal-title-group><issn pub-type="epub">2373-8731</issn><publisher><publisher-name>Lippincott Williams &amp; Wilkins</publisher-name><publisher-loc>Hagerstown, MD</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">11073772</article-id><article-id pub-id-type="publisher-id">TXD-2023-0202</article-id><article-id pub-id-type="art-access-id">00001</article-id><article-id pub-id-type="doi">10.1097/TXD.0000000000001605</article-id><article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" article-version-type="Version of Record">3</article-version><article-categories><subj-group subj-group-type="heading"><subject>Liver Transplantation</subject></subj-group></article-categories><title-group><article-title>A Decade of Liver Transplantation in the United States: Drivers of Discard and Underutilization</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Torabi</surname><given-names>Julia</given-names></name><degrees>MD</degrees><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Todd</surname><given-names>Rachel</given-names></name><degrees>BA</degrees><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>van Leeuwen</surname><given-names>L. Leonie</given-names></name><degrees>PhD</degrees><email>leonie.vanleeuwen@mountsinai.org</email><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Bekki</surname><given-names>Yuki</given-names></name><degrees>MD</degrees><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Holzner</surname><given-names>Matthew</given-names></name><degrees>MD</degrees><email>matthew.holzner@mountsinai.org</email><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Moon</surname><given-names>Jang</given-names></name><degrees>MD</degrees><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Schiano</surname><given-names>Tom</given-names></name><degrees>MD</degrees><email>Thomas.schiano@mountsinai.org</email><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Florman</surname><given-names>Sander S.</given-names></name><degrees>MD</degrees><email>sander.florman@mountsinai.org</email><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4291-1385</contrib-id><name><surname>Akhtar</surname><given-names>Mohammed Zeeshan</given-names></name><degrees>BM, BCh, FRCS</degrees><xref rid="aff3" ref-type="aff">3</xref></contrib><aff id="aff1"><label>1</label> Department of General Surgery, Mount Sinai Hospital, New York, NY.</aff><aff id="aff2"><label>2</label> Icahn School of Medicine at Mount Sinai, New York, NY.</aff><aff id="aff3"><label>3</label> Recanati/Miller Transplantation Institute, Mount Sinai Hospital, New York, NY.</aff></contrib-group><author-notes><corresp id="c1">Correspondence: Mohammed Zeeshan Akhtar, BM, BCh, FRCS, Recanati/Miller Transplantation Institute, 5 East 98th St, New York, NY 10029. (<email xlink:href="zeeshan.akhtar@mountsinai.org">zeeshan.akhtar@mountsinai.org</email>).</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2024</year></pub-date><volume>10</volume><issue>6</issue><elocation-id>e1605</elocation-id><history><date date-type="received"><day>14</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>19</day><month>12</month><year>2023</year></date></history><permissions><copyright-statement>Copyright &#xA9; 2024 The Author(s). Transplantation Direct. Published by Wolters Kluwer Health, Inc.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0 (CCBY)</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xlink:href="txd-10-e1605.pdf"/><abstract><sec><title>Background:</title><p>Organ shortage remains a major challenge for the field of transplantation. Maximizing utilization and minimizing discard of available organs is crucial to reduce waitlist times. Our aim was to investigate the landscape of liver recovery, discard over the past decade in the United States, and identify areas to reduce organ discard.</p></sec><sec><title>Methods:</title><p>This study used the Scientific Registry of Transplant Recipients United Network for Organ Sharing database to analyze the rates and associated reasons of discarded organs from 2010 to 2021. All deceased donors were evaluated, and data were analyzed by organ type, year, and region. Organ disposition was analyzed by year and region. Donor demographics and liver biopsy data were also analyzed.</p></sec><sec><title>Results:</title><p>The volume of liver transplantation increased steadily, with a 44% increase from 2010 to 2021. Donation after circulatory death transplantation increased by 239%, comprising 10.6% of transplants in 2021, yet discard rates remained high at 30% for this donor subset. For all donor types, the liver discard rate has remained stable around 10% despite a 74% increase in available donors. Seventy percent of liver discards were attributed to organ factors, with biopsy findings accounting for 40% of all discards. Of livers that were biopsied, 70% had macrosteatosis of &lt;30%.</p></sec><sec><title>Conclusions:</title><p>Analysis of trends in transplantation and discard allow for identifying areas of underutilization. Donation after circulatory death livers have expanded the pool of transplanted livers but remain discarded at high rates. Significant differences remain in discard rates between geographic regions. We identify several areas to lower the discard rates. The expanding role of machine perfusion may allow for utilization of previously discarded organs.</p></sec></abstract><custom-meta-group><custom-meta><meta-name>OPEN-ACCESS</meta-name><meta-value>TRUE</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <p>The organ shortage continues to be one of the major challenges in abdominal transplantation. In the United States, mortality on the waitlist approaches 25% for those without exception points. At the end of 2020, 12.1% of liver patients have remained on the waitlist for &gt;5 y.<sup><xref rid="R1" ref-type="bibr">1</xref></sup> In Europe, for comparison, the wait time for organs is much lower.<sup><xref rid="R2" ref-type="bibr">2</xref></sup> Given the lifesaving and disease-altering nature of liver transplantation, the lack of availability of good-quality organs translates to loss of significant numbers of life years, and the need to address the organ deficit remains one of the greatest challenges in transplantation.</p>
+    <p>Over the last decade, concerted efforts have been made to mitigate the organ deficit. These include expansion of the deceased donor pool via use of older donors, hepatitis C-positive donors, and increasingly utilizing donors declared dead based on cardiovascular criteria, or donation after circulatory death (DCD).<sup><xref rid="R3" ref-type="bibr">3</xref>-<xref rid="R6" ref-type="bibr">6</xref></sup></p>
+    <p>The allocation policy has also been reformed repeatedly in attempts to maximize the sharing potential and to recover organs for those patients who need them the most.<sup><xref rid="R7" ref-type="bibr">7</xref>,<xref rid="R8" ref-type="bibr">8</xref></sup> Other innovative advancements such as organ preservation with hypothermic and normothermic perfusion pumps and normothermic regional perfusion (NRP) of DCD donors offer promising potential to reshape the field of transplant.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R10" ref-type="bibr">10</xref></sup></p>
+    <p>Areas for consideration in addressing the organ deficit include understanding what proportion of currently discarded organs are being underutilized, that is, either discarded after procurement or not procured at all, and considering what proportion of these organs could potentially be salvaged and utilized for transplant. While there are clear indications for discarding organs, such as malignancy, many factors contribute to the complex decision-making process as to whether to accept or reject an organ for an individual. The advent of modern technologies, biomarkers, logistical flexibility, and further insights into biology of organ injury could allow for safely increasing utilization of discarded organs.</p>
+    <p>We sought to understand the national landscape of liver recovery and discard over the last 11 y. Our goal was to reexamine drivers of discard and nonutilization, using this as a basis to evaluate the success of interventions made and to identify areas for development. We sought to understand how discard and underutilization were related to several factors, including donor type and the underlying factors that led to organ discard and donor underutilization.</p>
+    <sec sec-type="methods">
+      <title>MATERIALS AND METHODS</title>
+      <p>To perform this study, we used data from the Scientific Registry of Transplant Recipients data. This database includes information on all US donors, candidates on the waitlist, and those who have received transplants submitted by members of the Organ Procurement and Transplantation Network. Our analysis included all data from the &#x201C;Deceased Donor&#x201D; file from January 1, 2010, to December 1, 2021.</p>
+      <p>Using the &#x201C;Deceased Donor&#x201D; file, data were extracted for all donors and analyzed by organ type. Data relevant to the following endpoints were extracted total number of donors, recovered organs, discarded organs, and transplanted organs. These were used to calculate discard rates by year. Donor factors such as donation after expanded criteria donor (ECD), DCD, Kidney Donor Profile Index, and biopsy findings were extracted. Nonrecovery and discard reasons were extracted using the database codes. For liver donors given the considerable number of discards coded as &#x201C;other,&#x201D; we used the variable &#x201C;LI_DISCARD_CD_OSTXT&#x201D; to reclassify the reason for discard. In the evaluation of ECDs, we reclassified donors as standard criteria donors, DCD, and ECD using the variables &#x201C;ECD_DONOR&#x201D; and &#x201C;NON_HRT_DONOR.&#x201D; Thus, ECD donors included all ECDs except for DCD donors.</p>
+      <p>Discard rate was the ratio of number of discarded livers to the number of recovered livers. Analysis was performed of the discard rate per region. Regions were grouped into high, medium, and low discard based on the following criteria. The range of discard rates were divided into tertiles (low: 4.7&#x2013;8.5, moderate: 8.5&#x2013;12.3, high: 12.3&#x2013;16). To evaluate this further, we reviewed the ratio between organ discard and transplants performed per region as a comparator.</p>
+      <p>Statistical analysis was performed using IBM SPSS, Version 28.0.0.0. Graphs were generated using GraphPad Prism 9.3.1. This study was approved by the Institutional Review Board.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTS</title>
+      <sec>
+        <title>Liver Volumes, Sharing of Organs, Discard Rates, and Nonrecovery</title>
+        <p>There was a 74% increase in available donors from 2010 to 2021 (7943&#x2013;13&#x2009;863 available donors), equating to an average increment of 538 donors per annum. From 2010 to 2021, the overall volume of liver transplantation increased by 44%. The percentage of livers from potential donors that went unrecovered increased from 17% to 31% over the 11-y period. Discard rates of recovered livers remained stable with a low of 8.3% in 2018 and a high of 10.4% in 2012 (Figure <xref rid="F1" ref-type="fig">1</xref>).</p>
+        <fig position="float" id="F1">
+          <label>FIGURE 1.</label>
+          <caption>
+            <p>Liver transplant volume and discard rate from 2010 to 2021. A, All potential deceased donor livers and outcome of nonrecovery, discard, or transplantation from 2010 to 2021. B, The national nonrecovery rate and discard rate of recovered deceased donor liver allografts.</p>
+          </caption>
+          <graphic xlink:href="txd-10-e1605-g001" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Transplant and Discard Rates by Donor Type</title>
+        <p>Standard criteria and extended criteria DBD donors had modest increases of utilization of 36% and 32%, respectively, &gt;11 y. From 2010 to 2021, transplantation of DCD donors increased by 239%, accounting for 10.6% of transplanted livers in 2021 compared with only 4.5% in 2010. Standard donor discard rates had a slight decrease from 6.4% to 5.2%. ECD donors discard rates decreased from 15.6% to 12%. Discard rates were highest for DCD donors, although, with a slight decrease from 32.9% in 2010 to 29.4% in 2021 (Figure <xref rid="F2" ref-type="fig">2</xref>).</p>
+        <fig position="float" id="F2">
+          <label>FIGURE 2.</label>
+          <caption>
+            <p>Discard and utilization of SCD, ECD, and DCD donors between 2010 and 2021. A, Transplanted livers by donor type from 2010 to 2021. B, Discarded livers by donor type between 2010 and 2021. C, Discard rate by donor type between 2010 and 2021. DCD, donation after circulatory death; ECD, expanded criteria donor; SCD, standard criteria donor.</p>
+          </caption>
+          <graphic xlink:href="txd-10-e1605-g002" position="float"/>
+        </fig>
+        <p>The mean donor age of transplanted livers remained relatively static between 38 and 40 y old. For discarded and nonrecovered livers, the mean donor age was higher ranging from 44&#x2013;47 y to 41&#x2013;46 y, respectively (Figure <xref rid="F3" ref-type="fig">3</xref>A). Similarly, donor body mass index for transplanted livers remained static with a mean between 27 and 28&#x2009;kg/m<sup>2</sup>. Discarded and nonrecovered liver donor body mass index trended slightly upward 29&#x2013;31 (Figure <xref rid="F3" ref-type="fig">3</xref>B).</p>
+        <fig position="float" id="F3">
+          <label>FIGURE 3.</label>
+          <caption>
+            <p>How age and BMI correlate with usability of organs for transplant. Donor (A) age and (B) BMI of transplanted, discard, and nonrecovered liver grafts between 2010 and 2021. BMI, body mass index.</p>
+          </caption>
+          <graphic xlink:href="txd-10-e1605-g003" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Regional Trends in Discards Rates</title>
+        <p>Overall discard rates during the 11-y period varied substantially by region with the lowest rate of discard occurring in region 3 (4.7%) and the highest rate occurring in region 2 (16%) (Table <xref rid="T1" ref-type="table">1</xref>). Within regions, there was yearly fluctuation of discard rates between 2010 and 2021 (Figure <xref rid="F4" ref-type="fig">4</xref>). Regions 3, 4, 7, 8, and 11 had relatively low variability in discard rate of &lt;5% range of discard rates. While regions 1, 5, 6, and 9 had greater variability with range of discard rates &gt;9%.</p>
+        <table-wrap position="float" id="T1">
+          <label>TABLE 1.</label>
+          <caption>
+            <p>Regional comparison of discard rates and ECD donor utilization</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Regional discard rate tertile</th>
+                <th align="center" rowspan="1" colspan="1">Region</th>
+                <th align="center" rowspan="1" colspan="1">Discard rate (%)</th>
+                <th align="center" rowspan="1" colspan="1">Transplant volume (n/1000)</th>
+                <th align="center" rowspan="1" colspan="1">Range of yearly discard rate between 2010 and 2021 (%)</th>
+                <th align="center" rowspan="1" colspan="1">Transplant/discard ratio</th>
+                <th align="center" rowspan="1" colspan="1">Transplants imported from other region (%)</th>
+                <th align="center" rowspan="1" colspan="1">DCD transplants (%)</th>
+                <th align="center" rowspan="1" colspan="1">Transplanted grafts with steatosis &gt;30% (%)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">High</td>
+                <td align="center" rowspan="1" colspan="1">2</td>
+                <td align="center" rowspan="1" colspan="1">16.0</td>
+                <td align="center" rowspan="1" colspan="1">9.8</td>
+                <td align="center" rowspan="1" colspan="1">6.3</td>
+                <td align="center" rowspan="1" colspan="1">5.2</td>
+                <td align="center" rowspan="1" colspan="1">14.8</td>
+                <td align="center" rowspan="1" colspan="1">5.4</td>
+                <td align="center" rowspan="1" colspan="1">1.9</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">6</td>
+                <td align="center" rowspan="1" colspan="1">14.5</td>
+                <td align="center" rowspan="1" colspan="1">2.9</td>
+                <td align="center" rowspan="1" colspan="1">16.5</td>
+                <td align="center" rowspan="1" colspan="1">5.9</td>
+                <td align="center" rowspan="1" colspan="1">15.3</td>
+                <td align="center" rowspan="1" colspan="1">10.0</td>
+                <td align="center" rowspan="1" colspan="1">0.8</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">5</td>
+                <td align="center" rowspan="1" colspan="1">12.6</td>
+                <td align="center" rowspan="1" colspan="1">12.4</td>
+                <td align="center" rowspan="1" colspan="1">9.5</td>
+                <td align="center" rowspan="1" colspan="1">6.9</td>
+                <td align="center" rowspan="1" colspan="1">2.2</td>
+                <td align="center" rowspan="1" colspan="1">7.7</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Moderate</td>
+                <td align="center" rowspan="1" colspan="1">1</td>
+                <td align="center" rowspan="1" colspan="1">10.0</td>
+                <td align="center" rowspan="1" colspan="1">2.6</td>
+                <td align="center" rowspan="1" colspan="1">10.7</td>
+                <td align="center" rowspan="1" colspan="1">9.0</td>
+                <td align="center" rowspan="1" colspan="1">10.2</td>
+                <td align="center" rowspan="1" colspan="1">5.7</td>
+                <td align="center" rowspan="1" colspan="1">2.6</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">8.7</td>
+                <td align="center" rowspan="1" colspan="1">7.7</td>
+                <td align="center" rowspan="1" colspan="1">8.7</td>
+                <td align="center" rowspan="1" colspan="1">10.5</td>
+                <td align="center" rowspan="1" colspan="1">13.3</td>
+                <td align="center" rowspan="1" colspan="1">9.3</td>
+                <td align="center" rowspan="1" colspan="1">5</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">8</td>
+                <td align="center" rowspan="1" colspan="1">8.5</td>
+                <td align="center" rowspan="1" colspan="1">6.1</td>
+                <td align="center" rowspan="1" colspan="1">4.2</td>
+                <td align="center" rowspan="1" colspan="1">10.7</td>
+                <td align="center" rowspan="1" colspan="1">15.3</td>
+                <td align="center" rowspan="1" colspan="1">6.8</td>
+                <td align="center" rowspan="1" colspan="1">3.6</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">7</td>
+                <td align="center" rowspan="1" colspan="1">8.3</td>
+                <td align="center" rowspan="1" colspan="1">6.6</td>
+                <td align="center" rowspan="1" colspan="1">4.0</td>
+                <td align="center" rowspan="1" colspan="1">11.0</td>
+                <td align="center" rowspan="1" colspan="1">9.2</td>
+                <td align="center" rowspan="1" colspan="1">10</td>
+                <td align="center" rowspan="1" colspan="1">4.7</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Low</td>
+                <td align="center" rowspan="1" colspan="1">11</td>
+                <td align="center" rowspan="1" colspan="1">7.9</td>
+                <td align="center" rowspan="1" colspan="1">9.7</td>
+                <td align="center" rowspan="1" colspan="1">4.7</td>
+                <td align="center" rowspan="1" colspan="1">11.6</td>
+                <td align="center" rowspan="1" colspan="1">19.1</td>
+                <td align="center" rowspan="1" colspan="1">5.2</td>
+                <td align="center" rowspan="1" colspan="1">5.6</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">4</td>
+                <td align="center" rowspan="1" colspan="1">7.7</td>
+                <td align="center" rowspan="1" colspan="1">8.6</td>
+                <td align="center" rowspan="1" colspan="1">5.0</td>
+                <td align="center" rowspan="1" colspan="1">11.9</td>
+                <td align="center" rowspan="1" colspan="1">8.7</td>
+                <td align="center" rowspan="1" colspan="1">6.1</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">9</td>
+                <td align="center" rowspan="1" colspan="1">7.0</td>
+                <td align="center" rowspan="1" colspan="1">3.6</td>
+                <td align="center" rowspan="1" colspan="1">13.2</td>
+                <td align="center" rowspan="1" colspan="1">13.3</td>
+                <td align="center" rowspan="1" colspan="1">13.8</td>
+                <td align="center" rowspan="1" colspan="1">5.2</td>
+                <td align="center" rowspan="1" colspan="1">4</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1">3</td>
+                <td align="center" rowspan="1" colspan="1">4.7</td>
+                <td align="center" rowspan="1" colspan="1">15.2</td>
+                <td align="center" rowspan="1" colspan="1">1.8</td>
+                <td align="center" rowspan="1" colspan="1">20.3</td>
+                <td align="center" rowspan="1" colspan="1">9.0</td>
+                <td align="center" rowspan="1" colspan="1">6.0</td>
+                <td align="center" rowspan="1" colspan="1">1.2</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="other">
+              <p>DCD, donation after circulatory dearth; ECD, expanded criteria donor.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <fig position="float" id="F4">
+          <label>FIGURE 4.</label>
+          <caption>
+            <p>Discard rates and transplant volume between 2010 and 2021 by region.</p>
+          </caption>
+          <graphic xlink:href="txd-10-e1605-g004" position="float"/>
+        </fig>
+        <p>Regions were grouped into tertiles of low, moderate and high discard. There was no correlation between discard rate and transplant volume within regions (Table <xref rid="T1" ref-type="table">1</xref>). Nor was there any correlation between discard rates and percent of transplants imported from other regions (Table <xref rid="T1" ref-type="table">1</xref>; Figure <xref rid="F4" ref-type="fig">4</xref>). Regional variation of DCD utilization ranged between 5.2% and 10.0%, with regions 6, 7, and 10 being highest utilizers of DCD donors (9.3%&#x2013;10%).</p>
+      </sec>
+      <sec>
+        <title>Factors Driving Organ Discard</title>
+        <p>The predominant reasons for discarding were organ factors (70%) and procurement factors (18%). The most common organ factor cited as reason for discard was biopsy findings, which accounted for 40% of all discards. Other discard reasons related to organ factors included diseased or unsuitable organ (17%), anatomic abnormalities (8%), and organ size (2%). Factors attributed to liver discard related to procurement factors included prolonged warm ischemic time (8.7%), organ trauma (3.5%), poor procurement flush (11.9%), and prolonged cold ischemic time (3.4%). Notably, 3.2% of livers were discarded due to recipient issues and were unable to be reallocated. No recipient was able to be located after the initial center declined in 5.5% of livers (Table <xref rid="T2" ref-type="table">2</xref>).</p>
+        <table-wrap position="float" id="T2">
+          <label>TABLE 2.</label>
+          <caption>
+            <p>Factors attributed to liver discard after recovery or liver nonrecovery</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Reasons for liver discard</th>
+                <th align="center" rowspan="1" colspan="1">n (%)</th>
+                <th align="center" rowspan="1" colspan="1">Reason for nonrecovery</th>
+                <th align="center" rowspan="1" colspan="1">n (%)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Donor factors</td>
+                <td align="center" rowspan="1" colspan="1">102 (1.1)</td>
+                <td align="left" rowspan="1" colspan="1">Donor factors</td>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Procurements factors</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Donor history</td>
+                <td align="center" rowspan="1" colspan="1">1491 (5.6)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Organ trauma</td>
+                <td align="center" rowspan="1" colspan="1">312 (3.5)</td>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Donor instability</td>
+                <td align="center" rowspan="1" colspan="1">1108 (4.2)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;WIT</td>
+                <td align="center" rowspan="1" colspan="1">776 (8.7)</td>
+                <td align="left" rowspan="1" colspan="1">Organ factors</td>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;CIT</td>
+                <td align="center" rowspan="1" colspan="1">275 (3.1)</td>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Diseased organ</td>
+                <td align="center" rowspan="1" colspan="1">1239 (4.7)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Poor flush</td>
+                <td align="center" rowspan="1" colspan="1">194 (2.2)</td>
+                <td align="left" rowspan="1" colspan="1">&#x2003;OR evaluation</td>
+                <td align="center" rowspan="1" colspan="1">4169 (15.7)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Time constraints</td>
+                <td align="center" rowspan="1" colspan="1">32 (0.4)</td>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Anatomic abnormalities</td>
+                <td align="center" rowspan="1" colspan="1">41 (0.2)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Donor instability</td>
+                <td align="center" rowspan="1" colspan="1">36 (0.4)</td>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Poor organ function</td>
+                <td align="center" rowspan="1" colspan="1">2289 (8.6)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Organ factors</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Biopsy findings</td>
+                <td align="center" rowspan="1" colspan="1">1585 (6.0)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Diseased organ</td>
+                <td align="center" rowspan="1" colspan="1">636 (7.1)</td>
+                <td align="left" rowspan="1" colspan="1">Procurement</td>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Visualization</td>
+                <td align="center" rowspan="1" colspan="1">643 (7.2)</td>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Organ damage</td>
+                <td align="center" rowspan="1" colspan="1">193 (0.7)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Nonhepatic findings</td>
+                <td align="center" rowspan="1" colspan="1">220 (2.5)</td>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Time constraints</td>
+                <td align="center" rowspan="1" colspan="1">1691 (6.4)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Size</td>
+                <td align="center" rowspan="1" colspan="1">172 (1.9)</td>
+                <td align="left" rowspan="1" colspan="1">Family/cultural</td>
+                <td align="center" rowspan="1" colspan="1">579 (2.2)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Biopsy findings</td>
+                <td align="center" rowspan="1" colspan="1">3511 (39.4)</td>
+                <td align="left" rowspan="1" colspan="1">Research</td>
+                <td align="center" rowspan="1" colspan="1">4824 (18.2)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Poor organ function</td>
+                <td align="center" rowspan="1" colspan="1">359 (4.0)</td>
+                <td align="left" rowspan="1" colspan="1">No recipient</td>
+                <td align="center" rowspan="1" colspan="1">1556 (5.9)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">&#x2003;Anatomic abnormalities</td>
+                <td align="center" rowspan="1" colspan="1">711 (8.0)</td>
+                <td align="left" rowspan="1" colspan="1">Organ refused</td>
+                <td align="center" rowspan="1" colspan="1">2871 (10.8)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Recipient unsuitable</td>
+                <td align="center" rowspan="1" colspan="1">289 (3.2)</td>
+                <td align="left" rowspan="1" colspan="1">Other</td>
+                <td align="center" rowspan="1" colspan="1">2846 (10.7)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">No recipient</td>
+                <td align="center" rowspan="1" colspan="1">491 (5.5)</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Other</td>
+                <td align="center" rowspan="1" colspan="1">145 (1.6)</td>
+                <td align="center" rowspan="1" colspan="1"/>
+                <td align="center" rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn fn-type="other">
+              <p>CIT, cold ischemic time; OR, operating room; WIT, warm ischemic time.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Over 11 y, the reasons for discarding remained stable, yet the rate of discards due to organ factors decreased from 73% to 61%. Discard due to biopsy findings decreased from 42% to 27%. Discard related to procurement factors increased from 17% to 22%. Discard secondary to lack of an identified recipient increased from 2.4% to 8.9%.</p>
+        <p>In this cohort, liver biopsy was performed in 23.9% of transplanted livers, 39.9% of discarded livers, and 11.3% of nonrecovered livers. From 2010 to 2021, the total number of biopsies increased by 57%. However, the rate of biopsy remained stable, ranging from a low of 32.8% in 2011 to a high of 36.2% in 2016 (Figure <xref rid="F5" ref-type="fig">5</xref>).</p>
+        <fig position="float" id="F5">
+          <label>FIGURE 5.</label>
+          <caption>
+            <p>Liver biopsy volumes and rates from 2010 to 2021. A, Volume of liver biopsies performed of nonrecovered, discarded, and transplanted livers by year. B, Liver biopsy rate of all available donors by year. C, Macrosteatosis of biopsied livers. D, Fibrosis score of livers.</p>
+          </caption>
+          <graphic xlink:href="txd-10-e1605-g005" position="float"/>
+        </fig>
+        <p>From 2010 to 2021, 95% of livers that were biopsied and subsequently transplanted had macrosteatosis of &lt;30%. Livers that were biopsied and subsequently discarded with macrosteatosis &lt;30% consisted of 72% of all discards. Discard percentage of livers with macrosteatosis &lt;30% remained relatively stable with a low of 66.7% in 2018 and a high of 75% in 2015. Fibrosis scores of biopsied livers demonstrated a slight increase in utilization of mildly fibrotic livers from 14% to 17.5%, although these cases accounted for a small volume of transplanted livers (Figure <xref rid="F5" ref-type="fig">5</xref>).</p>
+      </sec>
+      <sec>
+        <title>Factors Driving Nonrecovery of Livers</title>
+        <p>The most common reasons for not recovering a liver were attributed to organ factors (35.2%), which included unsuitable organs after being ruled out in operating room (15.7%), poor organ function (8.6%), or biopsy findings (6.0%). Donor factors including history or instability comprised 9.8% of nonrecovered livers. Other factors included time constraints (6.4%) or being unable to locate a recipient (16.7%). Livers used for research comprised 18.2% of nonrecovered livers.</p>
+        <p>From 2010 to 2021, the most common reason for nonrecovery was consistently organ factors, although the proportion of these cases decreased from 47% to 30%. Recipient factors increased from 4% to 9%, and organ refusal increased from 6.5% to 16%. Nonrecovery due to time constraints increased from 4.5% to 8%.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSION</title>
+      <p>In this study, we reviewed available Scientific Registry of Transplant Recipients data on deceased donor liver transplantation to gain an up-to-date understanding of how organ discard and donor nonutilization have changed in the United States over the last decade. Our aim was to identify windows of opportunities to decrease liver discard and underutilization of organ donors.</p>
+      <sec>
+        <title>DCD Donor Organs Are Still Highly Discarded and Underutilized</title>
+        <p>In the last decade, we have seen an increase in the volume of liver transplantation, predominantly driven by the increased utilization of DCD liver for transplantation supported by research suggestive acceptable outcomes for select donor-recipient pairs. Despite this increase, almost 30% of livers discarded are DCD donors. That said, the promotion of DCD donor transplants performed in the United States still lags far behind European countries.<sup><xref rid="R11" ref-type="bibr">11</xref></sup></p>
+        <p>What drives the relative underutilization of DCD organs in the United States is multifaceted, but it is partly due to the healthcare model differences that make transplant institutions more accountable for complications or failures.<sup><xref rid="R12" ref-type="bibr">12</xref></sup> In addition, the rules, regulations, and societal understanding of DCD donation are better established in Europe.<sup><xref rid="R13" ref-type="bibr">13</xref></sup> With that said, DCD donation remains the largest source of potential underutilized donors and transplant centers are clearly turning to using livers from these donors as demonstrated by the growth of DCD liver transplants over the last 3 y. The aggressiveness of transplant centers to pursue livers from these donors should be championed, with acceptance that at least in the short-term this may result in decreased discard.</p>
+      </sec>
+      <sec>
+        <title>Why Are Organs Discarded in the United States?</title>
+        <p>The reasons for liver discard are multifaceted. The predominant reason for discard is due to the biopsy findings and procurement factors, that is, prolonged warm ischemia time and injury. Pretransplant liver biopsy findings that typically result in the turning down of a liver include steatosis and fibrosis. Several studies have demonstrated an association between histological assessment and outcomes, although many of these associations are historical, and more recent data demonstrating these tools lack specificity.<sup><xref rid="R14" ref-type="bibr">14</xref>,<xref rid="R15" ref-type="bibr">15</xref></sup> That said, histological assessment remains a valuable tool for the assessment of organs and to date remains one of the major assessment criteria for considering higher risk organs for transplant.</p>
+        <p>Our analysis demonstrates a stable biopsy rate from 2010 to 2021. While some data has suggested expanding the limits of steatotic graft utilization,<sup><xref rid="R16" ref-type="bibr">16</xref></sup> our results demonstrate that the utilization of livers with steatosis &gt;30% remained largely unchanged, with a high of 6.5% in 2018 and a low of 3.8% in 2014.</p>
+      </sec>
+      <sec>
+        <title>What Factors Drive Underutilization of Donors in the United States?</title>
+        <p>Our analysis demonstrated that nonrecovery of organs from potential organ donors in the United States is driven by a multitude of reasons, the majority of which pertain to the nonsuitability of the donor organs for transplant purposes. Many of these factors are absolute contraindications to organ allocation, although some are continuing to be challenged as a reason for nonutilization. For example, HIV-positive donors to HIV recipient transplantation has been performed successfully by several centers throughout the United States. Although the data is not sufficiently granular to allow full extrapolation, we expect that part of the reasoning behind &#x201C;no recipient&#x201D; or &#x201C;refused&#x201D; reasons for nonutilization was owing to these risks. The extent of the nonutilization, however, is considerable, with 10&#x2009;000 livers not being retrieved over a 10-y period. We advocate for this to be an area to focus research going forward.</p>
+      </sec>
+      <sec>
+        <title>Geographic Disparities in Liver Discard Rates</title>
+        <p>We observed substantial variation between discard rates across regions. Geographic disparities are known to the transplant community and have been previously addressed by policy changes such as Share 35 and acuity circles. Interestingly, the regional discard rate did not correlate with transplant volume, importation rate, or DCD utilization. This suggests factors outside of those captured in this study drive this regional variation. However, these differences may offer additional target for decreasing discard rates. Certain regions may have higher tolerance for marginal organs that may be considered unacceptable in others. Current preservation strategies may limit the distances organs may travel thus necessitating discard.</p>
+      </sec>
+      <sec>
+        <title>Reducing Discard and Nonutilization Using Machine Preservation</title>
+        <p>Our data suggests that there are several potential high-yield targets that would allow for improved abdominal organ utilization and reduction of discard rates. One promising area is the rise of machine perfusion, hypothermic machine perfusion, and normothermic machine perfusion (NMP), which allows for ex vivo preservation. Early trials have demonstrated the success of both techniques.<sup><xref rid="R17" ref-type="bibr">17</xref>-<xref rid="R19" ref-type="bibr">19</xref></sup> While machine perfusion remains costly and time-consuming to set up, streamlining this process for wider use may have significant impacts on organ utilization.</p>
+        <p>The relatively short cold ischemic time accepted for liver transplant constrains the time and distance for liver sharing. In this study time constraints, cold ischemic time and donor-recipient mismatch comprised 14% of discards. If otherwise adequate, such grafts could be potentially transplanted if longer and oxygenated preservation was possible. Prolonged cold ischemic times using dual hypothermic oxygenated perfusion are currently explored in Europe.<sup><xref rid="R20" ref-type="bibr">20</xref></sup> Portable cold devices would provide a great solution to the larger distances between donor and recipient hospital that are seen in the United States. Longer preservation times by implementing NMP would potentially allow for reallocation, translating to 100 liver grafts per year.</p>
+        <p>Another potential area for utilization of machine perfusion is in DCD donors, which are increasingly utilized but remain discarded at high rates. Dual hypothermic oxygenated perfusion has shown to decrease posttransplant complications in DCD liver transplantation, and NMP has shown to give a significant benefit in DCD donors with prolonged warm ischemic time.<sup><xref rid="R9" ref-type="bibr">9</xref>,<xref rid="R18" ref-type="bibr">18</xref>,<xref rid="R21" ref-type="bibr">21</xref></sup></p>
+        <p>The use of NMP in steatosis livers also represents a substantial pool of nonutilized livers. Animal models and preliminary human trials suggest that NMP may protect against ischemia-reperfusion injury in steatotic livers. While a sizable percentage of steatotic livers may ultimately be unsuitable for transplantation, half of livers discarded due to biopsy findings being under the accepted macrosteatosis percentage of 30%. Furthermore, NMP could even be implemented as a therapeutic platform to treat organs with antisteatotic drugs.<sup><xref rid="R22" ref-type="bibr">22</xref></sup> However, further research in this area is crucial as it represents a massive proportion of nonutilized livers, particularly given the rise of obesity in America and subsequent decline in liver graft quality.<sup><xref rid="R23" ref-type="bibr">23</xref></sup></p>
+        <p>Another rising machine perfusion technique is NRP. In situ, the NRP of DCD donors converts the donor operation to a more standard donor operation type, thereby reducing the discard of organs due to procurement challenges and injuries. NRP also carries the benefit in resuscitating cellular function before transportation of an organ and has been shown by groups to reduce ischemic cholangiopathy rates in liver transplantation recipients.<sup><xref rid="R21" ref-type="bibr">21</xref>,<xref rid="R24" ref-type="bibr">24</xref></sup></p>
+        <p>We observed trends in organ discards and utilization over the last decade. Utilization of DCD donors has compromised a large portion of the increased liver transplant volume, however, remain discarded at high rate. Discard rates vary substantially between geographic regions. Improvement in preservation techniques and sharing between regions can reduce discard of organs due to geographic and time constraints. Given the rise of obesity and decline in liver graft quality understanding organ discard and underutilization is critical to maximize use of recovered livers.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="other">
+        <p>The authors declare no conflicts of interest.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p>This work was supported in part by Health Resources and Services Administration contract 234-2005-370011C.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>The content is the responsibility of the authors alone and does not necessarily reflect the views or policies of the Department of Health and Human Services, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government.</p>
+      </fn>
+      <fn fn-type="equal">
+        <p>J.T., R.T., S.S.F., and M.Z.A. conceptualized the idea. Data obtainment and processing was done by R.T. The article was reviewed and further editing and processing of data done by J.T., L.v.L., T.S., S.S.F., and M.Z.A.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="R1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kwong</surname><given-names>AJ</given-names></name><name><surname>Ebel</surname><given-names>NH</given-names></name><name><surname>Kim</surname><given-names>WR</given-names></name><etal/></person-group>. <article-title>OPTN/SRTR 2020 annual data report: liver.</article-title>
+<source>Am J Transplant</source>. <year>2022</year>;<volume>22</volume>(<issue>Suppl 2</issue>):<fpage>204</fpage>&#x2013;<lpage>309</lpage>.<pub-id pub-id-type="pmid">35266621</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><collab>Eurotransplant Annual Report</collab>. <article-title>Statistics Report Library.</article-title>
+<comment>Available at <ext-link xlink:href="https://statistics.eurotransplant.org" ext-link-type="uri">https://statistics.eurotransplant.org</ext-link>. Accessed August 19, 2023</comment>.</mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Halazun</surname><given-names>KJ</given-names></name><name><surname>Quillin</surname><given-names>RC</given-names></name><name><surname>Rosenblatt</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Expanding the margins: high volume utilization of marginal liver grafts among &gt;2000 liver transplants at a single institution.</article-title>
+<source>Ann Surg</source>. <year>2017</year>;<volume>266</volume>:<fpage>441</fpage>&#x2013;<lpage>449</lpage>.<pub-id pub-id-type="pmid">28657945</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Danford</surname><given-names>CJ</given-names></name><name><surname>Redman</surname><given-names>JS</given-names></name><name><surname>Alonso</surname><given-names>D</given-names></name></person-group>. <article-title>Hepatitis C-positive liver transplantation: outcomes and current practice.</article-title>
+<source>Curr Opin Organ Transplant</source>. <year>2021</year>;<volume>26</volume>:<fpage>115</fpage>&#x2013;<lpage>120</lpage>.<pub-id pub-id-type="pmid">33595978</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goldaracena</surname><given-names>N</given-names></name><name><surname>Cullen</surname><given-names>JM</given-names></name><name><surname>Kim</surname><given-names>DS</given-names></name><etal/></person-group>. <article-title>Expanding the donor pool for liver transplantation with marginal donors.</article-title>
+<source>Int J Surg</source>. <year>2020</year>;<volume>82</volume>:<fpage>30</fpage>&#x2013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">32858210</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Torabi</surname><given-names>J</given-names></name><name><surname>Graham</surname><given-names>JA</given-names></name><name><surname>Choinski</surname><given-names>K</given-names></name><etal/></person-group>. <article-title>Young donors with severe acute kidney injury offer an opportunity to expand the donor pool.</article-title>
+<source>Am J Surg</source>. <year>2019</year>;<volume>218</volume>:<fpage>7</fpage>&#x2013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">31003717</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elwir</surname><given-names>S</given-names></name><name><surname>Lake</surname><given-names>J</given-names></name></person-group>. <article-title>Current status of liver allocation in the United States.</article-title>
+<source>Gastroenterol Hepatol (N Y)</source>. <year>2016</year>;<volume>12</volume>:<fpage>166</fpage>&#x2013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">27231445</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Glorioso</surname><given-names>JM</given-names></name></person-group>. <article-title>Kidney allocation policy: past, present, and future.</article-title>
+<source>Adv Chronic Kidney Dis</source>. <year>2021</year>;<volume>28</volume>:<fpage>511</fpage>&#x2013;<lpage>516</lpage>.<pub-id pub-id-type="pmid">35367019</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Watson</surname><given-names>CJ</given-names></name><name><surname>Hunt</surname><given-names>F</given-names></name><name><surname>Messer</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>In situ normothermic perfusion of livers in controlled circulatory death donation may prevent ischemic cholangiopathy and improve graft survival.</article-title>
+<source>Am J Transplant</source>. <year>2019</year>;<volume>19</volume>:<fpage>1745</fpage>&#x2013;<lpage>1758</lpage>.<pub-id pub-id-type="pmid">30589499</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mergental</surname><given-names>H</given-names></name><name><surname>Laing</surname><given-names>RW</given-names></name><name><surname>Kirkham</surname><given-names>AJ</given-names></name><etal/></person-group>. <article-title>Transplantation of discarded livers following viability testing with normothermic machine perfusion.</article-title>
+<source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>:<fpage>2939</fpage>.<pub-id pub-id-type="pmid">32546694</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ivanics</surname><given-names>T</given-names></name><name><surname>Abreu</surname><given-names>P</given-names></name><name><surname>De Martin</surname><given-names>E</given-names></name><etal/></person-group>. <article-title>Changing trends in liver transplantation: challenges and solutions.</article-title>
+<source>Transplantation</source>. <year>2021</year>;<volume>105</volume>:<fpage>743</fpage>&#x2013;<lpage>756</lpage>.<pub-id pub-id-type="pmid">32910093</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lewis</surname><given-names>A</given-names></name><name><surname>Koukoura</surname><given-names>A</given-names></name><name><surname>Tsianos</surname><given-names>GI</given-names></name><etal/></person-group>. <article-title>Organ donation in the US and Europe: the supply vs demand imbalance.</article-title>
+<source>Transplant Rev (Orlando)</source>. <year>2021</year>;<volume>35</volume>:<fpage>100585</fpage>.<pub-id pub-id-type="pmid">33071161</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>M&#xFC;ller</surname><given-names>PC</given-names></name><name><surname>Kabacam</surname><given-names>G</given-names></name><name><surname>Vibert</surname><given-names>E</given-names></name><etal/></person-group>. <article-title>Current status of liver transplantation in Europe.</article-title>
+<source>Int J Surg</source>. <year>2020</year>;<volume>82</volume>:<fpage>22</fpage>&#x2013;<lpage>29</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lentine</surname><given-names>KL</given-names></name><name><surname>Naik</surname><given-names>AS</given-names></name><name><surname>Schnitzler</surname><given-names>MA</given-names></name><etal/></person-group>. <article-title>Variation in use of procurement biopsies and its implications for discard of deceased donor kidneys recovered for transplantation.</article-title>
+<source>Am J Transplant</source>. <year>2019</year>;<volume>19</volume>:<fpage>2241</fpage>&#x2013;<lpage>2251</lpage>.<pub-id pub-id-type="pmid">30809941</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carpenter</surname><given-names>D</given-names></name><name><surname>Husain</surname><given-names>SA</given-names></name><name><surname>Brennan</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Procurement biopsies in the evaluation of deceased donor kidneys.</article-title>
+<source>Clin J Am Soc Nephrol</source>. <year>2018</year>;<volume>13</volume>:<fpage>1876</fpage>&#x2013;<lpage>1885</lpage>.<pub-id pub-id-type="pmid">30361336</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vodkin</surname><given-names>I</given-names></name><name><surname>Kuo</surname><given-names>A</given-names></name></person-group>. <article-title>Extended criteria donors in liver transplantation.</article-title>
+<source>Clin Liver Dis</source>. <year>2017</year>;<volume>21</volume>:<fpage>289</fpage>&#x2013;<lpage>301</lpage>.<pub-id pub-id-type="pmid">28364814</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nasralla</surname><given-names>D</given-names></name><name><surname>Coussios</surname><given-names>CC</given-names></name><name><surname>Mergental</surname><given-names>H</given-names></name><etal/></person-group>; <collab>Consortium for Organ Preservation in Europe</collab>. <article-title>A randomized trial of normothermic preservation in liver transplantation.</article-title>
+<source>Nature</source>. <year>2018</year>;<volume>557</volume>:<fpage>50</fpage>&#x2013;<lpage>56</lpage>.<pub-id pub-id-type="pmid">29670285</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van Rijn</surname><given-names>R</given-names></name><name><surname>Schurink</surname><given-names>IJ</given-names></name><name><surname>de Vries</surname><given-names>Y</given-names></name><etal/></person-group>. <article-title>Hypothermic machine perfusion in liver transplantation&#x2014;a randomized trial.</article-title>
+<source>N Engl J Med</source>. <year>2021</year>;<volume>384</volume>:<fpage>1391</fpage>&#x2013;<lpage>1401</lpage>.<pub-id pub-id-type="pmid">33626248</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schlegel</surname><given-names>A</given-names></name><name><surname>Mueller</surname><given-names>M</given-names></name><name><surname>Muller</surname><given-names>X</given-names></name><etal/></person-group>. <article-title>A multicenter randomized-controlled trial of hypothermic oxygenated perfusion (HOPE) for human liver grafts before transplantation.</article-title>
+<source>J Hepatol</source>. <year>2023</year>;<volume>78</volume>:<fpage>783</fpage>&#x2013;<lpage>793</lpage>.<pub-id pub-id-type="pmid">36681160</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Br&#xFC;ggenwirth</surname><given-names>IM</given-names></name><name><surname>Lantinga</surname><given-names>VA</given-names></name><name><surname>Rayar</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Prolonged dual hypothermic oxygenated machine preservation (DHOPE-PRO) in liver transplantation: study protocol for a stage 2, prospective, dual-arm, safety and feasibility clinical trial.</article-title>
+<source>BMJ Open Gastroenterol</source>. <year>2022</year>;<volume>9</volume>:<fpage>e000842</fpage>.</mixed-citation>
+      </ref>
+      <ref id="R21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Watson</surname><given-names>CJ</given-names></name><name><surname>Kosmoliaptsis</surname><given-names>V</given-names></name><name><surname>Randle</surname><given-names>LV</given-names></name><etal/></person-group>. <article-title>Normothermic perfusion in the assessment and preservation of declined livers before transplantation: hyperoxia and vasoplegia&#x2014;important lessons from the first 12 cases.</article-title>
+<source>Transplantation</source>. <year>2017</year>;<volume>101</volume>:<fpage>1084</fpage>.<pub-id pub-id-type="pmid">28437389</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dengu</surname><given-names>F</given-names></name><name><surname>Abbas</surname><given-names>SH</given-names></name><name><surname>Ebeling</surname><given-names>G</given-names></name><etal/></person-group>. <article-title>Normothermic machine perfusion (NMP) of the liver as a platform for therapeutic interventions during ex-vivo liver preservation: a review.</article-title>
+<source>J Clin Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>1046</fpage>.<pub-id pub-id-type="pmid">32272760</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Orman</surname><given-names>ES</given-names></name><name><surname>Mayorga</surname><given-names>ME</given-names></name><name><surname>Wheeler</surname><given-names>SB</given-names></name><etal/></person-group>. <article-title>Declining liver graft quality threatens the future of liver transplantation in the United States.</article-title>
+<source>Liver Transpl</source>. <year>2015</year>;<volume>21</volume>:<fpage>1040</fpage>&#x2013;<lpage>1050</lpage>.<pub-id pub-id-type="pmid">25939487</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Croome</surname><given-names>KP</given-names></name><name><surname>Taner</surname><given-names>CB</given-names></name></person-group>. <article-title>The changing landscapes in DCD liver transplantation.</article-title>
+<source>Curr Transplant Rep</source>. <year>2020</year>;<volume>7</volume>:<fpage>194</fpage>&#x2013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">32837828</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

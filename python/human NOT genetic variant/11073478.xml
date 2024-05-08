@@ -1,0 +1,430 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="review-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Blockchain Healthc Today</journal-id><journal-id journal-id-type="iso-abbrev">Blockchain Healthc Today</journal-id><journal-id journal-id-type="publisher-id">BHTY</journal-id><journal-title-group><journal-title>Blockchain in Healthcare Today</journal-title></journal-title-group><issn pub-type="epub">2573-8240</issn><publisher><publisher-name>Partners in Digital Health</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">11073478</article-id><article-id pub-id-type="publisher-id">301</article-id><article-id pub-id-type="doi">10.30953/bhty.v7.301</article-id><article-categories><subj-group subj-group-type="heading"><subject>Narrative, Systematic Review, Meta-Analysis</subject></subj-group></article-categories><title-group><article-title>Harnessing Blockchain to Transform Healthcare Data Management: A Comprehensive Research Agenda</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0755-5223</contrib-id><name><surname>Treiblmaier</surname><given-names>Horst</given-names></name><degrees>PhD</degrees><xref rid="aff0001" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2817-5377</contrib-id><name><surname>Rejeb</surname><given-names>Abderahman</given-names></name><degrees>PhD</degrees><xref rid="aff0002" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8946-0622</contrib-id><name><surname>Gault</surname><given-names>Mike</given-names></name><degrees>PhD</degrees><xref rid="aff0003" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Khurshid</surname><given-names>Anjum</given-names></name><degrees>PhD</degrees><xref rid="aff0004" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0593-8244</contrib-id><name><surname>Norta</surname><given-names>Alex</given-names></name><degrees>PhD</degrees><xref rid="aff0005" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Poteet</surname><given-names>Jim</given-names></name><degrees>BS</degrees><xref rid="aff0006" ref-type="aff">6</xref></contrib><contrib contrib-type="author"><name><surname>Sivagnanam</surname><given-names>Suresh</given-names></name><xref rid="aff0007" ref-type="aff">7</xref></contrib><aff id="aff0001"><label>1</label>Full Professor, School of International Management, Modul University Vienna, Vienna, Austria</aff><aff id="aff0002"><label>2</label>Faculty of Business Economics, Sz&#xE9;chenyi Istv&#xE1;n University, Gy&#x151;r, Hungary</aff><aff id="aff0003"><label>3</label>Guardtime, Lausanne, Vaud, Switzerland</aff><aff id="aff0004"><label>4</label>Sentinel Program and Faculty, Department of Population Medicine, Harvard Pilgrim Health Care Institute and Harvard Medical School, Boston, Massachusetts, USA</aff><aff id="aff0005"><label>5</label>Dymaxion O&#xDC;, Tallinn University, Tallinn, Estonia</aff><aff id="aff0006"><label>6</label>Technology and Operations Leader, Oracle Cerner, Overland Park, Kansas, USA</aff><aff id="aff0007"><label>7</label>Healthcare and Higher Education, Talents Squared Limited, London, UK</aff></contrib-group><author-notes><corresp id="cor1">Corresponding Author: Horst Treiblmaier, Email: <email xlink:href="horst.treiblmaier@modul.ac.at">horst.treiblmaier@modul.ac.at</email></corresp><fn><p>DOI: <ext-link xlink:href="https://doi.org/10.30953/bhty.v7.301" ext-link-type="uri">https://doi.org/10.30953/bhty.v7.301</ext-link></p></fn></author-notes><pub-date pub-type="epub"><day>30</day><month>4</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>7</volume><elocation-id content-type="doi">10.30953/bhty.v7.301</elocation-id><history><date date-type="received"><day>20</day><month>2</month><year>2024</year></date><date date-type="accepted"><day>20</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 The Authors.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open-access article distributed in accordance with the Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) license, which permits others to distribute, adapt, enhance this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, and the use is non-commercial.</license-p></license></permissions><abstract><p>Properly managing healthcare data is a complex endeavor that must balance the requirements and interests of many stakeholders. In this paper, we present the findings from a panel discussion with healthcare professionals and academics, who elaborate on the current situation in healthcare data management as well as the future role that blockchain could play in this sector. Based on the findings of this panel, we structure the research field of healthcare data management and provide numerous avenues for future research. The outcome is a framework that highlights the important role of healthcare data and puts them into context. From a patient&#x2019;s perspective, we specifically elaborate on trust and privacy as well as the expected benefits.</p><p>Additionally, four important data aspects are identified: integrity, security, interoperability, and, finally, sharing and transfer. We also outline the importance of current problems and derive several relevant and timely research questions that build the foundation of a research agenda for blockchain-driven innovation in healthcare data management. In summary, the framework will inform practitioners of blockchain&#x2019;s potential in healthcare and structure the area for researchers, who are called upon to investigate the respective topics in greater detail.</p></abstract><kwd-group><title>Keywords</title><kwd>blockchain</kwd><kwd>distributed ledger</kwd><kwd>healthcare</kwd><kwd>healthcare data</kwd><kwd>panel discussion</kwd><kwd>research agenda</kwd></kwd-group><funding-group><funding-statement><bold>Funding</bold> None.</funding-statement></funding-group></article-meta></front>
+  <body>
+    <p>In recent years, the healthcare industry has undergone a profound development triggered by digital transformation and accelerated by the COVID-19 pandemic. Technologies, such as the internet of things (IoT), artificial intelligence (AI), and blockchain, as well as the interplay among them, have caught the attention of academics and practitioners.<sup><xref rid="CIT0001" ref-type="bibr">1</xref></sup> In this article, we focus on blockchain and its impact on healthcare data management. As pointed out in a comprehensive literature review by Dionisio et al.,<sup><xref rid="CIT0002" ref-type="bibr">2</xref></sup> two types of blockchain applications must be differentiated: patient based and entity based. Examples of the former include facilitating access to patient data for authorized entities and managing a patient&#x2019;s prescription history while maintaining data privacy and security. From an entity viewpoint, it is especially the accuracy of data management that can help to avoid patient misidentification and the duplication of medical records, as well as ensure the provenance of data sources.</p>
+    <p>The relevance of blockchain for managing secure and sharable electronic medical records was highlighted several years ago,<sup><xref rid="CIT0003" ref-type="bibr">3</xref></sup> but despite numerous promising applications and creative use cases, many barriers remain to be overcome to exploit the technology&#x2019;s potential fully and to develop solutions, which simultaneously consider the privacy of the patients while allowing medical facilities to access accurate, complete, and timely data they need for providing high-quality services. In a recent meta-analysis, Krishnasamy and Gopalakrishnan.<sup><xref rid="CIT0004" ref-type="bibr">4</xref></sup> sum up the current situation: &#x201C;&#x2026;even though the technology is still maturing, this effort demonstrates and underscores the need for healthcare enterprises to take a broader and bolder look into the blockchain and allied emerging technologies.&#x201D;</p>
+    <p>In this article, we follow this call for action by scrutinizing the important role of healthcare data management and how blockchain can contribute to improving existing systems. We aim to compile and structure promising research avenues that can serve as starting points for future research projects and summarize and highlight the most important topics for practitioners.</p>
+    <sec id="sec1">
+      <title>Literature Review</title>
+      <p>In this era, blockchain technology stands as a seminal innovation that offers efficiency in operational and regulatory verification as well as visibility across numerous sectors of the economy.<sup><xref rid="CIT0005" ref-type="bibr">5</xref></sup> A blockchain operates as a decentralized, ever-expanding series of records, referred to as &#x201C;blocks,&#x201D; which are interconnected in a sequence through a process that requires consensus across a number of peers. Each block in the chain contains numerous transactions, a cryptographic hash of its predecessor, and a timestamp.<sup><xref rid="CIT0006" ref-type="bibr">6</xref></sup> Any block data alteration can trigger a domino effect, potentially disrupting the entire chain. Upon processing data, every computer in the network synchronizes simultaneously and forges a permanent and unalterable digital record.</p>
+      <p>The blockchain system also sets the rules for who can add new blocks and the requirements for doing so. Blockchain&#x2019;s distinguishing features include its ability to share data and transactions on an unchangeable peer-to-peer network and enhance transparency and security. Initially prominent in cryptocurrency and financial transactions, blockchain has been embraced by numerous other sectors, such as tourism, manufacturing, logistics, smart cities, and transportation, all of which capitalize on its robust security and privacy features.<sup><xref rid="CIT0007" ref-type="bibr">7</xref>&#x2013;<xref rid="CIT0009" ref-type="bibr">9</xref></sup></p>
+      <p>It is important to point out that blockchain is not a monolithic concept but rather a bundle of cleverly combined technologies that yield desired features such as immutability and decentralization. Important building blocks include key ideas such as linked timestamping, public key cryptography, and smart contracts<sup><xref rid="CIT0010" ref-type="bibr">10</xref></sup> and enable properties such as flexibility, opaqueness, performance, policy, practicality, and security.<sup><xref rid="CIT0011" ref-type="bibr">11</xref></sup> As a consequence, the emerging platforms can be conceptually quite different and either be open to anyone (&#x201C;public&#x201D;) or restricted to a group of entities (&#x201C;private,&#x201D; &#x201C;consortium&#x201D;).</p>
+      <p>Similarly, different ways exist to reach consensus in such a peer-to-peer network. The most well-known mechanism is Proof-of-Work, in which energy is used to determine who is eligible to add a new block to the chain. However, alternative mechanisms exist, such as Proof-of-Stake, in which validators are selected based on the quantity of holdings in a specific coin or cryptocurrency.<sup><xref rid="CIT0012" ref-type="bibr">12</xref></sup></p>
+      <p>In the remainder of this article, the authors abstract from a specific implementation and use the term blockchain to denote a system that yields the desired properties mentioned above.</p>
+      <p>Blockchain has the potential to revolutionize healthcare management through how data are managed, shared, and protected.<sup><xref rid="CIT0013" ref-type="bibr">13</xref>,<xref rid="CIT0014" ref-type="bibr">14</xref></sup> Blockchain technology can be used to address core issues such as data fragmentation, interoperability challenges, security vulnerabilities, and high operational costs, thereby setting new standards in healthcare data management. The impact of blockchain extends beyond operational efficiencies to fundamentally enhance patient care and safety. Regarding patient care, blockchain can be applied to ensure accurate and complete healthcare data and enable healthcare providers to make more informed decisions.<sup><xref rid="CIT0015" ref-type="bibr">15</xref>,<xref rid="CIT0016" ref-type="bibr">16</xref></sup> It can also help facilitate a more comprehensive view of a patient&#x2019;s medical history, including past allergies, medication history, former treatments, and allow for more personalized, coordinated, and effective care.<sup><xref rid="CIT0017" ref-type="bibr">17</xref></sup> This is particularly crucial in case of emergencies where immediate access to patient history can be life saving.</p>
+      <p>Blockchain-stored data&#x2019;s secure and uniform nature opens new avenues for medical research. For instance, researchers can access vast amounts of anonymized patient data and ensure robust data sets for technical trials and studies, which can accelerate the development of new treatments and drugs, ultimately benefiting patient care. As blockchain allows traceability and auditability of each data transaction, patients can track the use of their data and grant or revoke access to their health records, which ensures increased privacy and autonomy. This empowerment and the patient-centric approach not only enhances trust in the healthcare system but also encourages patients to be more engaged in health management and willing to share their data for clinical trials and medical research.<sup><xref rid="CIT0018" ref-type="bibr">18</xref></sup></p>
+      <p>As the focus on data privacy and security intensifies, healthcare providers are also navigating stringent regulatory requirements. Blockchain&#x2019;s inherent features, including data immutability and automatic audit trails, aid in meeting these compliance standards.<sup><xref rid="CIT0013" ref-type="bibr">13</xref></sup> Moreover, blockchain reduces the risk of data tampering and helps mitigate fraud, which constitutes a significant concern in healthcare billing and insurance claims.<sup><xref rid="CIT0019" ref-type="bibr">19</xref></sup></p>
+      <p>In light of the problem of drug fraud, the widespread issue of counterfeit medications can be effectively addressed by blockchain&#x2019;s improved drug traceability,<sup><xref rid="CIT0020" ref-type="bibr">20</xref></sup> ensuring the authenticity of pharmaceutical products throughout their supply chain, from production to customer delivery. The immutable and timestamped transactions in blockchain make it extremely challenging for counterfeit drugs to penetrate the legitimate supply chain. Blockchain can enhance the reliability and accuracy of data related to clinical trials and precision medicine. This is particularly significant in ensuring the integrity of clinical trial data and improving analytics. For precision medicine, the role of blockchain in securely managing genomic sequences empowers individuals to control their genetic data.<sup><xref rid="CIT0021" ref-type="bibr">21</xref></sup> As a result, this contributes to proactive treatment strategies for genetically inherited diseases, which is a major advancement in personalized healthcare. In emergencies, blockchain can address the need for consistent access to patient data. Its use of smart contracts and cryptographic keys provides seamless and secure management of data access, thereby reducing errors and speeding up the process of data collection in critical situations.</p>
+      <p>The cybersecurity risks telehealth systems face&#x2014;including data breaches, unauthorized access, and susceptibility&#x2014;can potentially be overcome with the adoption of blockchain because the technology helps improve security and privacy, though its integration may increase costs, especially in remote areas.<sup><xref rid="CIT0022" ref-type="bibr">22</xref></sup> Blockchain technology can also establish a reliable and tamper-proof patient identity management system needed in today&#x2019;s physical and virtual healthcare delivery environment.<sup><xref rid="CIT0023" ref-type="bibr">23</xref></sup></p>
+      <p>The advancements of blockchain in terms of data transparency and sharing efficiency are also key in detecting claims and enhancing the precision of health insurance coverage. This is due to the potential of the technology to automate transactions and record agreements through smart contracts, which minimize the need for third-party involvement and streamline administrative processes.</p>
+      <p>Finally, the adoption of blockchain in billing processes, particularly in insurance claims, ensures data storage and faster processing of transactions, resulting in lower operational costs. Overall, the emergence of blockchain plays a crucial role in elevating the efficiency, security, and trustworthiness of a wide range of healthcare processes, fostering the development of a more cohesive and patient-focused healthcare system. However, the direction in which this development goes is not necessarily predetermined, and there exists a huge potential to create blockchain-based systems that are more streamlined, effective, and, most importantly, consider the interests of patients.</p>
+    </sec>
+    <sec id="sec2">
+      <title>Research Questions</title>
+      <p>The healthcare sector faces substantial and multifaceted problems. To produce viable solutions, it is crucial that important stakeholders collaborate and create solutions that are in the best interest of the patients. The common denominator of most of the pending issues is patient data, which is at the core of every healthcare system. Compared to other industry sectors, they can be considered more sensitive to privacy violations and must be accurate and up-to-date. In this article, we therefore pose the following research questions:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>What are the existing problems of healthcare data management?</p>
+        </list-item>
+        <list-item>
+          <p>Who are the main stakeholders in healthcare data management?</p>
+        </list-item>
+        <list-item>
+          <p>How can patients benefit from the potential of blockchain technology?</p>
+        </list-item>
+        <list-item>
+          <p>How can blockchain help store, process, and transfer data?</p>
+        </list-item>
+        <list-item>
+          <p>What are the most important future topics related to blockchain innovation in healthcare data management?</p>
+        </list-item>
+      </list>
+    </sec>
+    <sec id="sec3">
+      <title>Methodology</title>
+      <p>In June 2023, a panel of experts convened at the ConV2X conference (<ext-link xlink:href="https://conv2xsymposium.com/" ext-link-type="uri">https://conv2xsymposium.com/</ext-link>) for a thought-provoking discussion on how blockchain and decentralized technologies might reshape the future of healthcare data storage, sharing, privacy, and access. Moderated by Professor Horst Treiblmaier of Modul University Vienna, the cross-disciplinary group of panelists brought diverse perspectives spanning healthcare, technology, research, and public policy.</p>
+      <p>The panel consisted of experts in blockchain and healthcare from the industry and academia. Mike Gault (G), the founder and CEO of Guardtime, in 2008 deployed the first blockchain in healthcare in Estonia, which is still used today. Anjum Khurshid (Dr. Khurshid), Chief Data Scientist at Harvard Pilgrim Health Care Institute and faculty member of Harvard Medical School, has helped to build health information exchanges to connect electronic health records (EHRs) and clinical decision support systems within EHRs, as well as a blockchain-based identify management platform called MediLinker.<sup><xref rid="CIT0024" ref-type="bibr">24</xref></sup> Alex Norta (Dr. Norta), researcher and entrepreneur, founded Dymaxion, a company that focuses on multi-factor self-sovereign identity authentication. Jim Poteet (Mr. Poteet) from Oracle Cerner has 25 years of experience in the healthcare industry and owns a patent on clinical data exchange. Suresh Sivagnanam, Entrepreneur, Investor, Director and Chairman in Healthcare and Higher Education, previously founded vdoc, an alternative worldwide healthcare platform that offers telemedicine services and now develops Aider, a unified global healthcare solution integrating telemedicine and primary healthcare services.The 1-hour conversation was fully transcribed. The analysis followed established practices of qualitative content analysis and included a coding process in which relevant portions of the interview text were clustered into categories. This resulted in the creation of a category system that identifies the core topics related to healthcare data management and illustrates how they are related to each other. The analysis was done in an inductive and iterative manner such that the emerging categories were consistently refined up to the point where an agreement among all the researchers was reached.<sup><xref rid="CIT0025" ref-type="bibr">25</xref></sup> Finally, the results were sent back to all the participating experts for further refinement and final confirmation.</p>
+    </sec>
+    <sec id="sec4">
+      <title>Results</title>
+      <p>In the following sections, we begin by sketching existing problems of the healthcare system, which provides a starting point for a deep dive into how these issues can be tackled with blockchain technology. After briefly mentioning pending issues and acknowledging the multitude of stakeholders in this complex environment, we then focus on patients&#x2019; problems and the potential gains they might experience from blockchain-based solutions. This is followed by an in-depth discussion of several important data properties that deserve further attention. We end this section with an outlook on what the future might bring and a comprehensive research framework that highlights several important topics that need to be addressed through the development of practical applications or rigorous academic research.</p>
+      <sec id="sec4.1">
+        <title>Current Problems</title>
+        <p>To start, the panelists identified key challenges that plague the current healthcare system. Some of those problems are caused by population demographics in relation to active healthcare professionals, expressed in statements such as &#x201C;an aging population globally, too few healthcare professionals coming through the network&#x201D; (Mr. Sivagnanam). Despite the relevance of the problem and the urgency of the situation, conflicting interests or general negligence impede the development of viable solutions: &#x201C;It is very difficult to get collaboration going between different government departments, in particular healthcare&#x201D; (Dr. Gault). The whole situation is complicated by the fact that &#x201C;[Current systems] are working in legal and regulatory frameworks that were probably developed 15 or 20 years ago&#x201D; (Dr. Khurshid). Taking a global perspective, the situation becomes more complicated due to the counterfeiting of medication: &#x201C;There are a lot of developing countries where two-thirds of the medications are counterfeit&#x201D; (Dr. Khurshid).In recent years, technology has evolved substantially, opening novel ways for the storage, processing, and retrieval of data. In parallel, general awareness has increased regarding the value of personal data and their worthiness of protection. Legislatures have recognized this development and passed more stringent laws that address the needs of the individual and increase the responsibilities and liabilities of those who collect and store sensitive information.</p>
+        <p>Situations must be avoided in which information is easily accessible to non-authorized individuals, as illustrated by (Dr. Norta): &#x201C;The nurse she was a bit curious and without actually being permitted to do so, peeped into the health records.&#x201D; However, given the speed of the current transformation, the response of governments is expected to lag: &#x201C;They will be reactive and they will be behind by 10 to 15 years&#x201D; (Dr. Khurshid). Even countries that are very advanced in applying technology in the healthcare sector might not exploit the full potential of the technology: &#x201C;The Estonian ID card does not suffice, and there are many other examples in other countries working the same&#x201D; (Dr. Gault). The same holds especially true for large economies: &#x201C;Healthcare in the US market is very slow to change from a technology perspective&#x201D; (Mr. Poteet).</p>
+        <p>Additionally, patients&#x2019; increasing awareness of their vulnerability through data misuse must be taken into account. Such misuse can be aggravated through the sharing of sensitive information on centrally managed systems: &#x201C;To create another shared database and getting people to upload data into a centralized system is never going to happen. It will never succeed because nobody wants to change their behavior or share their data in a way that they cannot control&#x201D; (Dr. Gault).</p>
+        <p>The COVID-19 pandemic has also triggered an important change in consumer behavior, such that an increasing number of individuals suffering from an ailment try to find health-related information online, which might cause problems: &#x201C;Trying to understand what it means leads to wrong conclusions about the risk or the kinds of treatments that may be available&#x201D; (Dr. Khurshid). In this regard, a major success factor will be to produce technical solutions and to advise the general public about the advantages that blockchain technology may offer: &#x201C;It is not the cost of the technology, it is the cost of educating everyone in the population how to use it&#x201D; (Dr. Gault). To wrap up, the role of information in the healthcare industry is key: &#x201C;It is much more complicated than in many other industries in terms of how the information is used by consumers as well as by those who are providing that information&#x201D; (Dr. Norta).</p>
+      </sec>
+      <sec id="sec4.2">
+        <title>Stakeholders and the Legal Environment</title>
+        <p>The healthcare industry is complex and composed of numerous stakeholders, the roles and relevance of whom differ from country to country. In this article, we position the patients in the center and take a data-centric perspective. However, it must be taken into account that the general environment in this industry has evolved over numerous decades, and many stakeholders have a vested interest in actively shaping current developments. Healthcare providers consist of professionals directly involved in patient care (e.g., doctors, nurses, therapists), and they are the ones who actually deliver medical services. These services are regularly provided in healthcare institutions (e.g., hospitals and clinics) that are responsible for staffing, general infrastructure, and the coordination of all activities. The professionals are frequently organized in associations that advocate for their interests and establish industry standards. The interest of the patients is safeguarded by advocacy groups that strive to influence policy, raise awareness about pending topics and, occasionally, also foster research.Pharmaceutical and medical device companies drive research and innovation and play an important role in the distribution of pharmaceutical products. Additionally, research and teaching activities can be carried out by specialized technology and research entities as well as educational institutions. In case innovation is triggered by technology, as is the case with blockchain, startups can play an important role as early adopters of innovation and in the development of innovative solutions that can potentially disrupt existing business models: &#x201C;There is currently no way [&#x2026;] to have a super system that, from a legal point of view, allows us to effectively share data with public sector organizations in the US or the UK. It has to be a disruptor&#x201D; (Mr. Sivagnanam).The legal/regulatory framework is provided by governments and the associated regulatory bodies, which set the policies and procedures for healthcare delivery and may also be responsible for funding, research, and the implementation of health initiatives. However, &#x201C;most of the legal frameworks for blockchain are a reaction to what is happening in financial markets rather than what their potential is for social services and for health&#x201D; (Dr. Khurshid). When it comes to personal health information, protection laws are especially strict. For example, in the European Union, the General Data Protection Regulation (GDPR), which is not specific to healthcare, has important implications for the handling and processing of healthcare data. It emphasizes the protection of personal data and reinforces individuals&#x2019; rights regarding their data. Furthermore, it mandates that organizations obtain consent prior to the collection and processing of personal data and to prove that they are compliant with the GDPR. In the US, the Health Insurance Portability and Accountability Act (HIPAA) covers several topics related to healthcare data with the goal of protecting sensitive information from being disclosed without the consent of the patient. In the UK, it is the goal of the Health Security Agency not only to protect individuals from health threats but also to control the use of personal information.<sup><xref rid="CIT0026" ref-type="bibr">26</xref></sup></p>
+      </sec>
+      <sec id="sec4.3">
+        <title>Patients</title>
+        <p>At the core of our framework are the patients and their personal healthcare data. Patients have specific expectations regarding the services they receive from healthcare providers. However, it is important in this context to focus on the quality and the handling of their sensitive data. In this regard, blockchain is one of those technologies that bear the potential to improve the existing healthcare system and benefit patients in numerous ways. One of the core topics for patients is trust, which pertains to trust in organizations to handle their data in a proper manner but also trust that these data can be used in the interest of the patient in the most efficient and effective manner.</p>
+        <p>Closely related to trust is the perception of privacy, which can be assured by keeping personal information confidential. Ultimately, to trigger a sustainable change, it must be clear to patients how they can potentially benefit from a blockchain-based solution.</p>
+      </sec>
+      <sec id="sec4.3.1">
+        <title>Trust and Privacy</title>
+        <p>Trust in healthcare systems is usually twofold: &#x201C;not only in data, but it is also in terms of who is providing those services&#x201D; (Dr. Khurshid). Trust is closely related to the topic of authentication to be able to certify the source of the data and those allowed to use or access it. Those providing services to patients, such as doctors, also need to trust the data available to them in order to make the best clinical decisions in the interest of their patients. In this regard, current developments can foreshadow the emergence of a machine-to-everything economy in which &#x201C;humans have wearables and directly engage with systems&#x201D; (Dr. Norta).</p>
+        <p>To achieve a desirable level of trust, it is crucial to be transparent and to communicate the benefits that blockchain can bring for patients. The immutability of information on the blockchain provides protection against fraud and tampering with patient data. Specifically, &#x201C;it is important to understand what we are actually trying to achieve in terms of trust with the end user&#x201D; (Mr. Sivagnanam).</p>
+        <p>In summary, blockchain-based healthcare systems must possess the &#x201C;ability to verify and search patient records and get a verifiable result without destroying privacy&#x201D; (Dr. Gault). This can potentially be achieved by giving control over their data back to the patients via &#x201C;a MPI (Master Patient Index) that I control as a patient. And I just have pointers to all the systems that have my data&#x201D; (Mr. Poteet).</p>
+        <sec id="sec4.3.2">
+          <title>Expected Benefits</title>
+          <p>As is the case with any new technology, the introduction of blockchain-based systems can create expectations among patients regarding the functionality and the changes they can bring about. Obviously, blockchain will be applied as a backend technology while keeping the front end simple and user-friendly, but the implications of these changes must still be communicated to patients.</p>
+          <p>Apart from empowering the system users, it is also important that patients actually experience the feeling of being in control: &#x201C;Patients want to be able to authorize a transfer of data of some type&#x201D; (Mr. Sivagnanam).</p>
+          <p>To facilitate controlled data sharing, blockchain can build on the concept of tokenization: &#x201C;They can download the token, and they can decide who they want to share that information with&#x201D; (Dr. Gault). From a patient&#x2019;s perspective, using tokens can offer the advantage of being able to easily access important data all over the world: &#x201C;And then I will [&#x2026;] say, here is my patient record, take all the details that you want from it [&#x2026;] which means wherever I travel the world, I&#x2019;ll give any doctor access to that record&#x201D; (Mr. Sivagnanam). Apart from issues pertaining to sensitive data, this might also open opportunities to reduce costs, which ultimately can result in savings for healthcare institutions and patients: &#x201C;Here is a tremendous opportunity to reduce the cost to the providers and to the payers in this use case&#x201D; (Mr. Poteet).</p>
+          <p>One of the core features of blockchain is decentralization, which refers to the elimination of intermediaries. Originally devised for the financial industry, the same concept might be equally relevant for the healthcare industry, and this creates opportunities for cost savings on the patient side as well as for healthcare service providers: &#x201C;There is a whole middle industry in the U.S. market that monetizes gathering these data. And so there is a tremendous opportunity to reduce the cost to the providers and to the payers in this use case&#x201D; (Mr. Poteet).</p>
+        </sec>
+      </sec>
+      <sec id="sec4.4">
+        <title>Data</title>
+        <p>When it comes to the relevance of data, the qualitative content analysis yielded four important categories in which blockchain can induce major changes: The integrity of the data such that unwanted alterations become impossible; the security level of data during storage and transactions; the creation of interoperable systems that facilitate the exchange of data and, finally, the sharing and transfer of highly sensitive data.</p>
+        <p>It is important to point out that the first two categories are attributes of the data, the third is an attribute of the system, and the fourth refers to an activity. Thus, the categories are not disjunct but rather intertwined.</p>
+        <sec id="sec4.4.1">
+          <title>Integrity</title>
+          <p>Data integrity pertains to the accuracy and consistency of data throughout the entire lifecycle. In addition, it guarantees that data have not been tampered with, which perfectly aligns with a core feature of blockchain: data immutability ensured by cryptographic means. This entails that data can be verified as soon as they are written on the blockchain, and trusted intermediaries are not needed for this task: &#x201C;They have an audit trail, they have provenance, and you can verify them without having to trust all the parties in between that have been managing those records&#x201D; (Dr. Gault).</p>
+          <p>Another important feature of blockchain is its ability to provide shared access to a group of authorized entities. This entails that several parties independently verify the quality of the data: &#x201C;so that anyone can guarantee that the healthcare records are consistent&#x201D; (Dr. Gault).</p>
+        </sec>
+        <sec id="sec4.4.2">
+          <title>Security</title>
+          <p>In a word, &#x201C;security&#x201D; refers to all measures that protect data from unauthorized access, alteration, disclosure, theft, or deletion. Once again, this is where the properties of blockchain come in handy: &#x201C;The opportunity for blockchain and healthcare has always been security&#x201D; (Dr. Gault). In this regard, a core issue is to combine data security with the authentication of the system users: &#x201C;because you can&#x2019;t have this fine-grained access management which you would get with multifactor challenge sets&#x201D; (Dr. Norta). In combination, core constituents of blockchain, such as the immutability of the underlying ledger, the use of cryptography, sophisticated ways to reach consensus, as well as transparency and auditability, allow the designing of innovative systems that improve the security of sensitive patient data.</p>
+        </sec>
+        <sec id="sec4.4.3">
+          <title>Interoperability</title>
+          <p>Interoperability refers to the ability of EHR systems to communicate and interact seamlessly with each other. In this regard, blockchain&#x2019;s decentralized network structure facilitates the sharing of data across entities such as hospitals and research institutions, enhanced security makes the sharing of data easier, platforms can enforce uniform standards, and the elimination of intermediaries makes data exchange more efficient. Consequently, the experts expect a major impact on the healthcare system, consisting of numerous stakeholders who require access to information and who might work on disparate systems, many of which might even be proprietary. &#x201C;There is interoperability needed because there is never going to be one EHR in a country or a region, there is going to be multiple&#x201D; (Mr. Poteet).</p>
+          <p>Apart from the need to coordinate and integrate these systems to improve patient healthcare, in some countries, there also exists a strong external pressure to increase collaboration in the sector: &#x201C;There has been a federal policy that has forced some of these players to interoperate&#x201D; (Dr. Khurshid). Given that healthcare systems regularly have a strong connection to state-owned institutions, this includes the involvement of public organizations: &#x201C;Interoperability is the challenge, not just in healthcare, but it is the challenge in government&#x201D; (Dr. Gault). This issue is also closely connected to the problem of integrating data such that needed information is immediately available: &#x201C;the engagement to achieve on the fly personal healthcare records that get dynamically integrated into more static electronic healthcare records that hospitals manage&#x201D; (Dr. Norta).</p>
+        </sec>
+        <sec id="sec4.4.4">
+          <title>Sharing and Transfer</title>
+          <p>A blockchain-based system can fundamentally change the way healthcare data are handled. At the core of the problem is the need to share and transfer highly sensitive data, which might not only be intercepted during transmission but, once shared, become available in numerous places: &#x201C;How can we transfer that data on a global basis securely, authentically, in a way which effectively bypasses everything that is problematic at the moment?&#x201D; (Mr. Sivagnanam).</p>
+          <p>As a potential solution, rather than sending and sharing data, it becomes possible to grant access to a blockchain system with verifiable data: &#x201C;You are not sending packaged data across the wire. You are allowing that API exchange model where the data stay in the original system throughout the process&#x201D; (Mr. Poteet). This goes along with granting additional rights to the patients, who can effectively authorize data access on a case-by-case basis: &#x201C;But, at the same time, they decide who they want to share data with as opposed to loading it into a centralized database&#x201D; (Dr. Gault). Self-authorization also provides an opportunity to reduce transaction costs: &#x201C;When you desire to share your data with someone, you have control to do that, and you have a mechanism, <italic>and the expense of moving data into a centralized database goes away</italic>&#x201D; (Mr. Poteet).</p>
+          <p>Finally, a major factor related to patient data is legislation and the need to comply with it: &#x201C;Every country and every jurisdiction has its own way of how it deals with its patient records&#x201D; (Mr. Sivagnanam).</p>
+        </sec>
+      </sec>
+      <sec id="sec4.5">
+        <title>Research Framework and Future Topics</title>
+        <p><xref rid="F0001" ref-type="fig">Figure 1</xref> summarizes the core components of our framework, as outlined above, and puts them in context. Decisive forces, which influence the development from the outside, are the existing healthcare industry, which drives innovation but might also be skeptical when it comes to disruptive innovations that might threaten incumbents&#x2019; core interests. Contrariwise, innovative startups do not have any legacy systems that might determine the ways in which they operate, and they can be among the first to implement blockchain-based solutions for healthcare data management.</p>
+        <fig position="float" id="F0001">
+          <label>Fig 1</label>
+          <caption>
+            <p>Core constituents of healthcare data management: stakeholders, patients, and data.</p>
+          </caption>
+          <graphic xlink:href="BHTY-7-301-g001" position="float"/>
+        </fig>
+        <p>All actors operate within a legal and regulatory framework that determines the boundaries of the system. Importantly, this framework can also be analyzed on a supranational level, which limits the strategic flexibility of individual countries and necessitates international cooperation to promote change.</p>
+        <p>At the bottom of <xref rid="F0001" ref-type="fig">Figure 1</xref>, blockchain is shown as a main driver for technological disruption. Notwithstanding the fact that the technology, or rather the bundle of technologies, is multifaceted and under constant development, we postulate that the application of distributed ledgers opens up countless opportunities in the healthcare sector and can help to solve numerous pending problems.</p>
+        <p>Patients and their data make up the core of the framework. The patients are mainly concerned about the correct use of their highly sensitive data and need to trust the technology to enable further adoption. In addition, they have specific expectations and need to see concrete benefits in order to be willing to change the status quo. From a data perspective, it is crucial to ensure the integrity and security of the data and to develop solutions that foster interoperability and data sharing between existing and future solutions.</p>
+        <p>To wrap up the discussion, the experts were asked to produce future healthcare data topics that deserve further investigation and that can potentially be supported by blockchain technology. In this regard, identity management was mentioned several times. As (Dr. Khurshid) points out, &#x201C;Being able to ensure identity is a very important role in healthcare in the future.&#x201D; This is confirmed by (Dr. Norta), who also stresses the importance of achieving a self-sovereign identity authentication that is based on multiple factors.</p>
+        <p>Furthermore, it is also possible to capitalize on the experience gained from applying blockchain in different use cases, such as non-fungible tokens (NFTs), which have previously been used to create communities. Using the same practices, blockchain can be used to &#x201C;assign NFTs to serious products such as medicine&#x201D; (Dr. Norta). As intriguing as the potentials of blockchain technology are, to be successful, integrated solutions must be developed that are &#x201C;on top of the systems from the various vendors across the country that allow individuals to access their healthcare data. They also need to tie in financial healthcare data&#x201D; (Mr. Poteet).</p>
+        <p>Finally, patients&#x2019; perceptions of what the technology can do for them or potential threats associated with it will ultimately determine its success: &#x201C;The challenge is getting the technology right so that you don&#x2019;t scare people off by privacy and putting healthcare records where they could be accessed by others&#x201D; (Dr. Gault).<xref rid="T0001" ref-type="table">Table 1</xref> summarizes the topics discussed by listing numerous important research questions, many of which can be answered using qualitative or quantitative approaches from the social sciences. &#x201C;How&#x201D; questions indicate that a design science approach might be adequate, with the goal of designing and developing systems that demonstrate the viability of a specific idea or approach.</p>
+        <table-wrap position="float" id="T0001">
+          <label>Table 1</label>
+          <caption>
+            <p>Research questions, with blockchain shown to be a main driver for technological disruption</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Topic</th>
+                <th align="left" rowspan="1" colspan="1">Research questions*</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Current challenges</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Given an aging population and a dearth of healthcare professionals, how can adequate healthcare provision be ensured?</p></list-item><list-item><p>How can collaboration between key stakeholders in the healthcare sector be promoted?</p></list-item><list-item><p>What is the current state of legislation/regulation, and in what ways does it foster or inhibit the introduction of blockchain technology?</p></list-item><list-item><p>How can the counterfeiting of medications be eliminated or reduced?</p></list-item><list-item><p>What is the current state of healthcare systems [in different countries] and in what way does it take into account patients&#x2019; requirements?</p></list-item><list-item><p>What is the current state of data privacy in healthcare systems?</p></list-item><list-item><p>What are the main factors that drive the adoption of healthcare systems from a patient&#x2019;s perspective?</p></list-item><list-item><p>What is the awareness among patients regarding the use of personal information within the healthcare system?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Stakeholders and legal environment</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>How are the respective stakeholders in the healthcare system impacted by the introduction of blockchain-based solutions?</p></list-item><list-item><p>What changes in the current legal/regulatory framework are needed in case blockchain-based solutions are introduced?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Patients: Trust and privacy</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>What are the perceptions among patients regarding the use of their personal data in healthcare systems?</p></list-item><list-item><p>How can a machine-to-everything economy in the healthcare space be designed that works in the best interest of patients?</p></list-item><list-item><p>How can healthcare systems be designed to balance the privacy needs of patients with the easy availability of information?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Patients: Expected benefits</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>What is the level of subjective empowerment among patients pertaining to the use of their data in healthcare systems?</p></list-item><list-item><p>Can tokenization facilitate the sharing of sensitive patient information?</p></list-item><list-item><p>What cost savings are possible in blockchain-based healthcare systems and how can the patients benefit from these savings?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Data: Integrity</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>How can blockchain be applied to design and develop systems that offer data integrity?</p></list-item><list-item><p>Who are the important stakeholders in patient healthcare data, and how can they access data in case of need, including for care coordination?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Data: Security</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Which blockchain core properties impact the security of patient data?</p></list-item><list-item><p>How can systems be designed with a focus on healthcare data security?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Data: Interoperability</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>What is the role of legislation and regulation when it comes to the interoperability of blockchain-based healthcare systems?</p></list-item><list-item><p>How can healthcare data systems be designed that communicate and interact seamlessly?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Data: Sharing and transfer</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Can the transfer of sensitive patient data be replaced by allowing access to a blockchain-based system on a case-by-case basis?</p></list-item><list-item><p>How can blockchain-based systems be aligned with national rules and legislation when it comes to the sharing and transfer of patient data?</p></list-item></list></td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">Future topics</td>
+                <td align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>How can patient identity be ensured?</p></list-item><list-item><p>Can blockchain contribute to the design and development of self-sovereign identity in healthcare management?</p></list-item><list-item><p>How can NFTs be applied to streamline existing applications (either patient related or medication related)?</p></list-item><list-item><p>What are patients&#x2019; perceptions of blockchain-based healthcare data systems?</p></list-item><list-item><p>What are patients&#x2019; expectations of blockchain-based healthcare data systems?</p></list-item></list></td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>&#x201C;How&#x201D; questions indicate that a design science approach might be adequate, with the goal of designing and developing systems that demonstrate the viability of a specific idea or approach. NFTs: nonfungible data.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="sec5">
+      <title>Discussion</title>
+      <p>Previous academic literature has identified numerous areas in which blockchain technology can contribute to more effective and efficient healthcare management. The industry has already produced promising applications that allow for a glimpse into how the technology can add value in this important industry.</p>
+      <p>In this article, we used qualitative content analysis to summarize the findings from an expert panel on blockchain transformation in healthcare data management. We started by discussing several pending problems and then presented an emerging framework that depicts existing players in the healthcare industry, startups as potential disruptors, and the legal/regulatory context.</p>
+      <p>Patients are at the center of our framework. On the one hand, patients expect a certain level of privacy regarding their sensitive data and also need to trust the general system. On the other hand, they have specific expectations of how innovative solutions can benefit them. From a data perspective, we identified integrity, security, interoperability, and sharing/transfer as important topics.</p>
+      <p>We round up our analysis with important future topics that the experts identified and the derivation of relevant research questions for each respective topic. These questions are intended to inspire further investigation by practitioners as well as academics and should spark the design and development of applications that can tackle existing challenges and provide value.</p>
+      <p>Our study has several limitations. First, the expertise is specific to the experience and knowledge of the experts in the panel. While we ensured a broad practical and academic expertise of the participants, it is possible that a different group of experts from other geographical regions, healthcare specialties and technical backgrounds put forth additional topics. Given that this was an exploratory venue, and we did not weigh the importance of the relative topics. However, this should not be a major issue, and we leave it to future studies to refine the framework that we generated here.</p>
+      <p>Second, we did not discuss in detail the ethical implications of increasing blockchain adoption in the healthcare industry, especially when it comes to topics such as patient consent and data ownership. As far as future research is concerned, we encourage academics to use the questions that we raised as starting points for their own research and to dive deep into the respective topics, each of which deserves a thorough investigation. This especially pertains to the conduction of case studies, which illustrate the applicability of blockchain to remedy the problems that we identified.</p>
+      <p>Further empirical research might either quantify the importance of a specific problem and the extent to which blockchain can help or be used to create models based on survey data, which highlight important antecedents of blockchain adoption in the healthcare sector. As soon as there is a consensus on what the most important topics are and how blockchain can help to overcome pending problems, roadmaps for the implementation of blockchain, ideally based on practical evidence, are needed to guide practitioners and provide value for stakeholders.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec6">
+      <title>Conclusions</title>
+      <p>The future of blockchain in healthcare data management holds significant promise, offering potential solutions to various challenges within the industry. However, many use cases must still be validated, and there is also a need to consider that blockchain comprises a couple of technologies that are currently under development. It remains to be seen how they can be fruitfully applied to solve pending issues and which advantages they can offer over existing systems.</p>
+      <p>Given the relevance of healthcare data management, we explicitly encourage fruitful cooperation between the industry and academia to design, develop, and assess solutions that can benefit patients, which, at one point in time, means each and every one of us.</p>
+    </sec>
+  </body>
+  <back>
+    <sec id="sec8">
+      <title>Financial and Non-Financial Relationships and Activities</title>
+      <p>The authors report no conflicts of interest. Horst Treiblmaier, Abderahman Rejeb, Anjum Khurshid and Alex Norta serve on the Editorial Board of Blockchain in Healthcare Today.</p>
+    </sec>
+    <sec id="sec9">
+      <title>Contributions</title>
+      <p>All authors contributed to the conceptualization of the discussion and article. Dr. Treiblmaier, Dr. Gault, Dr. Khurshid, Dr. Norta, Mr. Poteet, and Mr. Sivagnanam contributed to the panel discussion. Dr. Treiblmaier and Dr. Rejeb collaborated on the original draft. All authors contributed to the subsequent review and editing. All authors read and agreed to the published version of the manuscript.</p>
+    </sec>
+    <sec id="sec10">
+      <title>Application of AI-Generated Text or Related Technology</title>
+      <p>None reported by the authors.</p>
+    </sec>
+    <ref-list id="references">
+      <title>References</title>
+      <ref id="CIT0001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Conway</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Venkataraman</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Laverick</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Pelin</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Hasselgren</surname>
+<given-names>A</given-names></string-name></person-group>. <article-title>Blockchain in healthcare today 2022 predictions</article-title>. <source>Blockchain Healthc Today</source>. <year>2022</year>;<volume>5</volume>:<fpage>1</fpage>&#x2013;<lpage>4</lpage>. <pub-id pub-id-type="doi">10.30953/bhty.v5.194</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Dionisio</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>De Souza Junior</surname>
+<given-names>SJ</given-names></string-name>, <string-name><surname>Paula</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Pellanda</surname>
+<given-names>PC</given-names></string-name></person-group>. <article-title>The role of digital transformation in improving the efficacy of healthcare: a systematic review</article-title>. <source>J High Technol Manage Res</source>. <year>2023</year>;<volume>34</volume>:<fpage>100442</fpage>. <pub-id pub-id-type="doi">10.1016/j.hitech.2022.100442</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Stafford</surname>
+<given-names>TF</given-names></string-name>, <string-name><surname>Treiblmaier</surname>
+<given-names>H</given-names></string-name></person-group>. <article-title>Characteristics of a blockchain ecosystem for secure and sharable electronic medical records</article-title>. <source>IEEE Trans Eng Manage</source>. <year>2020</year>;<volume>67</volume>:<fpage>1340</fpage>&#x2013;<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1109/TEM.2020.2973095</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Krishnasamy</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Gopalakrishnan</surname>
+<given-names>BN</given-names></string-name></person-group>. <article-title>Moving beyond proof of concept and pilots to mainstream: discovery and lessons from blockchain in healthcare</article-title>. <source>Blockchain Healthc Today</source>. <year>2023</year>;<volume>6</volume>:<fpage>280</fpage>. <pub-id pub-id-type="doi">10.30953/bhty.v6.280</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Rejeb</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Keogh</surname>
+<given-names>JG</given-names></string-name>, <string-name><surname>Treiblmaier</surname>
+<given-names>H</given-names></string-name></person-group>. <article-title>Leveraging the internet of things and blockchain technology in supply chain management</article-title>. <source>Future Internet</source>. <year>2019</year>;<volume>11</volume>:<fpage>161</fpage>. <pub-id pub-id-type="doi">10.3390/fi11070161</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Treiblmaier</surname>
+<given-names>H</given-names></string-name></person-group>. <article-title>The impact of the blockchain on the supply chain: a theory-based research framework and a call for action</article-title>. <source>Supply Chain Manage</source>. <year>2018</year>;<volume>23</volume>:<fpage>545</fpage>&#x2013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1108/SCM-01-2018-0029</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Fosso Wamba</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Kala Kamdjoug</surname>
+<given-names>JR</given-names></string-name>, <string-name><surname>Epie Bawack</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Keogh</surname>
+<given-names>JG</given-names></string-name></person-group>. <article-title>Bitcoin, blockchain and Fintech: a systematic review and case studies in the supply chain</article-title>. <source>Product Plann Ctrl</source>. <year>2020</year>;<volume>31</volume>:<fpage>115</fpage>&#x2013;<lpage>42</lpage>. <pub-id pub-id-type="doi">10.1080/09537287.2019.1631460</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Treiblmaier</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Petrozhitskaya</surname>
+<given-names>E</given-names></string-name></person-group>. <article-title>Is it time for marketing to reappraise B2C relationship management? The emergence of a new loyalty paradigm through blockchain technology</article-title>. <source>J Bus Res</source>. <year>2023</year>;<volume>159</volume>:<fpage>113725</fpage>. <pub-id pub-id-type="doi">10.1016/j.jbusres.2023.113725</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Karger</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Bree</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Ziolkowski</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Jagals</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Ahlemann</surname>
+<given-names>F</given-names></string-name></person-group>. <article-title>Blockchain in smart cities &#x2013; a bibliometric analysis and overview</article-title>. <source>Int J Innov Technol Manage</source>. <year>2023</year>. <pub-id pub-id-type="doi">10.1142/S0219877024500251</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Narayanan</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Clark</surname>
+<given-names>J</given-names></string-name></person-group>. <article-title>Bitcoin&#x2019;s academic pedigree</article-title>. <source>Commun ACM</source>. <year>2017</year>;<volume>60</volume>:<fpage>36</fpage>&#x2013;<lpage>45</lpage>. <pub-id pub-id-type="doi">10.1145/3132259</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kannengie&#xDF;er</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Lins</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Dehling</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Sunyaev</surname>
+<given-names>A</given-names></string-name></person-group>. <article-title>Trade-offs between distributed ledger technology characteristics</article-title>. <source>ACM Comput Surv</source>. <year>2020</year>;<volume>53</volume>:<fpage>1</fpage>&#x2013;<lpage>37</lpage>. <pub-id pub-id-type="doi">10.1145/3379463</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Treiblmaier</surname>
+<given-names>H</given-names></string-name></person-group>. <article-title>A comprehensive research framework for Bitcoin&#x2019;s energy use: fundamentals, economic rationale, and a pinch of thermodynamics</article-title>. <source>Blockchain Res Appl</source>. <year>2023</year>;<volume>4</volume>:<fpage>100149</fpage>. <pub-id pub-id-type="doi">10.1016/j.bcra.2023.100149</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Rejeb</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Treiblmaier</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Rejeb</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Zailani</surname>
+<given-names>S</given-names></string-name></person-group>. <article-title>Blockchain research in healthcare: a bibliometric review and current research trends</article-title>. <source>J Data Inform Manage</source>. <year>2021</year>;<volume>3</volume>:<fpage>109</fpage>&#x2013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1007/s42488-021-00046-2</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pilkington</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>Can blockchain improve healthcare management?</article-title>
+<source>Technol Innov Manage Rev</source>. <year>2022</year>;<volume>12</volume>(<issue>1, 2</issue>). <comment>[cited 2024 Jan 17]. Available from: <ext-link xlink:href="https://timreview.ca/sites/default/files/article_PDF/TIMReview_2022_Issue_1-2-3.pdf" ext-link-type="uri">https://timreview.ca/sites/default/files/article_PDF/TIMReview_2022_Issue_1-2-3.pdf</ext-link></comment></mixed-citation>
+      </ref>
+      <ref id="CIT0015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Taloba</surname>
+<given-names>AI</given-names></string-name>, <string-name><surname>Elhadad</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Rayan</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Abd El-Aziz</surname>
+<given-names>RM</given-names></string-name>, <string-name><surname>Salem</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Alzahrani</surname>
+<given-names>AA</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>A blockchain-based hybrid platform for multimedia data processing in IoT-Healthcare</article-title>. <source>Alex Eng J</source>. <year>2023</year>;<volume>65</volume>:<fpage>263</fpage>&#x2013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1016/j.aej.2022.09.031</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wenhua</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Qamar</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Abdali</surname>
+<given-names>T-AN</given-names></string-name>, <string-name><surname>Hassan</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Jafri</surname>
+<given-names>STA</given-names></string-name>, <string-name><surname>Nguyen</surname>
+<given-names>QN</given-names></string-name></person-group>. <article-title>Blockchain technology: security issues, healthcare applications, challenges and future trends</article-title>. <source>Electronics</source>. <year>2023</year>;<volume>12</volume>:<fpage>546</fpage>. <pub-id pub-id-type="doi">10.3390/electronics12030546</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Abdul-Moheeth</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Usman</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Harrell</surname>
+<given-names>DT</given-names></string-name>, <string-name><surname>Khurshid</surname>
+<given-names>A</given-names></string-name></person-group>. <article-title>Improving transitions of care: designing a blockchain application for patient identity management</article-title>. <source>Blockchain Healthc Today</source>. <year>2022</year>;<volume>5</volume>:<fpage>200</fpage>. <pub-id pub-id-type="doi">10.30953/bhty.v5.200</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Khurshid</surname>
+<given-names>A</given-names></string-name></person-group>. <article-title>Applying blockchain technology to address the crisis of trust during the COVID-19 pandemic</article-title>. <source>JMIR Med Inform</source>. <year>2020</year>;<volume>8</volume>:<fpage>e20477</fpage>. <pub-id pub-id-type="doi">10.2196/20477</pub-id><pub-id pub-id-type="pmid">32903197</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="CIT0019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mohammed</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Boujelben</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Abid</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>A novel approach for fraud detection in blockchain-based healthcare networks using machine learning</article-title>. <source>Future Internet</source>. <year>2023</year>;<volume>15</volume>:<fpage>250</fpage>. <pub-id pub-id-type="doi">10.3390/fi15080250</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Turki</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Cheikhrouhou</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Dammak</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Baklouti</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Mars</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Dhahbi</surname>
+<given-names>A</given-names></string-name></person-group>. <article-title>NFT-IoT pharma chain: IoT drug traceability system based on blockchain and non fungible tokens (NFTs)</article-title>. <source>J King Saud Univ</source>. <year>2023</year>;<volume>35</volume>:<fpage>527</fpage>&#x2013;<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1016/j.jksuci.2022.12.016</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0021">
+        <label>21</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Balakrishnan</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Jaglan</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Selly</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Kumar</surname>
+<given-names>V</given-names></string-name>, <string-name><surname>Jabalia</surname>
+<given-names>N</given-names></string-name></person-group>. <article-title>Emerging trends of blockchain in bioinformatics: a revolution in health care</article-title>. In: <person-group person-group-type="editor"><string-name><surname>Pandey</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Goundar</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Fatima</surname>
+<given-names>S</given-names></string-name></person-group>, editors. <source>Distributed computing to blockchain</source>. <publisher-name>Academic Press</publisher-name>; <year>2023</year>, p. <fpage>389</fpage>&#x2013;<lpage>404</lpage>. <pub-id pub-id-type="doi">10.1016/B978-0-323-96146-2.00018-8</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ahmad</surname>
+<given-names>RW</given-names></string-name>, <string-name><surname>Salah</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Jayaraman</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Yaqoob</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Ellahham</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Omar</surname>
+<given-names>M</given-names></string-name></person-group>. <article-title>The role of blockchain technology in telehealth and telemedicine</article-title>. <source>Int J Med Inform</source>. <year>2021</year>;<volume>148</volume>:<fpage>104399</fpage>. <pub-id pub-id-type="doi">10.1016/j.ijmedinf.2021.104399</pub-id><pub-id pub-id-type="pmid">33540131</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="CIT0023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Khurshid</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Gadnis</surname>
+<given-names>A</given-names></string-name></person-group>. <article-title>Using blockchain to create transaction identity for persons experiencing homelessness in America: policy proposal</article-title>. <source>JMIR Res Protoc</source>. <year>2019</year>;<volume>8</volume>:<fpage>e10654</fpage>. <pub-id pub-id-type="doi">10.2196/10654</pub-id><pub-id pub-id-type="pmid">30839279</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="CIT0024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Khurshid</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Holan</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Cowley</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Alexander</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Harrell</surname>
+<given-names>DT</given-names></string-name>, <string-name><surname>Usman</surname>
+<given-names>M</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Designing and testing a blockchain application for patient identity management in healthcare</article-title>. <source>JAMIA Open</source>. <year>2021</year>;<volume>4</volume>:<fpage>ooaa073</fpage>. <pub-id pub-id-type="doi">10.1093/jamiaopen/ooaa073</pub-id><pub-id pub-id-type="pmid">34505001</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="CIT0025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mayring</surname>
+<given-names>P</given-names></string-name></person-group>. <article-title>Qualitative content analysis</article-title>. <source>Forum</source>. <year>2000</year>;<volume>1</volume>(<issue>2</issue>). <pub-id pub-id-type="doi">10.17169/fqs-1.2.1089</pub-id></mixed-citation>
+      </ref>
+      <ref id="CIT0026">
+        <label>26</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>McLaren</surname>
+<given-names>M</given-names></string-name></person-group>. <source>Understanding the current and future state of complex health data protection laws</source>. <publisher-name>Pharmaceutical Technology</publisher-name>; <year>2023</year>
+<comment>[cited 2023 Jan 29]. Available from: <ext-link xlink:href="https://www.pharmaceutical-technology.com/sponsored/understanding-the-current-and-future-state-of-complex-health-data-protection-laws/" ext-link-type="uri">https://www.pharmaceutical-technology.com/sponsored/understanding-the-current-and-future-state-of-complex-health-data-protection-laws/</ext-link></comment></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

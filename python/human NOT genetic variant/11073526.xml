@@ -1,0 +1,507 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Diabetes Metab Syndr Obes</journal-id><journal-id journal-id-type="iso-abbrev">Diabetes Metab Syndr Obes</journal-id><journal-id journal-id-type="publisher-id">dmso</journal-id><journal-title-group><journal-title>Diabetes, Metabolic Syndrome and Obesity</journal-title></journal-title-group><issn pub-type="epub">1178-7007</issn><publisher><publisher-name>Dove</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38711675</article-id><article-id pub-id-type="pmc">11073526</article-id><article-id pub-id-type="publisher-id">449706</article-id><article-id pub-id-type="doi">10.2147/DMSO.S449706</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Effect of Maternal Pre-Pregnancy Body Mass Index on Longitudinal Fetal Growth and Mediating Role of Maternal Fasting Plasma Glucose: A Retrospective Cohort Study</article-title><alt-title alt-title-type="running-authors">Chen et al</alt-title><alt-title alt-title-type="running-title">Chen et al</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chen</surname><given-names>Qinzheng</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0009-0000-6751-9219</contrib-id><name><surname>He</surname><given-names>Zhen</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wang</surname><given-names>Yaxin</given-names></name><xref rid="aff0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Xuanjin</given-names></name><xref rid="aff0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Liu</surname><given-names>Nana</given-names></name><xref rid="aff0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Suhan</given-names></name><xref rid="aff0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5758-0198</contrib-id><name><surname>Ma</surname><given-names>Liangkun</given-names></name><xref rid="aff0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1694-1011</contrib-id><name><surname>Shi</surname><given-names>Xuezhong</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Jia</surname><given-names>Xiaocan</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Yang</surname><given-names>Yongli</given-names></name><xref rid="aff0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="an0002" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>Sun</surname><given-names>Yin</given-names></name><xref rid="aff0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="an0001" ref-type="corresp"/></contrib><contrib contrib-type="author"><name><surname>He</surname><given-names>Yuan</given-names></name><xref rid="aff0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><aff id="aff0001"><label>1</label><institution>Department of Epidemiology and Biostatistics, College of Public Health, Zhengzhou University</institution>, <addr-line>Zhengzhou</addr-line>, <country>People&#x2019;s Republic of China</country></aff><aff id="aff0002"><label>2</label><institution>Department of Obstetrics and Gynecology, National Clinical Research Center for Obstetric &amp; Gynecologic Diseases, Peking Union Medical College (PUMC) Hospital, Chinese Academy of Medical Sciences (CAMS) and PUMC</institution>, <addr-line>Beijing</addr-line>, <country>People&#x2019;s Republic of China</country></aff><aff id="aff0003"><label>3</label><institution>National Human Genetic Resources Center, National Research Institute for Family Planning</institution>, <addr-line>Beijing</addr-line>, <country>People&#x2019;s Republic of China</country></aff></contrib-group><author-notes><corresp id="an0001">Correspondence: Yin Sun, Department of Obstetrics and Gynecology, Peking Union Medical College (PUMC) Hospital, Chinese Academy of Medical Sciences (CAMS) and PUMC, <addr-line>Beijing</addr-line>, <addr-line>100730</addr-line>, <country>People&#x2019;s Republic of China</country>, Email yinsun_pumch@163.com</corresp><corresp id="an0002">Yongli Yang, Department of Epidemiology and Biostatistics, College of Public Health, Zhengzhou University, <addr-line>Zhengzhou</addr-line>, <addr-line>450001</addr-line>, <country>People&#x2019;s Republic of China</country>, Email ylyang377@zzu.edu.cn</corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>17</volume><fpage>1911</fpage><lpage>1921</lpage><history><date date-type="received"><day>14</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>26</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Chen et al.</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Chen et al.</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/3.0/</ali:license_ref><license-p>This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at <ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link> and incorporate the Creative Commons Attribution &#x2013; Non Commercial (unported, v3.0) License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/3.0/">http://creativecommons.org/licenses/by-nc/3.0/</ext-link>). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (<ext-link ext-link-type="uri" xlink:href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</ext-link>).</license-p></license></permissions><abstract><sec><title>Purpose</title><p>To assess the impact of maternal pre-pregnancy body mass index (BMI) on longitudinal fetal growth, and the potential mediation effect of the maternal fasting plasma glucose in first trimester.</p></sec><sec><title>Methods</title><p>In this retrospective cohort study, we collected pre-pregnancy BMI data and ultrasound measurements during pregnancy of 3879 singleton pregnant women who underwent antenatal examinations and delivered at Peking Union Medical College Hospital. Generalized estimation equations, linear regression, and logistic regression were used to examine the association between pre-pregnancy BMI with fetal growth and adverse neonatal outcomes. Mediation analyses were also used to examine the mediating role of maternal fasting plasma glucose (FPG) in first trimester.</p></sec><sec><title>Results</title><p>A per 1 Kg/m&#xB2; increase in pre-pregnancy BMI was associated with increase fetal body length Z-score (&#x3B2; 0.010, 95% CI 0.001, 0.019) and fetal body weight (&#x3B2; 0.017, 95% CI 0.008, 0.027). In mid pregnancy, pre-pregnancy BMI also correlated with an increase Z-score of fetal abdominal circumference, femur length (FL). Pre-pregnancy BMI was associated with an increased risk of large for gestational age and macrosomia. Mediation analysis indicated that the associations between pre-pregnancy BMI and fetal weight in mid and late pregnancy, and at birth were partially mediated by maternal FPG in first trimester (mediation proportion: 5.0%, 8.3%, 1.6%, respectively).</p></sec><sec><title>Conclusion</title><p>Maternal pre-pregnancy BMI was associated with the longitudinal fetal growth, and the association was partly driven by maternal FPG in first trimester. The study emphasized the importance of identifying and managing mothers with higher pre-pregnancy BMI to prevent fetal overgrowth.</p></sec></abstract><kwd-group kwd-group-type="author"><title>Keywords</title><kwd>body mass index</kwd><kwd>fetal growth</kwd><kwd>adverse neonatal outcomes</kwd><kwd>fasting plasma glucose</kwd><kwd>mediation analysis</kwd><kwd>cohort study</kwd></kwd-group><funding-group><award-group><funding-source>
+<institution-wrap><institution>China Medical Board</institution><institution-id institution-id-type="open-funder-registry">10.13039/100001547</institution-id></institution-wrap>
+</funding-source></award-group><award-group><funding-source>
+<institution-wrap><institution>National Key Research and Development Program of China</institution></institution-wrap>
+</funding-source></award-group><award-group><funding-source>
+<institution-wrap><institution>Central Public-interest Scientific Institution Basal Research Fund</institution></institution-wrap>
+</funding-source></award-group><award-group><funding-source>
+<institution-wrap><institution>Yili Foundation of Health Science</institution></institution-wrap>
+</funding-source></award-group><funding-statement>This work was funded by the China Medical Board (Grant #20-380), the National Key Research and Development Program of China (No. 2016YFC1000102), the Central Public-interest Scientific Institution Basal Research Fund (2020GJZ03), and the Yili Foundation of Health Science (2021-Y04).</funding-statement></funding-group><counts><fig-count count="2"/><table-count count="4"/><ref-count count="45"/><page-count count="11"/></counts></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="s0001">
+      <title>Introduction</title>
+      <p>Obesity has been one of the largest public health threats globally. A statistical report indicated that the number of people with overweight or obesity has reached 2 billion worldwide, with the proportion of women of reproductive age and children was constantly increasing.<xref rid="cit0001" ref-type="bibr">1</xref>,<xref rid="cit0002" ref-type="bibr">2</xref> The birth weight of neonates progressively increased over time.<xref rid="cit0003" ref-type="bibr">3</xref> The risk of childhood obesity and multiple diseases in adulthood (such as hypertension, diabetes, and tumours) are increased if an infant already has overweight or obesity at birth.<xref rid="cit0004" ref-type="bibr">4</xref> This phenomenon is referred to as the Developmental Origins of Health and Diseases (DOHaD) paradigm.<xref rid="cit0005" ref-type="bibr">5</xref> Fetal growth could be influenced by a multitude of factors, maternal factors such as maternal hormones, obesity, and nutritional deficiencies also are known to impact this process.<xref rid="cit0006" ref-type="bibr">6</xref>,<xref rid="cit0007" ref-type="bibr">7</xref> Maternal obesity has been demonstrated to be associated with an increased risk of obstetric complications during the perinatal period, as well as an increased risk of metabolic syndrome in offspring.<xref rid="cit0008" ref-type="bibr">8&#x2013;10</xref> However, few studies had taken into consideration the impact of maternal pre-pregnancy obesity on the early stages of offspring development, which is crucial for preventing fetal growth acceleration or deceleration.</p>
+      <p>Furthermore, it is well established that overweight/obesity is associated with abnormal glucose metabolism, and pre-pregnancy obesity may contribute to abnormal glucose metabolism in early pregnancy (the period from the last menstrual period to 12 weeks of gestation).<xref rid="cit0011" ref-type="bibr">11&#x2013;13</xref> It has been reported that abnormal glucose metabolism during early pregnancy affected fetal growth, altering the trajectory of intrauterine growth, suggesting that plasma glucose may be a mediator in the association between pre-pregnancy weight and the change in fetal growth.<xref rid="cit0014" ref-type="bibr">14</xref>,<xref rid="cit0015" ref-type="bibr">15</xref> Therefore, we hypothesized that the association between pre-pregnancy BMI and fetal intrauterine growth in pregnant women was partly mediated by maternal early pregnancy fasting plasma glucose (FPG).</p>
+      <p>However, previous studies tended to use birth weight as the indicator for fetal growth, but it could not represent the specific growth characteristics of fetuses in the uterus. Thus, it is necessary to utilize ultrasound-based fetal measurements to assess fetal growth status. Furthermore, the impact of early pregnancy glucose levels on the association between pre-pregnancy BMI and fetal growth remains unclear. This study aims to delve into the impact of maternal nutritional status (pre-pregnancy BMI and plasma glucose) on fetal intrauterine growth during pregnancy, and explore the key factors influencing fetal intrauterine growth. Therefore, in this retrospective cohort study among 4860 mother-offspring pairs, we examined the associations between maternal pre-pregnancy BMI and fetal growth and the risk of adverse neonatal outcomes, and explored the mediation effect of maternal FPG in first trimester.</p>
+    </sec>
+    <sec id="s0002">
+      <title>Materials and Methods</title>
+      <sec id="s0002-s2001">
+        <title>Study Population</title>
+        <p>This retrospective cohort study was conducted at Peking Union Medical College Hospital (PUMCH). From July 2020 to June 2022, a total of 5409 singleton pregnant women who underwent antenatal care throughout the pregnancy in the PUMCH were obtained. <xref rid="f0001" ref-type="fig">Figure 1</xref> details the participant&#x2019;s selection process. Demographic information and medical information of the mother-fetus pairs were collected via questionnaires and Hospital Information System (HIS). This cohort study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline and the Declaration of Helsinki. Written informed consent was acquired from all study participants, and this study was approved by the ethics committee of PUMCH (JS-2763).
+<fig position="float" id="f0001" fig-type="figure"><label>Figure 1</label><caption><p>Flowchart of the study population.</p></caption><graphic xlink:href="DMSO-17-1911-g0001" content-type="print-only" position="float"/></fig></p>
+      </sec>
+      <sec id="s0002-s2002">
+        <title>Exposure Measurement</title>
+        <p>Pre-pregnancy weight and height were obtained from questionnaires filled out by pregnant women at the PUMCH upon confirmation of pregnancy. The pre-pregnancy BMI (kg/m<sup>2</sup>) was calculated as body weight (kg) divided by height-squared (m<sup>2</sup>). Maternal FPG in first trimester (the last menstrual period to 12 weeks of gestation) was the plasma glucose level measured by blood taken before breakfast after overnight fasting (at least 8&#x2013;10 h without any food, except drinking water) during the first antenatal visit of the early pregnancy. All the glucose level tests were measured by professional laboratory physicians using Biochemical detector (cobas c 701/702, Roche).</p>
+      </sec>
+      <sec id="s0002-s2003">
+        <title>Fetal Growth and Neonatal Outcome</title>
+        <p>As a part of the follow-up prenatal visits, pregnant women were routinely monitored with transabdominal sonography (EPIQ Elite, PHILIPS) to measure the fetal head circumference (HC), abdominal circumference (AC), femur length (FL) to the nearest millimetre. These measurements were performed during mid pregnancy (18 to 24 weeks of gestation) and late pregnancy (28 to 34 weeks of gestation). The ultrasound measurements were conducted by experienced sonographers. The estimated fetal weight (EFW) was calculated according to the Hadlock formula.<xref rid="cit0016" ref-type="bibr">16</xref> Information on fetal sex, gestational age, birth weight, and birth height were obtained from hospital medical records. Based on the INTERGROWTH-21st Standard, gestational age-adjusted z-scores for fetal biometry measurements, EFW, weight and height at birth were calculated.<xref rid="cit0017" ref-type="bibr">17</xref></p>
+        <p>Preterm birth (PB) was defined as a gestational age at birth &lt;37 weeks.<xref rid="cit0018" ref-type="bibr">18</xref> Large for gestational age (LGA) was defined as a birth weight exceeded the 90th percentile gestational age- and sex-specified birth weight according to growth standard curves of the birth weight of Chinese newborns of different gestation.<xref rid="cit0019" ref-type="bibr">19&#x2013;21</xref> Low birth weight (LBW) was defined as a birth weight &lt;2500 g,<xref rid="cit0022" ref-type="bibr">22</xref> whereas macrosomia was defined as a birth weight &gt;4000 g.<xref rid="cit0023" ref-type="bibr">23</xref></p>
+      </sec>
+      <sec id="s0002-s2004">
+        <title>Covariates</title>
+        <p>Information about maternal age, maternal parity, history of adverse pregnancy, gestational age, and infant sex were extracted from the medical record system. Maternal socioeconomic characteristics (eg, education level, occupation), lifestyle factors (eg, physical activity level), family history of diabetes, and family history of hypertension disease were collected by standardized structured questionnaire in first antenatal care. Gestational weight gain (GWG) refers to the difference between pre-pregnancy weight and weight before delivery, and it is categorized into appropriate and inappropriate GWG according to the guidelines provided by the Institute of Medicine (IOM) in 2009 on the range of GWG.<xref rid="cit0024" ref-type="bibr">24</xref></p>
+      </sec>
+      <sec id="s0002-s2005">
+        <title>Statistical Analysis</title>
+        <p>Variables were presented as means with standard deviations (SD), medians with upper and lower quartiles, or percentages. Differences in variables were compared using t tests or Mann&#x2013;Whitney <italic toggle="yes">U</italic>-tests for continuous variables and Chi-squared test for categorical variables.</p>
+        <p>Generalized estimating equation (GEE) models were used to handle repeatedly measured fetal growth data (body length and body weight) to estimate the effect of maternal pre-pregnancy BMI on the longitudinal fetal growth patterns.<xref rid="cit0025" ref-type="bibr">25</xref> The fetus length could not be estimated by ultrasound, so the longitudinal growth of body length was assessed using FL instead of birth height in mid and late pregnancy.<xref rid="cit0026" ref-type="bibr">26</xref> We utilized mid-pregnancy EFW, late pregnancy EFW, and birth weight to assess the longitudinal growth of body weight.</p>
+        <p>Multiple linear regression models were used to examine the association of maternal pre-pregnancy BMI with fetal biometry measurement in the mid and late pregnancy, and at birth. Multiple logistic regression models were used to estimate the associations of maternal pre-pregnancy BMI with the risk of adverse neonatal outcomes (PB, LGA, LBW, macrosomia).</p>
+        <p>Mediation analysis was conducted using the &#x201C;mediation&#x201D; package in R4.2.2 to assess whether maternal FPG in first trimester contributed to the association of maternal pre-pregnancy BMI with fetal biometric measurements.<xref rid="cit0027" ref-type="bibr">27</xref></p>
+        <p>For all analyses, maternal pre-pregnancy BMI was included as a continuous variable in the models. All regression models were first adjusted for maternal age, education level, physical activity level, and gestational age (Model 1) and subsequently additionally adjusted for parity, GWG throughout pregnancy, maternal FPG in first trimester, family history of hypertension disease, and family history of diabetes (Model 2).</p>
+        <p>We also conducted stratified analyses to explore potential differences in the association based on maternal age &lt;35 or &#x2265;35, primiparous or multiparous, with or without family history of diabetes, and male or female infant.</p>
+        <p>Significance tests were two-sided, and <italic toggle="yes">P &lt;</italic> 0.05 was considered statistically significant. R version 4.2.2 (R Group for Statistical Computing) performed all analyses.</p>
+      </sec>
+    </sec>
+    <sec id="s0003">
+      <title>Results</title>
+      <sec id="s0003-s2001">
+        <title>Population Characteristics</title>
+        <p>Descriptive characteristics of maternal and offspring are listed in <xref rid="t0001" ref-type="table">Table 1</xref>. A total of 4860 singleton pregnant women were included in the final analysis. The mean maternal age was 32.55 &#xB1;4.18 years, and the mean maternal pre-pregnancy BMI was 22.72 &#xB1;3.25 Kg/m<sup>2</sup>. The birth weight of the newborns were 3269.06 &#xB1; 445.49 g, and 51.6% of the newborns were boys. The prevalence of PB and LGA were 4.70% and 12.80%, respectively.<table-wrap position="float" id="t0001"><label>Table 1</label><caption><p>Maternal and Offspring Characteristics of This Study</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Characteristic</th><th rowspan="1" colspan="1">Overall</th></tr><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">3879</th></tr></thead><tbody><tr><td rowspan="1" colspan="1"><bold>Maternal characteristics</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Age, mean &#xB1;SD, years</td><td rowspan="1" colspan="1">32.55 &#xB1;4.18</td></tr><tr><td rowspan="1" colspan="1">&lt;35, n (%)</td><td rowspan="1" colspan="1">3000 (77.3)</td></tr><tr><td rowspan="1" colspan="1">&#x2265;35, n (%)</td><td rowspan="1" colspan="1">879 (22.7)</td></tr><tr><td rowspan="1" colspan="1">BMI, mean &#xB1;SD, kg/m2</td><td rowspan="1" colspan="1">22.72 &#xB1;3.25</td></tr><tr><td rowspan="1" colspan="1">Nullipara, n (%)</td><td rowspan="1" colspan="1">3014 (77.7)</td></tr><tr><td rowspan="1" colspan="1">Education level, n (%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Primary education</td><td rowspan="1" colspan="1">1819 (46.9)</td></tr><tr><td rowspan="1" colspan="1">Bachelor</td><td rowspan="1" colspan="1">2005 (51.7)</td></tr><tr><td rowspan="1" colspan="1">Master or doctoral</td><td rowspan="1" colspan="1">55 (1.4)</td></tr><tr><td rowspan="1" colspan="1">Physical activity level, n (%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Low</td><td rowspan="1" colspan="1">3789 (97.7)</td></tr><tr><td rowspan="1" colspan="1">Middle</td><td rowspan="1" colspan="1">88 (2.3)</td></tr><tr><td rowspan="1" colspan="1">High</td><td rowspan="1" colspan="1">2 (0.1)</td></tr><tr><td rowspan="1" colspan="1">Family history of hypertension disease, n (%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">2680 (69.1)</td></tr><tr><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">1199 (30.9)</td></tr><tr><td rowspan="1" colspan="1">Family history of diabetes, n (%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">No</td><td rowspan="1" colspan="1">3178 (81.9)</td></tr><tr><td rowspan="1" colspan="1">Yes</td><td rowspan="1" colspan="1">701 (18.1)</td></tr><tr><td rowspan="1" colspan="1">FPG in first trimester, mean &#xB1;SD, mmol/L</td><td rowspan="1" colspan="1">4.67 &#xB1;0.47</td></tr><tr><td rowspan="1" colspan="1">GWG throughout pregnancy, median [IQR], kg</td><td rowspan="1" colspan="1">7.20 [5.40, 9.10]</td></tr><tr><td rowspan="1" colspan="1"><bold>Fetal biometry measurements</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Mid pregnancy</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Gestational age, median [IQR], weeks</td><td rowspan="1" colspan="1">22.00 [21.00, 22.00]</td></tr><tr><td rowspan="1" colspan="1">HC, mean &#xB1;SD, mm</td><td rowspan="1" colspan="1">196.54 &#xB1;9.02</td></tr><tr><td rowspan="1" colspan="1">AC, mean &#xB1;SD, mm</td><td rowspan="1" colspan="1">174.15 &#xB1;9.37</td></tr><tr><td rowspan="1" colspan="1">FL, mean &#xB1;SD, mm</td><td rowspan="1" colspan="1">37.42 &#xB1;2.34</td></tr><tr><td rowspan="1" colspan="1">EFW, mean &#xB1;SD, g</td><td rowspan="1" colspan="1">479.65 &#xB1;61.17</td></tr><tr><td rowspan="1" colspan="1"><bold>Late pregnancy</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Gestational age, median [IQR], weeks</td><td rowspan="1" colspan="1">30.00 [29.00, 31.00]</td></tr><tr><td rowspan="1" colspan="1">HC, mean &#xB1;SD, mm</td><td rowspan="1" colspan="1">282.55 &#xB1;41.74</td></tr><tr><td rowspan="1" colspan="1">AC, mean &#xB1;SD, mm</td><td rowspan="1" colspan="1">264.20 &#xB1;45.51</td></tr><tr><td rowspan="1" colspan="1">FL, mean &#xB1;SD, mm</td><td rowspan="1" colspan="1">57.84 &#xB1;9.30</td></tr><tr><td rowspan="1" colspan="1">EFW, mean &#xB1;SD, g</td><td rowspan="1" colspan="1">1597.38 &#xB1;288.73</td></tr><tr><td rowspan="1" colspan="1"><bold>Neonatal characteristics</bold></td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Gestational age at birth, median [IQR], weeks</td><td rowspan="1" colspan="1">39.00 [38.00, 40.00]</td></tr><tr><td rowspan="1" colspan="1">Sex, n (%)</td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Female</td><td rowspan="1" colspan="1">1876 (48.4)</td></tr><tr><td rowspan="1" colspan="1">Male</td><td rowspan="1" colspan="1">2003 (51.6)</td></tr><tr><td rowspan="1" colspan="1">Birth height, mean &#xB1;SD, cm</td><td rowspan="1" colspan="1">49.31 &#xB1;2.09</td></tr><tr><td rowspan="1" colspan="1">Birth weight, mean &#xB1;SD, g</td><td rowspan="1" colspan="1">3275.68 &#xB1;440.22</td></tr><tr><td rowspan="1" colspan="1">PB, n (%)</td><td rowspan="1" colspan="1">183 (4.70)</td></tr><tr><td rowspan="1" colspan="1">LGA, n (%)</td><td rowspan="1" colspan="1">496 (12.80)</td></tr><tr><td rowspan="1" colspan="1">LBW, n (%)</td><td rowspan="1" colspan="1">153 (3.90)</td></tr><tr><td rowspan="1" colspan="1">Macrosomia, n (%)</td><td rowspan="1" colspan="1">163 (4.20)</td></tr></tbody></table><table-wrap-foot><fn id="tfn0001"><p><bold>Notes</bold>: Values were shown means (SD), medians [IQR], and numbers (percentage).</p></fn><fn id="tfn0002"><p><bold>Abbreviations</bold>: SD, Standard deviation; IQR, interquartile range; BMI, body mass index; FPG, fasting blood glucose; GWG, gestational weight gain; HC, head circumference; AC, abdominal circumference; FL, femur length; EFW, estimated fetal weight; PB, premature birth; LGA, large for gestational age; LBW, low birth weight.</p></fn></table-wrap-foot></table-wrap></p>
+      </sec>
+      <sec id="s0003-s2002">
+        <title>Maternal Pre-Pregnancy BMI and Longitudinal Fetal Growth</title>
+        <p><xref rid="t0002" ref-type="table">Table 2</xref> presents the association between pre-pregnancy BMI and fetal longitudinal growth patterns using GEE analysis. After adjusting for maternal age, education level, physical activity level, and gestational age at assessment (Model 1), maternal pre-pregnancy BMI was positively associated with fetal growth pattern (body length Z-score: &#x3B2; 0.010, 95% CI 0.002, 0.017; body weight Z-score: &#x3B2; 0.019, 95% CI 0.010, 0.029). After further adjustment for parity, FPG, family history of hypertension disease, and family history of diabetes (Model 2), the association slightly weakened but remained significant (body length Z-score: &#x3B2; 0.010, 95% 0.001, 0.019; body weight Z-score: &#x3B2; 0.017, 95% CI 0.008, 0.027).<table-wrap position="float" id="t0002"><label>Table 2</label><caption><p>The Effects of the Pre-Pregnancy BMI on Fetal Longitudinal Growth Pattern (GEE Analysis)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">Variable</th><th colspan="2" rowspan="1">Model 1</th><th colspan="2" rowspan="1">Model 2</th></tr><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">Beta (95% CI)</th><th rowspan="1" colspan="1"><italic toggle="yes">P</italic></th><th rowspan="1" colspan="1">Beta (95% CI)</th><th rowspan="1" colspan="1"><italic toggle="yes">P</italic></th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Body length</td><td rowspan="1" colspan="1">0.010 (0.002, 0.017)</td><td rowspan="1" colspan="1">0.01</td><td rowspan="1" colspan="1">0.010 (0.001, 0.019)</td><td rowspan="1" colspan="1">0.034</td></tr><tr><td rowspan="1" colspan="1">Body weight</td><td rowspan="1" colspan="1">0.019 (0.010, 0.029)</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.017 (0.008, 0.027)</td><td rowspan="1" colspan="1">0.001</td></tr></tbody></table><table-wrap-foot><fn id="tfn0003"><p><bold>Notes</bold>: Model 1 adjusted for maternal age, education level, physical activity level, and gestational age. Model 2 further adjusted for parity, GWG throughout pregnancy, FPG, family history of hypertension disease, and family history of diabetes.</p></fn><fn id="tfn0004"><p><bold>Abbreviations</bold>: CI, confidence interval; GEE, generalized estimating equation.</p></fn></table-wrap-foot></table-wrap></p>
+        <p>The maternal pre-pregnancy BMI was associated with fetal biometric measurements (<xref rid="t0003" ref-type="table">Table 3</xref>). We found that for every 1 kg/m<sup>2</sup> increase in maternal pre-pregnancy BMI, there was an increase in z-scores for fetal AC (&#x3B2; 0.012 95% CI 0.005, 0.018), FL (&#x3B2; 0.009, 95% CI 0.001, 0.018), and EFW (&#x3B2; 0.019, 95% CI 0.011, 0.028) during mid pregnancy after adjusted confounders. Similar to mid pregnancy, higher pre-pregnancy BMI was associated with an increase in z-scores for EFW (&#x3B2; 0.014, 95% CI 0.007, 0.021) during late pregnancy, birth height (&#x3B2; 0.018, 95% CI 0.008, 0.027), and birth weight (&#x3B2; 0.033, 95% CI 0.025, 0.042) after adjusted confounders.<table-wrap position="float" id="t0003"><label>Table 3</label><caption><p>The Effects of the Pre-Pregnancy BMI on Fetal Biometric Measurements During Each Pregnancy Period</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" colspan="1">Variable</th><th colspan="2" rowspan="1">Model 1</th><th colspan="2" rowspan="1">Model 2</th></tr><tr><th rowspan="1" colspan="1">Beta (95%CI)</th><th rowspan="1" colspan="1">P</th><th rowspan="1" colspan="1">Beta (95%CI)</th><th rowspan="1" colspan="1">P</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Mid pregnancy</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">HC</td><td rowspan="1" colspan="1">0.004 (&#x2212;0.001, 0.009)</td><td rowspan="1" colspan="1">0.154</td><td rowspan="1" colspan="1">0.001 (&#x2212;0.005, 0.006)</td><td rowspan="1" colspan="1">0.863</td></tr><tr><td rowspan="1" colspan="1">AC</td><td rowspan="1" colspan="1">0.010 (0.005, 0.016)</td><td rowspan="1" colspan="1">0.001</td><td rowspan="1" colspan="1">0.012 (0.005, 0.018)</td><td rowspan="1" colspan="1">0.001</td></tr><tr><td rowspan="1" colspan="1">FL</td><td rowspan="1" colspan="1">0.010 (0.002, 0.017)</td><td rowspan="1" colspan="1">0.013</td><td rowspan="1" colspan="1">0.009 (0.001, 0.018)</td><td rowspan="1" colspan="1">0.028</td></tr><tr><td rowspan="1" colspan="1">EFW</td><td rowspan="1" colspan="1">0.020 (0.012, 0.027)</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.019 (0.011, 0.028)</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">Late pregnancy</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">HC</td><td rowspan="1" colspan="1">&#x2212;0.015 (&#x2212;0.057, 0.027)</td><td rowspan="1" colspan="1">0.480</td><td rowspan="1" colspan="1">&#x2212;0.007 (&#x2212;0.053, 0.040)</td><td rowspan="1" colspan="1">0.776</td></tr><tr><td rowspan="1" colspan="1">AC</td><td rowspan="1" colspan="1">0.001 (&#x2212;0.031, 0.033)</td><td rowspan="1" colspan="1">0.970</td><td rowspan="1" colspan="1">0.003 (&#x2212;0.032, 0.039)</td><td rowspan="1" colspan="1">0.851</td></tr><tr><td rowspan="1" colspan="1">FL</td><td rowspan="1" colspan="1">0.012 (&#x2212;0.026, 0.049)</td><td rowspan="1" colspan="1">0.535</td><td rowspan="1" colspan="1">0.019 (&#x2212;0.023, 0.060)</td><td rowspan="1" colspan="1">0.379</td></tr><tr><td rowspan="1" colspan="1">EFW</td><td rowspan="1" colspan="1">0.011 (0.005, 0.018)</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.014 (0.007, 0.021)</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">Birth size</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Height</td><td rowspan="1" colspan="1">0.022 (0.013, 0.031)</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.018 (0.008, 0.027)</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">Weight</td><td rowspan="1" colspan="1">0.041 (0.033, 0.049)</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">0.033 (0.025, 0.042)</td><td rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table><table-wrap-foot><fn id="tfn0005"><p><bold>Notes</bold>: Model 1 adjusted for maternal age, education level, physical activity level, and gestational age. Model 2 further adjusted for parity, GWG throughout pregnancy, FPG, family history of hypertension disease, and family history of diabetes.</p></fn><fn id="tfn0006"><p><bold>Abbreviations</bold>: HC, head circumference; AC, abdominal circumference; FL, femur length; EFW, estimated fetal weight; CI, confidence interval.</p></fn></table-wrap-foot></table-wrap></p>
+      </sec>
+      <sec id="s0003-s2003">
+        <title>Maternal Pre-Pregnancy BMI and Neonatal Outcome</title>
+        <p><xref rid="t0004" ref-type="table">Table 4</xref> presents the ORs with 95% CIs for neonatal outcomes associated with maternal pre-pregnancy BMI. After adjusting for confounding factors, every 1 kg/m2 increase in maternal pre-pregnancy BMI was found to be associated with an increased risk of PB (OR 1.050, 95% CI 1.006, 1.107), LGA (OR 1.119, 95% CI 1.086, 1.153), and macrosomia (OR 1.138, 95% CI 1.085, 1.194). No significant association was observed between increasing maternal pre-pregnancy BMI and the risk of LBW after adjusting for confounding factors.<table-wrap position="float" id="t0004"><label>Table 4</label><caption><p>Associations of Pre-Pregnancy BMI with Adverse Neonatal Outcomes</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" colspan="1">Variable</th><th colspan="2" rowspan="1">Model 1</th><th colspan="2" rowspan="1">Model 2</th></tr><tr><th rowspan="1" colspan="1">OR (95% CI)</th><th rowspan="1" colspan="1">P</th><th rowspan="1" colspan="1">OR (95% CI)</th><th rowspan="1" colspan="1">P</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">PB</td><td rowspan="1" colspan="1">1.014 (0.969, 1.061)</td><td rowspan="1" colspan="1">0.556</td><td rowspan="1" colspan="1">1.050 (1.006, 1.107)</td><td rowspan="1" colspan="1">0.028</td></tr><tr><td rowspan="1" colspan="1">LGA</td><td rowspan="1" colspan="1">1.134 (1.103, 1.165)</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">1.119 (1.086, 1.153)</td><td rowspan="1" colspan="1">&lt;0.001</td></tr><tr><td rowspan="1" colspan="1">LBW</td><td rowspan="1" colspan="1">0.974 (0.911, 1.042)</td><td rowspan="1" colspan="1">0.443</td><td rowspan="1" colspan="1">0.980 (0.910, 1.055)</td><td rowspan="1" colspan="1">0.586</td></tr><tr><td rowspan="1" colspan="1">Macrosomia</td><td rowspan="1" colspan="1">1.150 (1.100, 1.202)</td><td rowspan="1" colspan="1">&lt;0.001</td><td rowspan="1" colspan="1">1.138 (1.085, 1.194)</td><td rowspan="1" colspan="1">&lt;0.001</td></tr></tbody></table><table-wrap-foot><fn id="tfn0007"><p><bold>Notes</bold>: Model 1 adjusted for maternal age, education level, and physical activity level. Model 2 further adjusted for parity, GWG throughout pregnancy, FPG, family history of hypertension disease, and family history of diabetes.</p></fn><fn id="tfn0008"><p><bold>Abbreviations</bold>: PB, premature birth; LGA, large for gestational age; LBW, low birth weight; OR, odds ratio; CI, confidence interval.</p></fn></table-wrap-foot></table-wrap></p>
+      </sec>
+      <sec id="s0003-s2004">
+        <title>Mediation Effects of Maternal FPG in First Trimester</title>
+        <p>A significant association was observed between maternal pre-pregnancy BMI and maternal FPG in first trimester (<underline><ext-link xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=449706.pdf" ext-link-type="uri">Supplementary Table 1</ext-link></underline>). After confirming the above associations between maternal pre-pregnancy BMI with fetal biometric measurements, we constructed mediation models to explore the effects of maternal FPG in first trimester.</p>
+        <p>The results of the mediation analyses are shown in <xref rid="f0002" ref-type="fig">Figure 2</xref>. When maternal PFG in first trimester was included as a mediator in the association of maternal pre-pregnancy BMI with EFW Z-score in mid pregnancy, the mediating effect (mediation proportion: 5.0%) was found. Similarly, the mediating effect (mediation proportion: 8.3%) of maternal PFG in first trimester in the association of pre-pregnancy BMI with EFW Z-score in late pregnancy, and the mediating effect (mediation proportion: 1.6%) of maternal PFG in first trimester in the association of pre-pregnancy BMI and birth weight Z-score, as well as birth height (mediation proportion: 3.6%) also presented.
+<fig position="float" id="f0002" fig-type="figure"><label>Figure 2</label><caption><p>The mediation effects of maternal FPG in first trimester on the association of maternal pre-pregnancy BMI with fetal biometry measurements. (<bold>A</bold>&#x2013;<bold>D</bold>) respectively represented the mediation effects of maternal FPG in first trimester on the associations of pre-pregnancy BMI with EFW during mid pregnancy, EFW during late pregnancy, birth weight, and birth height. All models were conducted and adjusted for maternal age, education level, physical activity level, parity, GWG throughout pregnancy, family history of hypertension disease, and family history of diabetes.</p></caption><graphic xlink:href="DMSO-17-1911-g0002" content-type="print-only" position="float"/></fig></p>
+      </sec>
+      <sec id="s0003-s2005">
+        <title>Stratified Analysis</title>
+        <p>A stratified analysis was conducted on factors such as maternal age, parity, family history of diabetes, and fetal sex. No significant difference between maternal pre-pregnancy BMI and fetal growth (<underline><ext-link xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=449706.pdf" ext-link-type="uri">Supplementary Table 2</ext-link></underline>). In the association between pre-pregnancy BMI and neonatal outcomes, an interaction effect was found between a family history of diabetes in pregnant women, fetal sex, and pre-pregnancy BMI (<underline><ext-link xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=449706.pdf" ext-link-type="uri">Supplementary Table 3</ext-link></underline>). Specifically, among pregnant women delivering female infants, there was a correlation between pre-pregnancy BMI and an increased risk of PB, whereas the opposite was observed in pregnant women delivering male infants. In pregnant women without a family history of diabetes, the ORs for LGA associated with pre-pregnancy BMI was significantly higher than in those with a family history of diabetes (<underline><ext-link xlink:href="https://www.dovepress.com/get_supplementary_file.php?f=449706.pdf" ext-link-type="uri">Supplementary Table 2</ext-link></underline>).</p>
+      </sec>
+    </sec>
+    <sec id="s0004">
+      <title>Discussion</title>
+      <p>In this retrospective cohort study, we evaluated the relationship between pre-pregnancy BMI and fetal growth, and explored the mediation effect of early pregnancy FPG. We found pre-pregnancy BMI was positively associated with an increase in fetal biometric data (AC, FL, and EFW) during mid pregnancy, EFW during late pregnancy, birth height and weight, and the risk for LGA and macrosomia. Furthermore, we found that maternal FPG in first trimester partly mediated the association between pre-pregnancy BMI and EFW in mid and late pregnancy and birth weight. These findings indicated that controlling pre-pregnancy BMI was important for preventing excessive fetal growth.</p>
+      <p>During pregnancy, the developing fetus is particularly sensitive to the intrauterine environment, and maternal metabolic factors. Maternal pre-pregnancy obesity can impact the structure and hemodynamics of the maternal placenta, ultimately affecting fetal growth.<xref rid="cit0028" ref-type="bibr">28&#x2013;32</xref> Our study revealed a positive correlation between pre-pregnancy BMI and longitudinal fetal weight gain, as well as an association with increased AC and FL z-scores in mid pregnancy fetuses. Dr Spann et al had similar findings to ours, showing a positive correlation between pre-pregnancy BMI and EFW.<xref rid="cit0033" ref-type="bibr">33</xref> A nested study in the Generation R Study found that maternal pre-pregnancy BMI could affect fetal EFW starting from mid pregnancy.<xref rid="cit0034" ref-type="bibr">34</xref> Lindell et al also demonstrated exposure to higher maternal pre-pregnancy BMI was associated with increased EFW in late pregnancy.<xref rid="cit0035" ref-type="bibr">35</xref> In contradistinction, a previous study showed that no association was found between maternal pre-pregnancy BMI and any of the fetal biometric variables (HC, AC, FL, EFW).<xref rid="cit0036" ref-type="bibr">36</xref> There may be a variety of reasons why the result differed from ours, including sample sizes, differences in regional characteristics, and racial and ethnic differences. Furthermore, pregnant women with abnormal pre-pregnancy BMI might be subjected to dietary interventions to regulate their weight, potentially resulting in changes to fetal biometric characteristics.</p>
+      <p>We observed that maternal pre-pregnancy BMI was associated with an increased risk of macrosomia and LGA. A meta-analysis incorporating 60 studies revealed that overweight or obese mothers had a significantly increased risk of giving birth to macrosomia and LGA, while underweight mothers have an increased risk of delivering an SGA infant when compared to mothers with a normal weight range.<xref rid="cit0037" ref-type="bibr">37</xref> Another cohort study conducted in Poland reported the risk of delivering a macrosomic infant was three times higher for obese mothers compared to those with normal weight.<xref rid="cit0038" ref-type="bibr">38</xref> Similarly, a study undertaken in Switzerland showed that the risk of delivering LGA infants was 2-fold and 3.3-fold higher in overweight and obese pregnant women, respectively, when compared to women with a normal weight range.<xref rid="cit0039" ref-type="bibr">39</xref> Our study demonstrated that even within the normal range, an increase in pre-pregnancy BMI could result in an increased risk of macrosomia and LGA. One possible explanation for the observed associations was that a higher maternal BMI has affected the early growth of the placenta and its function in later stages, these changes could promote fetal growth and eventually lead to macrosomia and LGA infants.<xref rid="cit0040" ref-type="bibr">40&#x2013;42</xref> Therefore, appropriate nutritional management and weight control during the perinatal period are crucial for preventing neonatal obesity.</p>
+      <p>In our study, we investigated the potential mediating role of maternal early pregnancy FPG in the association between pre-pregnancy BMI and fetal biometric measurements. Our results showed that FPG partially mediated this association, suggesting that pre-pregnancy BMI could not be considered a completely independent predictor of fetal growth. The mediation effect of maternal FPG in first trimester may be related to the placental transfer of glucose, the elevation of plasma glucose during pregnancy, resulting in excessive glucose flowing into the fetal circulation, ultimately leading to changes in fetal growth patterns.<xref rid="cit0043" ref-type="bibr">43</xref>,<xref rid="cit0044" ref-type="bibr">44</xref> Maternal obesity also plays a crucial role in this process.<xref rid="cit0045" ref-type="bibr">45</xref> In conclusion, these known mechanisms may constitute the hypothesis that FPG in early pregnancy partially mediated the effects of pre-pregnancy BMI on fetal growth.</p>
+      <p>There were several strengths of our study. Firstly, previous research has typically only examined fetal measurement data from a specific period, neglecting the longitudinal growth of fetuses. In this study, repeated measurements of fetal growth data were utilized to assess the impact of pre-pregnancy BMI on fetal longitudinal growth patterns to identify and control fetal growth acceleration or deceleration in early stages, to prevent adverse neonatal outcomes. In addition, we took into consideration the mediating impact of FPG during early pregnancy, and observed a mediation effect of pre-pregnancy FPG, indicating that the impact of pre-pregnancy BMI on fetal growth is partially mediated by early pregnancy FPG. Finally, our study considered the continuous distribution of pre-pregnancy BMI, while previous studies mainly explored the relationship between maternal overweight/obesity and fetal growth, making it difficult to determine the generalizability of conclusions.</p>
+      <p>The analysis has several limitations. Firstly, the study population was predominantly from the capital city of China, Beijing, with an average age of over 32 years and more than 90% having received higher education. However, this may not be representative of the wider national population, so caution should be exercised in generalizing the results to the entire country. Additionally, this study was susceptible to recall bias with regard to pre-pregnancy weight as well as measurement bias in ultrasound assessments, which may have influenced the results obtained. Finally, although this observational study controlled for many potential confounding factors, there was still the possibility of unmeasured or residual confounding that could limit the ability to make causal inferences. Therefore, in the future, it is possible to establish a multicenter designed study to increase the sample size, enhance sample representativeness, and improve the generalizability of results. Additionally, conducting long-term follow-up studies on mother-infant pairs will allow for a comprehensive assessment of the impact of maternal pre-pregnancy BMI on offspring growth and development.</p>
+    </sec>
+    <sec id="s0005">
+      <title>Conclusion</title>
+      <p>This study found that pre-pregnancy BMI and FPG in first trimester has a certain impact on fetal intrauterine growth, especially in terms of influencing mid-pregnancy fetal AC and weight. This finding emphasizes the importance of monitoring maternal nutritional status before and during early pregnancy to promote healthy fetal growth and development. Although our research results partially support previous studies, further in-depth research is also called for to comprehensively understand the effects of pre-pregnancy BMI and pregnancy plasma glucose on fetal health, which is crucial for improving maternal and child health.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>The authors thank all the doctors, nurses, and ultrasound specialists from Peking Union Medical College Hospital who participated in this study, as well as the pregnant women who were involved in this research.</p>
+    </ack>
+    <sec id="s0006">
+      <title>Abbreviations</title>
+      <p>SD, Standard deviation; IQR, interquartile range; CI, confidence interval; GEE, generalized estimating equation; BMI, body mass index; FPG, fasting blood glucose; GWG, gestational weight gain; HC, head circumference; AC, abdominal circumference; FL, femur length; EFW, estimated fetal weight; PB, premature birth; LGA, large for gestational age; LBW, low birth weight.</p>
+    </sec>
+    <sec id="s0007">
+      <title>Data Sharing Statement</title>
+      <p>The datasets generated and/or analysed during the current study are not publicly available due to reasons of sensitivity but are available from the corresponding author on reasonable request.</p>
+    </sec>
+    <sec id="s0008">
+      <title>Ethics Approval and Informed Consent</title>
+      <p>The present study was conducted according to the guidelines laid down in the Declaration of Helsinki and all study procedures were ethically approved by the ethics committee of PUMCH (JS-2763). Written informed consent was obtained from all of the participants.</p>
+    </sec>
+    <sec id="s0009">
+      <title>Author Contributions</title>
+      <p>All authors made a significant contribution to the work reported, whether that is in the conception, study design, execution, acquisition of data, analysis and interpretation, or in all these areas; took part in drafting, revising or critically reviewing the article; gave final approval of the version to be published; have agreed on the journal to which the article has been submitted; and agree to be accountable for all aspects of the work.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="s0010">
+      <title>Disclosure</title>
+      <p>The authors report no conflicts of interest in this work.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="cit0001">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Afshin</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Forouzanfar</surname>
+<given-names>MH</given-names></string-name>, <string-name><surname>Reitsma</surname>
+<given-names>MB</given-names></string-name>, et al. <article-title>Health effects of overweight and obesity in 195 countries over 25 years</article-title>. <source><italic toggle="yes">New Engl J Med</italic></source>. <year>2017</year>;<volume>377</volume>(<issue>1</issue>):<fpage>13</fpage>&#x2013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">28604169</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0002">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Ng</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Fleming</surname>
+<given-names>T</given-names></string-name>, <string-name><surname>Robinson</surname>
+<given-names>M</given-names></string-name>, et al. <article-title>Global, regional, and national prevalence of overweight and obesity in children and adults during 1980-2013: a systematic analysis for the global burden of disease study 2013</article-title>. <source><italic toggle="yes">Lancet</italic></source>. <year>2014</year>;<volume>384</volume>(<issue>9945</issue>):<fpage>766</fpage>&#x2013;<lpage>781</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(14)60460-8</pub-id><pub-id pub-id-type="pmid">24880830</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0003">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Catalano</surname>
+<given-names>PM</given-names></string-name>. <article-title>Management of obesity in pregnancy</article-title>. <source><italic toggle="yes">Obstetrics Gynecol</italic></source>. <year>2007</year>;<volume>109</volume>(<issue>2 Pt 1</issue>):<fpage>419</fpage>&#x2013;<lpage>433</lpage>. doi:<pub-id pub-id-type="doi">10.1097/01.AOG.0000253311.44696.85</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0004">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Hirst</surname>
+<given-names>JE</given-names></string-name>, <string-name><surname>Villar</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Papageorghiou</surname>
+<given-names>AT</given-names></string-name>, <string-name><surname>Ohuma</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Kennedy</surname>
+<given-names>SH</given-names></string-name>. <article-title>Preventing childhood obesity starts during pregnancy</article-title>. <source><italic toggle="yes">Lancet</italic></source>. <year>2015</year>;<volume>386</volume>(<issue>9998</issue>):<fpage>1039</fpage>&#x2013;<lpage>1040</lpage>. doi:<pub-id pub-id-type="doi">10.1016/S0140-6736(15)00142-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0005">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Hoffman</surname>
+<given-names>DJ</given-names></string-name>, <string-name><surname>Powell</surname>
+<given-names>TL</given-names></string-name>, <string-name><surname>Barrett</surname>
+<given-names>ES</given-names></string-name>, <string-name><surname>Hardy</surname>
+<given-names>DB</given-names></string-name>. <article-title>Developmental origins of metabolic diseases</article-title>. <source><italic toggle="yes">Physiol Rev</italic></source>. <year>2021</year>;<volume>101</volume>(<issue>3</issue>):<fpage>739</fpage>&#x2013;<lpage>795</lpage>. doi:<pub-id pub-id-type="doi">10.1152/physrev.00002.2020</pub-id><pub-id pub-id-type="pmid">33270534</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0006">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Zou</surname>
+<given-names>JJ</given-names></string-name>, <string-name><surname>Wei</surname>
+<given-names>Q</given-names></string-name>, <string-name><surname>Shi</surname>
+<given-names>YY</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>YH</given-names></string-name>, <string-name><surname>Shi</surname>
+<given-names>HJ</given-names></string-name>. <article-title>Longitudinal associations between maternal glucose levels and ultrasonographic fetal biometrics in a shanghai cohort</article-title>. <source><italic toggle="yes">JAMA network open</italic></source>. <year>2022</year>;<volume>5</volume>(<issue>4</issue>):<fpage>e226407</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.6407</pub-id><pub-id pub-id-type="pmid">35389498</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0007">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Rubini</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Snoek</surname>
+<given-names>KM</given-names></string-name>, <string-name><surname>Schoenmakers</surname>
+<given-names>S</given-names></string-name>, et al. <article-title>First trimester maternal homocysteine and embryonic and fetal growth: the Rotterdam periconception cohort</article-title>. <source><italic toggle="yes">Nutrients</italic></source>. <year>2022</year>;<volume>14</volume>(<issue>6</issue>):<fpage>1129</fpage>. doi:<pub-id pub-id-type="doi">10.3390/nu14061129</pub-id><pub-id pub-id-type="pmid">35334786</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0008">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Burton</surname>
+<given-names>GJ</given-names></string-name>, <string-name><surname>Fowden</surname>
+<given-names>AL</given-names></string-name>, <string-name><surname>Thornburg</surname>
+<given-names>KL</given-names></string-name>. <article-title>Placental origins of chronic disease</article-title>. <source><italic toggle="yes">Physiol Rev</italic></source>. <year>2016</year>;<volume>96</volume>(<issue>4</issue>):<fpage>1509</fpage>&#x2013;<lpage>1565</lpage>. doi:<pub-id pub-id-type="doi">10.1152/physrev.00029.2015</pub-id><pub-id pub-id-type="pmid">27604528</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0009">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Gaillard</surname>
+<given-names>R</given-names></string-name>. <article-title>Maternal obesity during pregnancy and cardiovascular development and disease in the offspring</article-title>. <source><italic toggle="yes">Eur j epidemiol</italic></source>. <year>2015</year>;<volume>30</volume>(<issue>11</issue>):<fpage>1141</fpage>&#x2013;<lpage>1152</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s10654-015-0085-7</pub-id><pub-id pub-id-type="pmid">26377700</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0010">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Gaillard</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Felix</surname>
+<given-names>JF</given-names></string-name>, <string-name><surname>Duijts</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Jaddoe</surname>
+<given-names>VW</given-names></string-name>. <article-title>Childhood consequences of maternal obesity and excessive weight gain during pregnancy</article-title>. <source><italic toggle="yes">Acta obstetricia et gynecologica Scandinavica</italic></source>. <year>2014</year>;<volume>93</volume>(<issue>11</issue>):<fpage>1085</fpage>&#x2013;<lpage>1089</lpage>.<pub-id pub-id-type="pmid">25231923</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0011">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Bandres-Meriz</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Dieberger</surname>
+<given-names>AM</given-names></string-name>, <string-name><surname>Hoch</surname>
+<given-names>D</given-names></string-name>, et al. <article-title>Maternal obesity affects the glucose-insulin axis during the first trimester of human pregnancy</article-title>. <source><italic toggle="yes">Front Endocrinol</italic></source>. <year>2020</year>;<volume>11</volume>:<fpage>566673</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fendo.2020.566673</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0012">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Li</surname>
+<given-names>MF</given-names></string-name>, <string-name><surname>Ke</surname>
+<given-names>JF</given-names></string-name>, <string-name><surname>Ma</surname>
+<given-names>L</given-names></string-name>, et al. <article-title>Maternal pre-pregnancy obesity combined with abnormal glucose metabolism further increases adverse pregnancy outcomes in Chinese pregnant women</article-title>. <source><italic toggle="yes">Front Endocrinol</italic></source>. <year>2021</year>;<volume>12</volume>:<fpage>754406</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fendo.2021.754406</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0013">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Bonadonna</surname>
+<given-names>RC</given-names></string-name>, <string-name><surname>Groop</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Kraemer</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>Ferrannini</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Del Prato</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>DeFronzo</surname>
+<given-names>RA</given-names></string-name>. <article-title>Obesity and insulin resistance in humans: a dose-response study</article-title>. <source><italic toggle="yes">Metabolism</italic></source>. <year>1990</year>;<volume>39</volume>(<issue>5</issue>):<fpage>452</fpage>&#x2013;<lpage>459</lpage>. doi:<pub-id pub-id-type="doi">10.1016/0026-0495(90)90002-T</pub-id><pub-id pub-id-type="pmid">2186255</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0014">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Guo</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Liu</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Ding</surname>
+<given-names>Z</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>Y</given-names></string-name>, <string-name><surname>Zhang</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Fan</surname>
+<given-names>J</given-names></string-name>. <article-title>Observations of the effects of maternal fasting plasma glucose changes in early pregnancy on fetal growth profiles and birth outcomes</article-title>. <source><italic toggle="yes">Front Endocrinol</italic></source>. <year>2021</year>;<volume>12</volume>:<fpage>666194</fpage>. doi:<pub-id pub-id-type="doi">10.3389/fendo.2021.666194</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0015">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Geurtsen</surname>
+<given-names>ML</given-names></string-name>, <string-name><surname>van Soest</surname>
+<given-names>EEL</given-names></string-name>, <string-name><surname>Voerman</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Steegers</surname>
+<given-names>EAP</given-names></string-name>, <string-name><surname>Jaddoe</surname>
+<given-names>VWV</given-names></string-name>, <string-name><surname>Gaillard</surname>
+<given-names>R</given-names></string-name>. <article-title>High maternal early-pregnancy blood glucose levels are associated with altered fetal growth and increased risk of adverse birth outcomes</article-title>. <source><italic toggle="yes">Diabetologia</italic></source>. <year>2019</year>;<volume>62</volume>(<issue>10</issue>):<fpage>1880</fpage>&#x2013;<lpage>1890</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s00125-019-4957-3</pub-id><pub-id pub-id-type="pmid">31392381</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0016">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Hadlock</surname>
+<given-names>FP</given-names></string-name>, <string-name><surname>Harrist</surname>
+<given-names>RB</given-names></string-name>, <string-name><surname>Sharman</surname>
+<given-names>RS</given-names></string-name>, <string-name><surname>Deter</surname>
+<given-names>RL</given-names></string-name>, <string-name><surname>Park</surname>
+<given-names>SK</given-names></string-name>. <article-title>Estimation of fetal weight with the use of head, body, and femur measurements--a prospective study</article-title>. <source><italic toggle="yes">Am J Clin Exp Obstet Gynecol</italic></source>. <year>1985</year>;<volume>151</volume>(<issue>3</issue>):<fpage>333</fpage>&#x2013;<lpage>337</lpage>. doi:<pub-id pub-id-type="doi">10.1016/0002-9378(85)90298-4</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0017">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Villar</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Altman</surname>
+<given-names>DG</given-names></string-name>, <string-name><surname>Purwar</surname>
+<given-names>M</given-names></string-name>, et al. <article-title>The objectives, design and implementation of the INTERGROWTH-21st Project</article-title>. <source><italic toggle="yes">BJOG</italic></source>. <year>2013</year>;<volume>120</volume>(<issue>Suppl 2</issue>):<fpage>9</fpage>&#x2013;<lpage>26, v</lpage>. doi:<pub-id pub-id-type="doi">10.1111/1471-0528.12047</pub-id><pub-id pub-id-type="pmid">23678873</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0018">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Griggs</surname>
+<given-names>KM</given-names></string-name>, <string-name><surname>Hrelic</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Williams</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>McEwen-Campbell</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Cypher</surname>
+<given-names>R</given-names></string-name>. <article-title>Preterm labor and birth: a clinical review</article-title>. <source><italic toggle="yes">MCN Am J Matern Child Nurs</italic></source>. <year>2020</year>;<volume>45</volume>(<issue>6</issue>):<fpage>328</fpage>&#x2013;<lpage>337</lpage>. doi:<pub-id pub-id-type="doi">10.1097/NMC.0000000000000656</pub-id><pub-id pub-id-type="pmid">33074911</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0019">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><collab>Pediatrics CIo, Children tCSGoNCotPGaDo</collab>. <article-title>&#x9996;&#x90FD;&#x513F;&#x79D1;&#x7814;&#x7A76;&#x6240;,&#x4E5D;&#x5E02;&#x513F;&#x7AE5;&#x4F53;&#x683C;&#x53D1;&#x80B2;&#x8C03;&#x67E5;&#x534F;&#x4F5C;&#x7EC4;. &#x4E2D;&#x56FD;&#x4E0D;&#x540C;&#x51FA;&#x751F;&#x80CE;&#x9F84;&#x65B0;&#x751F;&#x513F;&#x51FA;&#x751F;&#x4F53;&#x91CD;&#x3001;&#x8EAB;&#x957F;&#x548C;&#x5934;&#x56F4;&#x7684;&#x751F;&#x957F;&#x53C2;&#x7167;&#x6807;&#x51C6;&#x53CA;&#x66F2;&#x7EBF; [Growth standard curves of birth weight, length and head circumference of Chinese newborns of different gestation]</article-title>. <source><italic toggle="yes">Zhonghua er ke za zhi</italic></source>. <year>2020</year>;<volume>58</volume>(<issue>9</issue>):<fpage>738</fpage>&#x2013;<lpage>746</lpage>. <comment>Chinese</comment>. doi:<pub-id pub-id-type="doi">10.3760/cma.j.cn112140-20200316-00242</pub-id><pub-id pub-id-type="pmid">32872714</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0020">
+        <label>20.</label>
+        <mixed-citation publication-type="book"><string-name><surname>Osuchukwu</surname>
+<given-names>OO</given-names></string-name>, <string-name><surname>Reed</surname>
+<given-names>DJ</given-names></string-name>. <part-title>Small for gestational age</part-title>. In: <source><italic toggle="yes">StatPearls</italic></source>. <publisher-loc>Treasure Island (FL)</publisher-loc>: <publisher-name>StatPearls Publishing Copyright &#xA9; 2023, StatPearls Publishing LLC.</publisher-name>; <year>2023</year>.</mixed-citation>
+      </ref>
+      <ref id="cit0021">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Ozawa</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Tanaka</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Kabe</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Namba</surname>
+<given-names>F</given-names></string-name>. <article-title>neonatal research network of j. impact of being large-for-gestational-age on neonatal mortality and morbidities in extremely premature infants</article-title>. <source><italic toggle="yes">Pediatr Res</italic></source>. <year>2021</year>;<volume>90</volume>(<issue>4</issue>):<fpage>910</fpage>&#x2013;<lpage>916</lpage>. doi:<pub-id pub-id-type="doi">10.1038/s41390-021-01375-z</pub-id><pub-id pub-id-type="pmid">33504968</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0022">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>McCormick</surname>
+<given-names>MC</given-names></string-name>. <article-title>The contribution of low birth weight to infant mortality and childhood morbidity</article-title>. <source><italic toggle="yes">New Engl J Med</italic></source>. <year>1985</year>;<volume>312</volume>(<issue>2</issue>):<fpage>82</fpage>&#x2013;<lpage>90</lpage>. doi:<pub-id pub-id-type="doi">10.1056/NEJM198501103120204</pub-id><pub-id pub-id-type="pmid">3880598</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0023">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Boulet</surname>
+<given-names>SL</given-names></string-name>, <string-name><surname>Salihu</surname>
+<given-names>HM</given-names></string-name>, <string-name><surname>Alexander</surname>
+<given-names>GR</given-names></string-name>. <article-title>Mode of delivery and birth outcomes of macrosomic infants</article-title>. <source><italic toggle="yes">J Obstetrics Gynaecol</italic></source>. <year>2004</year>;<volume>24</volume>(<issue>6</issue>):<fpage>622</fpage>&#x2013;<lpage>629</lpage>. doi:<pub-id pub-id-type="doi">10.1080/01443610400007828</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0024">
+        <label>24.</label>
+        <mixed-citation publication-type="book"><collab>Institute of M, National Research Council Committee to Reexamine IOMPWG</collab>. <part-title>The national academies collection: reports funded by national institutes of health</part-title>. In: <string-name><surname>Rasmussen</surname>
+<given-names>KM</given-names></string-name>, <string-name><surname>Yaktine</surname>
+<given-names>AL</given-names></string-name>, editors. <source><italic toggle="yes">Weight Gain During Pregnancy: Reexamining the Guidelines</italic></source>. <publisher-loc>Washington (DC)</publisher-loc>: <publisher-name>National Academies Press (US) Copyright &#xA9; 2009, National Academy of Sciences.</publisher-name>; <year>2009</year>.</mixed-citation>
+      </ref>
+      <ref id="cit0025">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Zeger</surname>
+<given-names>SL</given-names></string-name>, <string-name><surname>Liang</surname>
+<given-names>K-Y</given-names></string-name>. <article-title>Longitudinal data analysis for discrete and continuous outcomes</article-title>. <source><italic toggle="yes">Biometrics</italic></source>. <year>1986</year>;<volume>42</volume>(<issue>1</issue>):<fpage>121</fpage>&#x2013;<lpage>130</lpage>. doi:<pub-id pub-id-type="doi">10.2307/2531248</pub-id><pub-id pub-id-type="pmid">3719049</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0026">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Miliku</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Vinkhuyzen</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Blanken</surname>
+<given-names>LM</given-names></string-name>, et al. <article-title>Maternal vitamin D concentrations during pregnancy, fetal growth patterns, and risks of adverse birth outcomes</article-title>. <source><italic toggle="yes">The American Journal of Clinical Nutrition</italic></source>. <year>2016</year>;<volume>103</volume>(<issue>6</issue>):<fpage>1514</fpage>&#x2013;<lpage>1522</lpage>. doi:<pub-id pub-id-type="doi">10.3945/ajcn.115.123752</pub-id><pub-id pub-id-type="pmid">27099250</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0027">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>VanderWeele</surname>
+<given-names>TJ</given-names></string-name>. <article-title>Mediation analysis: a practitioner&#x2019;s guide</article-title>. <source><italic toggle="yes">Ann Rev Public Health</italic></source>. <year>2016</year>;<volume>37</volume>(<issue>1</issue>):<fpage>17</fpage>&#x2013;<lpage>32</lpage>. doi:<pub-id pub-id-type="doi">10.1146/annurev-publhealth-032315-021402</pub-id><pub-id pub-id-type="pmid">26653405</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0028">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Howell</surname>
+<given-names>KR</given-names></string-name>, <string-name><surname>Powell</surname>
+<given-names>TL</given-names></string-name>. <article-title>Effects of maternal obesity on placental function and fetal development</article-title>. <source><italic toggle="yes">Reproduction</italic></source>. <year>2017</year>;<volume>153</volume>(<issue>3</issue>):<fpage>R97</fpage>&#x2013;<lpage>r108</lpage>. doi:<pub-id pub-id-type="doi">10.1530/REP-16-0495</pub-id><pub-id pub-id-type="pmid">27864335</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0029">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Bedell</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Hutson</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>de Vrijer</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Eastabrook</surname>
+<given-names>G</given-names></string-name>. <article-title>Effects of maternal obesity and gestational diabetes mellitus on the placenta: current knowledge and targets for therapeutic interventions</article-title>. <source><italic toggle="yes">Curr Vasc Pharmacol</italic></source>. <year>2021</year>;<volume>19</volume>(<issue>2</issue>):<fpage>176</fpage>&#x2013;<lpage>192</lpage>. doi:<pub-id pub-id-type="doi">10.2174/18756212MTA3qNDApy</pub-id><pub-id pub-id-type="pmid">32543363</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0030">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Barbour</surname>
+<given-names>LA</given-names></string-name>. <article-title>Changing perspectives in pre-existing diabetes and obesity in pregnancy: maternal and infant short- and long-term outcomes</article-title>. <source><italic toggle="yes">Curr Opin Endocrinol Diabetes Obes</italic></source>. <year>2014</year>;<volume>21</volume>(<issue>4</issue>):<fpage>257</fpage>&#x2013;<lpage>263</lpage>. doi:<pub-id pub-id-type="doi">10.1097/MED.0000000000000079</pub-id><pub-id pub-id-type="pmid">24937039</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0031">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Flegal</surname>
+<given-names>KM</given-names></string-name>, <string-name><surname>Kruszon-Moran</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Carroll</surname>
+<given-names>MD</given-names></string-name>, <string-name><surname>Fryar</surname>
+<given-names>CD</given-names></string-name>, <string-name><surname>Ogden</surname>
+<given-names>CL</given-names></string-name>. <article-title>Trends in obesity among adults in the United States, 2005 to 2014</article-title>. <source><italic toggle="yes">JAMA</italic></source>. <year>2016</year>;<volume>315</volume>(<issue>21</issue>):<fpage>2284</fpage>&#x2013;<lpage>2291</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jama.2016.6458</pub-id><pub-id pub-id-type="pmid">27272580</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0032">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Neri</surname>
+<given-names>C</given-names></string-name>, <string-name><surname>Edlow</surname>
+<given-names>AG</given-names></string-name>. <article-title>Effects of maternal obesity on fetal programming: molecular approaches</article-title>. <source><italic toggle="yes">Cold Spring Harb Perspect Med</italic></source>. <year>2015</year>;<volume>6</volume>(<issue>2</issue>):<fpage>a026591</fpage>. doi:<pub-id pub-id-type="doi">10.1101/cshperspect.a026591</pub-id><pub-id pub-id-type="pmid">26337113</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0033">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Spann</surname>
+<given-names>MN</given-names></string-name>, <string-name><surname>Scheinost</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Feng</surname>
+<given-names>T</given-names></string-name>, et al. <article-title>Association of maternal prepregnancy body mass index with fetal growth and neonatal thalamic brain connectivity among adolescent and young women</article-title>. <source><italic toggle="yes">JAMA network open</italic></source>. <year>2020</year>;<volume>3</volume>(<issue>11</issue>):<fpage>e2024661</fpage>. doi:<pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.24661</pub-id><pub-id pub-id-type="pmid">33141162</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0034">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Ay</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Kruithof</surname>
+<given-names>CJ</given-names></string-name>, <string-name><surname>Bakker</surname>
+<given-names>R</given-names></string-name>, et al. <article-title>Maternal anthropometrics are associated with fetal size in different periods of pregnancy and at birth. The Generation R Study</article-title>. <source><italic toggle="yes">BJOG</italic></source>. <year>2009</year>;<volume>116</volume>(<issue>7</issue>):<fpage>953</fpage>&#x2013;<lpage>963</lpage>. doi:<pub-id pub-id-type="doi">10.1111/j.1471-0528.2009.02143.x</pub-id><pub-id pub-id-type="pmid">19522798</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0035">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Lindell</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Mar&#x161;&#xE1;l</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>K&#xE4;ll&#xE9;n</surname>
+<given-names>K</given-names></string-name>. <article-title>Impact of maternal characteristics on fetal growth in the third trimester: a population-based study</article-title>. <source><italic toggle="yes">Ultrasound Obstet Gynecol</italic></source>. <year>2012</year>;<volume>40</volume>(<issue>6</issue>):<fpage>680</fpage>&#x2013;<lpage>687</lpage>. doi:<pub-id pub-id-type="doi">10.1002/uog.11125</pub-id><pub-id pub-id-type="pmid">22302307</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0036">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Lopes</surname>
+<given-names>KRM</given-names></string-name>, <string-name><surname>Souza</surname>
+<given-names>ASR</given-names></string-name>, <string-name><surname>Figueiroa</surname>
+<given-names>JN</given-names></string-name>, <string-name><surname>Alves</surname>
+<given-names>JGB</given-names></string-name>. <article-title>Correlation between pre-pregnancy body mass index and maternal visceral adiposity with fetal biometry during the second trimester</article-title>. <source><italic toggle="yes">Int J Obstetrics Gynaecology</italic></source>. <year>2017</year>;<volume>138</volume>(<issue>2</issue>):<fpage>133</fpage>&#x2013;<lpage>137</lpage>. doi:<pub-id pub-id-type="doi">10.1002/ijgo.12202</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0037">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Liu</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Xu</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Wang</surname>
+<given-names>Y</given-names></string-name>, et al. <article-title>Association between perinatal outcomes and maternal pre-pregnancy body mass index</article-title>. <source><italic toggle="yes">Obesity Rev</italic></source>. <year>2016</year>;<volume>17</volume>(<issue>11</issue>):<fpage>1091</fpage>&#x2013;<lpage>1102</lpage>. doi:<pub-id pub-id-type="doi">10.1111/obr.12455</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0038">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Lewandowska</surname>
+<given-names>M</given-names></string-name>. <article-title>Maternal obesity and risk of low birth weight, fetal growth restriction, and macrosomia: multiple analyses</article-title>. <source><italic toggle="yes">Nutrients</italic></source>. <year>2021</year>;<volume>13</volume>(<issue>4</issue>):<fpage>1213</fpage>. doi:<pub-id pub-id-type="doi">10.3390/nu13041213</pub-id><pub-id pub-id-type="pmid">33916963</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0039">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Surkan</surname>
+<given-names>PJ</given-names></string-name>, <string-name><surname>Hsieh</surname>
+<given-names>CC</given-names></string-name>, <string-name><surname>Johansson</surname>
+<given-names>AL</given-names></string-name>, <string-name><surname>Dickman</surname>
+<given-names>PW</given-names></string-name>, <string-name><surname>Cnattingius</surname>
+<given-names>S</given-names></string-name>. <article-title>Reasons for increasing trends in large for gestational age births</article-title>. <source><italic toggle="yes">Obstetrics Gynecol</italic></source>. <year>2004</year>;<volume>104</volume>(<issue>4</issue>):<fpage>720</fpage>&#x2013;<lpage>726</lpage>. doi:<pub-id pub-id-type="doi">10.1097/01.AOG.0000141442.59573.cd</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0040">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>O&#x2019;Tierney-Ginn</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Presley</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Minium</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Hauguel deMouzon</surname>
+<given-names>S</given-names></string-name>, <string-name><surname>Catalano</surname>
+<given-names>PM</given-names></string-name>. <article-title>Sex-specific effects of maternal anthropometrics on body composition at birth</article-title>. <source><italic toggle="yes">Am J Clin Exp Obstet Gynecol</italic></source>. <year>2014</year>;<volume>211</volume>(<issue>3</issue>):<fpage>292.e291</fpage>&#x2013;<lpage>299</lpage>. doi:<pub-id pub-id-type="doi">10.1016/j.ajog.2014.05.031</pub-id></mixed-citation>
+      </ref>
+      <ref id="cit0041">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Cade</surname>
+<given-names>WT</given-names></string-name>, <string-name><surname>Tinius</surname>
+<given-names>RA</given-names></string-name>, <string-name><surname>Reeds</surname>
+<given-names>DN</given-names></string-name>, <string-name><surname>Patterson</surname>
+<given-names>BW</given-names></string-name>, <string-name><surname>Cahill</surname>
+<given-names>AG</given-names></string-name>. <article-title>Maternal glucose and fatty acid kinetics and infant birth weight in obese women with type 2 diabetes</article-title>. <source><italic toggle="yes">Diabetes</italic></source>. <year>2016</year>;<volume>65</volume>(<issue>4</issue>):<fpage>893</fpage>&#x2013;<lpage>901</lpage>. doi:<pub-id pub-id-type="doi">10.2337/db15-1061</pub-id><pub-id pub-id-type="pmid">26861786</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0042">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Kong</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Nilsson</surname>
+<given-names>IAK</given-names></string-name>, <string-name><surname>Gissler</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Lavebratt</surname>
+<given-names>C</given-names></string-name>. <article-title>Associations of maternal diabetes and body mass index with offspring birth weight and prematurity</article-title>. <source><italic toggle="yes">JAMA Pediatr</italic></source>. <year>2019</year>;<volume>173</volume>(<issue>4</issue>):<fpage>371</fpage>&#x2013;<lpage>378</lpage>. doi:<pub-id pub-id-type="doi">10.1001/jamapediatrics.2018.5541</pub-id><pub-id pub-id-type="pmid">30801637</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0043">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Zaugg</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Melhem</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Huang</surname>
+<given-names>X</given-names></string-name>, et al. <article-title>Gestational diabetes mellitus affects placental iron homeostasis: mechanism and clinical implications</article-title>. <source><italic toggle="yes">FASEB J</italic></source>. <year>2020</year>;<volume>34</volume>(<issue>6</issue>):<fpage>7311</fpage>&#x2013;<lpage>7329</lpage>. doi:<pub-id pub-id-type="doi">10.1096/fj.201903054R</pub-id><pub-id pub-id-type="pmid">32285992</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0044">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>Sarina</surname>
+<given-names>LDF</given-names></string-name>, <string-name><surname>Feng</surname>
+<given-names>ZQ</given-names></string-name>, <string-name><surname>Feng</surname>
+<given-names>ZQ</given-names></string-name>, et al. <article-title>Mechanism of placenta damage in gestational diabetes mellitus by investigating TXNIP of patient samples and gene functional research in cell line</article-title>. <source><italic toggle="yes">Diabetes Therapy</italic></source>. <year>2019</year>;<volume>10</volume>(<issue>6</issue>):<fpage>2265</fpage>&#x2013;<lpage>2288</lpage>. doi:<pub-id pub-id-type="doi">10.1007/s13300-019-00713-z</pub-id><pub-id pub-id-type="pmid">31654346</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="cit0045">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><string-name><surname>King</surname>
+<given-names>JC</given-names></string-name>. <article-title>Maternal obesity, metabolism, and pregnancy outcomes</article-title>. <source><italic toggle="yes">Annu Rev Nutr</italic></source>. <year>2006</year>;<volume>26</volume>(<issue>1</issue>):<fpage>271</fpage>&#x2013;<lpage>291</lpage>. doi:<pub-id pub-id-type="doi">10.1146/annurev.nutr.24.012003.132249</pub-id><pub-id pub-id-type="pmid">16704347</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

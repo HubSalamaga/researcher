@@ -1,0 +1,1139 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLOS Glob Public Health</journal-id><journal-id journal-id-type="iso-abbrev">PLOS Glob Public Health</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS Global Public Health</journal-title></journal-title-group><issn pub-type="epub">2767-3375</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709813</article-id><article-id pub-id-type="pmc">11073682</article-id><article-id pub-id-type="doi">10.1371/journal.pgph.0002588</article-id><article-id pub-id-type="publisher-id">PGPH-D-23-02078</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and health sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>HIV epidemiology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>Medical Risk Factors</subject><subj-group><subject>Traumatic Injury Risk Factors</subject><subj-group><subject>Violent Crime</subject><subj-group><subject>Intimate Partner Violence</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Public and Occupational Health</subject><subj-group><subject>Traumatic Injury Risk Factors</subject><subj-group><subject>Violent Crime</subject><subj-group><subject>Intimate Partner Violence</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Sociology</subject><subj-group><subject>Criminology</subject><subj-group><subject>Crime</subject><subj-group><subject>Violent Crime</subject><subj-group><subject>Intimate Partner Violence</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and health sciences</subject><subj-group><subject>Diagnostic medicine</subject><subj-group><subject>HIV diagnosis and management</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Pathogens</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>RNA viruses</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Pathogens</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and health sciences</subject><subj-group><subject>Clinical medicine</subject><subj-group><subject>Signs and symptoms</subject><subj-group><subject>HIV clinical manifestations</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Mental Health and Psychiatry</subject><subj-group><subject>Suicide</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>Medical Risk Factors</subject><subj-group><subject>Traumatic Injury Risk Factors</subject><subj-group><subject>Child Abuse</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Public and Occupational Health</subject><subj-group><subject>Traumatic Injury Risk Factors</subject><subj-group><subject>Child Abuse</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Sociology</subject><subj-group><subject>Criminology</subject><subj-group><subject>Crime</subject><subj-group><subject>Child Abuse</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pediatrics</subject><subj-group><subject>Child Abuse</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Mental Health and Psychiatry</subject><subj-group><subject>Mood Disorders</subject><subj-group><subject>Depression</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title><italic toggle="yes">&#x201C;I&#x2019;ve accepted it because at the end of the day there is nothing</italic>, <italic toggle="yes">I can do about it&#x201D;</italic>: A qualitative study exploring the experiences of women living with the HIV, intimate partner violence and mental health syndemic in Mpumalanga, South Africa</article-title><alt-title alt-title-type="running-head">Women living with the HIV, IPV and mental health syndemic in South Africa</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-6512-8126</contrib-id><name><surname>Silima</surname><given-names>Mpho</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Christofides</surname><given-names>Nicola</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-4700-5100</contrib-id><name><surname>Franchino-Olsen</surname><given-names>Hannabeth</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Woollett</surname><given-names>Nataly</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-5234-3799</contrib-id><name><surname>Meinck</surname><given-names>Franziska</given-names></name><role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="http://credit.niso.org/contributor-roles/software/">Software</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="aff005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>School of Public Health, University of the Witwatersrand, Johannesburg, South Africa</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Division of Health Behavior and Health Promotion, College of Public Health, The Ohio State University, Columbus, Ohio, United States of America</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>Department of Visual Arts, University of Johannesburg, Johannesburg, South Africa</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>School of Social and Political Sciences, University of Edinburgh, Edinburgh, United Kingdom</addr-line></aff><aff id="aff005"><label>5</label>
+<addr-line>School of Health Sciences, North-West University, Vanderbijlpark, South Africa</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Brault</surname><given-names>Marie A.</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>NYU Grossman School of Medicine: New York University School of Medicine, UNITED STATES</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>mpho.silima@wits.ac.za</email> (MS); <email>Franziska.Meinck@ed.ac.uk</email> (FM)</corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>4</volume><issue>5</issue><elocation-id>e0002588</elocation-id><history><date date-type="received"><day>18</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>8</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Silima et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Silima et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pgph.0002588.pdf"/><abstract><p>In South Africa, Mental Health (MH), HIV, and Intimate Partner Violence (IPV) form a syndemic, that disproportionately affects women. These challenges are often co-occurring and create complex adversities for women. Recognising these intersections and the broader socio-cultural dynamics at play is crucial to understanding the layered experiences of these women and developing effective interventions. This research explores the experiences of the women living with at least two of the epidemics (HIV, IPV and or MH) and how they cope. A qualitative study design was used and 20 women (22&#x2013;60 years) were recruited from Mpumalanga, South Africa. To be eligible for the study the women had to have experienced at least two of the epidemics. Data were collected through home-based interviews, arts-based activities, and analysed thematically using MAXQDA (2022) software. MH challenges were prevalent among all the participants and were linked to both IPV and HIV, resulting in symptoms such as anxiety, depression, and suicidal thoughts. In relation to the HIV-MH link, MH challenges in this combination included feelings of denial, sadness and anxiety related to participant&#x2019;s HIV diagnosis. A bidirectional relationship also existed in the IPV-MH group where pre-existing MH challenges among women increased their vulnerability of having violent partners, whilst IPV also increased MH challenges. In the IPV-MH-HIV group early childhood violence exposure was linked with MH challenges and later victimization and vulnerability to HIV. Participants primarily used religion, acceptance, occasional alcohol, and family support as coping strategies. Particularly in IPV situations, alcohol use/misuse was the most prevalent coping strategies. The study highlights the syndemic relationship between HIV, IPV and MH challenges among South African women living in a peri-urban community, with a central emphasis on MH challenges. Interventions should holistically address these challenges, with particular focus on MH challenges, cultural sensitivity, and promotion of healthy coping strategies.</p></abstract><funding-group><award-group id="award001"><funding-source>
+<institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100010663</institution-id><institution>H2020 European Research Council</institution></institution-wrap>
+</funding-source><award-id>852787</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-5234-3799</contrib-id>
+<name><surname>Meinck</surname><given-names>Franziska</given-names></name>
+</principal-award-recipient></award-group><funding-statement>This research was supported by the European Research Council (ERC) under the European Union&#x2019;s Horizon 2020 research and innovation programme [852787] and the UK Research and Innovation Global Challenges Research Fund [ES/S008101/1] to FM as principal investigator. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><fig-count count="0"/><table-count count="1"/><page-count count="23"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the paper and <xref rid="sec031" ref-type="sec">Supporting information</xref> files.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the paper and <xref rid="sec031" ref-type="sec">Supporting information</xref> files.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec001">
+      <title>Introduction</title>
+      <p>Women living with HIV or AIDS (hereafter referred to as HIV for brevity) and experiencing intimate partner violence (IPV) often face various mental health (MH) challenges. Research indicates that there is a higher prevalence of MH disorders among people living with HIV. Specifically, conditions such as depression, post-traumatic stress disorder (PTSD), anxiety, psychosis, and alcohol misuse are observed, which are often attributed to psychological stress, antiretroviral medication side effects, social stigma, discrimination, and lifestyle factors [<xref rid="pgph.0002588.ref001" ref-type="bibr">1</xref>, <xref rid="pgph.0002588.ref002" ref-type="bibr">2</xref>]. Particularly, women living with HIV are also more likely to experience coexisting MH conditions and exhibit poorer overall MH than men [<xref rid="pgph.0002588.ref003" ref-type="bibr">3</xref>]. The increased vulnerability is highlighted in established research which indicates existing gender disparities in MH conditions such as depression [<xref rid="pgph.0002588.ref004" ref-type="bibr">4</xref>] anxiety [<xref rid="pgph.0002588.ref005" ref-type="bibr">5</xref>] and PTSD [<xref rid="pgph.0002588.ref006" ref-type="bibr">6</xref>, <xref rid="pgph.0002588.ref007" ref-type="bibr">7</xref>]. Furthermore, in the context of HIV these gender disparities in MH conditions may further be exacerbated [<xref rid="pgph.0002588.ref008" ref-type="bibr">8</xref>]. Complicating matters further, IPV contributes to adverse MH outcomes, including anxiety, depression, PTSD, and increased suicide risk [<xref rid="pgph.0002588.ref003" ref-type="bibr">3</xref>]. The primary mechanism that links IPV to the latter MH outcomes is IPV-induced traumatic stress [<xref rid="pgph.0002588.ref009" ref-type="bibr">9</xref>, <xref rid="pgph.0002588.ref010" ref-type="bibr">10</xref>]. Moreover research also shows that IPV and MH disorders often have a reciprocal relationship, where one can increase the risk of occurrence of the other [<xref rid="pgph.0002588.ref009" ref-type="bibr">9</xref>, <xref rid="pgph.0002588.ref010" ref-type="bibr">10</xref>]. The compromised cognitive and emotional resources that often accompanies MH disorders can make individuals more vulnerable to manipulative or abusive behaviors, thereby increasing their risk of becoming victims of IPV [<xref rid="pgph.0002588.ref011" ref-type="bibr">11</xref>]. Previous research has also established a reciprocal link between IPV and HIV, indicating that those subjected to IPV have a 48% higher risk of HIV infection compared to their counterparts who haven&#x2019;t faced such violence. The heightened risk can be attributed to factors such as coercive sex by an abusive partner and their propensity for engaging in risky sexual behaviours and reduced condom use [<xref rid="pgph.0002588.ref012" ref-type="bibr">12</xref>].</p>
+      <p>The interconnectedness between HIV, IPV and MH disorders can be better understood using syndemic theory as proposed by Merril Singer [<xref rid="pgph.0002588.ref013" ref-type="bibr">13</xref>]. Singer defines a syndemic as the complex interplay existing between different epidemics, especially in the context of social inequality and health disparities [<xref rid="pgph.0002588.ref013" ref-type="bibr">13</xref>]. While SAVA primarily focused on the intersection of substance abuse, violence, and AIDS, our study expands this to encompass a broader range of MH challenges. HIV has long been long been recognized as an epidemic globally [<xref rid="pgph.0002588.ref014" ref-type="bibr">14</xref>, <xref rid="pgph.0002588.ref015" ref-type="bibr">15</xref>], however, we argue that IPV and MH conditions can also be categorized as epidemics. In South Africa IPV is a significant public health issue, ranking as the second highest burden of disease after HIV or AIDS. It also contributes substantially to disability adjusted years (DALYs) especially among women where IPV and child sexual abuse are common [<xref rid="pgph.0002588.ref016" ref-type="bibr">16</xref>]. In terms of MH conditions, there has been a significant global increase, with a 13% increase over the past decade. Additionally, these conditions are now responsible for one in every five years lived with a disability [<xref rid="pgph.0002588.ref017" ref-type="bibr">17</xref>]. These trends highlight the epidemic nature of both IPV and MH.</p>
+      <p>The emphasis of the syndemic theory is that epidemics do not exist in isolation, but rather are often interconnected and co-occur or cluster in social groups as a result of harmful social conditions such as poverty and stigma. These conditions often interact in ways that contribute to an increased overall burden of disease. The Substance Abuse, Violence and AIDS (SAVA) syndemic was first identified by Singer, he argued that contextual factors such as poverty, inadequate housing, family instability, drug related violence worked in conjunction to exacerbate the conditions of SAVA simultaneously [<xref rid="pgph.0002588.ref013" ref-type="bibr">13</xref>]. Much research has been conducted on the SAVA syndemic, yet there is still very limited data on the HIV, IPV and MH as a syndemic. As shown, the intersection of HIV, IPV, and MH disorders can exacerbate the health outcomes associated with these conditions.</p>
+      <sec id="sec002">
+        <title>Coping strategies of women with the HIV, MH and IPV syndemic</title>
+        <p>Understanding how women living with the HIV-IPV-MH syndemic cope in the face of these intertwined epidemics is critical. Research has shown that the coping strategies used by people living with HIV and those experiencing IPV have a link to the emergence of MH consequences [<xref rid="pgph.0002588.ref018" ref-type="bibr">18</xref>, <xref rid="pgph.0002588.ref019" ref-type="bibr">19</xref>]. Therefore, exploring the coping strategies of these women could highlight important strategies that have the potential to protect their psychological and physical wellbeing. Research shows that psychological reframing of negative events and social support have proven essential for women experiencing MH and HIV management, while acceptance and hope serve as a popular coping strategies for all three epidemics [<xref rid="pgph.0002588.ref020" ref-type="bibr">20</xref>&#x2013;<xref rid="pgph.0002588.ref023" ref-type="bibr">23</xref>]. Furthermore, adhering to HIV treatment has been found to be a key coping strategy for women living with HIV, largely driven by their sense of responsibility to their family and in particular their children [<xref rid="pgph.0002588.ref021" ref-type="bibr">21</xref>]. In the IPV context, coping strategies are more diverse, according to a systematic review of US studies, it was found that religious or spiritual reliance and active abuse resistance were common whilst self-criticism and substance misuse were less common [<xref rid="pgph.0002588.ref024" ref-type="bibr">24</xref>]. Contrary to this, a systematic review of South African studies found that many of the women who had experienced IPV used avoidance and distraction as a way to cope and this included substance abuse/misuse [<xref rid="pgph.0002588.ref025" ref-type="bibr">25</xref>]. Seeking help has also been found to be a coping strategy among some IPV survivors, however this varies and is dependent on the severity of the victimization as well as resources available to the woman [<xref rid="pgph.0002588.ref024" ref-type="bibr">24</xref>]. A comprehensive understanding of the root causes that lead to specific coping strategies, can help us in developing interventions that can target specific issues so as to activate more adaptive coping strategies. Identifying coping strategies of people living with HIV, IPV and MH syndemic has important implications for healthcare providers and can lead to a more holistic approach to managing the epidemics.</p>
+      </sec>
+    </sec>
+    <sec id="sec003">
+      <title>Present study</title>
+      <p>The primary objective of the present study was to explore the experiences of women navigating life with the intersections of HIV, IPV and MH challenges in a peri-urban community in Mpumalanga South Africa. We aimed to analyse the interplay of the epidemics and better understand the coping strategies used by the women. Furthermore, we sought to identify variations in coping strategies based on the different combinations of the epidemics experienced by the women.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec004">
+      <title>Methods</title>
+      <sec id="sec005">
+        <title>Study design</title>
+        <p>To answer the study objectives a qualitative study design was used. The use of this approach was important in that it helped in exploring the research aims in more depth. We were able to have a deeper understanding of the participants experiences, perspectives and attitudes in relation to living with the HIV, IPV and MH syndemic. Furthermore, using a narrative approach helped to emphasize the personal experiences of the participants which in turn allowed for their individual stories to take centre stage. By focusing on these narratives, we were able to attain rich, detailed data and as a result enhance the depth of the research findings. A narrative inquiry is a type of qualitative research method that uses the stories of the participants as the primary source of data [<xref rid="pgph.0002588.ref026" ref-type="bibr">26</xref>]. The methodology has been used across various fields to explore culture, history, identity and people&#x2019;s lifestyles through the narrators&#x2019; experiences [<xref rid="pgph.0002588.ref027" ref-type="bibr">27</xref>]. In particular the approach includes investigating human experiences through narratives or producing the data in a narrative format [<xref rid="pgph.0002588.ref028" ref-type="bibr">28</xref>].</p>
+      </sec>
+      <sec id="sec006">
+        <title>Study setting</title>
+        <p>The current study was conducted in a peri-urban area within the Enhlanzeni District Municipality of Mpumalanga Province, South Africa from October 2022 to February 2023. Mpumalanga province has an estimated population of approximately 4 million people [<xref rid="pgph.0002588.ref029" ref-type="bibr">29</xref>], with the primary languages being spoken being siSwati, isiZulu, Xitsonga and isiNdebele [<xref rid="pgph.0002588.ref030" ref-type="bibr">30</xref>]. The study site is often categorized as a township, and primarily consists of brick houses. Common challenges in the community include inconsistent supply of basic services such as water and electricity with much of the infrastructure being informal. Unemployment is also rife, with the most common forms employment being domestic work, bricklaying and farming. The HIV prevalence in the district is reported to be 19.% among the adult population [<xref rid="pgph.0002588.ref029" ref-type="bibr">29</xref>, <xref rid="pgph.0002588.ref031" ref-type="bibr">31</xref>]. In terms of IPV, 28% of women in Mpumalanga have reported experiencing physical abuse from their current partner at some point in their lives [<xref rid="pgph.0002588.ref032" ref-type="bibr">32</xref>]. Moreover, a national study found that 29,2% of adults in Mpumalanga indicated that they had experienced common mental disorders at some point in their lives lifetime [<xref rid="pgph.0002588.ref033" ref-type="bibr">33</xref>].</p>
+      </sec>
+      <sec id="sec007">
+        <title>Sample</title>
+        <p>Twenty participants were purposively selected for the study. Selection of the participants was based on their responses to specific questionnaire items from the Interrupt_Violence Study [<xref rid="pgph.0002588.ref034" ref-type="bibr">34</xref>]. Participants were between the ages of 20&#x2013;60 years and had to screen positive for HIV, IPV and/or MH challenges. Participants did not have to have experienced all three epidemics to be included in the study; any combination of the two epidemics was sufficient for inclusion.</p>
+        <p>During the quantitative interview, there were automatic referral flags that were produced if a participant disclosed behaviours, thoughts, or feelings of concern (<xref rid="pgph.0002588.s001" ref-type="supplementary-material">S1 Table</xref>). The Flags were used to create voluntary and mandatory referrals to the study social worker. To identify participants who had experienced at least two of the epidemics, we noted participants with two or more flags for the epidemics of interest, indicating they had self-reported some combination of MH, IPV, and HIV. Thereafter we did a detailed analysis of the participants&#x2019; responses to the individual items for MH, IPV and HIV in the questionnaire. The participants were categorised into groups based on their questionnaire responses. In terms of MH challenges participants answered questions in the following screening tools: National Institute for Mental Health&#x2019;s Ask Suicide Screening Questions (ASQ) for suicidality risk [<xref rid="pgph.0002588.ref035" ref-type="bibr">35</xref>], Generalized Anxiety Disorder Screener for adult for anxiety [<xref rid="pgph.0002588.ref036" ref-type="bibr">36</xref>], Patient Health Questionnaire for depression [<xref rid="pgph.0002588.ref037" ref-type="bibr">37</xref>] and Post Traumatic Stress Disorder-8 (PTSD-8) for PTSD [<xref rid="pgph.0002588.ref038" ref-type="bibr">38</xref>]. For IPV experience, participants needed to have answered yes to any of the questions in the WHO instrument for physical and sexual violence experience [<xref rid="pgph.0002588.ref039" ref-type="bibr">39</xref>]. HIV status was determined either through self-reporting or identified during the voluntary HIV test administered by the interviewer.</p>
+        <p>Furthermore, the participants in the study were either mothers or primary caregivers for a child or children aged 17 or younger at the time of enrolment. This was because the data from the current study stems from a larger study which focussed on the experiences of parenting a child under the age of 17.</p>
+      </sec>
+      <sec id="sec008">
+        <title>Data collection tools and procedure</title>
+        <p>The lead author alongside two research assistants conducted in-depth interviews which lasted between 60 to 90 minutes with each participant during October 2022-February 2023. The interviews were conducted in the participants&#x2019; preferred languages of SiSwati or Xitsonga and took place face-to-face in a private space at a time convenient for the participants. The interviews allowed for probing into participants&#x2019; experiences with IPV, living with HIV, and navigating MH challenges. We explored their past and current experiences with IPV, the impacts of HIV diagnosis and its disclosure, and the community&#x2019;s potential stigma towards HIV. Furthermore, their MH journey was explored in the context of these intersecting epidemics. For more details on the interview guide see <xref rid="pgph.0002588.s002" ref-type="supplementary-material">S1 Text</xref>.</p>
+        <p>To stimulate rich conversation, we used arts-based techniques such as the Kinetic Family Drawing (KFD), River of Life, and Sandbox [<xref rid="pgph.0002588.ref040" ref-type="bibr">40</xref>&#x2013;<xref rid="pgph.0002588.ref042" ref-type="bibr">42</xref>]. Based on the depth of data obtained from the interview, some participants were asked to participate in more than one activity, which contributed to the data&#x2019;s richness. The probes used for the arts-based techniques can be found in <xref rid="pgph.0002588.s003" ref-type="supplementary-material">S2 Text</xref>. The decision regarding which participants engaged in more than one activity was participant driven, in some cases where a participant had challenges with an activity, we switched to another activity. Conversely if a participant engaged well with one activity and this provided rich data, a second activity was used to help organize the story more effectively and to explore deeper into specific events.</p>
+        <p>With the KFD, participants drew two pictures representing their family of origin and current family dynamics, helping them to recall memories and build rapport with the interviewer [<xref rid="pgph.0002588.ref040" ref-type="bibr">40</xref>, <xref rid="pgph.0002588.ref043" ref-type="bibr">43</xref>]. In the River of Life activity, participants visually drew their life journey, showing significant positive and negative events [<xref rid="pgph.0002588.ref041" ref-type="bibr">41</xref>]. The Sandbox activity, inspired by sandplay therapy, provided participants a with medium to create three-dimensional scenes, that facilitated an artistic narrative of their experiences [<xref rid="pgph.0002588.ref042" ref-type="bibr">42</xref>, <xref rid="pgph.0002588.ref044" ref-type="bibr">44</xref>]. To capture the story, multiple photos were taken of the participants&#x2019; sandbox from various angles and at different times especially when participants changed the positioning of the figures during the interviews. The participants were also audio recorded while they were describing the scenes in the sandbox. This allowed us to capture the story as it unfolded.</p>
+      </sec>
+      <sec id="sec009">
+        <title>Ethical considerations</title>
+        <p>The study received ethical clearance from the Human Research Ethics Committee (HREC) of the University of the Witwatersrand (M220526), ensuring adherence to recognized ethical standards for research. The main Interrupt Violence study was also ethically approved (M190949) by HREC, University of Edinburgh (No: 264227) and Provincial Department of Health Mpumalanga (MP-202012&#x2013;003). All participants provided voluntarily written informed consent to participate and to have the interview audio recorded. The consent forms were distributed and explained to the participant prior to data collection in their preferred language, and they clearly outlined the objectives of the study, the nature of the participant&#x2019;s involvement, and how the collected data would be used and stored to maintain confidentiality. Participants were also informed of their right to withdraw from the study at any time without any repercussions. To protect participants&#x2019; confidentiality, unique, non-personally identifying ID numbers and pseudonyms replaced participants&#x2019; real names in all research materials. Photographs were taken of participants&#x2019; artwork, with their explicit consent, to supplement data analysis. All data, including these photographs, were securely stored. Recognizing the sensitive nature of the study and the potential for psychological risk, we implemented a distress protocol. This protocol guided the interviewer in responding sensitively to a participants&#x2019; emotions during and after the interview, ensuring timely provision of follow-up resources and support. A full-time social worker from the Interrupt_Violence study was also readily available for necessary or mandated referrals. We had 10 mandatory referrals; 5 non mandatory referrals and 5 participants did not require a referral. Mandatory referrals included cases such as participants experiences of domestic violence including a weapon, suicidality symptomology especially in situations where there was a child in the home. Non- mandatory referrals included any instances where the participant felt that they would benefit from speaking to the social worker, this ranged from issues regarding accessing their social grants, accessing psychological assistance for their MH challenges and challenges of food insecurities.</p>
+      </sec>
+      <sec id="sec010">
+        <title>Data management and analysis</title>
+        <p>All interviews were translated, transcribed, and analysed using Braun &amp; Clarke&#x2019;s six-step thematic analysis [<xref rid="pgph.0002588.ref045" ref-type="bibr">45</xref>]. The initial coding framework was deductively developed based on the study&#x2019;s objectives and an early review of transcripts [<xref rid="pgph.0002588.ref046" ref-type="bibr">46</xref>]. Subsequently, a codebook was developed, which included the coding structure used to represent different themes and patterns found in the data.</p>
+        <p>The research team then applied the codes using several transcripts, ensuring they were relevant and appropriate to capture the data and that they captured the study&#x2019;s focus. For this analysis, we used MaxQDA 2022 software. Furthermore, an initial six transcripts were reviewed collectively by the research team to ensure the collected data&#x2019;s depth and richness. This exercise helped us to fine-tune our exploration areas, identify points requiring clarity, and identify any emerging themes [<xref rid="pgph.0002588.ref047" ref-type="bibr">47</xref>, <xref rid="pgph.0002588.ref048" ref-type="bibr">48</xref>].</p>
+      </sec>
+    </sec>
+    <sec id="sec011">
+      <title>Findings</title>
+      <sec id="sec012">
+        <title>Characteristics of participants</title>
+        <p>The participants in the study were grouped into three categories based on their experiences with HIV, IPV and MH challenges. The first group consisted of seven participants, whose ages ranged from 24 to 45 years. Each participant in this group had experienced or were living with all three of the epidemics as disclosed in the questionnaire (HIV-IPV-MH syndemic). The second category included eight participants between the ages of 23 and 57. These individuals had experienced the HIV-MH syndemic. Lastly, the third group had five participants, aged between 22 and 49, who were living with the IPV-MH syndemic. For more detailed specifics on each of the participants refer to <xref rid="pgph.0002588.t001" ref-type="table">Table 1</xref> below. Pseudonyms have been used to conceal the identities of the participants.</p>
+        <table-wrap position="float" id="pgph.0002588.t001">
+          <object-id pub-id-type="doi">10.1371/journal.pgph.0002588.t001</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Participant characteristics and epidemic combinations.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pgph.0002588.t001" id="pgph.0002588.t001g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="center" rowspan="1" colspan="1">Participant</th>
+                  <th align="center" rowspan="1" colspan="1">Age</th>
+                  <th align="center" rowspan="1" colspan="1">Number of Children</th>
+                  <th align="center" rowspan="1" colspan="1">Relationship Status</th>
+                  <th align="center" rowspan="1" colspan="1">Education Level</th>
+                  <th align="center" rowspan="1" colspan="1">Employment Status</th>
+                  <th align="center" rowspan="1" colspan="1">Additional Information</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="center" colspan="7" rowspan="1">
+<bold>Epidemic combination: HIV, MH and IPV</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Noxolo</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">28</td>
+                  <td align="left" rowspan="1" colspan="1">Three</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 7</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Noxolo is currently experiencing violence with the current partner. She shared MH challenges, with symptoms linked to depression and anxiety</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Diana</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">43</td>
+                  <td align="left" rowspan="1" colspan="1">One</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 1</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Diana experienced IPV in the past with the current partner, although at the time of the interview the violence had ceased. She shared MH challenges with symptoms linked to depression.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Silindile</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">38</td>
+                  <td align="left" rowspan="1" colspan="1">One</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 10</td>
+                  <td align="left" rowspan="1" colspan="1">Part-time employment</td>
+                  <td align="left" rowspan="1" colspan="1">Silindile&#x2019;s experiences of IPV were from a previous partner. She shared MH challenges with symptoms linked to suicidality.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Nokuthula</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">26</td>
+                  <td align="left" rowspan="1" colspan="1">Two</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 11</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Nokuthula&#x2019;s experiences of IPV were from a previous partner, the father of her first child. She shared MH challenges with symptoms linked to depression.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Sphe</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">28</td>
+                  <td align="left" rowspan="1" colspan="1">Two</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 12</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Sphe&#x2019;s was in a violent relationship at the time of the interview. She shared MH challenges with symptoms linked to depression.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Lerato</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">24</td>
+                  <td align="left" rowspan="1" colspan="1">One</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 8</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Lerato&#x2019;s experience of IPV is with her previous partner. She shared MH challenges with symptoms linked to suicidality and depression.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Paula</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">45</td>
+                  <td align="left" rowspan="1" colspan="1">Three</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 6</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Paula has a history of violence with the current partner However, at the time of interview the violence had ceased. She shared MH challenges with symptoms linked to depression</td>
+                </tr>
+                <tr>
+                  <td align="center" colspan="7" rowspan="1">
+<bold>Epidemic combination: HIV and MH</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Nono (CG 7379)</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">41</td>
+                  <td align="left" rowspan="1" colspan="1">Four</td>
+                  <td align="left" rowspan="1" colspan="1">Widowed and single</td>
+                  <td align="left" rowspan="1" colspan="1">No schooling</td>
+                  <td align="left" rowspan="1" colspan="1">Part-Time Employment</td>
+                  <td align="left" rowspan="1" colspan="1">Nono shared MH challenges with symptoms linked to anxiety and suicidality.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Rejoice</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">25</td>
+                  <td align="left" rowspan="1" colspan="1">One</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 12</td>
+                  <td align="left" rowspan="1" colspan="1">Casual Work</td>
+                  <td align="left" rowspan="1" colspan="1">Rejoice shared MH challenges with symptoms linked to depression and anxiety.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Xoli</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">23</td>
+                  <td align="left" rowspan="1" colspan="1">Three</td>
+                  <td align="left" rowspan="1" colspan="1">Single</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 11</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Xoli shared MH challenges with symptoms linked to depression and anxiety.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Ntombi</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">26</td>
+                  <td align="left" rowspan="1" colspan="1">One</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 12</td>
+                  <td align="left" rowspan="1" colspan="1">Part-time employment</td>
+                  <td align="left" rowspan="1" colspan="1">Ntombi shared MH Challenges with symptoms linked to depression, she was also clinically diagnosed with Trichophagia</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Phindi</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">48</td>
+                  <td align="left" rowspan="1" colspan="1">Five</td>
+                  <td align="left" rowspan="1" colspan="1">Married</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 12</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Phindi shared MH challenges with symptoms linked to suicidality.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Pauline</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">42</td>
+                  <td align="left" rowspan="1" colspan="1">Three</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 8</td>
+                  <td align="left" rowspan="1" colspan="1">Full-time employment</td>
+                  <td align="left" rowspan="1" colspan="1">Pauline shared MH challenges with symptoms linked to depression</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Nelly</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">57</td>
+                  <td align="left" rowspan="1" colspan="1">Two</td>
+                  <td align="left" rowspan="1" colspan="1">Single</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 6</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Nelly shared MH challenges with symptoms linked to depression and anxiety</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Adelaide</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">46</td>
+                  <td align="left" rowspan="1" colspan="1">Five</td>
+                  <td align="left" rowspan="1" colspan="1">Married</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 7</td>
+                  <td align="left" rowspan="1" colspan="1">Part-time work</td>
+                  <td align="left" rowspan="1" colspan="1">Adelaide shared MH challenges with symptoms linked to suicidality and anxiety.</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="7" rowspan="1">
+<bold>Epidemic combination: IPV and MH</bold>
+</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Palesa</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">22</td>
+                  <td align="left" rowspan="1" colspan="1">Two</td>
+                  <td align="left" rowspan="1" colspan="1">Single</td>
+                  <td align="left" rowspan="1" colspan="1">Engineering Diploma</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Palesa is caregiving for her sister&#x2019;s children. At the time of the interview, she was not in a violent relationship, her history of IPV is from previous partners. She shared MH challenges with symptoms linked to depression.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Nomie</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">28</td>
+                  <td align="left" rowspan="1" colspan="1">Two</td>
+                  <td align="left" rowspan="1" colspan="1">In a relationship</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 5</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Nomie was in a violent relationship at the time of the interview. She shared MH symptoms linked to depression.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Cindy</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">49</td>
+                  <td align="left" rowspan="1" colspan="1">Two</td>
+                  <td align="left" rowspan="1" colspan="1">Married</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 8</td>
+                  <td align="left" rowspan="1" colspan="1">Unemployed</td>
+                  <td align="left" rowspan="1" colspan="1">Cindy has a history of violence with her current partner, however at the time of the interviewer the violence had ceased. She shared MH symptoms linked to depression and anxiety</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Londiwe</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">42</td>
+                  <td align="left" rowspan="1" colspan="1">Three</td>
+                  <td align="left" rowspan="1" colspan="1">Married</td>
+                  <td align="left" rowspan="1" colspan="1">No schooling</td>
+                  <td align="left" rowspan="1" colspan="1">Part-time employment</td>
+                  <td align="left" rowspan="1" colspan="1">Londiwe has a history of violence with her current partner, however at the time of the interviewer the violence had ceased. She shared MH challenges with symptoms linked to suicidality and depression.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Ntomfuthi</bold>
+</td>
+                  <td align="left" rowspan="1" colspan="1">28</td>
+                  <td align="left" rowspan="1" colspan="1">One</td>
+                  <td align="left" rowspan="1" colspan="1">Single</td>
+                  <td align="left" rowspan="1" colspan="1">Grade 12</td>
+                  <td align="left" rowspan="1" colspan="1">Part-time employment</td>
+                  <td align="left" rowspan="1" colspan="1">Ntomfuthi has a history of violence with her previous partner, however at the time of the interview she was single. She shared MH challenges with symptoms linked to depression.</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+      <sec id="sec013">
+        <title>Intersecting epidemics and participant&#x2019;s experiences</title>
+        <p>Our study found that the interaction between the epidemics often created a mutually reinforcing dynamic that escalated the overall burden on the individuals affected.</p>
+      </sec>
+      <sec id="sec014">
+        <title>Experiences of living with HIV-MH syndemic</title>
+        <p>Our findings highlighted a significant relationship between MH challenges and HIV. An exploration of the women&#x2019;s experiences revealed that an HIV diagnosis often triggered feelings of denial and a struggle with accepting their status for instance, when Nono (41) was asked to share how she felt when she was first diagnosed with HIV, she responded:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;It was very painful to even accept it</italic>, <italic toggle="yes">but I had to accept it and let it pass</italic>. <italic toggle="yes">But to be honest I only really started to accept and get healing maybe six years after I was diagnosed</italic>. <italic toggle="yes">You know it&#x2019;s hard when you know all the sexual partners you have had in your life</italic>, <italic toggle="yes">for me it was only two people so it hurt for this to happen to me</italic>. <italic toggle="yes">But it was only after I was positive that people told me about his history</italic>, <italic toggle="yes">it was then that I heard of all his past sexual partners who had died from HIV</italic>. <italic toggle="yes">When I found out I was always crying</italic>, <italic toggle="yes">constantly crying</italic>. <italic toggle="yes">Asking myself for how long I will I have to suffer like this</italic>.<italic toggle="yes">&#x201D;</italic>.</p>
+        </disp-quote>
+        <p>Furthermore, for many of these women, an HIV diagnosis triggered symptoms linked to depression, anxiety, and in extreme cases, suicidal ideation. Ntombi, (26), conveyed the anxieties accompanying her HIV positive status,</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;It stresses me when</italic>, <italic toggle="yes">I think of what will happen when he [son] is grown up</italic>. <italic toggle="yes">I worry a lot especially when I think of times when I will not be around anymore</italic>. <italic toggle="yes">My heart is sore and I&#x2019;m constantly scared</italic>.<italic toggle="yes">"</italic></p>
+        </disp-quote>
+        <p>For those participants who reported suicidal ideation, it was often in situations where their children had also acquired HIV. Silindile&#x2019;s (38) son, for example, was born with HIV, when asked which of all of the challenges, she had encountered is the most difficult for her to accept, she responded:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;I would say the most difficult for me is the HIV status because it directly affects my son</italic>. <italic toggle="yes">I don&#x2019;t even know where to begin with solving that situation</italic>. <italic toggle="yes">How will I ever tell my son</italic>, <italic toggle="yes">he won&#x2019;t even understand how he contracted this virus</italic>. <italic toggle="yes">This is the thing that breaks my heart the most</italic>, <italic toggle="yes">even now</italic>, <italic toggle="yes">sometimes I just have these feelings of wishing I could kill myself</italic>. <italic toggle="yes">Every time I think about his father</italic>, <italic toggle="yes">I just wish I had never met that man</italic>, <italic toggle="yes">if it were up to me</italic>, <italic toggle="yes">I would have never even walked in the same direction as that man</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>Additionally, the perceived burden and the accompanied denial of an HIV diagnosis often significantly impacted their decision-making regarding treatment initiation. Paula, (45), shared how her HIV status and the emotional toll it took delayed her initiation of treatment:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;I wasn&#x2019;t ready to accept</italic>&#x2026; <italic toggle="yes">so I waited five years after being diagnosed</italic>, <italic toggle="yes">I felt I needed to counsel myself before I could start taking treatment</italic>. <italic toggle="yes">There was a time where I did something</italic>&#x2026; <italic toggle="yes">I would go fetch pills at the clinic and throw them away afterwards</italic>, <italic toggle="yes">then I fell sick</italic>. <bold><italic toggle="yes">Interviewer</italic>:</bold>
+<italic toggle="yes">&#x201C;What happened afterwards</italic>?<italic toggle="yes">&#x201D;</italic>
+<bold><italic toggle="yes">Paula</italic>:</bold>
+<italic toggle="yes">&#x201C;I do not remember exactly who it was</italic>, <italic toggle="yes">maybe it was the nurse</italic>, <italic toggle="yes">they told me not to stop taking the pills</italic>. <italic toggle="yes">They asked me who I want to leave my children with</italic>. <italic toggle="yes">I went back to the clinic and I never stopped taking them</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+      </sec>
+      <sec id="sec015">
+        <title>Experiences of living with IPV-MH syndemic</title>
+        <p>For the participants who had experienced IPV, we found that many of them also reported symptoms indicative of anxiety and depression. Cindy (49) had been in an abusive relationship with the father of her children for many years, she shared how being in this relationship put her in a constant state of fear and worry:</p>
+        <disp-quote>
+          <p><bold><italic toggle="yes">Interviewer</italic></bold>: <italic toggle="yes">&#x201C;So</italic>, <italic toggle="yes">were there other times in your life where you felt constantly scared or worried</italic>?<italic toggle="yes">&#x201D;</italic>
+<bold><italic toggle="yes">Cindy</italic>: <italic toggle="yes">&#x201C;</italic></bold><italic toggle="yes">Yes</italic>, <italic toggle="yes">it was during that time of the abuse</italic>. <italic toggle="yes">I would worry all the time about what will happen to my children if I leave</italic>. <italic toggle="yes">I would look around at other people&#x2019;s lives and feel like I was the only one going through this and I didn&#x2019;t understand why my life was the way that it was</italic>. <italic toggle="yes">I was so afraid of this man; I thought one day he will kill me</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>Furthermore, Palesa (22), detailed how her abusive relationship created a constant state of anger in her, which she unconsciously directed towards her son. She shared:</p>
+        <disp-quote>
+          <p><italic toggle="yes">"It was difficult</italic>, <italic toggle="yes">I won&#x2019;t lie</italic>, <italic toggle="yes">I was angry</italic>, <italic toggle="yes">I was an angry mother</italic>, <italic toggle="yes">very angry</italic>. <italic toggle="yes">Even when he [son] would try and speak to me</italic>, <italic toggle="yes">I would just insult him to the point that I would even regret it afterwards</italic>. <italic toggle="yes">I would get pissed off by my partner and take it out on the closest person to me and usually</italic>, <italic toggle="yes">it was my son he would do a small thing</italic>, <italic toggle="yes">like spill water</italic>, <italic toggle="yes">and I would overreact</italic>. <italic toggle="yes">Like</italic>, <italic toggle="yes">I realised that the way I was hitting him was not normal</italic>. <italic toggle="yes">I would take out a lot of pain on him</italic>, <italic toggle="yes">but I learned that he doesn&#x2019;t know anything</italic>, <italic toggle="yes">he is a baby&#x201D;</italic>.</p>
+        </disp-quote>
+        <p>On the other hand, some participants reported the relationship between MH and IPV as bidirectional where they felt that their MH challenges also lead to violence in their relationship. Nomie (28) shared how her challenges with anger which spurred from her childhood trauma often impacted on her intimate relationships at times leading to violence:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;I&#x2019;m one person who is quick to anger</italic>. <italic toggle="yes">I&#x2019;ve always been an angry person</italic>. <italic toggle="yes">I have serious anger issues especially when I think about how my parents can just abandon me like that as a child</italic>. <italic toggle="yes">If someone does something to me</italic>, <italic toggle="yes">I get very angry and I want us to hit each other&#x201D;</italic>. <bold><italic toggle="yes">Interviewer</italic>:</bold> &#x201C;<italic toggle="yes">Oh</italic>, <italic toggle="yes">and have you ever hit each other</italic>? <bold><italic toggle="yes">Nomie</italic>: <italic toggle="yes">&#x201C;</italic></bold><italic toggle="yes">With this one [current partner]</italic>, <italic toggle="yes">no it hasn&#x2019;t happened</italic>. <italic toggle="yes">I&#x2019;ve noticed that he holds back even when I try to provoke him so that we can fight he holds back a lot</italic>. <italic toggle="yes">So</italic>, <italic toggle="yes">I tend to push him so that he can get to the point where he hits me so that I can also hit him back</italic>. <italic toggle="yes">But he holds back and doesn&#x2019;t hit me</italic>. <italic toggle="yes">[laughs]</italic>. <italic toggle="yes">But with the others</italic>? <italic toggle="yes">like my ex</italic>. <italic toggle="yes">We used to fight a lot</italic>. <italic toggle="yes">When we would start fighting everything would be all over the place</italic>, <italic toggle="yes">you&#x2019;d see this table turned upside down</italic>. <italic toggle="yes">Ah we would beat each other</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+      </sec>
+      <sec id="sec016">
+        <title>Experiences of women living with HIV-IPV-MH syndemic</title>
+        <p>In our study, the women among the group who had experienced all three intersecting epidemics, spontaneously shared their experiences of childhood sexual abuse (CSA), which appears to have contributed to MH challenges in adulthood especially in situations where they disclosed to caregivers and were not believed. It must be noted however, that the lack of disclosure in the other groups, does not preclude the existence of CSA in the histories of the other women who did not disclose. Although we did ask participants about experiences of violence during childhood, we did not explicitly ask about sexual abuse. This could mean that some participants may have chosen not to disclose such experiences. Nonetheless we did find that the MH challenges amongst this group were very severe. Lerato (24), reported:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;When I was living with my uncle and aunt it was not good</italic>. <italic toggle="yes">They used to abuse me</italic>. <italic toggle="yes">My uncle used to force me to have sex with him</italic>. <italic toggle="yes">He was abusing me</italic>. <italic toggle="yes">This river is where I used to go to be alone and wish that I could die</italic>. <italic toggle="yes">And in terms of the railway</italic>, <italic toggle="yes">I tried to tie myself with a rope and kill myself on the railway</italic>. <italic toggle="yes">But I didn&#x2019;t manage</italic>. <italic toggle="yes">And even now there are times when I still feel like this</italic>. <italic toggle="yes">Recently I even tried to kill myself</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>When discussing her adult relationships, Lerato shared how she was in an abusive relationship with the father of her child:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;Ah that one used to hit me a lot</italic>. <italic toggle="yes">He would come home drunk and he would beat me</italic>. <italic toggle="yes">He didn&#x2019;t do anything for me and my son</italic>. <italic toggle="yes">I had to do everything for us&#x201D;</italic>
+<bold>Interviewer:</bold> "<italic toggle="yes">Is there anyone that you told about what was happening</italic>?<italic toggle="yes">&#x201D;</italic> Lerato: &#x201C;<italic toggle="yes">No</italic>, <italic toggle="yes">I didn&#x2019;t tell anyone</italic>. <italic toggle="yes">I&#x2019;m not used to telling people about my problems because I generally don&#x2019;t trust people</italic>.&#x201D;</p>
+        </disp-quote>
+        <p>Sphe (28), who also had an experience of CSA, shared how the experience left her confused and experiencing severe MH challenges, she shared:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;This is when I was raped [pointing at drawing]</italic>, <italic toggle="yes">I lived with the effects of the rape even though I didn&#x2019;t know or understand what rape was</italic>. <italic toggle="yes">My family kept telling me that I hadn&#x2019;t experienced what I knew I went through and that really traumatised me</italic>. <italic toggle="yes">I even started experiencing memory loss and when that happened it was like it validated them and they started saying I am crazy that&#x2019;s why I was accusing that boy of raping me</italic>. <italic toggle="yes">My life after that was not okay</italic>, <italic toggle="yes">I was constantly scared and paranoid</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>Because of this experience Sphe was isolated from her family, which she believed made her susceptible to dating an abusive partner. When speaking about her partner Sphe recalled:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;Things between me and my partner started changing and I think they changed because he started learning more about my life and he found out that I am basically an orphan and I have nobody and I rely mostly on him</italic>. <italic toggle="yes">And that&#x2019;s when he became toxic&#x201D;</italic>
+<bold><italic toggle="yes">Interviewer</italic>:</bold>
+<italic toggle="yes">&#x201C;Can you tell me a little bit more about what you mean when you say that he was toxic</italic>? <bold><italic toggle="yes">Sphe</italic>:</bold>
+<italic toggle="yes">&#x201C;One day</italic>, <italic toggle="yes">he asked me why he has never seen anyone in my family coming to visit me in all the time that we had been dating and that&#x2019;s when I told him about my family background</italic>. <italic toggle="yes">I told him that I do have family but we aren&#x2019;t close and we don&#x2019;t visit each other</italic>. <italic toggle="yes">From there on he started changing as he realised that I am alone and that&#x2019;s when he became toxic and abusive</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+      </sec>
+      <sec id="sec017">
+        <title>IPV-HIV syndemic</title>
+        <p>In relation to the IPV-HIV syndemic, although there was no direct link that didn&#x2019;t include MH challenges, we did find participants who made their own association, participants shared that they believed that they had contracted HIV because of their abusive partners who had been cheating on them incessantly, Silindile (38) expressed:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;You know</italic>, <italic toggle="yes">what hurt me the most when I first found out was because I felt like I didn&#x2019;t deserve to have this thing [HIV]</italic>. <italic toggle="yes">Two sexual partners in my whole life</italic>. <italic toggle="yes">The reality of this really hurt me&#x2026; I was loyal to my partner</italic>. <italic toggle="yes">I mean you stay with someone and you tell yourself that you are committed but on the other hand you are with a partner who is running the streets</italic>. <italic toggle="yes">And then I discovered I was HIV positive</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+      </sec>
+    </sec>
+    <sec id="sec018">
+      <title>Coping strategies</title>
+      <p>Participants from the different groups had varied ways of coping with living with the syndemic and other challenges in their lives. Some of the coping strategies included their own resilience and having the inner belief that they could overcome any obstacle. Religion and church also played a crucial role.</p>
+      <sec id="sec019">
+        <title>HIV-MH syndemic and coping strategies</title>
+        <p>Women living with the HIV-MH syndemic shared that a combination of self-reliance, family support, hope, and religious faith was how they coped. In terms of self-reliance, Rejoice (25) highlighted the significance of having to rely on herself to cope and overcome her adversities:</p>
+        <disp-quote>
+          <p>&#x201C;<italic toggle="yes">I guess the support system was mine</italic>. <italic toggle="yes">Yes</italic>, <italic toggle="yes">I had uncles and everything</italic>, <italic toggle="yes">but I believe that Rejoice helped herself out of this</italic>, <italic toggle="yes">even though somehow that hurt me</italic>, <italic toggle="yes">but it is also what kept me together to carry on</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>Furthermore, hope, coupled with a solid support system, was emphasized as a crucial component for coping by other participants. Xoli (23), who was born with HIV, and struggled with MH symptoms linked to depression spoke about her hope as well as the support she received from her family in helping her survive to this point:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;Having the hope that things will get better and being able to confide in my aunt and having her support</italic>&#x2026; <italic toggle="yes">I have learned that I can overcome anything no matter how difficult it is</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>For some of the women, religious faith and their trust in a higher power were instrumental in navigating their challenges. Their conviction provided both comfort and resilience amid adversity. Nelly (57), who not only contracted HIV from her husband but also grappled with the loss of a child and socio-economic challenges stemming from unemployment, leaned on her faith for comfort She expressed:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;In everything that I do</italic>, <italic toggle="yes">I say</italic>, <italic toggle="yes">God</italic>, <italic toggle="yes">you are the alpha and omega in my life</italic>, <italic toggle="yes">you will not forsake me</italic>. <italic toggle="yes">I know in the end you will make my life better</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+      </sec>
+      <sec id="sec020">
+        <title>IPV-MH syndemic and coping strategies</title>
+        <p>For women struggling with the IPV-MH syndemic, two primary coping strategies emerged: the use of substances as described earlier for women living with the HIV-IPV-MH syndemic as a means of escape and distraction and clinging to the hope of a brighter future. Londiwe (49), who suffered severe IPV at the hands of her husband, shared that she coped by being hopeful that things would change, she reflected,</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;It was the hope that everything would eventually be fine</italic>. <italic toggle="yes">I hoped that one day things would turn out okay</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>On the subject of substance use as way for mental detachment, Nomie (28) noted:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;I just drink at home; I drink and then I sleep</italic>. <italic toggle="yes">I usually drink if I want to distract myself and I just don&#x2019;t want to think</italic>. <bold><italic toggle="yes">Interviewer</italic>:</bold>
+<italic toggle="yes">&#x201C;What do you want to distract yourself from</italic>?<italic toggle="yes">&#x201D;</italic>
+<bold><italic toggle="yes">Nomie</italic>:</bold>
+<italic toggle="yes">&#x201C;Honestly</italic>, <italic toggle="yes">everything hey</italic>, <italic toggle="yes">relationships</italic>, <italic toggle="yes">life</italic>, <italic toggle="yes">work</italic>, <italic toggle="yes">everything</italic>. <italic toggle="yes">I sometimes feel like nothing is going right in my life</italic>. <italic toggle="yes">I try do this and it doesn&#x2019;t work out</italic>, <italic toggle="yes">then I try something else and it also doesn&#x2019;t work</italic>, <italic toggle="yes">so I find myself feeling discouraged</italic>. <italic toggle="yes">Usually if I don&#x2019;t drink</italic>, <italic toggle="yes">I&#x2019;ll end up smoking dagga</italic>. <italic toggle="yes">But I like dagga because when I smoke</italic>, <italic toggle="yes">I don&#x2019;t think about anything; I just sleep</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+      </sec>
+      <sec id="sec021">
+        <title>IPV-MH-HIV syndemic and coping strategies</title>
+        <p>The women living with the IPV-MH-HIV syndemic, when probed on how they coped with these intersecting epidemics, shared that acceptance, an unwavering commitment to their children, and, for some, substance misuse as a means of temporary relief. Many participants conveyed that alcohol, albeit briefly, provided some form of escape from their lives. Lerato&#x2019;s (24) narrative paints a vivid picture of her struggle with her HIV diagnosis and her journey towards acceptance. She shared:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;I&#x2019;ve accepted it because at the end of the day there is nothing</italic>, <italic toggle="yes">I can do about it&#x201D;</italic>.</p>
+        </disp-quote>
+        <p>When we probed deeper into the length of her acceptance journey, she touched upon the solace she sought in alcohol not only in relation to her diagnosis but also her childhood trauma experiences:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;It took a very long time</italic>. <italic toggle="yes">And during that time all I wanted to do was be at the tavern and drink because I didn&#x2019;t want to think about what had happened</italic>. <italic toggle="yes">I wanted to distract myself</italic>. <italic toggle="yes">I would just go to the tavern</italic>, <italic toggle="yes">drink and come back and pass out</italic>. <italic toggle="yes">If I passed out after a drunk night it was better because I wouldn&#x2019;t think about anything</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>Diana (43) also shared her story, not only about living with HIV but also grappling with a childhood marred by abuse. The relative who fathered her first child had sexually assaulted her during her younger years. Further complicating her life was the consistent physical and emotional abuse she endured from her husband and the longstanding MH challenges that plagued her from childhood. In search of relief, Diana turned to alcohol. She recounted:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;He would hit me when he was drunk</italic>&#x2026; <italic toggle="yes">Then I came back home and decided to never go back there</italic>. <italic toggle="yes">That was the time that I started drinking alcohol</italic>, <italic toggle="yes">I was too stressed</italic>. <italic toggle="yes">I gave my life away to alcohol</italic>, <italic toggle="yes">it felt as though what I was doing was the right thing</italic>. <italic toggle="yes">I felt good when drinking</italic>. <italic toggle="yes">I drank so much to a point that had I not stopped drinking</italic>, <italic toggle="yes">I would have been dead by now&#x201D;</italic>.</p>
+        </disp-quote>
+        <p>However, amid these challenges, the women&#x2019;s commitment to motherhood provided a sense of hope for them. Silindile highlighted this sentiment, asserting:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;I think it&#x2019;s my children that give me the go forward</italic>, <italic toggle="yes">because the last thing I want is for my children to struggle</italic>.<italic toggle="yes">&#x201D;</italic> Nokuthula (26) also shared the following when asked how she coped with her challenges, <italic toggle="yes">&#x201C;My children are the reason that makes me wake up every morning</italic>, <italic toggle="yes">raise my head</italic>, <italic toggle="yes">and say thank God for giving me another day to live</italic>. <italic toggle="yes">Then in my life</italic>, <italic toggle="yes">the people that I have as my priority</italic>, <italic toggle="yes">are my children and my brother&#x201D;</italic>.</p>
+        </disp-quote>
+        <p>Overall, we found that acceptance was a cross-cutting coping strategy observed across all the different epidemic combinations. Nokuthula (26), who had experienced all three epidemics had the following to say:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;After being raped</italic>, <italic toggle="yes">the only thing I was scared of was a man</italic>. <italic toggle="yes">I did not want a man near me; they disgusted me</italic>. <italic toggle="yes">So</italic>, <italic toggle="yes">after getting raped for a second time</italic>, <italic toggle="yes">they ran tests on me</italic>, <italic toggle="yes">and that&#x2019;s where I found out that I have HIV</italic>. <italic toggle="yes">It became difficult for me to accept and live with it</italic>. <italic toggle="yes">It was difficult</italic>, <italic toggle="yes">very difficult</italic>. <italic toggle="yes">But as time went by</italic>, <italic toggle="yes">I decided and accepted that I am living with this thing for the rest of my life and to accept what that man did to me</italic>, <italic toggle="yes">so why should I be miserable because of it</italic>? <italic toggle="yes">I think I have to live with the fact that I am HIV positive and I contracted this through rape</italic>, <italic toggle="yes">and I won&#x2019;t change it</italic>.&#x201D;</p>
+        </disp-quote>
+        <p>Moreover, Xoli (23) who was living with the HIV-MH syndemic, shared how she had to accept her diagnosis,</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;It has really affected my family because my younger sister and I were born with HIV</italic>. <italic toggle="yes">At first it was difficult to accept</italic>, <italic toggle="yes">but eventually I accepted that I have to take my medication and go to the clinic in order to live longer</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>Finally, Cindy (49), who was living with the IPV-MH syndemic, shared that when she was being abused by her husband, what helped her cope was hope that he would change as well as acceptance of the situation because of her dependence on him, she reported:</p>
+        <disp-quote>
+          <p><italic toggle="yes">&#x201C;I hoped that one day things would turn out okay</italic>. <italic toggle="yes">I was afraid to go to social workers or the police because I didn&#x2019;t want him to get arrested because if he got arrested what would we eat</italic>. <italic toggle="yes">In life you have to accept everything that happens to you</italic>. <italic toggle="yes">You have to accept and let it pass and understand that this is life</italic>.<italic toggle="yes">&#x201D;</italic></p>
+        </disp-quote>
+        <p>Our findings showed that substance use was more commonly mentioned in the combinations involving IPV, whilst hope, self-reliance, family support, and religious faith were prominent coping strategies in the HIV-MH syndemic.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec022">
+      <title>Discussion</title>
+      <p>The experiences of women living with the HIV, IPV, and MH syndemic are complex. The study identified intersections and the synergistic interactions between HIV-MH, IPV-MH, and the relationship between IPV-HIV-MH. Our findings suggest that HIV, IPV and MH challenges interact in ways that exacerbate the severity and impact of each condition and we therefore propose that the co-occurrence of these epidemics constitutes a syndemic. Notably, beyond substance use, other MH challenges were evident among the participants, warranting an expansion of the SAVA syndemic concept. We found that among participants living with the HIV- MH syndemic, an HIV diagnosis was met with denial, symptoms related to depression, anxiety and suicidality and delayed treatment initiation. In the IPV-MH syndemic group, participants reported symptoms related to anxiety and depression in relation to the abuse they experienced, participants also reported a bi-directional relationship between IPV and MH with IPV worsening MH and MH challenges increasing women&#x2019;s vulnerability to IPV. Participants experiencing all three epidemics reported a history of CSA, which was associated with MH challenges over their life course and experiences with IPV from past and current partners. Participants coped with their circumstances mostly through acceptance of the situation and religion, while others used excessive substance use to help them cope and detach. In the groups where IPV was not present, participants relied on family, friends, religion and other social support.</p>
+      <sec id="sec023">
+        <title>The experiences of women living with the HIV-MH syndemic</title>
+        <p>In the HIV-MH interaction, the syndemic nature is evident. We found that an HIV positive diagnosis often triggered MH symptoms linked to depression and anxiety among participants and in many cases also exacerbated the symptoms. This was particularly apparent especially in cases of vertical HIV transmission where maternal guilt, which was often intensified by internalized stigma significantly increased the risk of severe MH challenges such as suicidal ideation. This complex interplay aligns with findings from KwaZulu Natal study which identified a significant prevalence of suicidal ideation among pregnant women diagnosed with HIV [<xref rid="pgph.0002588.ref049" ref-type="bibr">49</xref>]. Additionally research from Mpumalanga reported that the factors associated with suicidal ideation among HIV positive pregnant women included, major depression, partner disclosure status, stigma, age, and partner aggression [<xref rid="pgph.0002588.ref049" ref-type="bibr">49</xref>&#x2013;<xref rid="pgph.0002588.ref051" ref-type="bibr">51</xref>]. Despite the existing research on HIV positive pregnant women and suicidal ideation, our study identifies a gap in the literature specifically related to maternal suicidal ideation in the context of vertical transmission.</p>
+        <p>Furthermore, the current study is unique in that it emphasizes the role of internalized stigma within the syndemic. Our findings show that internalized stigma not only amplifies the maternal guilt often associated with vertical transmission but it also intensifies overall MH challenges faced by people living with HIV. Evidently despite the advancements in HIV treatment as well as widespread prevalence, HIV stigma still persists. This finding is significant as it highlights the importance of tackling the medical aspects of HIV, as well as the societal and psychological barriers such as stigma, which significantly contribute to these complex intertwined epidemics.</p>
+        <p>Moreover, many participants in this group reported initial feelings of overwhelming fear of death and denialism, which led to delays in seeking HIV treatment. Evidently the psychological impact of an HIV diagnosis exacerbated their MH challenges, which in turn impeded them from seeking timely medical intervention. This is in line with other research which has found a positive relationship between poor MH and delayed medical intervention [<xref rid="pgph.0002588.ref052" ref-type="bibr">52</xref>]. Such findings highlight the need for psychological screenings alongside HIV testing. Incorporating psychological screenings alongside HIV testing presents multiple advantages. Firstly, it could enable early identification and management of potential MH challenges and as result possibly averting the worsening of both mental and physical outcomes. Secondly, the screening could also serve to address the psychological barriers such as anxiety, fear and denialism that often hinder timely HIV treatment [<xref rid="pgph.0002588.ref052" ref-type="bibr">52</xref>]. By implementing psychological screening as part of HIV testing, this can mitigate the syndemic impact of these health challenges.</p>
+      </sec>
+      <sec id="sec024">
+        <title>The experiences of women living with the IPV- MH syndemic</title>
+        <p>Women experiencing the IPV-MH syndemic often displayed symptoms indicative of anxiety and depression. For some participants these MH challenges existed before their IPV experience. This aligns with prior research indicating that pre-existing MH challenges can predispose individuals to IPV victimization [<xref rid="pgph.0002588.ref011" ref-type="bibr">11</xref>, <xref rid="pgph.0002588.ref053" ref-type="bibr">53</xref>, <xref rid="pgph.0002588.ref054" ref-type="bibr">54</xref>]. Conversely for other participants IPV was a salient trigger or exacerbated MH challenges, creating a cyclical relationship where IPV and MH challenges intensify each other. This bidirectional relationship where each condition aggravates the other is indicative of a syndemic. The MH repercussions of IPV have been thoroughly reported on in the literature, with conditions ranging from PTSD and depression to anxiety and eating disorders [<xref rid="pgph.0002588.ref053" ref-type="bibr">53</xref>, <xref rid="pgph.0002588.ref055" ref-type="bibr">55</xref>, <xref rid="pgph.0002588.ref056" ref-type="bibr">56</xref>]. Evidently the relationship between IPV and MH goes beyond co-occurrence. When these two epidemics intersect, they also mutually exacerbate the other, often resulting in a compound impact on the women.</p>
+      </sec>
+      <sec id="sec025">
+        <title>The HIV-IPV intersection</title>
+        <p>In the present study, we didn&#x2019;t find an exclusive overlap between IPV and HIV, as all participants reported concurrent MH challenges. It appeared that any existing IPV-HIV connection was invariably connected with MH challenges. Research indicates that an HIV diagnosis can increase stress at both the individual and relationship level. This heightened stress can adversely impact women&#x2019;s mental health, potentially increasing their vulnerability to becoming involved in an abusive relationship [<xref rid="pgph.0002588.ref009" ref-type="bibr">9</xref>, <xref rid="pgph.0002588.ref057" ref-type="bibr">57</xref>]. Other studies indicate that the influence of HIV on IPV is notably accentuated in women already struggling with IPV in their relationships, as their partners, often with a heightened antisocial disposition, might react more aggressively to an HIV diagnosis disclosure [<xref rid="pgph.0002588.ref012" ref-type="bibr">12</xref>].</p>
+        <p>While we did not find evidence of a standalone IPV-HIV overlap, the data consistently highlighted the omnipresence of MH challenges, intersecting with the other two epidemics. A deeper look at the experiences of women living with the IPV-HIV-MH syndemic is critical at this point.</p>
+      </sec>
+      <sec id="sec026">
+        <title>The experiences of women living with IPV-HIV-MH syndemic</title>
+        <p>Among this group of women with the IPV-HIV-MH syndemic, a prominent shared experience was the history of CSA. The trauma from CSA has been identified as a potential precursor to adult MH challenges, given its long-lasting detrimental effects on psychological well-being [<xref rid="pgph.0002588.ref058" ref-type="bibr">58</xref>&#x2013;<xref rid="pgph.0002588.ref060" ref-type="bibr">60</xref>]. Many of the participants reported symptoms indicative of depression, anxiety, and suicidality, which align with previous findings on the profound impact of CSA on survivors&#x2019; psychosocial development [<xref rid="pgph.0002588.ref058" ref-type="bibr">58</xref>, <xref rid="pgph.0002588.ref061" ref-type="bibr">61</xref>].</p>
+        <p>Furthermore, research indicates that CSA survivors face an elevated risk of sexual revictimization in later life, including within stable relationships [<xref rid="pgph.0002588.ref062" ref-type="bibr">62</xref>]. This revictimization can manifest as various forms of IPV, such as psychological and physical abuse [<xref rid="pgph.0002588.ref059" ref-type="bibr">59</xref>]. The latter indicates a cyclical pattern where early trauma can lead to MH challenges which in turn increase vulnerability to IPV [<xref rid="pgph.0002588.ref054" ref-type="bibr">54</xref>].</p>
+        <p>Regarding the HIV component, while none of the participants directly linked their HIV diagnosis to violence, some believed that their acquisition resulted from their abusive partners&#x2019; extramarital affairs. This perspective underscores the intersectionality of these epidemics: the compounded vulnerabilities from CSA and MH challenges potentially leading to relationships characterised by IPV, and within these relationships, an increased risk of contracting HIV.</p>
+        <p>It must be noted, however, that these relationships are not strictly linear but bidirectional. For instance, while CSA can predispose individuals to MH challenges [<xref rid="pgph.0002588.ref061" ref-type="bibr">61</xref>], which might then lead to violent relationships and an elevated HIV risk [<xref rid="pgph.0002588.ref012" ref-type="bibr">12</xref>, <xref rid="pgph.0002588.ref059" ref-type="bibr">59</xref>], the reverse can also hold true. MH challenges might manifest first, making the child more susceptible to CSA. Similarly, an HIV diagnosis might precipitate or exacerbate violence in relationships [<xref rid="pgph.0002588.ref012" ref-type="bibr">12</xref>]. Recognizing this intricate web of bidirectional influences underscores the need for a nuanced and multifaceted approach to understanding and addressing the overlapping epidemics faced by these women.</p>
+      </sec>
+    </sec>
+    <sec id="sec027">
+      <title>Coping strategies</title>
+      <p>According to Lazarus and Folkman (1984) two primary coping modalities can exist: problem-focused and emotion-focused coping [<xref rid="pgph.0002588.ref063" ref-type="bibr">63</xref>]. The former encompasses efforts to alter the environment or the problem itself, while the latter aims to alleviate emotional distress [<xref rid="pgph.0002588.ref063" ref-type="bibr">63</xref>]. Most of our participants leaned towards emotion-focused coping strategies. The coping strategies used by women living with different combinations of the IPV, HIV and MH syndemic revealed several patterns and similarities. Acceptance emerged as a cross-cutting coping strategy observed across all combinations. Participants in the HIV-MH group expressed religion and belief in God as important in coping with challenges. Additionally, substance use was commonly mentioned in combinations involving IPV. Furthermore, the reliance of social support to cope was found in the groups who did not experience IPV. Research focusing on coping strategies among women dealing with IPV revealed that victims found their families, friends, and neighbours to be supportive and reliable resources for assistance [<xref rid="pgph.0002588.ref025" ref-type="bibr">25</xref>]. Our study, however, did not find that participants experiencing IPV relied on family and social support structures as a way of coping, in such situations. Some theories have posited that the reason for this could be that often in IPV situations the perpetrator is likely to isolate their partner from their friends and family [<xref rid="pgph.0002588.ref064" ref-type="bibr">64</xref>].</p>
+      <p>The notion of acceptance although cross-cutting across the groups, its manifestation differed based on the unique combination of adversities each participant faced. When considering HIV and acceptance, our findings resonate with prior research in the field. For example, a study by Sreelekshmi (2015) involving 150 HIV-positive individuals highlighted the prevalent use of emotion-focused coping techniques [<xref rid="pgph.0002588.ref023" ref-type="bibr">23</xref>]. A significant 65.7% of participants identified acceptance as their primary coping approach. However, for some participants who had experienced IPV, the acceptance conveyed often leaned towards resignation. This type of acceptance was deeply entrenched in feelings of desolation and helplessness. Moreover, in the literature, acceptance in the face of IPV has also been characterised as a form of denial or avoidance which is often linked to PTSD symptomology [<xref rid="pgph.0002588.ref065" ref-type="bibr">65</xref>&#x2013;<xref rid="pgph.0002588.ref067" ref-type="bibr">67</xref>]. On the other hand, there were some participants that seemed to have accepted and normalized the violence. In relation to the latter, research has also found that in some contexts young women may perceive violent men as more desirable partners and as being real men, in such situations, IPV is not only normalized but is also seen as a necessary component in romantic relationship [<xref rid="pgph.0002588.ref068" ref-type="bibr">68</xref>, <xref rid="pgph.0002588.ref069" ref-type="bibr">69</xref>].</p>
+      <p>As mentioned, substance misuse, especially in the context of IPV was a recurrent theme amongst participants. This observation is echoed by Mehr et al. (2023), who define substance misuse as the consumption of substances in high quantities or inappropriate contexts [<xref rid="pgph.0002588.ref070" ref-type="bibr">70</xref>]. Their research highlights that those subjected to IPV frequently resort to substance misuse as a way to manage the emotional and physical trauma they endure and as a form of self-medication. Our findings are in line with this, particularly among women who had experienced the combinations including IPV. Our findings add and expand to the literature on coping strategies among women living with the different combinations of HIV, IPV and MH epidemics, as we not only identified which strategies were more prevalent but also how their manifestations differed based on the unique combinations of epidemics each woman faced.</p>
+      <p>Understanding how women cope with these often-co-occurring epidemics is imperative as it provides an opportunity to better inform clinical practice, as well as contribute to the development of comprehensive, evidence-based strategies for prevention, support, and treatment. Furthermore, our findings also highlight the significance of considering the impact at the community and interpersonal levels in IPV research. They also affirm the perspective that IPV should be treated as a communal issue rather than an individual problem.</p>
+    </sec>
+    <sec id="sec028">
+      <title>Limitations</title>
+      <p>Although the current study provides valuable insights, it is not without its shortcomings and limitations. The first limitation is related to translation of the interviews. Some researchers argue that translation during the research process has the potential to introduce a level of bias as translation involves some subjective interpretation [<xref rid="pgph.0002588.ref071" ref-type="bibr">71</xref>]. It includes cultural interpretation and an understanding of the context, and herein is where the bias is often introduced [<xref rid="pgph.0002588.ref072" ref-type="bibr">72</xref>]. It is thus critical to incorporate ethical translation practices in research to limit such biases. These include using translators who are not only proficient in the language but are also familiar with the context and the environment [<xref rid="pgph.0002588.ref073" ref-type="bibr">73</xref>]. For the current research, interviews were conducted in Siswati and Xitsonga and subsequently transcribed and translated into English. Though this posed a potential limitation as some nuances may have been lost in translation, efforts were made to ensure accuracy and preserve the essence of the participants&#x2019; responses. The measures included, having transcribers who were fluent in the language the interview was conducted in as well as English. Secondly the interviewers were also familiar with the community, with two of the interviewers having worked in the area for over a decade on various other research projects. Finally, in cases where there was no direct translation for a particular word or phrase, an explanation in English was provided in brackets.</p>
+      <p>Another limitation concerns the method used for categorizing participants into different epidemic combinations. While this approach initially provided a structured framework for analysis, it might have introduced some degree of arbitrariness, where in some cases some participants may not have met the criteria of the questionnaire leading them to not being categorized as experiencing a particular MH challenge. However, to refine this categorization, we re-categorized the groups, based on the information gathered from the qualitative interviews. For example, participants not initially flagged for MH challenges in the questionnaire but who later revealed symptoms indicative of such during the interviews were re-categorized accordingly. This additional layer of categorization aimed to capture more accurately the complexities of each participant&#x2019;s experiences.</p>
+      <p>Although there is much debate about what constitutes as sensitive research, according to Lee and Renzetti, any topic can be deemed as sensitive, however there are some topics that are likely to cause more distress in individuals than others such as HIV/AIDS, MH issues, death and bereavement [<xref rid="pgph.0002588.ref074" ref-type="bibr">74</xref>, <xref rid="pgph.0002588.ref075" ref-type="bibr">75</xref>]. Research on personal experiences of violence and childhood trauma can be classified as sensitive [<xref rid="pgph.0002588.ref076" ref-type="bibr">76</xref>]. The sensitive nature of the topics discussed in the interviews may have influenced the participant&#x2019;s willingness to fully share and be open, thus leading to potential underreporting due to discomfort or fear of stigma. To address this, interviewers assured participants of the confidentiality of their responses, and assurance that they would receive help if they felt distressed during the interview. Ensuring participants anonymity and confidentiality increased the likelihood of participants providing more truthful and genuine responses [<xref rid="pgph.0002588.ref077" ref-type="bibr">77</xref>].</p>
+      <p>Reflexivity in qualitative research is imperative, this involves the ongoing, cooperative and multifaceted activities where researchers actively critique and assess the ways in which their personal perspectives and backgrounds can potentially affect the research [<xref rid="pgph.0002588.ref078" ref-type="bibr">78</xref>]. We acknowledge that our personal beliefs, cultural understanding, and personal experiences may have shaped our interpretation as well as the presentation of the participants&#x2019; stories and as a result potentially introducing subjective biases. As an attempt to mitigate this, the research team had regular debriefing sessions throughout the study, where we discussed and challenged each other&#x2019;s viewpoints, which helped in ensuring a more balanced perspective on the data. Furthermore, the interviewers also kept detailed field notes after the interviews which were reflective accounts of the interviews including the interviewer thoughts and reactions to the interview.</p>
+      <p>Furthermore, the potential for response bias due to the interview-led nature of the interviews was another limitation. However, to mitigate this, experienced qualitative interviewers were used and trained to maintain neutrality and foster a non-judgmental and supportive environment.</p>
+      <p>Finally, while the study&#x2019;s focus on the South African peri-urban and rural context provides in-depth and context specific insights especially due to the limited data in such settings, this also implies that the findings may not be directly transferable to other settings. The experience of women in this specific context are shaped by unique socio-cultural, economic, and environmental factors which may differ significantly from those in other provinces or countries.</p>
+      <p>Despite the limitations outlined, the study holds substantial value, particularly in understanding the experiences of women in South African peri-urban and rural contexts. It also lays a foundation for further research, suggesting the need for more studies with diverse samples to broaden the understanding of these complex experiences in varied settings.</p>
+    </sec>
+    <sec id="sec029">
+      <title>Implications of the research and next steps</title>
+      <p>The findings of the current study highlight the importance of addressing the interconnected epidemics of HIV, IPV and MH in a comprehensive and integrated manner. A key implication is the need for holistic care approaches that are geared towards tackling these interlinked epidemics rather than treating them in isolation. A holistic approach has the potential to improve prevention and response strategies, ultimately contributing to beneficial outcomes in public health [<xref rid="pgph.0002588.ref079" ref-type="bibr">79</xref>]. A good example of this is the SHARE multicomponent intervention in Uganda which has effectively managed to reduce HIV incidence and IPV in women [<xref rid="pgph.0002588.ref080" ref-type="bibr">80</xref>].</p>
+      <p>Furthermore, taking into consideration the diversity in coping strategies observed in the participants, there is a need to support positive coping strategies while providing targeted interventions for harmful coping strategies such as substance misuse among women living with the syndemic. An example is the coping strategies intervention implemented at the ART clinic of the All-India Institute of Medical Science in New Delhi. The intervention aimed to enhance positive coping mechanisms and quality of life among people living with HIV through informational support, adaptive coping strategies, social support, and positive living [<xref rid="pgph.0002588.ref081" ref-type="bibr">81</xref>].</p>
+      <p>Furthermore, our study highlights the importance of considering the unique contexts and backgrounds of individuals when designing and implementing public health interventions. In particular, the role of cultural and socio-economic factors in shaping the experiences of HIV, IPV and MH epidemics requires context-specific strategies.</p>
+      <p>Moreover, the high prevalence of MH challenges identified in the current sample highlights a need for enhancement of MH care especially in peri-urban and rural areas, where MH services are close to non-existent [<xref rid="pgph.0002588.ref070" ref-type="bibr">70</xref>]. Strengthening MH services in these areas would serve as a critical aspect in addressing the syndemic effectively. Research highlights the importance of community-based MH interventions as pivotal especially in low-resource communities. For instance, Malawi has integrated their Health Surveillance Assistants to deliver MH interventions into the community&#x2019;s already existing social and cultural structures [<xref rid="pgph.0002588.ref082" ref-type="bibr">82</xref>]. Similarly, in South Africa there is an ongoing effort through the Mental Health integration program aimed at enhancing integration of MH services in the primary health care system. However, despite the innovativeness of this program, the effectiveness is significantly hindered by inadequate funding, poor administrative coordination and low MH awareness among officials and the general population. [<xref rid="pgph.0002588.ref083" ref-type="bibr">83</xref>].</p>
+      <p>Future research should focus on the development of interventions that can address the co-occurrence and the multi-faceted nature of these epidemics. This includes the exploration of the efficacy of integrated care models and the potential of Mobile-health solutions in increasing accessibility to MH and support services, especially in resource limited settings. There is also a need for more qualitative research on the IPV, MH and HIV syndemic. Whilst there is an abundance of quantitative research in this area [<xref rid="pgph.0002588.ref084" ref-type="bibr">84</xref>&#x2013;<xref rid="pgph.0002588.ref087" ref-type="bibr">87</xref>], qualitative research is critical in providing a deeper and more nuanced understanding of the syndemic.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec030">
+      <title>Conclusion</title>
+      <p>Our study highlights the intricate hardships faced by women navigating combinations of HIV, IPV, and MH epidemics and how the combination of epidemics worsens each of these. MH challenges were a consistent factor, whether associated with HIV, or IPV. A deeper understanding into these women&#x2019;s multifaceted experiences is vital for developing targeted strategies that address their specific needs, thus enhancing their overall quality of life.</p>
+    </sec>
+    <sec id="sec031" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pgph.0002588.s001" position="float" content-type="local-data">
+        <label>S1 Table</label>
+        <caption>
+          <title>Referral flags and categories.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pgph.0002588.s001.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pgph.0002588.s002" position="float" content-type="local-data">
+        <label>S1 Text</label>
+        <caption>
+          <title>Interview guide.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pgph.0002588.s002.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pgph.0002588.s003" position="float" content-type="local-data">
+        <label>S2 Text</label>
+        <caption>
+          <title>Art-based method prompts.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pgph.0002588.s003.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pgph.0002588.s004" position="float" content-type="local-data">
+        <label>S1 Checklist</label>
+        <caption>
+          <title>STROBE statement&#x2014;Checklist of items that should be included in reports of observational studies.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pgph.0002588.s004.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pgph.0002588.s005" position="float" content-type="local-data">
+        <label>S2 Checklist</label>
+        <caption>
+          <title>Inclusivity in global research.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pgph.0002588.s005.docx"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="pgph.0002588.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Brandt</surname><given-names>R</given-names></name>. <article-title>The mental health of people living with HIV/AIDS in Africa: a systematic review</article-title>. <source>African Journal of AIDS Research</source>. <year>2009</year>
+<month>Jun</month>;<volume>8</volume>(<issue>2</issue>):<fpage>123</fpage>&#x2013;<lpage>33</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.2989/AJAR.2009.8.2.1.853</pub-id>
+<pub-id pub-id-type="pmid">25875564</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Remien</surname><given-names>RH</given-names></name>, <name><surname>Stirratt</surname><given-names>MJ</given-names></name>, <name><surname>Nguyen</surname><given-names>N</given-names></name>, <name><surname>Robbins</surname><given-names>RN</given-names></name>, <name><surname>Pala</surname><given-names>AN</given-names></name>, <name><surname>Mellins</surname><given-names>CA</given-names></name>. <article-title>Mental health and HIV/AIDS: the need for an integrated response</article-title>. <source>AIDS</source>. <year>2019</year>
+<month>Jul</month>
+<day>15</day>;<volume>33</volume>(<issue>9</issue>):<fpage>1411</fpage>&#x2013;<lpage>20</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1097/QAD.0000000000002227</pub-id>
+<pub-id pub-id-type="pmid">30950883</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Oram</surname><given-names>S</given-names></name>, <name><surname>Fisher</surname><given-names>HL</given-names></name>, <name><surname>Minnis</surname><given-names>H</given-names></name>, <name><surname>Seedat</surname><given-names>S</given-names></name>, <name><surname>Walby</surname><given-names>S</given-names></name>, <name><surname>Hegarty</surname><given-names>K</given-names></name>, <etal>et al</etal>. <article-title>The Lancet Psychiatry Commission on intimate partner violence and mental health: advancing mental health services, research, and policy</article-title>. <source>The Lancet Psychiatry</source>. <year>2022</year>
+<month>Jun</month>;<volume>9</volume>(<issue>6</issue>):<fpage>487</fpage>&#x2013;<lpage>524</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2215-0366(22)00008-6</pub-id>
+<pub-id pub-id-type="pmid">35569504</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Noble</surname><given-names>RE</given-names></name>. <article-title>Depression in women</article-title>. <source>Metabolism</source>. <year>2005</year>
+<month>May</month>;<volume>54</volume>(<issue>5</issue>):<fpage>49</fpage>&#x2013;<lpage>52</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.metabol.2005.01.014</pub-id>
+<pub-id pub-id-type="pmid">15877314</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>McLean</surname><given-names>CP</given-names></name>, <name><surname>Anderson</surname><given-names>ER</given-names></name>. <article-title>Brave men and timid women? A review of the gender differences in fear and anxiety</article-title>. <source>Clinical Psychology Review</source>. <year>2009</year>
+<month>Aug</month>;<volume>29</volume>(<issue>6</issue>):<fpage>496</fpage>&#x2013;<lpage>505</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.cpr.2009.05.003</pub-id>
+<pub-id pub-id-type="pmid">19541399</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Breslau</surname><given-names>N</given-names></name>, <name><surname>Anthony</surname><given-names>JC</given-names></name>. <article-title>Gender differences in the sensitivity to posttraumatic stress disorder: An epidemiological study of urban young adults</article-title>. <source>Journal of Abnormal Psychology</source>. <year>2007</year>
+<month>Aug</month>;<volume>116</volume>(<issue>3</issue>):<fpage>607</fpage>&#x2013;<lpage>11</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1037/0021-843X.116.3.607</pub-id>
+<pub-id pub-id-type="pmid">17696716</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Breslau</surname><given-names>N.</given-names></name>
+<article-title>Sex Differences in Posttraumatic Stress Disorder</article-title>. <source>Arch Gen Psychiatry</source>. <year>1997</year>
+<month>Nov</month>
+<day>1</day>;<volume>54</volume>(<issue>11</issue>):<fpage>1044</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1001/archpsyc.1997.01830230082012</pub-id>
+<pub-id pub-id-type="pmid">9366662</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Orza</surname><given-names>L</given-names></name>, <name><surname>Bewley</surname><given-names>S</given-names></name>, <name><surname>Logie</surname><given-names>CH</given-names></name>, <name><surname>Crone</surname><given-names>ET</given-names></name>, <name><surname>Moroz</surname><given-names>S</given-names></name>, <name><surname>Strachan</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>How does living with HIV impact on women&#x2019;s mental health? Voices from a global survey</article-title>. <source>J Int AIDS Soc</source>. <year>2015</year>;<volume>18</volume>(<issue>Suppl 5</issue>):<fpage>20289</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.7448/IAS.18.6.20289</pub-id>
+<pub-id pub-id-type="pmid">26643460</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Devries</surname><given-names>KM</given-names></name>, <name><surname>Mak</surname><given-names>JY</given-names></name>, <name><surname>Bacchus</surname><given-names>LJ</given-names></name>, <name><surname>Child</surname><given-names>JC</given-names></name>, <name><surname>Falder</surname><given-names>G</given-names></name>, <name><surname>Petzold</surname><given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Intimate Partner Violence and Incident Depressive Symptoms and Suicide Attempts: A Systematic Review of Longitudinal Studies</article-title>. <name><surname>Tsai</surname><given-names>AC</given-names></name>, editor. <source>PLoS Med</source>. <year>2013</year>
+<month>May</month>
+<day>7</day>;<volume>10</volume>(<issue>5</issue>):<fpage>e1001439</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pmed.1001439</pub-id>
+<pub-id pub-id-type="pmid">23671407</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Seedat</surname><given-names>S</given-names></name>. <article-title>Interventions to Improve Psychological Functioning and Health Outcomes of HIV-Infected Individuals with a History of Trauma or PTSD</article-title>. <source>Curr HIV/AIDS Rep</source>. <year>2012</year>
+<month>Dec</month>;<volume>9</volume>(<issue>4</issue>):<fpage>344</fpage>&#x2013;<lpage>50</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s11904-012-0139-3</pub-id>
+<pub-id pub-id-type="pmid">23007792</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Woollett</surname><given-names>N</given-names></name>, <name><surname>Hatcher</surname><given-names>AM</given-names></name>. <article-title>Mental health, intimate partner violence and HIV</article-title>. <source>S Afr Med J</source>. <year>2016</year>
+<month>Sep</month>
+<day>10</day>;<volume>106</volume>(<issue>10</issue>):<fpage>969</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Sulivan</surname><given-names>TP</given-names></name>. <article-title>The Intersection of Intimate Partner Violence and HIV: Detection, Disclosure, Discussion, and Implications for Treatment Adherence</article-title>. <source>Topics in Antiviral Medicine</source>. <year>2019</year>
+<month>May</month>;<volume>27</volume>(<issue>2</issue>):<fpage>84</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="pmid">31136996</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>Singer</surname><given-names>M</given-names></name>. <article-title>A dose of drugs, a touch of violence, a case of AIDS: Conceptualizing the SAVA syndemic</article-title>. <source>Free Inquiry&#x2014;Special issue: Gangs, Drugs and Violence</source>. <year>1996</year>;<volume>24</volume>(<issue>2</issue>).</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="other">World Health Organization. Epidemiological Fact Sheet: HIV Statistics, globally and by WHO region, 2023. 2023.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="book"><collab>UNAIDS</collab>. <source>Epidemiological Estimates</source>. <publisher-name>UNAIDS</publisher-name>; <year>2023</year>. <ext-link xlink:href="http://unaids.org/sites/default/files/media_asset/data-book-2023_en.pdf" ext-link-type="uri">unaids.org/sites/default/files/media_asset/data-book-2023_en.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Norman</surname><given-names>R</given-names></name>, <name><surname>Schneider</surname><given-names>M</given-names></name>, <name><surname>Bradshaw</surname><given-names>D</given-names></name>, <name><surname>Jewkes</surname><given-names>R</given-names></name>, <name><surname>Abrahams</surname><given-names>N</given-names></name>, <name><surname>Matzopoulos</surname><given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Interpersonal violence: an important risk factor for disease and injury in South Africa</article-title>. <source>Popul Health Metrics</source>. <year>2010</year>
+<month>Dec</month>;<volume>8</volume>(<issue>1</issue>):<fpage>32</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/1478-7954-8-32</pub-id>
+<pub-id pub-id-type="pmid">21118578</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="other">World Health Organization. Mental health [Internet]. 2023. <ext-link xlink:href="https://www.who.int/health-topics/mental-health#tab=tab_2" ext-link-type="uri">https://www.who.int/health-topics/mental-health#tab=tab_2</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Krause</surname><given-names>ED</given-names></name>, <name><surname>Kaltman</surname><given-names>S</given-names></name>, <name><surname>Goodman</surname><given-names>LA</given-names></name>, <name><surname>Dutton</surname><given-names>MA</given-names></name>. <article-title>Avoidant coping and PTSD symptoms related to domestic violence exposure: A longitudinal study</article-title>. <source>Journal of Traumatic Stress</source>. <year>2008</year>
+<month>Feb</month>;<volume>21</volume>(<issue>1</issue>):<fpage>83</fpage>&#x2013;<lpage>90</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/jts.20288</pub-id>
+<pub-id pub-id-type="pmid">18302182</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Goodman</surname><given-names>L</given-names></name>, <name><surname>Dutton</surname><given-names>MA</given-names></name>, <name><surname>Weinfurt</surname><given-names>K</given-names></name>, <name><surname>Cook</surname><given-names>S</given-names></name>. <article-title>The Intimate Partner Violence Strategies Index: Development and Application</article-title>. <source>Violence Against Women</source>. <year>2003</year>
+<month>Feb</month>;<volume>9</volume>(<issue>2</issue>):<fpage>163</fpage>&#x2013;<lpage>86</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Brand&#xE3;o</surname><given-names>BMGDM</given-names></name>, <name><surname>Angelim</surname><given-names>RCDM</given-names></name>, <name><surname>Marques</surname><given-names>SC</given-names></name>, <name><surname>Oliveira</surname><given-names>RCD</given-names></name>, <name><surname>Abr&#xE3;o</surname><given-names>FMDS</given-names></name>. <article-title>Living with HIV: coping strategies of seropositive older adults</article-title>. <source>Rev esc enferm USP</source>. <year>2020</year>;<volume>54</volume>:<fpage>e03576</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1590/s1980-220x2018027603576</pub-id>
+<pub-id pub-id-type="pmid">32667387</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Burgess</surname><given-names>R</given-names></name>, <name><surname>Campbell</surname><given-names>C</given-names></name>. <article-title>Contextualising women&#x2019;s mental distress and coping strategies in the time of AIDS: A rural South African case study</article-title>. <source>Transcult Psychiatry</source>. <year>2014</year>
+<month>Dec</month>;<volume>51</volume>(<issue>6</issue>):<fpage>875</fpage>&#x2013;<lpage>903</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/1363461514526925</pub-id>
+<pub-id pub-id-type="pmid">24670517</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Medley</surname><given-names>AM</given-names></name>, <name><surname>Kennedy</surname><given-names>CE</given-names></name>, <name><surname>Lunyolo</surname><given-names>S</given-names></name>, <name><surname>Sweat</surname><given-names>MD</given-names></name>. <article-title>Disclosure Outcomes, Coping Strategies, and Life Changes Among Women Living With HIV in Uganda</article-title>. <source>Qual Health Res</source>. <year>2009</year>
+<month>Dec</month>;<volume>19</volume>(<issue>12</issue>):<fpage>1744</fpage>&#x2013;<lpage>54</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/1049732309353417</pub-id>
+<pub-id pub-id-type="pmid">19949223</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Sreelekshmi</surname><given-names>R</given-names></name>. <article-title>Anxiety and coping mechanisms among HIV positive patients</article-title>. <source>Manipal Journal of Nursing and Health Sciences</source>. <year>2015</year>
+<month>Jul</month>;<volume>1</volume>(<issue>2</issue>):<fpage>6</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Rizo</surname><given-names>CF</given-names></name>, <name><surname>Givens</surname><given-names>A</given-names></name>, <name><surname>Lombardi</surname><given-names>B</given-names></name>. <article-title>A systematic review of coping among heterosexual female IPV survivors in the United States with a focus on the conceptualization and measurement of coping</article-title>. <source>Aggression and Violent Behavior</source>. <year>2017</year>
+<month>May</month>;<volume>34</volume>:<fpage>35</fpage>&#x2013;<lpage>50</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Sere</surname><given-names>Y</given-names></name>, <name><surname>Roman</surname><given-names>NV</given-names></name>, <name><surname>Ruiter</surname><given-names>RAC</given-names></name>. <article-title>Coping With the Experiences of Intimate Partner Violence Among South African Women: Systematic Review and Meta-Synthesis</article-title>. <source>Front Psychiatry</source>. <year>2021</year>;<volume>12</volume>:<fpage>655130</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fpsyt.2021.655130</pub-id>
+<pub-id pub-id-type="pmid">34122178</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Bleakley</surname><given-names>A</given-names></name>. <article-title>Stories as data, data as stories: making sense of narrative inquiry in clinical education: original article</article-title>. <source>Medical Education</source>. <year>2005</year>
+<month>May</month>;<volume>39</volume>(<issue>5</issue>):<fpage>534</fpage>&#x2013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">15842721</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="book"><name><surname>Lieblich</surname><given-names>A</given-names></name>, <name><surname>Tuval-Mashiach</surname><given-names>R</given-names></name>, <name><surname>Zilber</surname><given-names>T</given-names></name>. <source>Narrative research: reading, analysis and interpretation</source>. <publisher-loc>Thousand Oaks, Calif</publisher-loc>: <publisher-name>Sage Publications</publisher-name>; <year>1998</year>. <fpage>185</fpage> p. (Applied social research methods series).</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Hoshmand</surname><given-names>LT</given-names></name>. <article-title>Narratology, cultural psychology, and counseling research</article-title>. <source>Journal of Counseling Psychology</source>. <year>2005</year>
+<month>Apr</month>;<volume>52</volume>(<issue>2</issue>):<fpage>178</fpage>&#x2013;<lpage>86</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="book"><name><surname>Simbayi</surname><given-names>LC</given-names></name>, <name><surname>Zuma</surname><given-names>K</given-names></name>, <name><surname>Zungu</surname><given-names>N</given-names></name>, <name><surname>Moyo</surname><given-names>S</given-names></name>, <name><surname>Marinda</surname><given-names>E</given-names></name>, <name><surname>Jooste</surname><given-names>S</given-names></name>, <etal>et al</etal>. <source>South African National HIV Prevalence, Incidence, Behavior and Communication Survey, 2017</source>. <publisher-loc>Cape Town</publisher-loc>: <publisher-name>HSRC Press</publisher-name>; <year>2017</year>. <ext-link xlink:href="http://hsrc.ac.za/uploads/pageContent/10779/SABSSM%20V.pdf" ext-link-type="uri">hsrc.ac.za/uploads/pageContent/10779/SABSSM%20V.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="other">South African High Commission (Ottawa). South Africa&#x2019;s Nine Provinces [Internet]. South Africa&#x2019;s Nine Provinces. 2019 [cited 2023 Aug 7]. <ext-link xlink:href="http://www.southafrica-canada.ca/south-africas-nine-provinces/#:~:text=Mpumalanga%3A,%25%29%20and%20isiNdebele%20%2810%25%29" ext-link-type="uri">http://www.southafrica-canada.ca/south-africas-nine-provinces/#:~:text=Mpumalanga%3A,%25)%20and%20isiNdebele%20(10%25)</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><name><surname>G&#xF3;mez-Oliv&#xE9;</surname><given-names>FX</given-names></name>, <name><surname>Angotti</surname><given-names>N</given-names></name>, <name><surname>Houle</surname><given-names>B</given-names></name>, <name><surname>Klipstein-Grobusch</surname><given-names>K</given-names></name>, <name><surname>Kabudula</surname><given-names>C</given-names></name>, <name><surname>Menken</surname><given-names>J</given-names></name>, <etal>et al</etal>. <article-title>Prevalence of HIV among those 15 and older in rural South Africa</article-title>. <source>AIDS Care</source>. <year>2013</year>
+<month>Sep</month>;<volume>25</volume>(<issue>9</issue>):<fpage>1122</fpage>&#x2013;<lpage>8</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/09540121.2012.750710</pub-id>
+<pub-id pub-id-type="pmid">23311396</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="book"><name><surname>Seabi</surname><given-names>A Tshidi</given-names></name>. <source>Marriage, Cohabitation and Domestic Violence in Mpumalanga</source>. <publisher-name>University of Pretoria</publisher-name>; <year>2009</year>. <ext-link xlink:href="http://repository.up.ac.za/bitstream/handle/2263/27841/dissertation.pdf?sequence=1%26isAllowed=y" ext-link-type="uri">repository.up.ac.za/bitstream/handle/2263/27841/dissertation.pdf?sequence=1&amp;isAllowed=y</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><name><surname>Herman</surname><given-names>AA</given-names></name>, <name><surname>Stein</surname><given-names>DJ</given-names></name>, <name><surname>Seedat</surname><given-names>S</given-names></name>, <name><surname>Heeringa</surname><given-names>SG</given-names></name>, <name><surname>Moomal</surname><given-names>H</given-names></name>, <name><surname>Williams</surname><given-names>DR</given-names></name>. <article-title>The South African Stress and Health (SASH) study: 12-month and lifetime prevalence of common mental disorders</article-title>. <source>S Afr Med J</source>. <year>2009</year>
+<month>May</month>;<volume>99</volume>(<issue>5 Pt 2</issue>):<fpage>339</fpage>&#x2013;<lpage>44</lpage>. <pub-id pub-id-type="pmid">19588796</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><name><surname>Meinck</surname><given-names>F</given-names></name>, <name><surname>Woollett</surname><given-names>N</given-names></name>, <name><surname>Franchino-Olsen</surname><given-names>H</given-names></name>, <name><surname>Silima</surname><given-names>M</given-names></name>, <name><surname>Thurston</surname><given-names>C</given-names></name>, <name><surname>Fouch&#xE9;</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Interrupting the intergenerational cycle of violence: protocol for a three-generational longitudinal mixed-methods study in South Africa (INTERRUPT_VIOLENCE)</article-title>. <source>BMC Public Health</source>. <year>2023</year>
+<month>Feb</month>
+<day>27</day>;<volume>23</volume>(<issue>1</issue>):<fpage>395</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12889-023-15168-y</pub-id>
+<pub-id pub-id-type="pmid">36849941</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><name><surname>Horowitz</surname><given-names>LM</given-names></name>, <name><surname>Bridge</surname><given-names>JA</given-names></name>, <name><surname>Teach</surname><given-names>SJ</given-names></name>, <name><surname>Ballard</surname><given-names>E</given-names></name>, <name><surname>Klima</surname><given-names>J</given-names></name>, <name><surname>Rosenstein</surname><given-names>DL</given-names></name>, <etal>et al</etal>. <article-title>Ask Suicide-Screening Questions (ASQ): A Brief Instrument for the Pediatric Emergency Department</article-title>. <source>Arch Pediatr Adolesc Med</source>. <year>2012</year>
+<month>Dec</month>
+<day>1</day>;<volume>166</volume>(<issue>12</issue>):<fpage>1170</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1001/archpediatrics.2012.1276</pub-id>
+<pub-id pub-id-type="pmid">23027429</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>L&#xF6;we</surname><given-names>B</given-names></name>, <name><surname>Decker</surname><given-names>O</given-names></name>, <name><surname>M&#xFC;ller</surname><given-names>S</given-names></name>, <name><surname>Br&#xE4;hler</surname><given-names>E</given-names></name>, <name><surname>Schellberg</surname><given-names>D</given-names></name>, <name><surname>Herzog</surname><given-names>W</given-names></name>, <etal>et al</etal>. <article-title>Validation and Standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the General Population</article-title>. <source>Medical Care</source>. <year>2008</year>
+<month>Mar</month>;<volume>46</volume>(<issue>3</issue>):<fpage>266</fpage>&#x2013;<lpage>74</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1097/MLR.0b013e318160d093</pub-id>
+<pub-id pub-id-type="pmid">18388841</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><name><surname>Adewuya</surname><given-names>AO</given-names></name>, <name><surname>Ola</surname><given-names>BA</given-names></name>, <name><surname>Afolabi</surname><given-names>OO</given-names></name>. <article-title>Validity of the patient health questionnaire (PHQ-9) as a screening tool for depression amongst Nigerian university students</article-title>. <source>Journal of Affective Disorders</source>. <year>2006</year>
+<month>Nov</month>;<volume>96</volume>(<issue>1&#x2013;2</issue>):<fpage>89</fpage>&#x2013;<lpage>93</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.jad.2006.05.021</pub-id>
+<pub-id pub-id-type="pmid">16857265</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><name><surname>Hansen</surname><given-names>M</given-names></name>, <name><surname>Andersen</surname><given-names>TE</given-names></name>, <name><surname>Armour</surname><given-names>C</given-names></name>, <name><surname>Elklit</surname><given-names>A</given-names></name>, <name><surname>Palic</surname><given-names>S</given-names></name>, <name><surname>Mackrill</surname><given-names>T</given-names></name>. <article-title>PTSD-8: A Short PTSD Inventory</article-title>. <source>CPEMH</source>. <year>2010</year>
+<month>Sep</month>
+<day>28</day>;<volume>6</volume>(<issue>1</issue>):<fpage>101</fpage>&#x2013;<lpage>8</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="book"><name><surname>Garcia-Moreno</surname><given-names>C</given-names></name>, <name><surname>Ellsberg</surname><given-names>M</given-names></name>, <name><surname>Heise</surname><given-names>L</given-names></name>. <source>WHO multi-country study study on women&#x2019;s health and domestic violence against women: summary report: initial results on prevalence, health outcomes and women&#x2019;s responses</source>. <publisher-loc>Geneva, Switzerland</publisher-loc>: <publisher-name>World Health Organization</publisher-name>; <year>2005</year>. <ext-link xlink:href="https://www.who.int/publications/i/item/924159358X" ext-link-type="uri">https://www.who.int/publications/i/item/924159358X</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="book"><name><surname>Burns</surname><given-names>RC</given-names></name>, <name><surname>Kaufman</surname><given-names>SH</given-names></name>. <source>Action, Styles, And Symbols In Kinetic Family Drawings Kfd</source> [Internet]. <publisher-name>Routledge</publisher-name>; <year>2013</year>
+<month>May</month> [cited 2023 May 17]. <ext-link xlink:href="https://www.taylorfrancis.com/books/9781135064211" ext-link-type="uri">https://www.taylorfrancis.com/books/9781135064211</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><name><surname>Denov</surname><given-names>M</given-names></name>, <name><surname>Shevell</surname><given-names>MC</given-names></name>. <article-title>An arts-based approach with youth born of genocidal rape in Rwanda: The river of life as an autobiographical mapping tool</article-title>. <source>Global Studies of Childhood</source>. <year>2021</year>
+<month>Mar</month>;<volume>11</volume>(<issue>1</issue>):<fpage>21</fpage>&#x2013;<lpage>39</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/2043610621995830</pub-id>
+<pub-id pub-id-type="pmid">33868636</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="book"><name><surname>Mannay</surname><given-names>D</given-names></name>. <source>Visual, narrative and creative research methods: application, reflection and ethics</source>. <edition designator="1">1 Edition</edition>. <publisher-loc>London</publisher-loc>: <publisher-name>Routledge, Taylor &amp; Francis Group</publisher-name>; <year>2016</year>. <fpage>152</fpage> p.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Ebers&#xF6;hn</surname><given-names>L</given-names></name>, <name><surname>Eloff</surname><given-names>I</given-names></name>, <name><surname>Finestone</surname><given-names>M</given-names></name>, <collab>Department of Educational Psychology, University of Pretoria, Pretoria, South Africa</collab>, <name><surname>Van Dullemen</surname><given-names>I</given-names></name>, <name><surname>Sikkema</surname><given-names>K</given-names></name>, <etal>et al</etal>. <article-title>Drawing on resilience: piloting the utility of the Kinetic Family Drawing to measure resilience in children of HIV-positive mothers</article-title>. <source>SAJE</source>. <year>2012</year>
+<month>Nov</month>
+<day>7</day>;<volume>32</volume>(<issue>4</issue>):<fpage>331</fpage>&#x2013;<lpage>48</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="book"><name><surname>Weinrib</surname><given-names>EL</given-names></name>. <source>Images of the self: the sandplay therapy process</source>. <edition designator="2">2nd ed</edition>. <publisher-loc>Cloverdale, CA</publisher-loc>: <publisher-name>Temenos Press</publisher-name>; <year>2004</year>. <fpage>234</fpage> p.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="book"><name><surname>Braun</surname><given-names>V</given-names></name>, <name><surname>Clarke</surname><given-names>V</given-names></name>. <source>Thematic analysis: a practical guide</source>. <publisher-loc>London; Thousand Oaks, California</publisher-loc>: <publisher-name>SAGE</publisher-name>; <year>2022</year>. <fpage>338</fpage> p.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref046">
+        <label>46</label>
+        <mixed-citation publication-type="book"><name><surname>Creswell</surname><given-names>JW</given-names></name>, <name><surname>Creswell</surname><given-names>JW</given-names></name>. <source>Qualitative inquiry &amp; research design: choosing among five approaches</source>. <edition designator="2">2nd ed</edition>. <publisher-loc>Thousand Oaks</publisher-loc>: <publisher-name>Sage Publications</publisher-name>; <year>2007</year>. <fpage>395</fpage> p.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref047">
+        <label>47</label>
+        <mixed-citation publication-type="book"><name><surname>Kalff</surname><given-names>DM</given-names></name>. <source>Sandplay: a psychotherapeutic approach to the psyche</source>. <publisher-loc>Santa Monica, CA</publisher-loc>: <publisher-name>Sigo Press</publisher-name>; <year>1980</year>. <fpage>169</fpage> p.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref048">
+        <label>48</label>
+        <mixed-citation publication-type="journal"><name><surname>Lowenfeld</surname><given-names>M</given-names></name>. <article-title>The Nature and use of the Lowenfeld World Technique in Work with Children and Adults</article-title>. <source>The Journal of Psychology</source>. <year>1950</year>
+<month>Oct</month>;<volume>30</volume>(<issue>2</issue>):<fpage>325</fpage>&#x2013;<lpage>31</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref049">
+        <label>49</label>
+        <mixed-citation publication-type="journal"><name><surname>Rochat</surname><given-names>TJ</given-names></name>, <name><surname>Mkwanazi</surname><given-names>N</given-names></name>, <name><surname>Bland</surname><given-names>R</given-names></name>. <article-title>Maternal HIV disclosure to HIV-uninfected children in rural South Africa: a pilot study of a family-based intervention</article-title>. <source>BMC Public Health</source>. <year>2013</year>
+<month>Dec</month>;<volume>13</volume>(<issue>1</issue>):<fpage>147</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/1471-2458-13-147</pub-id>
+<pub-id pub-id-type="pmid">23418933</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref050">
+        <label>50</label>
+        <mixed-citation publication-type="journal"><name><surname>Rodriguez</surname><given-names>VJ</given-names></name>, <name><surname>Mandell</surname><given-names>LN</given-names></name>, <name><surname>Babayigit</surname><given-names>S</given-names></name>, <name><surname>Manohar</surname><given-names>RR</given-names></name>, <name><surname>Weiss</surname><given-names>SM</given-names></name>, <name><surname>Jones</surname><given-names>DL</given-names></name>. <article-title>Correlates of Suicidal Ideation During Pregnancy and Postpartum Among Women Living with HIV in Rural South Africa</article-title>. <source>AIDS Behav</source>. <year>2018</year>
+<month>Oct</month>;<volume>22</volume>(<issue>10</issue>):<fpage>3188</fpage>&#x2013;<lpage>97</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s10461-018-2153-y</pub-id>
+<pub-id pub-id-type="pmid">29752621</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref051">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><name><surname>Zegeye</surname><given-names>A</given-names></name>, <name><surname>Alebel</surname><given-names>A</given-names></name>, <name><surname>Gebrie</surname><given-names>A</given-names></name>, <name><surname>Tesfaye</surname><given-names>B</given-names></name>, <name><surname>Belay</surname><given-names>YA</given-names></name>, <name><surname>Adane</surname><given-names>F</given-names></name>, <etal>et al</etal>. <article-title>Prevalence and determinants of antenatal depression among pregnant women in Ethiopia: a systematic review and meta-analysis</article-title>. <source>BMC Pregnancy Childbirth</source>. <year>2018</year>
+<month>Dec</month>;<volume>18</volume>(<issue>1</issue>):<fpage>462</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12884-018-2101-x</pub-id>
+<pub-id pub-id-type="pmid">30486804</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref052">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><name><surname>Rane</surname><given-names>MS</given-names></name>, <name><surname>Hong</surname><given-names>T</given-names></name>, <name><surname>Govere</surname><given-names>S</given-names></name>, <name><surname>Thulare</surname><given-names>H</given-names></name>, <name><surname>Moosa</surname><given-names>MY</given-names></name>, <name><surname>Celum</surname><given-names>C</given-names></name>, <etal>et al</etal>. <article-title>Depression and Anxiety as Risk Factors for Delayed Care-Seeking Behavior in Human Immunodeficiency Virus&#x2013;Infected Individuals in South Africa</article-title>. <source>Clinical Infectious Diseases</source>. <year>2018</year>
+<month>Oct</month>
+<day>15</day>;<volume>67</volume>(<issue>9</issue>):<fpage>1411</fpage>&#x2013;<lpage>8</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/cid/ciy309</pub-id>
+<pub-id pub-id-type="pmid">29659757</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref053">
+        <label>53</label>
+        <mixed-citation publication-type="journal"><name><surname>Devries</surname><given-names>KM</given-names></name>, <name><surname>Knight</surname><given-names>L</given-names></name>, <name><surname>Child</surname><given-names>JC</given-names></name>, <name><surname>Kyegombe</surname><given-names>N</given-names></name>, <name><surname>Hossain</surname><given-names>M</given-names></name>, <name><surname>Lees</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Witnessing intimate partner violence and child maltreatment in Ugandan children: a cross-sectional survey</article-title>. <source>BMJ Open</source>. <year>2017</year>
+<month>Feb</month>
+<day>28</day>;<volume>7</volume>(<issue>2</issue>):<fpage>e013583</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1136/bmjopen-2016-013583</pub-id>
+<pub-id pub-id-type="pmid">28246136</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref054">
+        <label>54</label>
+        <mixed-citation publication-type="journal"><name><surname>Williams</surname><given-names>DR</given-names></name>, <name><surname>Herman</surname><given-names>A</given-names></name>, <name><surname>Stein</surname><given-names>DJ</given-names></name>, <name><surname>Heeringa</surname><given-names>SG</given-names></name>, <name><surname>Jackson</surname><given-names>PB</given-names></name>, <name><surname>Moomal</surname><given-names>H</given-names></name>, <etal>et al</etal>. <article-title>Twelve-month mental disorders in South Africa: prevalence, service use and demographic correlates in the population-based South African Stress and Health Study</article-title>. <source>Psychol Med</source>. <year>2008</year>
+<month>Feb</month>;<volume>38</volume>(<issue>2</issue>):<fpage>211</fpage>&#x2013;<lpage>20</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1017/S0033291707001420</pub-id>
+<pub-id pub-id-type="pmid">17903333</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref055">
+        <label>55</label>
+        <mixed-citation publication-type="journal"><name><surname>Coker</surname><given-names>AL</given-names></name>. <article-title>Toward Violence Intervention and Prevention: Reflections on &#x201C;Physical and Mental Health Effects of Intimate Partner Violence for Men and Women</article-title>&#x201D;. <source>American Journal of Preventive Medicine</source>. <year>2021</year>
+<month>Dec</month>;<volume>61</volume>(<issue>6</issue>):<fpage>771</fpage>&#x2013;<lpage>3</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.amepre.2021.08.001</pub-id>
+<pub-id pub-id-type="pmid">34801205</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref056">
+        <label>56</label>
+        <mixed-citation publication-type="journal"><name><surname>Ellsberg</surname><given-names>M</given-names></name>, <name><surname>Emmelin</surname><given-names>M</given-names></name>. <article-title>Intimate Partner Violence and Mental Health</article-title>. <source>Global Health Action</source>. <year>2014</year>
+<month>Dec</month>;<volume>7</volume>(<issue>1</issue>):<fpage>25658</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3402/gha.v7.25658</pub-id>
+<pub-id pub-id-type="pmid">25226422</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref057">
+        <label>57</label>
+        <mixed-citation publication-type="journal"><name><surname>Hand</surname><given-names>GA</given-names></name>, <name><surname>Phillips</surname><given-names>KD</given-names></name>, <name><surname>Dudgeon</surname><given-names>WD</given-names></name>. <article-title>Perceived stress in HIV-infected individuals: Physiological and psychological correlates</article-title>. <source>AIDS Care</source>. <year>2006</year>
+<month>Nov</month>;<volume>18</volume>(<issue>8</issue>):<fpage>1011</fpage>&#x2013;<lpage>7</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/09540120600568376</pub-id>
+<pub-id pub-id-type="pmid">17012093</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref058">
+        <label>58</label>
+        <mixed-citation publication-type="journal"><name><surname>Bulik</surname><given-names>CM</given-names></name>, <name><surname>Prescott</surname><given-names>CA</given-names></name>, <name><surname>Kendler</surname><given-names>KS</given-names></name>. <article-title>Features of childhood sexual abuse and the development of psychiatric and substance use disorders</article-title>. <source>Br J Psychiatry</source>. <year>2001</year>
+<month>Nov</month>;<volume>179</volume>(<issue>5</issue>):<fpage>444</fpage>&#x2013;<lpage>9</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1192/bjp.179.5.444</pub-id>
+<pub-id pub-id-type="pmid">11689403</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref059">
+        <label>59</label>
+        <mixed-citation publication-type="journal"><name><surname>Herbert</surname><given-names>A</given-names></name>, <name><surname>Heron</surname><given-names>J</given-names></name>, <name><surname>Barter</surname><given-names>C</given-names></name>, <name><surname>Szilassy</surname><given-names>E</given-names></name>, <name><surname>Barnes</surname><given-names>M</given-names></name>, <name><surname>Howe</surname><given-names>LD</given-names></name>, <etal>et al</etal>. <article-title>Risk factors for intimate partner violence and abuse among adolescents and young adults: findings from a UK population-based cohort</article-title>. <source>Wellcome Open Res</source>. <year>2021</year>
+<month>Jan</month>
+<day>21</day>;<volume>5</volume>:<fpage>176</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.12688/wellcomeopenres.16106.3</pub-id>
+<pub-id pub-id-type="pmid">33553678</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref060">
+        <label>60</label>
+        <mixed-citation publication-type="journal"><name><surname>Scoglio</surname><given-names>AAJ</given-names></name>, <name><surname>Kraus</surname><given-names>SW</given-names></name>, <name><surname>Saczynski</surname><given-names>J</given-names></name>, <name><surname>Jooma</surname><given-names>S</given-names></name>, <name><surname>Molnar</surname><given-names>BE</given-names></name>. <article-title>Systematic Review of Risk and Protective Factors for Revictimization After Child Sexual Abuse</article-title>. <source>Trauma, Violence, &amp; Abuse</source>. <year>2021</year>
+<month>Jan</month>;<volume>22</volume>(<issue>1</issue>):<fpage>41</fpage>&#x2013;<lpage>53</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/1524838018823274</pub-id>
+<pub-id pub-id-type="pmid">30669947</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref061">
+        <label>61</label>
+        <mixed-citation publication-type="journal"><name><surname>Fergusson</surname><given-names>DM</given-names></name>, <name><surname>McLeod</surname><given-names>GFH</given-names></name>, <name><surname>Horwood</surname><given-names>LJ</given-names></name>. <article-title>Childhood sexual abuse and adult developmental outcomes: Findings from a 30-year longitudinal study in New Zealand</article-title>. <source>Child Abuse &amp; Neglect</source>. <year>2013</year>
+<month>Sep</month>;<volume>37</volume>(<issue>9</issue>):<fpage>664</fpage>&#x2013;<lpage>74</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.chiabu.2013.03.013</pub-id>
+<pub-id pub-id-type="pmid">23623446</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref062">
+        <label>62</label>
+        <mixed-citation publication-type="journal"><name><surname>Dube</surname><given-names>SR</given-names></name>, <name><surname>Anda</surname><given-names>RF</given-names></name>, <name><surname>Felitti</surname><given-names>VJ</given-names></name>, <name><surname>Chapman</surname><given-names>DP</given-names></name>, <name><surname>Williamson</surname><given-names>DF</given-names></name>, <name><surname>Giles</surname><given-names>WH</given-names></name>. <article-title>Childhood Abuse, Household Dysfunction, and the Risk of Attempted Suicide Throughout the Life Span: Findings From the Adverse Childhood Experiences Study</article-title>. <source>JAMA</source>. <year>2001</year>
+<month>Dec</month>
+<day>26</day>;<volume>286</volume>(<issue>24</issue>):<fpage>3089</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1001/jama.286.24.3089</pub-id>
+<pub-id pub-id-type="pmid">11754674</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref063">
+        <label>63</label>
+        <mixed-citation publication-type="book"><name><surname>Biggs</surname><given-names>A</given-names></name>, <name><surname>Brough</surname><given-names>P</given-names></name>, <name><surname>Drummond</surname><given-names>S</given-names></name>. <part-title>Lazarus and Folkman&#x2019;s Psychological Stress and Coping Theory</part-title>. In: <name><surname>Cooper</surname><given-names>CL</given-names></name>, <name><surname>Quick</surname><given-names>JC</given-names></name>, editors. <source>The Handbook of Stress and Health</source> [Internet]. <publisher-loc>Chichester, UK</publisher-loc>: <publisher-name>John Wiley &amp; Sons, Ltd</publisher-name>; <year>2017</year> [cited 2023 Jun 15]. p. <fpage>349</fpage>&#x2013;<lpage>64</lpage>. <ext-link xlink:href="https://onlinelibrary.wiley.com/doi/10.1002/9781118993811.ch21" ext-link-type="uri">https://onlinelibrary.wiley.com/doi/10.1002/9781118993811.ch21</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref064">
+        <label>64</label>
+        <mixed-citation publication-type="journal"><name><surname>Goodson</surname><given-names>A</given-names></name>, <name><surname>Hayes</surname><given-names>BE</given-names></name>. <article-title>Help-Seeking Behaviors of Intimate Partner Violence Victims: A Cross-National Analysis in Developing Nations</article-title>. <source>J Interpers Violence</source>. <year>2021</year>
+<month>May</month>;<volume>36</volume>(<issue>9</issue>&#x2013;<issue>10</issue>):<fpage>NP4705</fpage>&#x2013;<lpage>27</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/0886260518794508</pub-id>
+<pub-id pub-id-type="pmid">30136887</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref065">
+        <label>65</label>
+        <mixed-citation publication-type="journal"><name><surname>Chadambuka</surname><given-names>C</given-names></name>. <article-title>Coping Strategies Adopted by Women Who Experienced Intimate Partner Violence in the Context of Social Norms in Rural Areas in Zimbabwe</article-title>. <source>J Interpers Violence</source>. <year>2022</year>
+<month>Mar</month>;<volume>37</volume>(<issue>5&#x2013;6</issue>):<fpage>2776</fpage>&#x2013;<lpage>800</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/0886260520943734</pub-id>
+<pub-id pub-id-type="pmid">32697141</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref066">
+        <label>66</label>
+        <mixed-citation publication-type="journal"><name><surname>Foster</surname><given-names>EL</given-names></name>, <name><surname>Becho</surname><given-names>J</given-names></name>, <name><surname>Burge</surname><given-names>SK</given-names></name>, <name><surname>Talamantes</surname><given-names>MA</given-names></name>, <name><surname>Ferrer</surname><given-names>RL</given-names></name>, <name><surname>Wood</surname><given-names>RC</given-names></name>, <etal>et al</etal>. <article-title>Coping with intimate partner violence: Qualitative findings from the study of dynamics of husband to wife abuse</article-title>. <source>Families, Systems, &amp; Health</source>. <year>2015</year>
+<month>Sep</month>;<volume>33</volume>(<issue>3</issue>):<fpage>285</fpage>&#x2013;<lpage>94</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref067">
+        <label>67</label>
+        <mixed-citation publication-type="journal"><name><surname>Rodriguez</surname><given-names>TJ</given-names></name>. <article-title>Psychological Well-Being and Coping Mechanisms of Battered Women</article-title>. <source>AJOH</source> [Internet]. <year>2011</year>
+<month>Jan</month>
+<day>25</day> [cited 2023 Sep 14];<volume>1</volume>(<issue>1</issue>). Available from: <ext-link xlink:href="http://asianscientificjournals.com/new/publication/index.php/ajoh/article/view/158" ext-link-type="uri">http://asianscientificjournals.com/new/publication/index.php/ajoh/article/view/158</ext-link></mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref068">
+        <label>68</label>
+        <mixed-citation publication-type="journal"><name><surname>Zembe</surname><given-names>YZ</given-names></name>, <name><surname>Townsend</surname><given-names>L</given-names></name>, <name><surname>Thorson</surname><given-names>A</given-names></name>, <name><surname>Silberschmidt</surname><given-names>M</given-names></name>, <name><surname>Ekstrom</surname><given-names>AM</given-names></name>. <article-title>Intimate Partner Violence, Relationship Power Inequity and the Role of Sexual and Social Risk Factors in the Production of Violence among Young Women Who Have Multiple Sexual Partners in a Peri-Urban Setting in South Africa</article-title>. <name><surname>Braitstein</surname><given-names>P</given-names></name>, editor. <source>PLoS ONE</source>. <year>2015</year>
+<month>Nov</month>
+<day>23</day>;<volume>10</volume>(<issue>11</issue>):<fpage>e0139430</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0139430</pub-id>
+<pub-id pub-id-type="pmid">26599394</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref069">
+        <label>69</label>
+        <mixed-citation publication-type="journal"><name><surname>Hunt</surname><given-names>X</given-names></name>, <name><surname>Van Der Merwe</surname><given-names>A</given-names></name>, <name><surname>Swartz</surname><given-names>L</given-names></name>, <name><surname>Xakayi</surname><given-names>W</given-names></name>, <name><surname>Chideya</surname><given-names>Y</given-names></name>, <name><surname>Hartmann</surname><given-names>L</given-names></name>, <etal>et al</etal>. &#x201C;<article-title>It is in the Nature of Men&#x201D;: The Normalization of Non-Consensual Sex and Intimate Partner Violence Against Women with Acquired Physical Disabilities in South Africa</article-title>. <source>Violence Against Women</source>. <year>2023</year>
+<month>May</month>
+<day>2</day>;107780122311727. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/10778012231172710</pub-id>
+<pub-id pub-id-type="pmid">37132035</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref070">
+        <label>70</label>
+        <mixed-citation publication-type="journal"><name><surname>Mehr</surname><given-names>JB</given-names></name>, <name><surname>Bennett</surname><given-names>ER</given-names></name>, <name><surname>Price</surname><given-names>JL</given-names></name>, <name><surname>De Souza</surname><given-names>NL</given-names></name>, <name><surname>Buckman</surname><given-names>JF</given-names></name>, <name><surname>Wilde</surname><given-names>EA</given-names></name>, <etal>et al</etal>. <article-title>Intimate partner violence, substance use, and health comorbidities among women: A narrative review</article-title>. <source>Front Psychol</source>. <year>2023</year>
+<month>Jan</month>
+<day>27</day>;<volume>13</volume>:<fpage>1028375</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fpsyg.2022.1028375</pub-id>
+<pub-id pub-id-type="pmid">36778165</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref071">
+        <label>71</label>
+        <mixed-citation publication-type="journal"><name><surname>Edwards</surname><given-names>R</given-names></name>. <article-title>A critical examination of the use of interpreters in the qualitative research process</article-title>. <source>Journal of Ethnic and Migration Studies</source>. <year>1998</year>
+<month>Jan</month>;<volume>24</volume>(<issue>1</issue>):<fpage>197</fpage>&#x2013;<lpage>208</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref072">
+        <label>72</label>
+        <mixed-citation publication-type="journal"><name><surname>Hodges</surname><given-names>P.</given-names></name>
+<article-title>The application of Berman&#x2019;s Theory as a Basis for target text evaluation</article-title>. <source>The AALITRA Review: A journal of literary tranlsation</source>. <year>2016</year>;<fpage>48</fpage>&#x2013;<lpage>59</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref073">
+        <label>73</label>
+        <mixed-citation publication-type="journal"><name><surname>Qoyyimah</surname><given-names>U</given-names></name>. <article-title>Handling translations of data for qualitative research</article-title>. <source>FLS</source>. <year>2023</year>
+<month>Feb</month>
+<day>6</day>;<volume>5</volume>(<issue>1</issue>):<fpage>1</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref074">
+        <label>74</label>
+        <mixed-citation publication-type="journal"><name><surname>Lee</surname><given-names>RM</given-names></name>, <name><surname>Renzetti</surname><given-names>CM</given-names></name>. <article-title>The Problems of Researching Sensitive Topics: An Overview and Introduction</article-title>. <source>American Behavioral Scientist</source>. <year>1990</year>
+<month>May</month>;<volume>33</volume>(<issue>5</issue>):<fpage>510</fpage>&#x2013;<lpage>28</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref075">
+        <label>75</label>
+        <mixed-citation publication-type="journal"><name><surname>Davis</surname><given-names>M</given-names></name>, <name><surname>Bolding</surname><given-names>G</given-names></name>, <name><surname>Hart</surname><given-names>G</given-names></name>, <name><surname>Sherr</surname><given-names>L</given-names></name>, <name><surname>Elford</surname><given-names>J</given-names></name>. <article-title>Reflecting on the experience of interviewing online: perspectives from the Internet and HIV study in London</article-title>. <source>AIDS Care</source>. <year>2004</year>
+<month>Nov</month>;<volume>16</volume>(<issue>8</issue>):<fpage>944</fpage>&#x2013;<lpage>52</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/09540120412331292499</pub-id>
+<pub-id pub-id-type="pmid">15511726</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref076">
+        <label>76</label>
+        <mixed-citation publication-type="journal"><name><surname>Fraga</surname><given-names>S</given-names></name>. <article-title>Methodological and ethical challenges in violence research</article-title>. <source>Porto Biomedical Journal</source>. <year>2016</year>
+<month>May</month>;<volume>1</volume>(<issue>2</issue>):<fpage>77</fpage>&#x2013;<lpage>80</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.pbj.2016.04.005</pub-id>
+<pub-id pub-id-type="pmid">32258554</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref077">
+        <label>77</label>
+        <mixed-citation publication-type="journal"><name><surname>Kang</surname><given-names>E</given-names></name>, <name><surname>Hwang</surname><given-names>HJ</given-names></name>. <article-title>The importance of anonymity and confidentiality for conducting survey research</article-title>. <source>Journal of Research adn Publication Ethics</source>. <year>2023</year>;<volume>4</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref078">
+        <label>78</label>
+        <mixed-citation publication-type="journal"><name><surname>Olmos-Vega</surname><given-names>FM</given-names></name>, <name><surname>Stalmeijer</surname><given-names>RE</given-names></name>, <name><surname>Varpio</surname><given-names>L</given-names></name>, <name><surname>Kahlke</surname><given-names>R</given-names></name>. <article-title>A practical guide to reflexivity in qualitative research: AMEE Guide No. 149</article-title>. <source>Medical Teacher</source>. <year>2023</year>
+<month>Mar</month>
+<day>4</day>;<volume>45</volume>(<issue>3</issue>):<fpage>241</fpage>&#x2013;<lpage>51</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref079">
+        <label>79</label>
+        <mixed-citation publication-type="journal"><name><surname>Tsagkarliotis</surname><given-names>I</given-names></name>, <name><surname>Rachaniotis</surname><given-names>NP</given-names></name>. <article-title>A holistic approach in epidemics</article-title>. <source>Front Public Health</source>. <year>2023</year>
+<month>Nov</month>
+<day>13</day>;<volume>11</volume>:<fpage>1263293</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fpubh.2023.1263293</pub-id>
+<pub-id pub-id-type="pmid">38026383</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref080">
+        <label>80</label>
+        <mixed-citation publication-type="journal"><name><surname>Wagman</surname><given-names>JA</given-names></name>, <name><surname>Gray</surname><given-names>RH</given-names></name>, <name><surname>Campbell</surname><given-names>JC</given-names></name>, <name><surname>Thoma</surname><given-names>M</given-names></name>, <name><surname>Ndyanabo</surname><given-names>A</given-names></name>, <name><surname>Ssekasanvu</surname><given-names>J</given-names></name>, <etal>et al</etal>. <article-title>Effectiveness of an integrated intimate partner violence and HIV prevention intervention in Rakai, Uganda: analysis of an intervention in an existing cluster randomised cohort</article-title>. <source>The Lancet Global Health</source>. <year>2015</year>
+<month>Jan</month>;<volume>3</volume>(<issue>1</issue>):<fpage>e23</fpage>&#x2013;<lpage>33</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2214-109X(14)70344-4</pub-id>
+<pub-id pub-id-type="pmid">25539966</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref081">
+        <label>81</label>
+        <mixed-citation publication-type="journal"><name><surname>Khakha</surname><given-names>D</given-names></name>, <name><surname>Kapoor</surname><given-names>B</given-names></name>. <article-title>Effect of coping strategies intervention on the coping styles adopted by People living with HIV/AIDS at a tertiary care hospital in the national capital</article-title>. <source>Nursing &amp; Midwifery Research Journal</source>. <year>2015</year>
+<month>Apr</month>;<volume>11</volume>(<issue>2</issue>):<fpage>45</fpage>&#x2013;<lpage>56</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref082">
+        <label>82</label>
+        <mixed-citation publication-type="book"><name><surname>Wright</surname><given-names>J</given-names></name>. <source>Strengthening mental health care in Southern Malawi: contested meanings and the search for culturally embedded approaches</source>. <publisher-loc>University of New York</publisher-loc>; <year>2021</year>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref083">
+        <label>83</label>
+        <mixed-citation publication-type="journal"><name><surname>Lovero</surname><given-names>KL</given-names></name>, <name><surname>Lammie</surname><given-names>SL</given-names></name>, <name><surname>Van Zyl</surname><given-names>A</given-names></name>, <name><surname>Paul</surname><given-names>SN</given-names></name>, <name><surname>Ngwepe</surname><given-names>P</given-names></name>, <name><surname>Mootz</surname><given-names>JJ</given-names></name>, <etal>et al</etal>. <article-title>Mixed-methods evaluation of mental healthcare integration into tuberculosis and maternal-child healthcare services of four South African districts</article-title>. <source>BMC Health Serv Res</source>. <year>2019</year>
+<month>Dec</month>;<volume>19</volume>(<issue>1</issue>):<fpage>83</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12913-019-3912-9</pub-id>
+<pub-id pub-id-type="pmid">30704459</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref084">
+        <label>84</label>
+        <mixed-citation publication-type="journal"><name><surname>Sherr</surname><given-names>L</given-names></name>, <name><surname>Skeen</surname><given-names>S</given-names></name>, <name><surname>Hensels</surname><given-names>IS</given-names></name>, <name><surname>Tomlinson</surname><given-names>M</given-names></name>, <name><surname>Macedo</surname><given-names>A</given-names></name>. <article-title>The effects of caregiver and household HIV on child development: a community-based longitudinal study of young children: Caregiver HIV and child development</article-title>. <source>Child: Care, Health and Development</source>. <year>2016</year>
+<month>Nov</month>;<volume>42</volume>(<issue>6</issue>):<fpage>890</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">27514630</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref085">
+        <label>85</label>
+        <mixed-citation publication-type="journal"><name><surname>Levendosky</surname><given-names>AA</given-names></name>, <name><surname>Huth-Bocks</surname><given-names>AC</given-names></name>, <name><surname>Shapiro</surname><given-names>DL</given-names></name>, <name><surname>Semel</surname><given-names>MA</given-names></name>. <article-title>The impact of domestic violence on the maternal-child relationship and preschool-age children&#x2019;s functioning</article-title>. <source>Journal of Family Psychology</source>. <year>2003</year>;<volume>17</volume>(<issue>3</issue>):<fpage>275</fpage>&#x2013;<lpage>87</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1037/0893-3200.17.3.275</pub-id>
+<pub-id pub-id-type="pmid">14562453</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref086">
+        <label>86</label>
+        <mixed-citation publication-type="journal"><name><surname>Murphy</surname><given-names>DA</given-names></name>, <name><surname>Marelich</surname><given-names>WD</given-names></name>, <name><surname>Armistead</surname><given-names>L</given-names></name>, <name><surname>Herbeck</surname><given-names>DM</given-names></name>, <name><surname>Payne</surname><given-names>DL</given-names></name>. <article-title>Anxiety/stress among mothers living with HIV: effects on parenting skills and child outcomes</article-title>. <source>AIDS Care</source>. <year>2010</year>
+<month>Dec</month>;<volume>22</volume>(<issue>12</issue>):<fpage>1449</fpage>&#x2013;<lpage>58</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/09540121.2010.487085</pub-id>
+<pub-id pub-id-type="pmid">20824552</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002588.ref087">
+        <label>87</label>
+        <mixed-citation publication-type="journal"><name><surname>Thurston</surname><given-names>IB</given-names></name>, <name><surname>Howell</surname><given-names>KH</given-names></name>, <name><surname>Kaufman</surname><given-names>CC</given-names></name>, <name><surname>Mandell</surname><given-names>JE</given-names></name>, <name><surname>Decker</surname><given-names>KM</given-names></name>. <article-title>Parenting in matched pairs of women of color experiencing intimate partner violence and living with and without HIV</article-title>. <source>Journal of Traumatic Stress</source>. <year>2021</year>
+<month>Oct</month>;<volume>34</volume>(<issue>5</issue>):<fpage>1005</fpage>&#x2013;<lpage>15</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/jts.22737</pub-id>
+<pub-id pub-id-type="pmid">34637554</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

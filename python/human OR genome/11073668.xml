@@ -1,0 +1,770 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS One</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709804</article-id><article-id pub-id-type="pmc">11073668</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0301853</article-id><article-id pub-id-type="publisher-id">PONE-D-23-35909</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Neck</subject><subj-group><subject>Throat</subject><subj-group><subject>Tonsils</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Neck</subject><subj-group><subject>Throat</subject><subj-group><subject>Tonsils</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Lymphatic System</subject><subj-group><subject>Lymphoid Follicles</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Lymphatic System</subject><subj-group><subject>Lymphoid Follicles</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Renal System</subject><subj-group><subject>Kidneys</subject><subj-group><subject>Glomeruli</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Renal System</subject><subj-group><subject>Kidneys</subject><subj-group><subject>Glomeruli</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Surgical and Invasive Medical Procedures</subject><subj-group><subject>Biopsy</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Renal System</subject><subj-group><subject>Kidneys</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Anatomy</subject><subj-group><subject>Renal System</subject><subj-group><subject>Kidneys</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Cell Biology</subject><subj-group><subject>Cellular Types</subject><subj-group><subject>Animal Cells</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>Antibody-Producing Cells</subject><subj-group><subject>B Cells</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>Antibody-Producing Cells</subject><subj-group><subject>B Cells</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>Antibody-Producing Cells</subject><subj-group><subject>B Cells</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Cell Biology</subject><subj-group><subject>Cellular Types</subject><subj-group><subject>Animal Cells</subject><subj-group><subject>Blood Cells</subject><subj-group><subject>White Blood Cells</subject><subj-group><subject>B Cells</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Cell Biology</subject><subj-group><subject>Cellular Types</subject><subj-group><subject>Animal Cells</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>White Blood Cells</subject><subj-group><subject>B Cells</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>White Blood Cells</subject><subj-group><subject>B Cells</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Cells</subject><subj-group><subject>White Blood Cells</subject><subj-group><subject>B Cells</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Surgical and Invasive Medical Procedures</subject><subj-group><subject>Otolaryngological Procedures</subject><subj-group><subject>Tonsillectomy</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Response</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Response</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Accelerated involution of germinal center in palatine tonsils in IgA nephropathy</article-title><alt-title alt-title-type="running-head">Palatine tonsils morphometry in IgA nephropathy</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-3938-2208</contrib-id><name><surname>Ueda</surname><given-names>Hiroyuki</given-names></name><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-9334-3664</contrib-id><name><surname>Joh</surname><given-names>Kensuke</given-names></name><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ueda</surname><given-names>Yoshimi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Marumoto</surname><given-names>Hirokazu</given-names></name><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Okabe</surname><given-names>Masahiro</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Isaka</surname><given-names>Nao</given-names></name><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tsuboi</surname><given-names>Nobuo</given-names></name><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kojima</surname><given-names>Hiromi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Miyazaki</surname><given-names>Yoichi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Yokoo</surname><given-names>Takashi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Department of Internal Medicine, Division of Nephrology and Hypertension, The Jikei University School of Medicine, Tokyo, Japan</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Department of Pathology, The Jikei University School of Medicine, Tokyo, Japan</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>Department of Otorhinolaryngology, The Jikei University School of Medicine, Tokyo, Japan</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>C&#xE2;mara</surname><given-names>Niels Olsen Saraiva</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>Universidade de Sao Paulo, BRAZIL</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>hi-ro@jikei.ac.jp</email></corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>19</volume><issue>5</issue><elocation-id>e0301853</elocation-id><history><date date-type="received"><day>9</day><month>12</month><year>2023</year></date><date date-type="accepted"><day>22</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Ueda et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Ueda et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pone.0301853.pdf"/><abstract><sec id="sec001"><title>Background</title><p>Altered immunological responses in the palatine tonsils may be involved in the pathogenesis of IgA nephropathy (IgAN). The germinal center serves as the site for antigen-specific humoral immune responses in the palatine tonsils. Germinal center involution is frequently observed in the palatine tonsils of IgAN (IgAN tonsils). However, the pathogenic significance of these characteristic changes remains unclear. This study aimed to investigate the morphological changes in secondary lymphoid follicles in IgAN tonsils and to evaluate the correlation between the morphometric results and the clinicopathological severity of IgAN.</p></sec><sec id="sec002"><title>Methods</title><p>The tonsils of age-matched patients with recurrent tonsillitis (RT tonsils) were used as controls. The correlation between the degree of lymphoid follicular involution and histopathological severities in clinical or kidney biopsy was evaluated.</p></sec><sec id="sec003"><title>Results</title><p>In total, 87 patients with IgAN were included (48% male, median age 35 years, median estimated glomerular filtration rate: 74 mL/min/1.73 m<sup>2</sup>). Compared to RT tonsils, IgAN tonsils showed smaller median sizes of lymphoid follicles and germinal centers (P &lt; 0.001). The relative areas of lymphoid follicles (%LFA) and germinal centers (%GCA) in the total tonsillar tissue were smaller in the IgAN tonsils than in the RT tonsils (P &lt; 0.001). In contrast, the median proportion of mantle zones in the total tonsillar tissue was comparable between the groups. A lower %LFA was associated with a longer period from the onset of urinary abnormalities to biopsy diagnosis and higher urinary protein excretion (P = 0.01). %LFA showed significant negative correlations with frequencies of glomeruli with both global and segmental sclerosis.</p></sec><sec id="sec004"><title>Conclusions</title><p>The present study confirmed accelerated germinal center involution in the tonsils of patients with IgAN. This characteristic change in the IgAN tonsil correlates with heavy proteinuria and advanced chronic histopathological changes in the kidneys, thereby suggesting the involvement of repeated tonsillar immunoreactions during IgAN progression.</p></sec></abstract><funding-group><award-group id="award001"><funding-source>
+<institution>JSPS KAKENHI</institution>
+</funding-source><award-id>23K07726</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-3938-2208</contrib-id>
+<name><surname>Ueda</surname><given-names>Hiroyuki</given-names></name>
+</principal-award-recipient></award-group><funding-statement>This study was supported by The Jikei University Research Fund and JSPS KAKENHI (Grant Number JP 23K07726). The institution had no role in the study design, collection, analysis, and interpretation of data, writing the report, and the decision to submit the report for publication.</funding-statement></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="13"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the paper and its <xref rid="sec019" ref-type="sec">supporting information</xref> files.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the paper and its <xref rid="sec019" ref-type="sec">supporting information</xref> files.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec005">
+      <title>Introduction</title>
+      <p>IgA nephropathy (IgAN) is a leading cause of primary glomerular disease worldwide. Approximately 30&#x2013;40% of biopsy-diagnosed patients with IgAN progress to kidney failure despite therapies, including corticosteroids or renin-angiotensin system inhibitors [<xref rid="pone.0301853.ref001" ref-type="bibr">1</xref>,<xref rid="pone.0301853.ref002" ref-type="bibr">2</xref>]. IgAN is frequently triggered by mucosal infections, including upper respiratory tract infections, which can exacerbate urinary findings, such as hematuria and proteinuria [<xref rid="pone.0301853.ref003" ref-type="bibr">3</xref>]. In addition, tonsillectomy provides beneficial effects such as an earlier reduction in urinary protein excretion and protection from renal function decline in patients with IgAN. Therefore, it is highly postulated that the palatine tonsils are involved in the pathogenesis and progression of IgAN [<xref rid="pone.0301853.ref004" ref-type="bibr">4</xref>,<xref rid="pone.0301853.ref005" ref-type="bibr">5</xref>].</p>
+      <p>Palatine tonsils are a significant component of Waldeyer&#x2019;s ring of lymphoid tissue. They serve as both a local mucosal defense system and the induction of a systemic immune response at the gateway of the respiratory and alimentary tracts. Morphologically and functionally, palatine tonsils comprise the following three major compartments: the crypt epithelium, interfollicular region, and secondary lymphoid follicles consisting of the mantle zone and germinal center [<xref rid="pone.0301853.ref006" ref-type="bibr">6</xref>]. The size of the tonsils is most prominent during childhood and is directly proportional to the bacterial load and the number of B and T cells [<xref rid="pone.0301853.ref007" ref-type="bibr">7</xref>]. Age-dependent reduction in size (tonsillar involution) has also been observed [<xref rid="pone.0301853.ref008" ref-type="bibr">8</xref>].</p>
+      <p>Tonsillar crypt epithelia exhibit a unique structure called "lymphoepithelial symbiosis," consisting of epithelial and non-epithelial cells, such as macrophages, dendritic cells, and B cells, with varying degrees of reticulation. These non-epithelial cells in crypt epithelia may participate in the uptake, transport, and presentation of antigens and contribute to antigen-specific humoral immune responses [<xref rid="pone.0301853.ref006" ref-type="bibr">6</xref>]. A lack of reticulation in tonsils was more frequently observed in patients with IgAN than in those with recurrent tonsillitis (RT), which is characterized by frequent episodes of acute tonsillitis without hematuria and proteinuria, and the extent of non-reticulation was correlated with the degree of renal histological damage [<xref rid="pone.0301853.ref009" ref-type="bibr">9</xref>]. Furthermore, some studies with small sample sizes found that germinal centers in the palatine tonsils were smaller in patients with IgAN than in those with RT [<xref rid="pone.0301853.ref010" ref-type="bibr">10</xref>,<xref rid="pone.0301853.ref011" ref-type="bibr">11</xref>]. These findings indicate that antigen-specific humoral immune responses are attenuated in IgAN tonsils, and that the degree of involution of the area related to antigen-specific humoral immune responses is associated with the progression of kidney disease.</p>
+      <p>To date, no studies have focused on the association between the degree of tonsillar secondary lymphoid follicle involution and IgAN severity. Therefore, the present study aimed to investigate the morphological changes in secondary lymphoid follicles in IgAN tonsils and to evaluate the correlation between morphometric results and the clinicopathological severity of IgAN.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec006">
+      <title>Materials and methods</title>
+      <sec id="sec007">
+        <title>Study participants</title>
+        <p>Eighty-seven patients who were diagnosed with IgAN at our hospital between January 2009 and December 2019 and underwent tonsillectomy within 1 year of kidney biopsy were included in the study. The exclusion criteria were as follows: 1) patients aged &lt;18 years; and 2) patients who received immunosuppressive drugs, including glucocorticoids, within 1 year before tonsillectomy. For comparison, tonsils were obtained from 27 age-matched patients with RT who did not show features of kidney function impairment and urinary abnormalities, including hematuria and proteinuria. The decision to perform tonsillectomy as a treatment for IgAN was made at the discretion of the attending physician. Patient backgrounds and laboratory findings were accessed and obtained from their medical records after approval from the Ethics Committee of the Jikei University School of Medicine (Approval date: March 9, 2020). The time from detection of urinary abnormalities to renal biopsy was defined as the period between the date when urinary protein or hematuria was first noted during regular medical checkups and the date of kidney biopsy. The estimated glomerular filtration rate (eGFR) was calculated using a modified three-variable equation for GFR in Japanese individuals: eGFR = 194 &#xD7; age<sup>-0.287</sup> &#xD7; sCr<sup>-1.094</sup> (&#xD7; 0.739 if female), where sCr is the serum creatinine level.</p>
+      </sec>
+      <sec id="sec008">
+        <title>Immunohistochemistry</title>
+        <p>After tonsillectomy, tonsillar tissues were fixed with 4% formaldehyde and embedded in paraffin. Samples were cut into serial sections (thickness, 3 &#x3BC;m) for immunohistochemical analysis. After microwave antigen retrieval, sections were deparaffinized and blocked with 5% skim milk. Subsequently, the sections were incubated with the following primary antibodies: anti-HLA-DR (1:500 dilution; ab92511, Abcam, Cambridge, UK), anti-CD3 (1:50 dilution; MA5-12577, Invitrogen, South San Francisco, CA, USA), and anti-cytokeratin (ready to use; Nichirei Bioscience, Tokyo, Japan) and developed using Histofine<sup>&#xAE;</sup> Simple Stain MAX PO (MULTI) (Nichirei Bioscience) and a DAB staining kit (Abcam). The slides were rinsed with xylene and mounted using mounting solution and coverslips.</p>
+      </sec>
+      <sec id="sec009">
+        <title>Morphometric analysis</title>
+        <p>Tonsil tissue was evaluated by measuring the area of the tissue. Measurements were obtained from at least four locations containing crypts within the same tissue. The entire stained tonsillar tissue was observed under an Olympus BX53 digital virtual microscope (Olympus, Tokyo, Japan) at 40&#xD7; magnification, and the images were captured. These images were analyzed using ImageJ software (National Institutes of Health, Bethesda, MA, USA). The area of each component was measured using serial sections stained with the following stains: Human Leukocyte Antigen&#x2013;DR isotype (HLA-DR) for lymphoid follicles and germinal centers and cytokeratin for reticular and non-reticular crypt epithelia. Furthermore, the proportions of the lymphoid follicular area (LFA) and germinal center area to the total tonsillar tissue area were calculated by dividing the sum of the area of each region by the area of the entire measured tonsillar tissue [<xref rid="pone.0301853.ref012" ref-type="bibr">12</xref>]. The percentage of non-reticular crypt epithelial area was expressed relative to the total crypt epithelial area in each section, as previously reported [<xref rid="pone.0301853.ref009" ref-type="bibr">9</xref>].</p>
+      </sec>
+      <sec id="sec010">
+        <title>Kidney biopsy histopathological analysis</title>
+        <p>All kidney tissue specimens were obtained via percutaneous needle biopsy. The tissues were embedded in paraffin, cut into 3-&#x3BC;m sections, and stained with hematoxylin-eosin, periodic acid-Schiff, Masson&#x2019;s trichrome, and periodic acid silver methenamine. All biopsy samples were stained using the following fluorescein isothiocyanate (FITC)-labeled antiantibodies (DAKO): anti-IgG, anti-IgA, anti-IgM, anti-C3, and anti-C1q. IgAN diagnosis was based on the typical histopathological features of mesangial proliferative glomerulonephritis, the presence of dominant or co-dominant glomerular IgA deposition observed using immunohistochemistry or immunofluorescence, and the presence of electron-dense mesangial deposits detected using electron microscopy. Patients with other systemic diseases associated with glomerular IgA deposition, including IgA vasculitis, liver cirrhosis, or systemic lupus erythematosus, were also excluded. We employed the Oxford classification to categorize the renal biopsy specimens, and all pathological lesions were defined according to this classification [<xref rid="pone.0301853.ref013" ref-type="bibr">13</xref>]. Furthermore, we determined the proportion of glomeruli with global sclerosis, segmental sclerosis, and crescentic lesions, which included cellular and fibrocellular crescents.</p>
+      </sec>
+      <sec id="sec011">
+        <title>Statistical analyses</title>
+        <p>The Wilcoxon&#x2013;Mann&#x2013;Whitney two-sample rank-sum test was used to compare non-normally distributed continuous variables between the two groups. The Jonckheere&#x2013;Terpstra or Mantel&#x2013;Haenszel trend test was used to analyze trends in baseline characteristics and morphological measurements among the percentages of LFA tertiles. Spearman&#x2019;s rank correlation was used to determine the correlations among continuous variables between the two groups. Multiple linear regression analysis was performed to determine the association between independent variables. Statistical significance was set at P &lt; 0.05. All statistical analyses were performed using R software (version 2.4 patched) and GraphPad Prism 8.0 (GraphPad Software, San Diego, CA, USA).</p>
+      </sec>
+      <sec id="sec012">
+        <title>Study approval</title>
+        <p>This study was approved by the Ethics Committee of the Jikei University School of Medicine (Approval No: 31&#x2013;431 [10013]). As this was a retrospective study, information on the research plan was posted online on our university/hospital website, patients were allowed to refuse participation, and individual informed consent was not required. The participants were identified using numbers rather than names, and all data were anonymized before we accessed them. This study adhered to the principles of the Declaration of Helsinki. All methods were performed in accordance with the institutional guidelines of the ethics committee of The Jikei University School of Medicine (Tokyo, Japan).</p>
+      </sec>
+      <sec sec-type="data-availability" id="sec013">
+        <title>Data availability</title>
+        <p>The datasets generated and analyzed during the current study are available from the corresponding author upon reasonable request.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec014">
+      <title>Results</title>
+      <sec id="sec015">
+        <title>Morphometric evaluation of size and proportion of lymphoid follicles and their significant components in IgAN tonsils</title>
+        <p>First, we assessed the size and proportion of lymphoid follicles and their significant components, i.e., germinal centers and mantle zones, in the tonsils of patients with IgAN (IgAN tonsils; N = 87) and compared them with age-matched patients with recurrent tonsillitis (RT tonsils; N = 27) (<bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1</xref></bold>). The sizes of the secondary lymphoid follicles in the IgAN tonsils were more heterogeneous than those in the RT tonsils (<bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1A</xref></bold>). The proportions of germinal centers in lymphoid follicles were smaller in the IgAN tonsils than in the RT tonsils. The median size of lymphoid follicles (<bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1B</xref></bold>), germinal centers (<bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1C</xref></bold>), and mantle zones (<bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1D</xref></bold>) were significantly smaller in the IgAN tonsils than in the RT tonsils (P &lt; 0.001). Similarly, the median proportion of lymphoid follicles (% lymphoid follicular area [%LFA], <bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1E</xref></bold>) and germinal centers (% germinal center area, <bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1F</xref></bold>) in the total tonsillar tissue was significantly smaller in the IgAN tonsils than in the RT tonsils (P &lt; 0.001). In contrast, the median proportions of mantle zones in the total tonsillar tissue (% mantle zone area, <bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1G</xref></bold>) were comparable between IgA and RT tonsils. Furthermore, in comparison with those in the RT tonsils, lymphoid follicles in the IgAN tonsils were associated with smaller proportions of germinal centers (<bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1H</xref></bold>) and were notably dominated by the mantle zone (<bold><xref rid="pone.0301853.g001" ref-type="fig">Fig 1I</xref></bold>).</p>
+        <fig position="float" id="pone.0301853.g001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0301853.g001</object-id>
+          <label>Fig 1</label>
+          <caption>
+            <title>Comparison of the size and proportion of secondary lymphoid follicles between IgAN and RT tonsils.</title>
+            <p><bold>(A)</bold> Representative images of IgAN (right panels) and RT (left panels) tonsils stained with an anti-HLA-DR antibody. Lower panels illustrate secondary lymphoid follicles indicated with solid lines, mantle zones are marked with the letter &#x201C;M,&#x201D; and germinal centers are indicated using dotted circles and marked with &#x201C;G.&#x201D; The letter &#x201C;C&#x201D; refers to the crypt. Magnification, 40&#xD7;; scale bar, 500 &#x3BC;m. <bold>(B&#x2013;D)</bold> Comparison of the size distribution of lymphoid follicles (B), germinal centers (C), and mantle zone (D) between IgAN (N = 87) and RT (N = 27) tonsils. The median sizes of lymphoid follicles (B), germinal centers (C), and mantle zones (D) in IgAN tonsils were smaller than those in RT tonsils (P &lt; 0.001). <bold>(E&#x2013;G)</bold> Comparison of the percentages of lymphoid follicles (% lymphoid follicular area, E), germinal centers (% germinal center area, F), and mantle zones (% mantle zone area, G) in the total tonsillar tissue of the IgAN and RT tonsils. The median % lymphoid follicular area (E) and % germinal center area (F) tonsils were smaller in the IgAN tonsils than in the RT tonsils (P &lt; 0.001). In contrast, the median % mantle zone area (G) was comparable between the IgA and RT tonsils. <bold>(H and I)</bold> Comparison of the percentages of germinal center area (H) and mantle zone area (I) in the lymphoid follicles of IgAN and RT tonsils. Lymphoid follicles were accompanied by smaller percentages of germinal center area (H) and larger percentages of mantle zone area (I) in IgAN tonsils than in RT tonsils (P &lt; 0.001).</p>
+          </caption>
+          <graphic xlink:href="pone.0301853.g001" position="float"/>
+        </fig>
+        <p>We also assessed the extent of the non-reticular area in the cytokeratin-positive crypt epithelia in the IgAN tonsils (<bold><xref rid="pone.0301853.s001" ref-type="supplementary-material">S1A Fig</xref></bold>). The median percentage of the non-reticular area in the total crypt epithelial area (% non-reticular area) in the IgAN tonsils was larger than that in the RT tonsils (<bold><xref rid="pone.0301853.s001" ref-type="supplementary-material">S1B Fig</xref></bold>). Furthermore, in the IgAN tonsils, the % non-reticular area showed a significant negative correlation with %LFA (<bold><xref rid="pone.0301853.s001" ref-type="supplementary-material">S1C Fig</xref>)</bold> and % germinal center area (<bold><xref rid="pone.0301853.s001" ref-type="supplementary-material">S1D Fig</xref></bold>). For subsequent clinicopathological analysis, %LFA was used because lymphoid follicles in IgAN tonsils frequently lack a germinal center on the section.</p>
+      </sec>
+      <sec id="sec016">
+        <title>Comparison of clinical characteristics among IgAN patient groups categorized according to the %LFA of the tonsils</title>
+        <p>To clarify the clinical characteristics of patients with IgAN related to the degree of involution of lymphoid follicles in IgAN tonsils, we categorized patients with IgAN into tertile groups according to their %LFA levels as follows: high (26.0&#x2013;38.6%), intermediate (19.0&#x2013;25.6%), and low (7.8&#x2013;18.9%). When considering the patient characteristics at the time of renal biopsy, sex, age, and body mass index were comparable among the tertile groups based on the %LFA (<bold><xref rid="pone.0301853.t001" ref-type="table">Table 1</xref></bold>). Similarly, a history of smoking, recurrent tonsillitis, and macroscopic hematuria did not differ significantly among the %LFA groups. However, the median time from the onset of urinary abnormalities to diagnostic renal biopsy was longer in the lower %LFA tertiles than in the higher %LFA tertiles (P = 0.02). Furthermore, the number of patients with hypertension at the time of diagnostic kidney biopsy was higher in the lower %LFA tertile than in the higher %LFA tertile (P = 0.03). Laboratory findings at diagnostic kidney biopsy revealed that median urinary protein excretion increased inversely with tertiles of %LFA (P = 0.01); however, the severity of hematuria, serum creatinine, and estimated glomerular filtration rate (eGFR) levels were not statistically different among the tertiles of %LFA.</p>
+        <table-wrap position="float" id="pone.0301853.t001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0301853.t001</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Differences in baseline characteristics in patients with IgAN categorized into tertiles according to percentages of lymphoid follicular area.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0301853.t001" id="pone.0301853.t001g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">All</th>
+                  <th align="center" colspan="3" style="background-color:#DFDFDF" rowspan="1">%LFA</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">P-value</th>
+                </tr>
+                <tr>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">High</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">Intermediate</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">Low</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">(26.0&#x2013;38.6)</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">(19.0&#x2013;25.6)</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">(7.8&#x2013;18.9)</th>
+                  <th align="left" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">N</td>
+                  <td align="center" rowspan="1" colspan="1">87</td>
+                  <td align="center" rowspan="1" colspan="1">29</td>
+                  <td align="center" rowspan="1" colspan="1">29</td>
+                  <td align="center" rowspan="1" colspan="1">29</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Female sex, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">46 (52)</td>
+                  <td align="center" rowspan="1" colspan="1">15 (52)</td>
+                  <td align="center" rowspan="1" colspan="1">14 (48)</td>
+                  <td align="center" rowspan="1" colspan="1">17 (59)</td>
+                  <td align="center" rowspan="1" colspan="1">0.59</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Age at tonsillectomy</td>
+                  <td align="center" rowspan="1" colspan="1">35 [30&#x2013;41]</td>
+                  <td align="center" rowspan="1" colspan="1">33 [25&#x2013;38]</td>
+                  <td align="center" rowspan="1" colspan="1">37 [33&#x2013;42]</td>
+                  <td align="center" rowspan="1" colspan="1">33 [30&#x2013;45]</td>
+                  <td align="center" rowspan="1" colspan="1">0.54</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">BMI</td>
+                  <td align="center" rowspan="1" colspan="1">20 [19&#x2013;22]</td>
+                  <td align="center" rowspan="1" colspan="1">21 [19&#x2013;24]</td>
+                  <td align="center" rowspan="1" colspan="1">21.3 [20&#x2013;23]</td>
+                  <td align="center" rowspan="1" colspan="1">21.0 [19&#x2013;22]</td>
+                  <td align="center" rowspan="1" colspan="1">0.98</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">History of smoking, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">19 (22)</td>
+                  <td align="center" rowspan="1" colspan="1">6 (21)</td>
+                  <td align="center" rowspan="1" colspan="1">7 (24)</td>
+                  <td align="center" rowspan="1" colspan="1">6 (21)</td>
+                  <td align="center" rowspan="1" colspan="1">0.99</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">History of RT, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">13 (14)</td>
+                  <td align="center" rowspan="1" colspan="1">6 (21)</td>
+                  <td align="center" rowspan="1" colspan="1">4 (14)</td>
+                  <td align="center" rowspan="1" colspan="1">3 (10)</td>
+                  <td align="center" rowspan="1" colspan="1">0.52</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">History of macroscopic hematuria, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">22 (24)</td>
+                  <td align="center" rowspan="1" colspan="1">13 (45)</td>
+                  <td align="center" rowspan="1" colspan="1">4 (14)</td>
+                  <td align="center" rowspan="1" colspan="1">4 (14)</td>
+                  <td align="center" rowspan="1" colspan="1">0.11</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Time from urinary abnormalities to renal biopsy, year</td>
+                  <td align="center" rowspan="1" colspan="1">3 [1.2&#x2013;10]</td>
+                  <td align="center" rowspan="1" colspan="1">1.9 [0.5&#x2013;4.1]</td>
+                  <td align="center" rowspan="1" colspan="1">6.2 [2&#x2013;14.8]</td>
+                  <td align="center" rowspan="1" colspan="1">3.8 [1.6&#x2013;13.3]</td>
+                  <td align="center" rowspan="1" colspan="1">0.02<xref rid="t001fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hypertension, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">28 (35)</td>
+                  <td align="center" rowspan="1" colspan="1">5 (17)</td>
+                  <td align="center" rowspan="1" colspan="1">12 (41)</td>
+                  <td align="center" rowspan="1" colspan="1">11 (38)</td>
+                  <td align="center" rowspan="1" colspan="1">0.03<xref rid="t001fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Cr (mg/dL)</td>
+                  <td align="center" rowspan="1" colspan="1">0.86 [0.67&#x2013;1.07]</td>
+                  <td align="center" rowspan="1" colspan="1">0.78 [0.65&#x2013;1.00]</td>
+                  <td align="center" rowspan="1" colspan="1">0.9 [0.66&#x2013;1.16]</td>
+                  <td align="center" rowspan="1" colspan="1">0.93 [0.69&#x2013;1.14]</td>
+                  <td align="center" rowspan="1" colspan="1">0.19</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">eGFR (mL/min/1.73m<sup>2</sup>)</td>
+                  <td align="center" rowspan="1" colspan="1">74 [61&#x2013;87]</td>
+                  <td align="center" rowspan="1" colspan="1">81 [7&#x2013;92]</td>
+                  <td align="center" rowspan="1" colspan="1">73 [53&#x2013;85]</td>
+                  <td align="center" rowspan="1" colspan="1">70 [56&#x2013;84]</td>
+                  <td align="center" rowspan="1" colspan="1">0.05</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">IgA (mg/dL)</td>
+                  <td align="center" rowspan="1" colspan="1">317 [255&#x2013;392]</td>
+                  <td align="center" rowspan="1" colspan="1">284 [236&#x2013;372]</td>
+                  <td align="center" rowspan="1" colspan="1">351 [271&#x2013;435]</td>
+                  <td align="center" rowspan="1" colspan="1">321 [251&#x2013;383]</td>
+                  <td align="center" rowspan="1" colspan="1">0.55</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">C3</td>
+                  <td align="center" rowspan="1" colspan="1">97 [83&#x2013;114]</td>
+                  <td align="center" rowspan="1" colspan="1">97 [76&#x2013;116]</td>
+                  <td align="center" rowspan="1" colspan="1">98 [80&#x2013;113]</td>
+                  <td align="center" rowspan="1" colspan="1">102 [85&#x2013;117]</td>
+                  <td align="center" rowspan="1" colspan="1">0.29</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">IgA/C3</td>
+                  <td align="center" rowspan="1" colspan="1">3.1 [2.4&#x2013;4.1]</td>
+                  <td align="center" rowspan="1" colspan="1">2.4 [1.2&#x2013;3.1]</td>
+                  <td align="center" rowspan="1" colspan="1">2.5 [1.4&#x2013;3.6]</td>
+                  <td align="center" rowspan="1" colspan="1">2.2 [1.2&#x2013;2.9]</td>
+                  <td align="center" rowspan="1" colspan="1">0.55</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">UPE (g/day)</td>
+                  <td align="center" rowspan="1" colspan="1">0.68 [0.51&#x2013;1.18]</td>
+                  <td align="center" rowspan="1" colspan="1">0.56 [0.39&#x2013;0.86]</td>
+                  <td align="center" rowspan="1" colspan="1">0.64 [0.38&#x2013;1.15]</td>
+                  <td align="center" rowspan="1" colspan="1">0.92 [0.65&#x2013;1.59]</td>
+                  <td align="center" rowspan="1" colspan="1">0.01<xref rid="t001fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hematuria, RBC/HPF</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">&#xA0;&#xA0;&#xA0;&#xA0;&lt; 20/HPF, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">35 (40)</td>
+                  <td align="center" rowspan="1" colspan="1">11 (38)</td>
+                  <td align="center" rowspan="1" colspan="1">12 (42)</td>
+                  <td align="center" rowspan="1" colspan="1">12 (42)</td>
+                  <td align="center" rowspan="1" colspan="1">0.78</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">&#xA0;&#xA0;&#xA0;&#xA0;20&#x2013;99, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">43 (50)</td>
+                  <td align="center" rowspan="1" colspan="1">15 (52)</td>
+                  <td align="center" rowspan="1" colspan="1">14 (48)</td>
+                  <td align="center" rowspan="1" colspan="1">14 (48)</td>
+                  <td align="center" rowspan="1" colspan="1">0.79</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">&#xA0;&#xA0;&#xA0;&#xA0;&#x2265; 100/HPF, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">9 (10)</td>
+                  <td align="center" rowspan="1" colspan="1">3 (10)</td>
+                  <td align="center" rowspan="1" colspan="1">3 (10)</td>
+                  <td align="center" rowspan="1" colspan="1">3 (10)</td>
+                  <td align="center" rowspan="1" colspan="1">0.99</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t001fn001">
+              <p>Abbreviations: BMI, body mass index; eGFR, estimated glomerular filtration; HPF, high power field; IgAN IgA nephropathy; %LFA, percentages of lymphoid follicular areas in total tonsillar tissue; RBC, red blood cells; RT, recurrent tonsillitis; UPE, urinary protein excretion.</p>
+            </fn>
+            <fn id="t001fn002">
+              <p>* Statistically significant.</p>
+            </fn>
+            <fn id="t001fn003">
+              <p>where, N represents the number of patients. Other values are expressed as mean values with standard deviations or median values with interquartile ranges.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="sec017">
+        <title>Comparison of kidney biopsy histopathological findings among IgAN patient groups categorized according to the %LFA of the tonsils</title>
+        <p>A summary of the renal biopsy findings in relation to %LFA is presented in <bold><xref rid="pone.0301853.t002" ref-type="table">Table 2</xref></bold>. According to the Oxford classification, the proportion of patients with S1 and C1+2 increased inversely with tertiles of %LFA. In contrast, the proportion of patients with M1, E1, or T1+2 did not differ among the tertiles of %LFA.</p>
+        <table-wrap position="float" id="pone.0301853.t002">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0301853.t002</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Comparisons of kidney pathologies according to tertiles of percentages of lymphoid follicular area.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0301853.t002" id="pone.0301853.t002g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">All</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">%LFA</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="left" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">High</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">Intermediate</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">Low</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">P-value</th>
+                </tr>
+                <tr>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">(26.0&#x2013;38.6)</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">(19.0&#x2013;25.6)</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">(7.8&#x2013;18.9)</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">N</td>
+                  <td align="center" rowspan="1" colspan="1">87</td>
+                  <td align="center" rowspan="1" colspan="1">29</td>
+                  <td align="center" rowspan="1" colspan="1">29</td>
+                  <td align="center" rowspan="1" colspan="1">29</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Oxford Classification</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">M1, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">6 (6)</td>
+                  <td align="center" rowspan="1" colspan="1">2 (7)</td>
+                  <td align="center" rowspan="1" colspan="1">2 (7)</td>
+                  <td align="center" rowspan="1" colspan="1">2 (7)</td>
+                  <td align="center" rowspan="1" colspan="1">0.99</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">E1, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">54 (62)</td>
+                  <td align="center" rowspan="1" colspan="1">18 (62)</td>
+                  <td align="center" rowspan="1" colspan="1">16 (55)</td>
+                  <td align="center" rowspan="1" colspan="1">20 (69)</td>
+                  <td align="center" rowspan="1" colspan="1">0.58</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">S1, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">68 (78)</td>
+                  <td align="center" rowspan="1" colspan="1">18 (62)</td>
+                  <td align="center" rowspan="1" colspan="1">23 (79)</td>
+                  <td align="center" rowspan="1" colspan="1">27 (93)</td>
+                  <td align="center" rowspan="1" colspan="1">0.004<xref rid="t002fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">T1+2, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">10 (11)</td>
+                  <td align="center" rowspan="1" colspan="1">1 (3)</td>
+                  <td align="center" rowspan="1" colspan="1">6 (21)</td>
+                  <td align="center" rowspan="1" colspan="1">3 (10.3)</td>
+                  <td align="center" rowspan="1" colspan="1">0.41</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">C1+2, N (%)</td>
+                  <td align="center" rowspan="1" colspan="1">47 (54)</td>
+                  <td align="center" rowspan="1" colspan="1">10 (34)</td>
+                  <td align="center" rowspan="1" colspan="1">16 (55)</td>
+                  <td align="center" rowspan="1" colspan="1">21 (72)</td>
+                  <td align="center" rowspan="1" colspan="1">0.003<xref rid="t002fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t002fn001">
+              <p>Abbreviations: %LFA Percentages of lymphoid follicular areas in total tonsillar tissue.</p>
+            </fn>
+            <fn id="t002fn002">
+              <p>* Statistically significant.</p>
+            </fn>
+            <fn id="t002fn003">
+              <p>where, N represents the number of patients.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>We also assessed the correlation between the percentage of glomeruli showing global sclerosis, segmental sclerosis, or crescentic lesions (cellular or fibrocellular crescent) and %LFA or % non-reticular area (<bold><xref rid="pone.0301853.g002" ref-type="fig">Fig 2</xref></bold>). The frequency of glomeruli showing global sclerosis (<bold><xref rid="pone.0301853.g002" ref-type="fig">Fig 2A</xref></bold>), and segmental sclerosis (<bold><xref rid="pone.0301853.g002" ref-type="fig">Fig 2C</xref></bold>) displayed a significant negative correlation with %LFA (global sclerosis vs. %LFA, <italic toggle="yes">r</italic> = &#x2013;0.38, P &lt; 0.001; segmental sclerosis vs. %LFA, <italic toggle="yes">r</italic> = &#x2013;0.33, P = 0.001). Furthermore, the frequency of glomeruli with crescentic lesions showed a weak negative correlation with %LFA (<bold><xref rid="pone.0301853.g002" ref-type="fig">Fig 2E</xref></bold>, <italic toggle="yes">r</italic> = &#x2013;0.27, P = 0.010). In contrast, % non-reticular area showed no significant correlation with the percentage of glomeruli in any of the lesions (<bold><xref rid="pone.0301853.g002" ref-type="fig">Fig 2B, 2D and 2F</xref></bold>). After logarithmic transformation of the percentages of glomeruli with global and segmental sclerosis, age, and the median time from the onset of urinary abnormalities to kidney biopsy, a multiple linear regression analysis was performed to determine the factors associated with the proportion of sclerosed glomeruli (<bold><xref rid="pone.0301853.t003" ref-type="table">Table 3</xref></bold>). Owing to the significant interaction between sex and time from the onset of urinary abnormalities to kidney biopsy in the multiple regression analysis, we performed separate analyses for each group. In the female group, the percentage of glomeruli with sclerotic lesions increased with hypertension and %LFA. In the male group, the percentage of sclerosed glomeruli increased with time from the onset of urinary abnormalities to kidney biopsy and %LFA. Overall, %LFA was an independent factor associated with the percentage of sclerosed glomeruli in both sex groups.</p>
+        <fig position="float" id="pone.0301853.g002">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0301853.g002</object-id>
+          <label>Fig 2</label>
+          <caption>
+            <title>Correlation between tonsillar morphological changes, i.e., %LFA and % non-reticular area, and percentage of glomeruli affected in patients with IgAN.</title>
+            <p>Correlation between (A) %LFA and % glomeruli with global sclerosis, (B) % non-reticular area and % glomeruli with global sclerosis, (C) %LFA and % glomeruli with segmental sclerosis, (D) % non-reticular area and % glomeruli with segmental sclerosis, (E) %LFA and % glomeruli with crescentic lesions, and (F) % non-reticular area and % glomeruli with crescentic lesions. Tonsillar %LFA was negatively correlated with the percentage of glomeruli with global sclerosis (<bold>A</bold>) (<italic toggle="yes">r</italic> = &#x2013;0.38, P &lt; 0.001), segmental sclerosis (C) (<italic toggle="yes">r</italic> = &#x2013;0.33, P = 0.001), and crescentic lesions (<bold>E</bold>) (<italic toggle="yes">r</italic> = &#x2013;0.27, P = 0.010). In contrast, % non-reticular area did not show a significant correlation with the percentage of glomeruli affected. Correlations were tested using nonparametric Spearman&#x2019;s correlation coefficient.</p>
+          </caption>
+          <graphic xlink:href="pone.0301853.g002" position="float"/>
+        </fig>
+        <table-wrap position="float" id="pone.0301853.t003">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0301853.t003</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Comparisons of kidney pathologies according to tertiles of the percentages of lymphoid follicular areas.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0301853.t003" id="pone.0301853.t003g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1"/>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">&#x3B2; Coefficient</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">95% CI</th>
+                  <th align="center" style="background-color:#DFDFDF" rowspan="1" colspan="1">p-value</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Female</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Intercept</td>
+                  <td align="center" rowspan="1" colspan="1">1.25</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;2.84&#x2013;&#x2212;5.35</td>
+                  <td align="center" rowspan="1" colspan="1">0.54</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Age</td>
+                  <td align="center" rowspan="1" colspan="1">0.68</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.45&#x2013;1.81</td>
+                  <td align="center" rowspan="1" colspan="1">0.23</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hypertension</td>
+                  <td align="center" rowspan="1" colspan="1">0.86</td>
+                  <td align="center" rowspan="1" colspan="1">0.24&#x2013;1.49</td>
+                  <td align="center" rowspan="1" colspan="1">0.007<xref rid="t003fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Time from urinary abnormalities to renal biopsy</td>
+                  <td align="center" rowspan="1" colspan="1">0.023</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.16&#x2013;0.21</td>
+                  <td align="center" rowspan="1" colspan="1">0.80</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">%LFA</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.057</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.09&#x2013;&#x2212;0.01</td>
+                  <td align="center" rowspan="1" colspan="1">0.006<xref rid="t003fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Male</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Intercept</td>
+                  <td align="center" rowspan="1" colspan="1">0.33</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;3.48&#x2013;4.16</td>
+                  <td align="center" rowspan="1" colspan="1">0.85</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Age</td>
+                  <td align="center" rowspan="1" colspan="1">0.73</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.30&#x2013;1.77</td>
+                  <td align="center" rowspan="1" colspan="1">0.159</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Hypertension</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.049</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.70&#x2013;0.60</td>
+                  <td align="center" rowspan="1" colspan="1">0.87</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Time from urinary abnormalities to renal biopsy</td>
+                  <td align="center" rowspan="1" colspan="1">0.37</td>
+                  <td align="center" rowspan="1" colspan="1">0.19&#x2013;0.55</td>
+                  <td align="center" rowspan="1" colspan="1">&lt;0.001<xref rid="t003fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">%LFA</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.05</td>
+                  <td align="center" rowspan="1" colspan="1">&#x2212;0.09&#x2013;&#x2212;0.008</td>
+                  <td align="center" rowspan="1" colspan="1">0.018<xref rid="t003fn002" ref-type="table-fn">*</xref></td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t003fn001">
+              <p>95% CI, confidence interval; %LFA, percentage of lymphoid follicular areas in total tonsillar tissue.</p>
+            </fn>
+            <fn id="t003fn002">
+              <p>* Statistically significant.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec018">
+      <title>Discussion</title>
+      <p>In this cross-sectional study, we showed that reductions in the size of lymphoid follicles and %LFA were more common in IgAN tonsils than in RT tonsils and that these histological changes in IgAN tonsils were mainly due to the reduction in the size of the germinal centers. Patients with IgAN with lower %LFA had longer durations of urinary abnormalities and more severe proteinuria at the time of diagnostic kidney biopsy. Furthermore, %LFA showed significant negative correlations with the frequency of glomeruli with both global and segmental sclerosis. These findings suggested that the accelerated involution of the germinal center in the tonsils and its degree were correlated with chronic progression of kidney disease. This indicates that the accelerated involution of the germinal center in the tonsils is critically involved in the pathogenesis and progression of IgAN.</p>
+      <p>In this study, we first demonstrated that IgAN tonsils consist of smaller lymphoid follicles comprising smaller germinal centers and mantle zones than RT tonsils. These findings are consistent with those of previous studies with small sample sizes [<xref rid="pone.0301853.ref010" ref-type="bibr">10</xref>,<xref rid="pone.0301853.ref011" ref-type="bibr">11</xref>]. Our analysis revealed that the % mantle zone area was comparable between the IgAN and RT tonsils. Thus, the smaller lymphoid follicles and lower %LFA in IgAN tonsils were mainly attributed to the reduction in the size of germinal centers compared with RT tonsils. Due to the lack of tonsils from healthy controls, we cannot conclude that these findings are characteristic of IgAN tonsils but not of tonsils from healthy subjects without tonsillar diseases. However, a previous report showed that the mean % germinal center area and % mantle zone area were lower in RT tonsils than in age-matched tonsils from patients without tonsillar disease [<xref rid="pone.0301853.ref014" ref-type="bibr">14</xref>], indicating that germinal center involution is a prominent feature of IgAN tonsils.</p>
+      <p>Next, we revealed that compared to patients with IgAN with higher %LFA, those with IgAN with lower %LFA had a longer period of urinary abnormalities and higher frequencies of hypertension, along with higher urinary protein excretion. Additionally, the %LFA was negatively correlated with the percentage of glomeruli with global or segmental sclerosis. Another cohort study on the beneficial effect of tonsillectomy for IgAN recurrence after kidney transplantation reported that patients with IgAN who underwent tonsillectomy after kidney transplantation had highly involuted germinal centers [<xref rid="pone.0301853.ref015" ref-type="bibr">15</xref>]. These findings suggest that the involution of the germinal center is associated with chronic progression of glomerular disease.</p>
+      <p>The germinal center is a compartment of secondary lymphoid follicles where T cell-dependent antibody responses occur, resulting in affinity maturation, isotype switching, and the generation of long-lived plasma cells and memory B cells. The mantle zone is mainly composed of recirculating na&#xEF;ve B cells. Aging potentially affects the immunocyte profile of the palatine tonsils. The total B-cell population and size of lymphoid follicles decrease after puberty as the ratio of T to B cells increases [<xref rid="pone.0301853.ref016" ref-type="bibr">16</xref>&#x2013;<xref rid="pone.0301853.ref018" ref-type="bibr">18</xref>]. Furthermore, the proportion of germinal center B cells in the total B cell population of the tonsil decreases with age, whereas the proportion of na&#xEF;ve B cells increases with age [<xref rid="pone.0301853.ref019" ref-type="bibr">19</xref>]. Thus, our observations of IgAN tonsils are similar to age-related changes in tonsils. Our study found that the median age of patients with IgAN was comparable between tertiles of %LFA. Furthermore, the %LFA was an independent predictor of the percentage of sclerosed glomeruli after adjusting for age. Another potential factor accelerating the involution of the germinal center in the IgAN tonsils is recurrent inflammation, which may influence the immunocyte profile in the palatine tonsils. In patients with RT tonsils, the density of immunoglobulin-producing B cells in germinal centers and extra-follicular areas is markedly and progressively reduced at an approximate age of &gt;10 years [<xref rid="pone.0301853.ref020" ref-type="bibr">20</xref>]. However, in our study, most patients with IgAN had no history of clinically apparent recurrent tonsillitis. Recently, overexpression of a proliferation-inducing ligand (APRIL) and Toll-like receptors (TLRs) in nasopharynx-associated lymphoid tissue (NALT) in patients and rodent models with IgAN has been reported and speculated to be involved in pathogenesis [<xref rid="pone.0301853.ref021" ref-type="bibr">21</xref>&#x2013;<xref rid="pone.0301853.ref025" ref-type="bibr">25</xref>]. Germinal centers in IgAN tonsils contain B cells that aberrantly express APRIL, which may be prone to the synthesis of galactose-deficient IgA1 in a T cell-independent manner [<xref rid="pone.0301853.ref021" ref-type="bibr">21</xref>,<xref rid="pone.0301853.ref026" ref-type="bibr">26</xref>]. Aberrant expression of APRIL in IgAN germinal centers can accelerate B cell apoptosis in the germinal center because receptor, transmembrane activator, and cyclophilin ligand interactor (TACI) signaling can induce this apoptosis [<xref rid="pone.0301853.ref027" ref-type="bibr">27</xref>,<xref rid="pone.0301853.ref028" ref-type="bibr">28</xref>]. In addition, persistent activation of the innate immune system via the aberrant expression of TRLs may accelerate the involution of reticulation lymphoepithelial symbiosis in crypt epithelia and attenuate antigen-specific humoral immune responses. We observed that the lack of reticulation in crypt epithelia was more severe in the IgAN tonsils than in the RT tonsils, as previously reported. Furthermore, % non-reticular area was inversely correlated with %LFA and % germinal center area, whereas a direct correlation was not observed between % non-reticular area and the proportion of sclerosed glomeruli. Notably, most of these tonsillar morphological changes insidiously proceed with chronic progression of kidney disease.</p>
+      <p>The major limitation of this study was that it was cross-sectional and morphological; we failed to establish an actual cause-and-effect relationship or address the underlying mechanism owing to the study&#x2019;s cross-sectional design. Additionally, all patients included in the study were Japanese; therefore, the findings of these studies may not be generalizable to patients from other regions or countries. Despite these limitations, this study adds to our understanding of the importance of tonsillar microenvironment in IgAN pathogenesis.</p>
+      <p>In conclusion, the present study showed that the degree of involution of secondary lymphoid follicles in IgAN tonsils is significantly correlated with the severity of proteinuria and the renal histopathology. These findings suggest that abnormal immune responses in the palatine tonsils are closely associated with IgAN progression. Further studies are required to clarify the underlying mechanism of the NALT&#x2013;kidney axis in IgAN.</p>
+    </sec>
+    <sec id="sec019" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0301853.s001" position="float" content-type="local-data">
+        <label>S1 Fig</label>
+        <caption>
+          <title>Lack of reticulation in crypt epithelia is more common in IgAN tonsils than in RT tonsils, and the percentage of non-reticular areas is negatively correlated with % lymphoid follicular area and % germinal center area.</title>
+          <p><bold>(A)</bold> Immunostaining with cytokeratin demonstrates crypt epithelia in the IgAN (right panel) and RT (left panel) tonsils. Lack of reticulation (arrow) in crypt epithelia is more frequently observed in IgAN tonsils than in RT tonsils. Magnification: 40&#xD7;; scale: 500 &#x3BC;m. <bold>(B)</bold> The median percentage of non-reticular area in the crypt epithelia (% non-reticular area) was higher in the IgAN tonsils than in the RT tonsils (P &lt; 0.001). <bold>(C and D)</bold> % non-reticular area was inversely correlated with % lymphoid follicular area (C) (<italic toggle="yes">r</italic> = &#x2212; 0.35, P = 0.001) and % germinal center area (D) (<italic toggle="yes">r</italic> = &#x2212; 0.26, P = 0.015).</p>
+          <p>(TIF)</p>
+        </caption>
+        <media xlink:href="pone.0301853.s001.tif"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0301853.s002" position="float" content-type="local-data">
+        <label>S1 File</label>
+        <caption>
+          <title>Dataset.</title>
+          <p>(CSV)</p>
+        </caption>
+        <media xlink:href="pone.0301853.s002.csv"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0301853.s003" position="float" content-type="local-data">
+        <label>S1 Dataset</label>
+        <caption>
+          <p>(CSV)</p>
+        </caption>
+        <media xlink:href="pone.0301853.s003.csv"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We sincerely thank Ms. Ishida Moeno for her outstanding technical support in immunofluorescence staining of the kidney specimens of the patients. We would like to thank Editage [<ext-link xlink:href="http://www.editage.com/" ext-link-type="uri">http://www.editage.com</ext-link>] for editing and reviewing this manuscript for the English language.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0301853.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Koyama</surname><given-names>A</given-names></name>, <name><surname>Igarashi</surname><given-names>M</given-names></name>, <name><surname>Kobayashi</surname><given-names>M</given-names></name>. <article-title>Natural history and risk factors for immunoglobulin a nephropathy in Japan</article-title>. <source>Am J Kidney Dis</source>. <year>1997</year>;<volume>29</volume>: <fpage>526</fpage>&#x2013;<lpage>532</lpage>.<pub-id pub-id-type="pmid">9100040</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Alamartine</surname><given-names>E</given-names></name>, <name><surname>Sabatier</surname><given-names>J-C</given-names></name>, <name><surname>Guerin</surname><given-names>C</given-names></name>, <name><surname>Berliet</surname><given-names>J-M</given-names></name>, <name><surname>Berthoux</surname><given-names>F</given-names></name>. <article-title>Prognostic Factors in Mesangial IgA Glomerulonephritis: An Extensive Study With Univariate and Multivariate Analyses</article-title>. <source>Am J Kidney Dis</source>. <year>1991</year>;<volume>18</volume>: <fpage>12</fpage>&#x2013;<lpage>19</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/s0272-6386(12)80284-8</pub-id>
+<pub-id pub-id-type="pmid">2063844</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>D&#x2019;Amico</surname><given-names>G.</given-names></name>
+<article-title>Clinical features and natural history in adults with IgA nephropathy</article-title>. <source>Am J Kidney Dis</source>. <year>1988</year>;<volume>12</volume>: <fpage>353</fpage>&#x2013;<lpage>357</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/s0272-6386(88)80023-4</pub-id>
+<pub-id pub-id-type="pmid">3055956</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Kawamura</surname><given-names>T</given-names></name>, <name><surname>Yoshimura</surname><given-names>M</given-names></name>, <name><surname>Miyazaki</surname><given-names>Y</given-names></name>, <name><surname>Okamoto</surname><given-names>H</given-names></name>, <name><surname>Kimura</surname><given-names>K</given-names></name>, <name><surname>Hirano</surname><given-names>K</given-names></name>, <etal>et al</etal>. <article-title>A multicenter randomized controlled trial of tonsillectomy combined with steroid pulse therapy in patients with immunoglobulin A nephropathy.</article-title>
+<source>Nephrol Dial Transplant</source>. <year>2014</year>;<volume>29</volume>: <fpage>1546</fpage>&#x2013;<lpage>1553</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/ndt/gfu020</pub-id>
+<pub-id pub-id-type="pmid">24596084</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Hirano</surname><given-names>K</given-names></name>, <name><surname>Matsuzaki</surname><given-names>K</given-names></name>, <name><surname>Yasuda</surname><given-names>T</given-names></name>, <name><surname>Nishikawa</surname><given-names>M</given-names></name>, <name><surname>Yasuda</surname><given-names>Y</given-names></name>, <name><surname>Koike</surname><given-names>K</given-names></name>, <etal>et al</etal>. <article-title>Association Between Tonsillectomy and Outcomes in Patients With Immunoglobulin A Nephropathy</article-title>. <source>JAMA Netw Open</source>. <year>2019</year>;<volume>2</volume>: <fpage>e194772</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1001/jamanetworkopen.2019.4772</pub-id>
+<pub-id pub-id-type="pmid">31150076</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="book"><name><surname>Brandtzaeg</surname><given-names>P</given-names></name>. <part-title>Chapter 103&#x2014;Immunobiology of the Tonsils and Adenoids.</part-title> In: <name><surname>Mestecky</surname><given-names>J</given-names></name>, <name><surname>Strober</surname><given-names>W</given-names></name>, <name><surname>Russell</surname><given-names>MW</given-names></name>, <name><surname>Kelsall</surname><given-names>BL</given-names></name>, <name><surname>Cheroutre</surname><given-names>H</given-names></name>, <name><surname>Lambrecht</surname><given-names>BN</given-names></name>, editors. <source>Mucosal Immunology (Fourth Edition).</source>
+<publisher-loc>Boston</publisher-loc>: <publisher-name>Academic Press</publisher-name>; <year>2015</year>. pp. <fpage>1985</fpage>&#x2013;<lpage>2016</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Siegel</surname><given-names>G</given-names></name>, <name><surname>Linse</surname><given-names>R</given-names></name>, <name><surname>Macheleidt</surname><given-names>S</given-names></name>. <article-title>Factors of tonsillar involution: age-dependent changes in B-cell activation and Langerhans&#x2019; cell density</article-title>. <source>Arch Otorhinolaryngol</source>. <year>1982</year>;<volume>236</volume>: <fpage>261</fpage>&#x2013;<lpage>269</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/BF00454218</pub-id>
+<pub-id pub-id-type="pmid">6984327</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Jung</surname><given-names>KY</given-names></name>, <name><surname>Lim</surname><given-names>HH</given-names></name>, <name><surname>Choi</surname><given-names>G</given-names></name>, <name><surname>Choi</surname><given-names>JO</given-names></name>. <article-title>Age-related changes of IgA immunocytes and serum and salivary IgA after tonsillectomy.</article-title>
+<source>Acta Otolaryngol Suppl</source>. <year>1996</year>;<volume>523</volume>: <fpage>115</fpage>&#x2013;<lpage>119</lpage>. <pub-id pub-id-type="pmid">9082753</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Sato</surname><given-names>Y</given-names></name>, <name><surname>Hotta</surname><given-names>O</given-names></name>, <name><surname>Taguma</surname><given-names>Y</given-names></name>, <name><surname>Takasaka</surname><given-names>T</given-names></name>, <name><surname>Nose</surname><given-names>M</given-names></name>. <article-title>IgA nephropathy with poorly developed lymphoepithelial symbiosis of the palatine tonsils</article-title>. <source>Nephron</source>. <year>1996</year>;<volume>74</volume>: <fpage>301</fpage>&#x2013;<lpage>308</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1159/000189325</pub-id>
+<pub-id pub-id-type="pmid">8893145</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Adachi</surname><given-names>M</given-names></name>, <name><surname>Sato</surname><given-names>M</given-names></name>, <name><surname>Miyazaki</surname><given-names>M</given-names></name>, <name><surname>Hotta</surname><given-names>O</given-names></name>, <name><surname>Hozawa</surname><given-names>K</given-names></name>, <name><surname>Sato</surname><given-names>T</given-names></name>, <etal>et al</etal>. <article-title>Steroid pulse therapy transiently destroys the discriminative histological structure of tonsils in IgA nephropathy: Tonsillectomy should be performed before or just after steroid pulse therapy</article-title>. <source>Auris Nasus Larynx</source>. <year>2018</year>;<volume>45</volume>: <fpage>1206</fpage>&#x2013;<lpage>1213</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.anl.2018.04.009</pub-id>
+<pub-id pub-id-type="pmid">29789195</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Takechi</surname><given-names>H</given-names></name>, <name><surname>Oda</surname><given-names>T</given-names></name>, <name><surname>Hotta</surname><given-names>O</given-names></name>, <name><surname>Yamamoto</surname><given-names>K</given-names></name>, <name><surname>Oshima</surname><given-names>N</given-names></name>, <name><surname>Matsunobu</surname><given-names>T</given-names></name>, <etal>et al</etal>. <article-title>Clinical and immunological implications of increase in CD208+ dendritic cells in tonsils of patients with immunoglobulin A nephropathy.</article-title>
+<source>Nephrol Dial Transplant</source>. <year>2013</year>;<volume>28</volume>: <fpage>3004</fpage>&#x2013;<lpage>3013</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/ndt/gft399</pub-id>
+<pub-id pub-id-type="pmid">24081865</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Brandtzaeg</surname><given-names>P</given-names></name>, <name><surname>Surjan</surname><given-names>L</given-names><suffix>Jr</suffix></name>, <name><surname>Berdal</surname><given-names>P</given-names></name>. <article-title>Immunoglobulin systems of human tonsils. I. Control subjects of various ages: quantification of Ig-producing cells, tonsillar morphometry and serum Ig concentrations</article-title>. <source>Clin Exp Immunol</source>. <year>1978</year>;<volume>31</volume>: <fpage>367</fpage>&#x2013;<lpage>381</lpage>. <pub-id pub-id-type="pmid">350457</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><collab>Working Group of the International IgA Nephropathy Network and the Renal Pathology Society</collab>, <name><surname>Roberts</surname><given-names>ISD</given-names></name>, <name><surname>Cook</surname><given-names>HT</given-names></name>, <name><surname>Troyanov</surname><given-names>S</given-names></name>, <name><surname>Alpers</surname><given-names>CE</given-names></name>, <name><surname>Amore</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>The Oxford classification of IgA nephropathy: pathology definitions, correlations, and reproducibility</article-title>. <source>Kidney Int</source>. <year>2009</year>;<volume>76</volume>: <fpage>546</fpage>&#x2013;<lpage>556</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/ki.2009.168</pub-id>
+<pub-id pub-id-type="pmid">19571790</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Korsrud</surname><given-names>FR</given-names></name>, <name><surname>Brandtzaeg</surname><given-names>P</given-names></name>. <article-title>Immune systems of human nasopharyngeal and palatine tonsils: histomorphometry of lymphoid components and quantification of immunoglobulin-producing cells in health and disease</article-title>. <source>Clin Exp Immunol</source>. <year>1980</year>;<volume>39</volume>: <fpage>361</fpage>&#x2013;<lpage>370</lpage>. <pub-id pub-id-type="pmid">6993071</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Kawabe</surname><given-names>M</given-names></name>, <name><surname>Yamamoto</surname><given-names>I</given-names></name>, <name><surname>Yamakawa</surname><given-names>T</given-names></name>, <name><surname>Katsumata</surname><given-names>H</given-names></name>, <name><surname>Isaka</surname><given-names>N</given-names></name>, <name><surname>Katsuma</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Association Between Galactose-Deficient IgA1 Derived From the Tonsils and Recurrence of IgA Nephropathy in Patients Who Underwent Kidney Transplantation.</article-title>
+<source>Front Immunol</source>. <year>2020</year>;<volume>11</volume>: <fpage>2068</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fimmu.2020.02068</pub-id>
+<pub-id pub-id-type="pmid">33013875</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Wiatrak</surname><given-names>BJ</given-names></name>, <name><surname>Woolley</surname><given-names>AL</given-names></name>. <article-title>Pharyngitis and adenotonsillar disease</article-title>. <source>Otolaryngology Head and Neck Surgery, ed.</source>
+<year>2005</year>;<volume>3</volume>: <fpage>188</fpage>&#x2013;<lpage>215</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Tajima</surname><given-names>K.</given-names></name>
+<article-title>Age changes in the human palatine tonsils, with remarks on the histology of the secondary nodules</article-title>. <source>Arch Histol Jpn</source>. <year>1967</year>;<volume>28</volume>: <fpage>63</fpage>&#x2013;<lpage>78</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1679/aohc1950.28.63</pub-id>
+<pub-id pub-id-type="pmid">6067856</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Harada</surname><given-names>K.</given-names></name>
+<article-title>[The histopathological study of human palatine tonsils&#x2014;especially age changes].</article-title>
+<source>Nihon Jibiinkoka Gakkai Kaiho</source>. <year>1989</year>;<volume>92</volume>: <fpage>1049</fpage>&#x2013;<lpage>1064</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3950/jibiinkoka.92.1049</pub-id>
+<pub-id pub-id-type="pmid">2809872</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Kolar</surname><given-names>GR</given-names></name>, <name><surname>Mehta</surname><given-names>D</given-names></name>, <name><surname>Wilson</surname><given-names>PC</given-names></name>, <name><surname>Capra</surname><given-names>JD</given-names></name>. <article-title>Diversity of the Ig repertoire is maintained with age in spite of reduced germinal centre cells in human tonsil lymphoid tissue</article-title>. <source>Scand J Immunol</source>. <year>2006</year>;<volume>64</volume>: <fpage>314</fpage>&#x2013;<lpage>324</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/j.1365-3083.2006.01817.x</pub-id>
+<pub-id pub-id-type="pmid">16918701</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Surjan</surname><given-names>L</given-names><suffix>Jr</suffix></name>, <name><surname>Brandtzaeg</surname><given-names>P</given-names></name>, <name><surname>Berdal</surname><given-names>P</given-names></name>. <article-title>Immunoglobulin systems of human tonsils. II. Patients with chronic tonsillitis or tonsillar hyperplasia: quantification of Ig-producing cells, tonsillar morphometry and serum Ig concentrations</article-title>. <source>Clin Exp Immunol</source>. <year>1978</year>;<volume>31</volume>: <fpage>382</fpage>&#x2013;<lpage>390</lpage>. <pub-id pub-id-type="pmid">350458</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Muto</surname><given-names>M</given-names></name>, <name><surname>Manfroi</surname><given-names>B</given-names></name>, <name><surname>Suzuki</surname><given-names>H</given-names></name>, <name><surname>Joh</surname><given-names>K</given-names></name>, <name><surname>Nagai</surname><given-names>M</given-names></name>, <name><surname>Wakai</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Toll-Like Receptor 9 Stimulation Induces Aberrant Expression of a Proliferation-Inducing Ligand by Tonsillar Germinal Center B Cells in IgA Nephropathy</article-title>. <source>J Am Soc Nephrol</source>. <year>2017</year>;<volume>28</volume>: <fpage>1227</fpage>&#x2013;<lpage>1238</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1681/ASN.2016050496</pub-id>
+<pub-id pub-id-type="pmid">27920152</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Kano</surname><given-names>T</given-names></name>, <name><surname>Suzuki</surname><given-names>H</given-names></name>, <name><surname>Makita</surname><given-names>Y</given-names></name>, <name><surname>Fukao</surname><given-names>Y</given-names></name>, <name><surname>Suzuki</surname><given-names>Y</given-names></name>. <article-title>Nasal-associated lymphoid tissue is the major induction site for nephritogenic IgA in murine IgA nephropathy</article-title>. <source>Kidney Int</source>. <year>2021</year>;<volume>100</volume>: <fpage>364</fpage>&#x2013;<lpage>376</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.kint.2021.04.026</pub-id>
+<pub-id pub-id-type="pmid">33961870</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Suzuki</surname><given-names>H</given-names></name>, <name><surname>Suzuki</surname><given-names>Y</given-names></name>, <name><surname>Narita</surname><given-names>I</given-names></name>, <name><surname>Aizawa</surname><given-names>M</given-names></name>, <name><surname>Kihara</surname><given-names>M</given-names></name>, <name><surname>Yamanaka</surname><given-names>T</given-names></name>, <etal>et al</etal>. <article-title>Toll-like receptor 9 affects severity of IgA nephropathy</article-title>. <source>J Am Soc Nephrol</source>. <year>2008</year>;<volume>19</volume>: <fpage>2384</fpage>&#x2013;<lpage>2395</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1681/ASN.2007121311</pub-id>
+<pub-id pub-id-type="pmid">18776126</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Sato</surname><given-names>D</given-names></name>, <name><surname>Suzuki</surname><given-names>Y</given-names></name>, <name><surname>Kano</surname><given-names>T</given-names></name>, <name><surname>Suzuki</surname><given-names>H</given-names></name>, <name><surname>Matsuoka</surname><given-names>J</given-names></name>, <name><surname>Yokoi</surname><given-names>H</given-names></name>, <etal>et al</etal>. <article-title>Tonsillar TLR9 expression and efficacy of tonsillectomy with steroid pulse therapy in IgA nephropathy patients.</article-title>
+<source>Nephrol Dial Transplant</source>. <year>2012</year>;<volume>27</volume>: <fpage>1090</fpage>&#x2013;<lpage>1097</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/ndt/gfr403</pub-id>
+<pub-id pub-id-type="pmid">21778277</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Goto</surname><given-names>T</given-names></name>, <name><surname>Bandoh</surname><given-names>N</given-names></name>, <name><surname>Yoshizaki</surname><given-names>T</given-names></name>, <name><surname>Nozawa</surname><given-names>H</given-names></name>, <name><surname>Takahara</surname><given-names>M</given-names></name>, <name><surname>Ueda</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Increase in B-cell-activation factor (BAFF) and IFN-gamma productions by tonsillar mononuclear cells stimulated with deoxycytidyl-deoxyguanosine oligodeoxynucleotides (CpG-ODN) in patients with IgA nephropathy.</article-title>
+<source>Clin Immunol</source>. <year>2008</year>;<volume>126</volume>: <fpage>260</fpage>&#x2013;<lpage>269</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.clim.2007.11.003</pub-id>
+<pub-id pub-id-type="pmid">18249037</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Yamaguchi</surname><given-names>H</given-names></name>, <name><surname>Goto</surname><given-names>S</given-names></name>, <name><surname>Takahashi</surname><given-names>N</given-names></name>, <name><surname>Tsuchida</surname><given-names>M</given-names></name>, <name><surname>Watanabe</surname><given-names>H</given-names></name>, <name><surname>Yamamoto</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Aberrant mucosal immunoreaction to tonsillar microbiota in immunoglobulin A nephropathy.</article-title>
+<source>Nephrol Dial Transplant</source>. <year>2021</year>;<volume>36</volume>: <fpage>75</fpage>&#x2013;<lpage>86</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/ndt/gfaa223</pub-id>
+<pub-id pub-id-type="pmid">33099625</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><name><surname>Tsuji</surname><given-names>S</given-names></name>, <name><surname>Stein</surname><given-names>L</given-names></name>, <name><surname>Kamada</surname><given-names>N</given-names></name>, <name><surname>Nu&#xF1;ez</surname><given-names>G</given-names></name>, <name><surname>Bram</surname><given-names>R</given-names></name>, <name><surname>Vallance</surname><given-names>BA</given-names></name>, <etal>et al</etal>. <article-title>TACI deficiency enhances antibody avidity and clearance of an intestinal pathogen</article-title>. <source>J Clin Invest</source>. <year>2014</year>;<volume>124</volume>: <fpage>4857</fpage>&#x2013;<lpage>4866</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1172/JCI74428</pub-id>
+<pub-id pub-id-type="pmid">25271628</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0301853.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Yan</surname><given-names>M</given-names></name>, <name><surname>Wang</surname><given-names>H</given-names></name>, <name><surname>Chan</surname><given-names>B</given-names></name>, <name><surname>Roose-Girma</surname><given-names>M</given-names></name>, <name><surname>Erickson</surname><given-names>S</given-names></name>, <name><surname>Baker</surname><given-names>T</given-names></name>, <etal>et al</etal>. <article-title>Activation and accumulation of B cells in TACI-deficient mice</article-title>. <source>Nat Immunol</source>. <year>2001</year>;<volume>2</volume>: <fpage>638</fpage>&#x2013;<lpage>643</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/89790</pub-id>
+<pub-id pub-id-type="pmid">11429549</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

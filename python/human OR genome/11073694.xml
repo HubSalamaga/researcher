@@ -1,0 +1,856 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS One</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709734</article-id><article-id pub-id-type="pmc">11073694</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0302569</article-id><article-id pub-id-type="publisher-id">PONE-D-23-38526</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Infectious Diseases</subject><subj-group><subject>Bacterial Diseases</subject><subj-group><subject>Osteomyelitis</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Rheumatology</subject><subj-group><subject>Connective Tissue Diseases</subject><subj-group><subject>Osteomyelitis</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Bacteriology</subject><subj-group><subject>Bacterial Taxonomy</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Taxonomy</subject><subj-group><subject>Microbial Taxonomy</subject><subj-group><subject>Bacterial Taxonomy</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Computer and Information Sciences</subject><subj-group><subject>Data Management</subject><subj-group><subject>Taxonomy</subject><subj-group><subject>Microbial Taxonomy</subject><subj-group><subject>Bacterial Taxonomy</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbiome</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Genetics</subject><subj-group><subject>Genomics</subject><subj-group><subject>Microbial Genomics</subject><subj-group><subject>Microbiome</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Microbial Genomics</subject><subj-group><subject>Microbiome</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Genetics</subject><subj-group><subject>Genomics</subject><subj-group><subject>Metagenomics</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Molecular biology</subject><subj-group><subject>Molecular biology techniques</subject><subj-group><subject>Cloning</subject><subj-group><subject>DNA cloning</subject><subj-group><subject>Shotgun Sequencing</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and analysis methods</subject><subj-group><subject>Molecular biology techniques</subject><subj-group><subject>Cloning</subject><subj-group><subject>DNA cloning</subject><subj-group><subject>Shotgun Sequencing</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Molecular Biology</subject><subj-group><subject>Molecular Biology Techniques</subject><subj-group><subject>Sequencing Techniques</subject><subj-group><subject>Shotgun Sequencing</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Molecular Biology Techniques</subject><subj-group><subject>Sequencing Techniques</subject><subj-group><subject>Shotgun Sequencing</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Taxonomy</subject><subj-group><subject>Microbial Taxonomy</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Computer and Information Sciences</subject><subj-group><subject>Data Management</subject><subj-group><subject>Taxonomy</subject><subj-group><subject>Microbial Taxonomy</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Bacteria</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Bacteriology</subject><subj-group><subject>Bacterial Genetics</subject><subj-group><subject>Bacterial Genomics</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Genetics</subject><subj-group><subject>Microbial Genetics</subject><subj-group><subject>Bacterial Genetics</subject><subj-group><subject>Bacterial Genomics</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Genetics</subject><subj-group><subject>Genomics</subject><subj-group><subject>Microbial Genomics</subject><subj-group><subject>Bacterial Genomics</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Microbial Genomics</subject><subj-group><subject>Bacterial Genomics</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Shotgun metagenomic analysis of saliva microbiome suggests <italic toggle="yes">Mogibacterium</italic> as a factor associated with chronic bacterial osteomyelitis</article-title><alt-title alt-title-type="running-head">Association between <italic toggle="yes">Mogibacterium</italic> and chronic bacterial osteomyelitis</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6366-8652</contrib-id><name><surname>Yahara</surname><given-names>Hiroko</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-2372-8347</contrib-id><name><surname>Yanamoto</surname><given-names>Souichi</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Takahashi</surname><given-names>Miho</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hamada</surname><given-names>Yuji</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Asaka</surname><given-names>Takuya</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kitagawa</surname><given-names>Yoshimasa</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Moridera</surname><given-names>Kuniyasu</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Noguchi</surname><given-names>Kazuma</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Maruoka</surname><given-names>Yutaka</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-4289-1115</contrib-id><name><surname>Yahara</surname><given-names>Koji</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="http://credit.niso.org/contributor-roles/software/">Software</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff007" ref-type="aff">
+<sup>7</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Genome Medical Science Project, Research Institute, National Center for Global Health and Medicine, Tokyo, Japan</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Department of Oral Oncology, Graduate School of Biomedical and Health Sciences, Hiroshima University, Hiroshima, Japan</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>Department of Oral and Maxillofacial Surgery, Tokai University Hachioji Hospital, Tokyo, Japan</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>Department of Oral Diagnosis and Medicine, Hokkaido University Graduate School of Dental Medicine, Sapporo, Japan</addr-line></aff><aff id="aff005"><label>5</label>
+<addr-line>Department of Oral and Maxillofacial Surgery, School of Medicine, Hyogo Medical University, Hyogo, Japan</addr-line></aff><aff id="aff006"><label>6</label>
+<addr-line>Department of Oral and Maxillofacial Surgery, Center Hospital of the National Center for Global Health and Medicine, Tokyo, Japan</addr-line></aff><aff id="aff007"><label>7</label>
+<addr-line>Antimicrobial Resistance Research Center, National Institute of Infectious Diseases, Tokyo, Japan</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Spekker</surname><given-names>Olga</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>University of Szeged Institute of Biology: Szegedi Tudomanyegyetem Biologia Intezet, HUNGARY</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors declare that they have no competing interests.</p></fn><corresp id="cor001">* E-mail: <email>h-yahara@ri.ncgm.go.jp</email> (HY); <email>k-yahara@niid.go.jp</email> (KY)</corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>19</volume><issue>5</issue><elocation-id>e0302569</elocation-id><history><date date-type="received"><day>30</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>8</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Yahara et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Yahara et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pone.0302569.pdf"/><abstract><p>Osteomyelitis of the jaw is a severe inflammatory disorder that affects bones, and it is categorized into two main types: chronic bacterial and nonbacterial osteomyelitis. Although previous studies have investigated the association between these diseases and the oral microbiome, the specific taxa associated with each disease remain unknown. In this study, we conducted shotgun metagenome sequencing (&#x2265;10 Gb from &#x2265;66,395,670 reads per sample) of bulk DNA extracted from saliva obtained from patients with chronic bacterial osteomyelitis (N = 5) and chronic nonbacterial osteomyelitis (N = 10). We then compared the taxonomic composition of the metagenome in terms of both taxonomic and sequence abundances with that of healthy controls (N = 5). Taxonomic profiling revealed a statistically significant increase in both the taxonomic and sequence abundance of <italic toggle="yes">Mogibacterium</italic> in cases of chronic bacterial osteomyelitis; however, such enrichment was not observed in chronic nonbacterial osteomyelitis. We also compared a previously reported core saliva microbiome (59 genera) with our data and found that out of the 74 genera detected in this study, 47 (including <italic toggle="yes">Mogibacterium</italic>) were not included in the previous meta-analysis. Additionally, we analyzed a core-genome tree of <italic toggle="yes">Mogibacterium</italic> from chronic bacterial osteomyelitis and healthy control samples along with a reference complete genome and found that <italic toggle="yes">Mogibacterium</italic> from both groups was indistinguishable at the core-genome and pan-genome levels. Although limited by the small sample size, our study provides novel evidence of a significant increase in <italic toggle="yes">Mogibacterium</italic> abundance in the chronic bacterial osteomyelitis group. Moreover, our study presents a comparative analysis of the taxonomic and sequence abundances of all genera detected using deep salivary shotgun metagenome data. The distinct enrichment of <italic toggle="yes">Mogibacterium</italic> suggests its potential as a marker to distinguish between patients with chronic nonbacterial osteomyelitis and chronic bacterial osteomyelitis, particularly at the early stages when differences are unclear.</p></abstract><funding-group><award-group id="award001"><funding-source>
+<institution>Scientific Research of Education, Culture, Science, Sports, and Technology (MEXT) from Japan</institution>
+</funding-source><award-id>19J40070</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6366-8652</contrib-id>
+<name><surname>Yahara</surname><given-names>Hiroko</given-names></name>
+</principal-award-recipient></award-group><award-group id="award002"><funding-source>
+<institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100012319</institution-id><institution>National Center for Global Health and Medicine</institution></institution-wrap>
+</funding-source><award-id>23A3001</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6366-8652</contrib-id>
+<name><surname>Yahara</surname><given-names>Hiroko</given-names></name>
+</principal-award-recipient></award-group><funding-statement>This study was supported by a Grant-in-Aid for Scientific Research of Education, Culture, Science, Sports, and Technology (MEXT) from Japan (19J40070 to H.Y.). This work was supported in part by Grants-in-Aid for Research from the National Center for Global Health and Medicine (23A3001). he funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="14"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the manuscript and its <xref rid="sec016" ref-type="sec">Supporting information</xref> files.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the manuscript and its <xref rid="sec016" ref-type="sec">Supporting information</xref> files.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec001">
+      <title>Introduction</title>
+      <p>Osteomyelitis of the jaw is a severe inflammatory disorder that affects the bones, and it is challenging to treat owing to the high recurrence rate of the chronic forms. However, the lack of international consensus on the definitions of these forms hampers their diagnosis. Similarly, differences in the treatment strategies reflect an inadequate understanding of the predisposing factors and processes leading to jaw osteomyelitis.</p>
+      <p>Osteomyelitis of the jaw is not a unique condition, and two main types have been described in the literature. The first type is characterized by an apparent odontogenic infectious etiology and is typically defined as secondary chronic osteomyelitis [<xref rid="pone.0302569.ref001" ref-type="bibr">1</xref>]. Herein, we refer to it as chronic bacterial osteomyelitis, where identifiable infectious pathogens are present, leading to suppurative variants characterized by the presence of pus, abscesses, fistulas, and/or sequestrations [<xref rid="pone.0302569.ref002" ref-type="bibr">2</xref>]. The second type of osteomyelitis is the non-suppurative chronic variant, which is defined as a chronic inflammatory disorder of unknown etiology [<xref rid="pone.0302569.ref003" ref-type="bibr">3</xref>]. Herein, we refer to this condition as chronic nonbacterial osteomyelitis (CNO), which encompasses primary chronic osteomyelitis, diffuse sclerosing osteomyelitis, juvenile mandibular chronic osteomyelitis, and chronic recurrent multifocal osteomyelitis. Although CNO does not exclude the presence of pathogens, it is considered a chronic variant without suppurative characteristics [<xref rid="pone.0302569.ref004" ref-type="bibr">4</xref>].</p>
+      <p>The influence of genetic and immunological backgrounds on CNO is not completely understood. A recent study defined the alleles of all 35 human leukocyte antigen (HLA) loci and haplotype structures of the killer cell immunoglobulin-like receptor (KIR) region and identified a specific amino acid substitution in HLA-C in combination with the telomeric KIR genotype, which had a significantly higher frequency in the CNO population compared to the control population [<xref rid="pone.0302569.ref005" ref-type="bibr">5</xref>]. Another recent study investigated CNO based on whole blood RNA sequencing (&gt;6 Gb per sample) of 11 patients and 9 healthy controls in Japan and employed a recently developed method suitable for small datasets. This study revealed subnetworks of genes underlying patient characteristics and identified the gene encoding glycophorin C with the highest discrimination ability [<xref rid="pone.0302569.ref006" ref-type="bibr">6</xref>].</p>
+      <p>Although CNO is an inflammatory disorder, the mechanisms triggering this inflammatory process are poorly understood. Several authors have reported negative bacterial culturing from biopsies, indicating a nonbacterial origin [<xref rid="pone.0302569.ref003" ref-type="bibr">3</xref>, <xref rid="pone.0302569.ref007" ref-type="bibr">7</xref>]. The inflammatory nonsuppurative process supports the suspicion of an autoimmune etiology. Recent studies have highlighted the role of the microbiome in the pathogenesis of autoimmune diseases [<xref rid="pone.0302569.ref008" ref-type="bibr">8</xref>, <xref rid="pone.0302569.ref009" ref-type="bibr">9</xref>]. These studies suggest that the microbiome not only directly influences the pathogenesis of osteomyelitis but also indirectly affects it through biochemical signals produced by the microbiota of non-osseous tissues that trigger cells and microbes within the osteomyelitis tissue. A recent pilot study focusing on chronic recurrent multifocal osteomyelitis, a severe systemic type of CNO involving multifocal autoinflammatory bone lesions, applied 16S rRNA gene sequencing to oral swab samples from patients. This study reported a shift in the composition of the oral microbiome among patients treated with different medications, although specific taxa significantly associated with the disease were not identified or discussed [<xref rid="pone.0302569.ref010" ref-type="bibr">10</xref>].</p>
+      <p>Several studies have previously explored the associations between chronic bacterial osteomyelitis and microbial infection, as summarized in a recent review [<xref rid="pone.0302569.ref011" ref-type="bibr">11</xref>]. For example, an <italic toggle="yes">Escherichia coli</italic> strain exhibiting multiple antibiotic resistance was cultured from bilateral maxillary osteomyelitis of a patient with diabetes [<xref rid="pone.0302569.ref012" ref-type="bibr">12</xref>]. <italic toggle="yes">Actinomyces</italic> identified from patients with maxillary osteomyelitis were suggested to be derived from pulpal or periodontal infections [<xref rid="pone.0302569.ref013" ref-type="bibr">13</xref>]. Another study that sampled infected bone detected three predominant commensal anaerobic strains (<italic toggle="yes">Parvimonas micra</italic>, <italic toggle="yes">Staphylococcus</italic> spp., and <italic toggle="yes">Fusobacterium nucleatum</italic>) through PCR analysis [<xref rid="pone.0302569.ref014" ref-type="bibr">14</xref>]. Additionally, 16S rRNA gene sequencing of bone samples of different types of osteomyelitis, including chronic bacterial osteomyelitis (suppurative osteomyelitis) and CNO, reported that the core microbiome is predominantly composed of anaerobic microbes, such as <italic toggle="yes">Fusobacterium nucleatum</italic>, <italic toggle="yes">Tannerella</italic> sp., and <italic toggle="yes">Porphyromonas</italic> sp. [<xref rid="pone.0302569.ref015" ref-type="bibr">15</xref>].</p>
+      <p>However, approaches based on bacterial culture and PCR have limitations and may miss unculturable microbes associated with the disease. Although 16S rRNA gene sequencing is widely used, it also has limitations, such as the introduction of biases from several sources, including PCR amplification, primer design, and sequencing artifacts [<xref rid="pone.0302569.ref016" ref-type="bibr">16</xref>]. Furthermore, the previous study that employed 16S rRNA gene sequencing on bone samples [<xref rid="pone.0302569.ref015" ref-type="bibr">15</xref>] did not distinguish between chronic bacterial osteomyelitis and CNO and instead focused on reclassification into three clinical stages. A recent review citing a previous 16S rRNA study concluded that no conclusive microbiome analyses of chronic bacterial osteomyelitis of the jaw have been reported [<xref rid="pone.0302569.ref011" ref-type="bibr">11</xref>]. Therefore, the contribution of the increased prevalence of specific microbial taxa in the oral microbiota to osteomyelitis remains unknown. Additionally, 16S rRNA gene sequencing does not provide information on the presence, abundance, or function of specific genes in the microbiome.</p>
+      <p>To address these current challenges, we conducted shotgun metagenome sequencing (&#x2265;10 Gb per sample) of bulk DNA extracted from the saliva of patients with chronic bacterial osteomyelitis and CNO. We then compared the metagenome data with those of healthy controls in Japan from our previous study [<xref rid="pone.0302569.ref017" ref-type="bibr">17</xref>], which were generated using the same sample collection and DNA extraction protocols as the present study and are publicly available. Through comparative quantitative analyses of the taxonomic compositions of these deep metagenomes in terms of both taxonomic and sequence abundances, we found a statistically significant increase in the abundance of <italic toggle="yes">Mogibacterium</italic> in chronic bacterial osteomyelitis, which suggests its potential as a marker to distinguish between patients with CNO and chronic bacterial osteomyelitis.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec002">
+      <title>Methods</title>
+      <sec id="sec003">
+        <title>Diagnostic criteria</title>
+        <p>Although various diagnostic techniques are employed to assess osteomyelitis, the consensus among authors is that the final diagnosis should be based on multiple criteria, including clinical presentation, patient history, and imaging techniques [<xref rid="pone.0302569.ref018" ref-type="bibr">18</xref>]. In cases of chronic osteomyelitis, the presence of infectious pathogens can be observed in different stages, namely in pus, abscess/fistula, and sequestration. In most of these cases, there is an apparent odontogenic or infectious etiology, typically resulting from trauma that introduces pathogens into the tissues. In this study, this condition was defined as chronic bacterial osteomyelitis.</p>
+        <p>The diagnostic criteria for CNO were consistent with those used in our previous study [<xref rid="pone.0302569.ref005" ref-type="bibr">5</xref>]: 1) recurrent pain and swelling; 2) radiographic appearance of a mixed pattern of sclerosis and osteolysis, and uptake of scintigraphic agents (such as technetium 99 m) in the jawbone; 3) limited or no response to antibiotic treatment; and 4) increased bone resorption and deposition, along with varying degrees of bone sclerosis and medullary fibrosis, without suspicion of malignancy.</p>
+      </sec>
+      <sec id="sec004">
+        <title>Sample collection, DNA extraction, and metagenome sequencing</title>
+        <p>In total, 15 Japanese patients were prospectively enrolled in this study, including 5 with chronic bacterial osteomyelitis and 10 with CNO (<xref rid="pone.0302569.s002" ref-type="supplementary-material">S1 Table</xref>). Based on previous reports that microbial profiles within subjects were stable throughout a 24-h period [<xref rid="pone.0302569.ref019" ref-type="bibr">19</xref>] and that similar profiles could be obtained from unstimulated and stimulated saliva [<xref rid="pone.0302569.ref020" ref-type="bibr">20</xref>], 1 mL of unstimulated saliva was collected and stored using a specialized kit for microbial and viral DNA/RNA (OMNIgene ORAL OM-501), following established protocols [<xref rid="pone.0302569.ref017" ref-type="bibr">17</xref>, <xref rid="pone.0302569.ref021" ref-type="bibr">21</xref>]. The collected samples were used for DNA extraction and metagenomic sequencing.</p>
+        <p>DNA extraction from the saliva samples was performed using an enzymatic method that was previously applied to saliva samples [<xref rid="pone.0302569.ref017" ref-type="bibr">17</xref>, <xref rid="pone.0302569.ref022" ref-type="bibr">22</xref>]. The extracted DNA samples were stored in 50 &#x3BC;L of pure water and used for library construction and genome sequencing using the Illumina HiSeq 2 &#xD7; 150 bp paired-end run protocol. The raw sequence data generated for the patients ranged from 10.0 to 22.8 Gb (<xref rid="pone.0302569.s002" ref-type="supplementary-material">S1 Table</xref>). The sequencing depth per base averaged 74. Metagenomic data of five healthy controls that were previously sequenced and are publicly available [<xref rid="pone.0302569.ref017" ref-type="bibr">17</xref>] (<xref rid="pone.0302569.s002" ref-type="supplementary-material">S1 Table</xref>) were included in this study.</p>
+      </sec>
+      <sec id="sec005">
+        <title>Preprocessing, taxonomic profiling, and functional profiling</title>
+        <p>The EDGE pipeline version 1.5 [<xref rid="pone.0302569.ref023" ref-type="bibr">23</xref>] was used for preprocessing (trimming or filtering out reads and removing reads mapped to the human genome) of the HiSeq data. The initial quality control step discarded 0.06&#x2013;1.54% of reads and trimmed 0.06&#x2013;1.54% of bases. Subsequently, 0.09&#x2013;31.1% of the filtered reads that mapped to the human genome were removed. Subsequently, the lowest number of remaining read pairs among the samples was 27,478,389 (8.2 Gb). To account for differences in sequence coverage, we randomly selected the same number of read pairs from each sample [<xref rid="pone.0302569.ref024" ref-type="bibr">24</xref>] for subsequent analyses using BBmap, which is included in the BBTools software package [<xref rid="pone.0302569.ref025" ref-type="bibr">25</xref>].</p>
+        <p>Taxonomic profiling was conducted using MetaPhlAn3 [<xref rid="pone.0302569.ref026" ref-type="bibr">26</xref>] and Kraken2 [<xref rid="pone.0302569.ref027" ref-type="bibr">27</xref>] followed by Bracken [<xref rid="pone.0302569.ref028" ref-type="bibr">28</xref>] to estimate the &#x201C;taxonomic abundance&#x201D; (calculated as the number of genomes (single-copy marker genes) of a given taxon relative to the total number of genomes detected) and &#x201C;sequence abundance&#x201D; (calculated as the proportion of sequence reads assigned to a given taxon out of the total number of sequence reads) [<xref rid="pone.0302569.ref029" ref-type="bibr">29</xref>]. As MetaPhlAn3 treats paired reads independently, we concatenated the read pairs into a single input file in advance using BBmap while subsampling the reads [<xref rid="pone.0302569.ref025" ref-type="bibr">25</xref>]. Sequence abundance refers to the fraction of sequence reads assigned to each taxon in the reference genome database and depends on the genome size of the taxon, potentially resulting in under-or overestimation. In contrast, taxonomic abundance is the ratio of the sequence coverage of single-copy marker genes of each taxon to that of all taxa. This approach avoids underestimation or overestimation caused by variations in genome size [<xref rid="pone.0302569.ref029" ref-type="bibr">29</xref>]. In this study, we primarily used the taxonomic abundance as our main metric. Functional profiling was conducted using HUMAnN 3.0 [<xref rid="pone.0302569.ref026" ref-type="bibr">26</xref>].</p>
+      </sec>
+      <sec id="sec006">
+        <title>Assembly, taxonomic analysis of contigs, and gene-by-gene analysis</title>
+        <p>HiSeq reads were assembled using SPAdes [<xref rid="pone.0302569.ref030" ref-type="bibr">30</xref>] with the &#x201C;&#x2014;meta&#x201D; option. The Contig Annotation Tool (CAT) [<xref rid="pone.0302569.ref031" ref-type="bibr">31</xref>] was employed for taxonomic classification of the contigs based on amino acid sequence searching of each open reading frame (ORF) against the NCBI nr database. The classification was determined by summing all scores, supporting a certain taxonomic classification (superkingdom, phylum, class, order, family, genus, and species) from ORFs separately, and determining whether the summation exceeded a cutoff value (by default, 0.5).</p>
+        <p>Because we focus on <italic toggle="yes">Mogibacterium</italic> as a characteristic genus associated with chronic bacterial osteomyelitis in the Results section, nucleotide sequences of contigs assigned to <italic toggle="yes">Mogibacterium</italic> were selected and protein-coding genes were predicted for each contig using Prokka [<xref rid="pone.0302569.ref032" ref-type="bibr">32</xref>]. A reference complete genome sequence of <italic toggle="yes">Mogibacterium diversum</italic> strain CCUG 47132 [<xref rid="pone.0302569.ref033" ref-type="bibr">33</xref>] (NCBI assembly accession GCF_002998925.1) was downloaded, and Prokka was employed to predict the protein-coding genes. We then constructed a gene presence or absence matrix for the entire set of genes (i.e., orthologous clusters) detected among the reference complete genome, chronic bacterial osteomyelitis, and healthy control samples and a core-genome alignment using the Roary pipeline [<xref rid="pone.0302569.ref034" ref-type="bibr">34</xref>] with the &#x201C;-i 90&#x2014;group_limit 1000000&#x201D; option. Subsequently, we constructed a maximum likelihood tree from this alignment using PhyML [<xref rid="pone.0302569.ref035" ref-type="bibr">35</xref>]. This tree, along with metadata, was illustrated using Phandango [<xref rid="pone.0302569.ref036" ref-type="bibr">36</xref>].</p>
+      </sec>
+      <sec id="sec007">
+        <title>Statistical analysis</title>
+        <p>Associations between taxonomic or functional profiles and host groups (healthy controls, CNO, and chronic bacterial osteomyelitis) were statistically tested using MaAsLin2 [<xref rid="pone.0302569.ref037" ref-type="bibr">37</xref>], which accounts for zero-inflated, high-dimensional, and extremely non-normal microbiome data. The healthy control group was specified as a reference, and the difference between the CNO and healthy control groups and that between the chronic bacterial osteomyelitis and healthy control groups were tested. According to previous studies [<xref rid="pone.0302569.ref038" ref-type="bibr">38</xref>, <xref rid="pone.0302569.ref039" ref-type="bibr">39</xref>], we specified the total sum scaling (TSS) normalization (to ensure that the profile values ranged from 0 to 1) and arcsine square-root transformation (AST) (to stabilize the variance and improve parametric estimation models in the presence of violated data assumptions, such as normality and homoscedasticity) [<xref rid="pone.0302569.ref037" ref-type="bibr">37</xref>]. Box plots were created using JMP Pro 14 [<xref rid="pone.0302569.ref040" ref-type="bibr">40</xref>]. All other statistical analyses were conducted using R software (version 4.2.2) [<xref rid="pone.0302569.ref041" ref-type="bibr">41</xref>], and the Venn diagram was created using the &#x201C;eulerr&#x201D; package.</p>
+      </sec>
+      <sec id="sec008">
+        <title>Ethics approval and consent to participate</title>
+        <p>This study was approved by the ethics committees of the Research Institute National Center for Global Health and Medicine (approval number NCGM-A-003228), Nagasaki University (20191101), Tokai University (19R-075), Hokkaido University (2019&#x2013;1), Hyogo College of Medicine (0419), and National Institute of Infectious Diseases (1283). The study design followed the Declaration of Helsinki guidelines, and written informed consent was obtained from all the participants. The recruitment period started on May 10, 2019, following approval from the ethics committee of the Research Institute National Center for Global Health and Medicine (the main facility of this project), and ended on March 31, 2022.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec009">
+      <title>Results</title>
+      <sec id="sec010">
+        <title>Taxonomic profiling reveals potential microbes associated with chronic bacterial osteomyelitis</title>
+        <p>Among the 74 bacterial genera detected in at least one sample (<xref rid="pone.0302569.s003" ref-type="supplementary-material">S2 Table</xref>), only four exhibited statistically significant differences in taxonomic abundance (P<sub>FDR</sub>&lt;0.05, tested using a model with normalization and transformation implemented in MaAsLin2) among the CNO, chronic bacterial osteomyelitis, and healthy control groups (<xref rid="pone.0302569.g001" ref-type="fig">Fig 1</xref>). <italic toggle="yes">Abiotrophia</italic>, <italic toggle="yes">Lautropia</italic>, and <italic toggle="yes">Granulicatella</italic> showed a significant decrease in the CNO and chronic bacterial osteomyelitis groups (<xref rid="pone.0302569.g001" ref-type="fig">Fig 1a</xref>), whereas <italic toggle="yes">Mogibacterium</italic> showed a significant increase in the chronic bacterial osteomyelitis group (<xref rid="pone.0302569.g001" ref-type="fig">Fig 1b</xref>). <italic toggle="yes">Abiotrophia</italic>, <italic toggle="yes">Lautropia</italic>, and <italic toggle="yes">Granulicatella</italic> were detected in all healthy control samples, and their respective taxonomic abundances were consistently below 3%. In contrast, these genera were not detected in 40&#x2013;60% of the CNO samples and 40&#x2013;80% of the chronic bacterial osteomyelitis samples. Meanwhile, the average taxonomic abundances of <italic toggle="yes">Mogibacterium</italic> were 0.9%, 5.7%, and 0.4% in the CNO, chronic bacterial osteomyelitis, and healthy control groups, respectively. These values were calculated from individual taxonomic abundances, as illustrated in <xref rid="pone.0302569.g001" ref-type="fig">Fig 1</xref> separately for each group. The taxonomic abundance of <italic toggle="yes">Mogibacterium</italic> was zero only in one of the CNO samples (<xref rid="pone.0302569.s003" ref-type="supplementary-material">S2 Table</xref>).</p>
+        <fig position="float" id="pone.0302569.g001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302569.g001</object-id>
+          <label>Fig 1</label>
+          <caption>
+            <title>Box plots of genera showing statistically significant difference in taxonomic abundance.</title>
+            <p>(a) Genera with a significant decrease in the CNO and chronic bacterial osteomyelitis groups. The Y-axis is scaled from 0 to 2% (compared to 0 to 15% of (b)) to accommodate the low relative abundance of these genera. (b) <italic toggle="yes">Mogibacterium</italic> taxonomic abundance with a significant increase in the chronic bacterial osteomyelitis group. In the box plot, the bottom and top of the box indicate 25th and 75th percentile, respectively, and the horizontal line in the box indicates median. The outliers in (a) are depicted as dots, which are located above the 75th percentile + 1.5 &#xD7; interquartile range. Data for each individual in (b) are represented as dots.</p>
+          </caption>
+          <graphic xlink:href="pone.0302569.g001" position="float"/>
+        </fig>
+        <p>Overall, among the 74 bacterial genera, the taxonomic profiles were highly correlated between the CNO and chronic bacterial osteomyelitis groups, healthy control and CNO groups, and healthy control and chronic bacterial osteomyelitis groups (Spearman&#x2019;s correlation coefficient: 0.85, 0.72, and 0.77, respectively). Functional profiling did not reveal any gene family with a statistically significant increase (at a significance level of P<sub>FDR</sub> 0.05) in either the CNO or the chronic bacterial osteomyelitis group. In contrast, four gene families exhibited a significant decrease in the CNO group: A0A0K2RYG8 (uncharacterized protein) in <italic toggle="yes">Rothia</italic>, and A0A133S3U6 (uncharacterized protein), A0A150NXH2 (l-proline glycine betaine-binding ABC transporter protein ProX/osmotic adaptation), and D3H673 (bacteriocin immunity protein) in <italic toggle="yes">Streptococcus</italic>. These gene families were also decreased in the chronic bacterial osteomyelitis group, although to a lesser extent than in the CNO group, with P<sub>FDR</sub> values ranging from 0.06 to 0.1.</p>
+      </sec>
+      <sec id="sec011">
+        <title>Comparison between taxonomic and sequence abundance estimated by taxonomic profiling</title>
+        <p><xref rid="pone.0302569.g002" ref-type="fig">Fig 2</xref> depicts the overall phylogenetic profile in terms of both taxonomic and sequence abundances within the CNO, chronic bacterial osteomyelitis, and healthy controls groups. Importance of distinction between the two types of relative abundance has rarely been considered in previous studies, and was recently pointed out [<xref rid="pone.0302569.ref029" ref-type="bibr">29</xref>]. It showcases 12 genera and other taxa and highlights the top 12 with the largest absolute differences in taxonomic abundance between chronic bacterial osteomyelitis and healthy controls. The result confirmed that <italic toggle="yes">Mogibacterium</italic> was consistently enriched in the chronic bacterial osteomyelitis group, even when sequence abundance was used instead of taxonomic abundance (<xref rid="pone.0302569.g002" ref-type="fig">Fig 2b</xref>).</p>
+        <fig position="float" id="pone.0302569.g002">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302569.g002</object-id>
+          <label>Fig 2</label>
+          <caption>
+            <title>Relative abundance of microbes in CNO, chronic bacterial osteomyelitis, and healthy control samples.</title>
+            <p>(a) Taxonomic abundance and (b) sequence abundance. The average values are presented for the 12 selected genera, while the remaining genera are grouped as &#x201C;Others&#x201D; (gray). The 12 genera displayed at least 3% taxonomic abundance in the healthy control group or more than a 1% increase or decrease on average in the chronic bacterial osteomyelitis group compared to the healthy control group. <italic toggle="yes">Mogibacterium</italic> is colored in blue. The three most abundant genera with &gt;10% taxonomic abundance in the healthy control group (<italic toggle="yes">Streptococcus</italic>, <italic toggle="yes">Actinomyces</italic>, <italic toggle="yes">and Rothia</italic>) are denoted by greenish colors.</p>
+          </caption>
+          <graphic xlink:href="pone.0302569.g002" position="float"/>
+        </fig>
+        <p>The relationship between taxonomic and sequence abundance among the 74 genera detected in each sample is plotted in <xref rid="pone.0302569.s001" ref-type="supplementary-material">S1 Fig</xref> (raw data are in <xref rid="pone.0302569.s004" ref-type="supplementary-material">S3 Table</xref>). The Spearman&#x2019;s correlation coefficient for this comparison was 0.5. Several genera exhibited notable differences between taxonomic and sequence abundance estimates. <italic toggle="yes">Streptococcus</italic> and <italic toggle="yes">Prevotella</italic> displayed an overestimation of sequence abundance (&gt;10%) compared with taxonomic abundance, whereas <italic toggle="yes">Actinomyces</italic> and <italic toggle="yes">Lachnospiraceae</italic> exhibited an underestimation of sequence abundance (&gt;10%). These phenomena were consistently observed across multiple samples for <italic toggle="yes">Streptococcus</italic>, <italic toggle="yes">Prevotella</italic>, and <italic toggle="yes">Actinomyces</italic>. Notably, 60% of the 20 samples exhibited a statistically significant enrichment of <italic toggle="yes">Actionomyces</italic>, with a &gt;10% underestimation in sequence abundance compared to other genera (P&lt;10<sup>&#x2212;15</sup>, Fisher&#x2019;s exact test). <italic toggle="yes">Streptococcus</italic> and <italic toggle="yes">Prevotella</italic> also exhibited a statistically significant enrichment of &gt;10% overestimation of sequence abundance (P&lt;10<sup>&#x2212;6</sup>, Fisher&#x2019;s exact test).</p>
+        <p>However, <italic toggle="yes">Rothia</italic> demonstrated a contrasting pattern, with one sample showing a &gt;10% overestimation of sequence abundance and two samples showing a &gt;10% underestimation. The disparity in direction across these three samples may be attributed to the considerable variation in the proportion of reads that were not mapped to any taxon during the calculation of sequence abundance. Specifically, in the sample showing an overestimation, the proportion of unmapped reads was 38.0%, whereas in the two samples showing an underestimation, the proportions were 27.0% and 8.2%.</p>
+        <p>Overall, these results were consistent across the CNO, chronic bacterial osteomyelitis, and healthy control groups, thereby providing a technical basis for interpreting sequence and taxonomic abundance in the oral microbiome.</p>
+      </sec>
+      <sec id="sec012">
+        <title>Comparison with a previously reported core saliva microbiome genera</title>
+        <p>A previous meta-analysis conducted in 2021 [<xref rid="pone.0302569.ref042" ref-type="bibr">42</xref>] identified 59 core genera consistently observed in salivary shotgun metagenome sequencing projects (deposited in the MG-RAST database) and the Human Oral Microbiome Database (gray in <xref rid="pone.0302569.g003" ref-type="fig">Fig 3</xref>), in which 20 core genera were also consistently observed by amplicon sequencing (green in <xref rid="pone.0302569.g003" ref-type="fig">Fig 3</xref>). The presence of each of the 74 genera we detected (blue in <xref rid="pone.0302569.g003" ref-type="fig">Fig 3</xref>) in the previously reported core genera is shown in <xref rid="pone.0302569.s003" ref-type="supplementary-material">S2 Table</xref>. Among the previously reported 59 core genera, 32 (i.e., 9 + 23 in <xref rid="pone.0302569.g003" ref-type="fig">Fig 3</xref>) were not detected in the present salivary shotgun metagenome study, including <italic toggle="yes">Acinetobacter</italic>, <italic toggle="yes">Bacillus</italic>, <italic toggle="yes">Delftia</italic>, <italic toggle="yes">Enterobacter</italic>, <italic toggle="yes">Moraxella</italic>, <italic toggle="yes">Mycobacterium</italic>, <italic toggle="yes">Pseudomonas</italic>, <italic toggle="yes">Ralstonia</italic>, and <italic toggle="yes">Sphingomonas</italic>.</p>
+        <fig position="float" id="pone.0302569.g003">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302569.g003</object-id>
+          <label>Fig 3</label>
+          <caption>
+            <title>Venn diagram illustrating the relationship between genera detected in the present and previous studies.</title>
+            <p>HOMD: Human Oral Microbiome Database.</p>
+          </caption>
+          <graphic xlink:href="pone.0302569.g003" position="float"/>
+        </fig>
+        <p>However, of the 74 genera detected in our study, 47 (including <underline><italic toggle="yes">Mogibacterium</italic></underline>, shown on the left in <xref rid="pone.0302569.g003" ref-type="fig">Fig 3</xref>) were not included in the 59 genera reported in the previous meta-analysis [<xref rid="pone.0302569.ref042" ref-type="bibr">42</xref>]. Additionally, the previous meta-analysis detected 235 core genera in the salivary shotgun metagenome sequencing projects alone, and <italic toggle="yes">Mogibacterium</italic> was not included on this list. These findings suggest that <italic toggle="yes">Mogibacterium</italic> is not a core genus in the saliva microbiome but appears to increase in abundance in chronic bacterial osteomyelitis. In addition, because the previous meta-analysis was confined to salivary shotgun metagenome data obtained in California, the substantial difference in taxon composition may reflect differences in dietary culture between North America and Japan because diet plays a substantial role in the formation of the general oral microbiome.</p>
+      </sec>
+      <sec id="sec013">
+        <title><italic toggle="yes">Mogibacterium</italic> from chronic bacterial osteomyelitis and healthy control samples exhibits no discernible genomic differences</title>
+        <p>Assembled contigs taxonomically assigned to <italic toggle="yes">Mogibacterium</italic> were obtained in all chronic bacterial osteomyelitis samples, with total lengths ranging approximately from 1.6 to 3.5 Mbp. These contigs may include multiple <italic toggle="yes">Mogibacterium</italic> incomplete genomes per sample. Based on the gene finding of the contigs and those obtained in healthy control samples and a publicly available reference complete genome of <italic toggle="yes">Mogibacterium diversum</italic> CCUG 47132, we conducted a pan-genome analysis to create a gene presence or absence matrix. Subsequently, a maximum-likelihood core-genome tree of <italic toggle="yes">Mogibacterium</italic> (<xref rid="pone.0302569.g004" ref-type="fig">Fig 4</xref>) was constructed from the alignment of concatenated core genes (i.e., core-genome alignment). The tree indicates that the samples from chronic bacterial osteomyelitis (blue) do not form a distinct cluster compared to the healthy control samples. The core genome contained 10853 base pairs (0.6% of the reference complete genome) and 2712 single nucleotide polymorphisms, suggesting incomplete assembly of the metagenome samples and large genetic diversity in the genus. The inclusion of 10 additional CNO samples reduced the number of core genes to zero, making it impossible to construct a core-genome alignment. In addition, the pan-genome analysis revealed no unique genes specific to chronic bacterial osteomyelitis samples, confirming the genomic similarity between the two groups. These results indicated that <italic toggle="yes">Mogibacterium</italic> from chronic bacterial osteomyelitis and healthy control samples were indistinguishable at both the core- and pan-genome levels.</p>
+        <fig position="float" id="pone.0302569.g004">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302569.g004</object-id>
+          <label>Fig 4</label>
+          <caption>
+            <title>Core-genome tree of <italic toggle="yes">Mogibacterium</italic>.</title>
+            <p>Nucleotide sequences from chronic bacterial osteomyelitis (blue) and healthy control (black) metagenome samples as well as the reference genome (brown) were analyzed. Sequences from the metagenome samples were obtained from assembled contigs. The scale bar represents the number of substitutions per core genome.</p>
+          </caption>
+          <graphic xlink:href="pone.0302569.g004" position="float"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec014">
+      <title>Discussion</title>
+      <p><italic toggle="yes">Mogibacterium</italic> is a genus of anaerobic, gram-positive, non-spore-forming, rod-shaped bacteria originally isolated from the periodontal pockets of adult human patients with periodontal disease and infected root canals [<xref rid="pone.0302569.ref043" ref-type="bibr">43</xref>]. The pro-inflammatory effects of <italic toggle="yes">Mogibacterium</italic>, <italic toggle="yes">Porphyromonas</italic>, and <italic toggle="yes">Treponema</italic> has been suggested to be responsible for the progression of medication-related osteonecrosis of the jaw, which has similar symptoms to osteomyelitis [<xref rid="pone.0302569.ref044" ref-type="bibr">44</xref>]. <italic toggle="yes">Mogibacterium</italic>, <italic toggle="yes">Solobacterium</italic>, <italic toggle="yes">Slackia</italic>, and <italic toggle="yes">Moryella</italic> are increased in the salivary microbiome of patients with immunoglobulin G4-related diseases compared with that of patients with primary Sj&#xF6;gren&#x2019;s syndrome [<xref rid="pone.0302569.ref045" ref-type="bibr">45</xref>]. Therefore, <italic toggle="yes">Mogibacterium</italic> is likely associated with multiple diseases, including chronic bacterial osteomyelitis, as shown in this study. We found an increased abundance of <italic toggle="yes">Mogibacterium</italic> in chronic bacterial osteomyelitis, suggesting its association with the disease. Further investigation of its molecular mechanisms requires experimental analysis using isolated strains, which is challenging owing to the low abundance and anaerobic culturing requirements of <italic toggle="yes">Mogibacterium</italic>.</p>
+      <p>Interestingly, despite being considered distinct diseases, CNO and chronic bacterial osteomyelitis exhibited a high overall taxonomic profile correlation (Spearman&#x2019;s correlation coefficient: 0.85). The only exception was for <italic toggle="yes">Mogibacterium</italic>, which showed a significant increase in the chronic bacterial osteomyelitis group, making it a potential marker for distinguishing between the two conditions. This might be of particular importance at an early stage, in which the differences between both diseases are unclear. Alternatively, differences in host immunity and/or genetics may play a more significant role in differentiating CNO and chronic bacterial osteomyelitis.</p>
+      <p>However, the sample size of the present study was small (N = 5 in the chronic bacterial osteomyelitis group). Although all five patients with chronic bacterial osteomyelitis showed a greater taxonomic abundance of <italic toggle="yes">Mogibacterium</italic> than the five healthy controls, the abundance values for two of these patients appeared to be outliers that were distinct relative to those of CNO patients (<xref rid="pone.0302569.g001" ref-type="fig">Fig 1b</xref>). Further studies should be performed with additional data on chronic bacterial osteomyelitis patients to explore the external validity of the study and determine the frequency of such outliers, which may represent a potential characteristic of chronic bacterial osteomyelitis.</p>
+      <p>We compared the taxonomic and sequence abundances of the 74 bacterial genera detected using salivary shotgun metagenome data. Viruses were not analyzed because the summation of their sequence abundance per sample was consistently less than 0.1% and MetaPhlAn3 was not designed to estimate the taxonomic abundance of viruses. The challenges associated with sequence abundance, including its dependence on genome size and the potential for under- or overestimation compared to taxonomic abundance, have recently been highlighted using simulated data [<xref rid="pone.0302569.ref029" ref-type="bibr">29</xref>]. We observed that <italic toggle="yes">Streptococcus</italic> and <italic toggle="yes">Prevotella</italic> were overestimated in multiple samples and <italic toggle="yes">Actinomyces</italic> was consistently underestimated. However, the genome size of <italic toggle="yes">Actinomyces</italic> is approximately 3 Mb, which is larger than that of <italic toggle="yes">Streptococcus</italic> and <italic toggle="yes">Prevotella</italic> (approximately 2 Mb). This finding is inconsistent with that of a recent study [<xref rid="pone.0302569.ref029" ref-type="bibr">29</xref>], which suggested the possibility of overestimating sequence abundance in taxa with larger genome sizes. Moreover, this discrepancy may be attributed to the sequence abundance being estimated at the genus level in the current study, rather than the species level as performed in the recent study. Alternatively, this discrepancy may also be attributed to other unknown factors.</p>
+      <p>A comparison with a previously reported core salivary microbiome revealed discrepancies, with nearly half of the previously reported genera not observed in our study and more than half of our detected genera not included in the previous study. This highlights the greater taxonomic diversity of the human oral microbiota than previously recognized, which is based on the influence of factors such as geography, diet, host health conditions, and sequencing protocol.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec015">
+      <title>Conclusions</title>
+      <p>This study is the first to demonstrate a significant increase in the abundance of <italic toggle="yes">Mogibacterium</italic> in chronic bacterial osteomyelitis. Additionally, we present a systematic comparison of the taxonomic and sequence abundances of all genera detected using deep salivary shotgun metagenome data. Because the sample size used in this exploratory and descriptive study was small, these preliminary data require further verification. However, the findings of our study lay the groundwork for further investigations of the mechanisms underlying chronic bacterial osteomyelitis compared with those underlying CNO. Overall, this research contributes to a better understanding of the role of <italic toggle="yes">Mogibacterium</italic> in chronic bacterial osteomyelitis and provides a foundation for future studies aimed at unraveling the complexities of oral microbiota-related diseases.</p>
+    </sec>
+    <sec id="sec016" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0302569.s001" position="float" content-type="local-data">
+        <label>S1 Fig</label>
+        <caption>
+          <title>Comparison between the taxonomic and sequence abundance.</title>
+          <p>Genera showing a difference of more than 10% are highlighted in this plot.</p>
+          <p>(PPTX)</p>
+        </caption>
+        <media xlink:href="pone.0302569.s001.pptx"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302569.s002" position="float" content-type="local-data">
+        <label>S1 Table</label>
+        <caption>
+          <title>List of individuals included in this study along with information regarding the metagenome sequence data.</title>
+          <p>(XLSX)</p>
+        </caption>
+        <media xlink:href="pone.0302569.s002.xlsx"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302569.s003" position="float" content-type="local-data">
+        <label>S2 Table</label>
+        <caption>
+          <title>Taxonomic abundance of each genus detected in the present study.</title>
+          <p>(XLSX)</p>
+        </caption>
+        <media xlink:href="pone.0302569.s003.xlsx"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302569.s004" position="float" content-type="local-data">
+        <label>S3 Table</label>
+        <caption>
+          <title>Source data for <xref rid="pone.0302569.s002" ref-type="supplementary-material">S1 Table</xref>.</title>
+          <p>(XLSX)</p>
+        </caption>
+        <media xlink:href="pone.0302569.s004.xlsx"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank the Human Genome Center of the Institute of Medical Science (University of Tokyo) and at the National Institute of Genetics, where computational calculations were performed.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0302569.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Baltensperger</surname><given-names>M</given-names></name>, <name><surname>Gratz</surname><given-names>K</given-names></name>, <name><surname>Bruder</surname><given-names>E</given-names></name>, <name><surname>Lebeda</surname><given-names>R</given-names></name>, <name><surname>Makek</surname><given-names>M</given-names></name>, <name><surname>Eyrich</surname><given-names>G</given-names></name>. <article-title>Is primary chronic osteomyelitis a uniform disease? Proposal of a classification based on a retrospective analysis of patients treated in the past 30 years</article-title>. <source>J Craniomaxillofac Surg</source>. <year>2004</year>;<volume>32</volume>(<issue>1</issue>):<fpage>43</fpage>&#x2013;<lpage>50</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.jcms.2003.07.008</pub-id>
+<pub-id pub-id-type="pmid">14729050</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Patel</surname><given-names>V</given-names></name>, <name><surname>Harwood</surname><given-names>A</given-names></name>, <name><surname>McGurk</surname><given-names>M</given-names></name>. <article-title>Osteomyelitis presenting in two patients: a challenging disease to manage</article-title>. <source>Br Dent J</source>. <year>2010</year>;<volume>209</volume>(<issue>8</issue>):<fpage>393</fpage>&#x2013;<lpage>396</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/sj.bdj.2010.927</pub-id>
+<pub-id pub-id-type="pmid">20966998</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Obel</surname><given-names>G</given-names></name>, <name><surname>Krogdahl</surname><given-names>A</given-names></name>, <name><surname>Thygesen</surname><given-names>T</given-names></name>, <name><surname>Godballe</surname><given-names>C</given-names></name>. <article-title>Juvenile mandibular chronic osteomyelitis: 3 cases and a literature review</article-title>. <source>J Oral Maxillofac Surg</source>. <year>2013</year>;<volume>71</volume>(<issue>2</issue>):<fpage>305</fpage>&#x2013;<lpage>309</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.joms.2012.02.013</pub-id>
+<pub-id pub-id-type="pmid">22542336</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Krakowiak</surname><given-names>PA</given-names></name>. <article-title>Alveolar osteitis and osteomyelitis of the jaws</article-title>. <source>Oral Maxillofac Surg Clin North Am</source>. <year>2011</year>;<volume>23</volume>(<issue>3</issue>):<fpage>401</fpage>&#x2013;<lpage>413</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.coms.2011.04.005</pub-id>
+<pub-id pub-id-type="pmid">21798440</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Yahara</surname><given-names>H</given-names></name>, <name><surname>Horita</surname><given-names>S</given-names></name>, <name><surname>Yanamoto</surname><given-names>S</given-names></name>, <name><surname>Kitagawa</surname><given-names>Y</given-names></name>, <name><surname>Asaka</surname><given-names>T</given-names></name>, <name><surname>Yoda</surname><given-names>T</given-names></name>, <etal>et al</etal>. <article-title>A Targeted Genetic Association Study of the Rare Type of Osteomyelitis</article-title>. <source>J Dent Res</source>. <year>2020</year>;<volume>99</volume>(<issue>3</issue>):<fpage>271</fpage>&#x2013;<lpage>276</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/0022034520901519</pub-id>
+<pub-id pub-id-type="pmid">31977282</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Yahara</surname><given-names>H</given-names></name>, <name><surname>Yanamoto</surname><given-names>S</given-names></name>, <name><surname>Takahashi</surname><given-names>M</given-names></name>, <name><surname>Hamada</surname><given-names>Y</given-names></name>, <name><surname>Sakamoto</surname><given-names>H</given-names></name>, <name><surname>Asaka</surname><given-names>T</given-names></name>, <etal>et al</etal>. <article-title>Whole blood transcriptome profiling identifies gene expression subnetworks and a key gene characteristic of the rare type of osteomyelitis</article-title>. <source>Biochem Biophys Rep</source>. <year>2022</year>;<volume>32</volume>:<fpage>101328</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.bbrep.2022.101328</pub-id>
+<pub-id pub-id-type="pmid">36065290</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Monsour</surname><given-names>PA</given-names></name>, <name><surname>Dalton</surname><given-names>JB</given-names></name>. <article-title>Chronic recurrent multifocal osteomyelitis involving the mandible: case reports and review of the literature</article-title>. <source>Dento Maxillo Fac Radiol</source>. <year>2010</year>;<volume>39</volume>(<issue>3</issue>):<fpage>184</fpage>&#x2013;<lpage>190</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1259/dmfr/23060413</pub-id>
+<pub-id pub-id-type="pmid">20203282</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>De Luca</surname><given-names>F</given-names></name>, <name><surname>Shoenfeld</surname><given-names>Y</given-names></name>. <article-title>The microbiome in autoimmune diseases</article-title>. <source>Clin Exp Immunol</source>. <year>2019</year>;<volume>195</volume>(<issue>1</issue>):<fpage>74</fpage>&#x2013;<lpage>85</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/cei.13158</pub-id>
+<pub-id pub-id-type="pmid">29920643</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>van der Meulen</surname><given-names>TA</given-names></name>, <name><surname>Harmsen</surname><given-names>H</given-names></name>, <name><surname>Bootsma</surname><given-names>H</given-names></name>, <name><surname>Spijkervet</surname><given-names>F</given-names></name>, <name><surname>Kroese</surname><given-names>F</given-names></name>, <name><surname>Vissink</surname><given-names>A</given-names></name>. <article-title>The microbiome-systemic diseases connection</article-title>. <source>Oral Dis</source>. <year>2016</year>;<volume>22</volume>(<issue>8</issue>):<fpage>719</fpage>&#x2013;<lpage>734</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/odi.12472</pub-id>
+<pub-id pub-id-type="pmid">26953630</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Zeus</surname><given-names>M</given-names></name>, <name><surname>Janssen</surname><given-names>S</given-names></name>, <name><surname>Laws</surname><given-names>HJ</given-names></name>, <name><surname>Fischer</surname><given-names>U</given-names></name>, <name><surname>Borkhardt</surname><given-names>A</given-names></name>, <name><surname>Oommen</surname><given-names>PT</given-names></name>. <article-title>Results from a pilot study on the oral microbiome in children and adolescents with chronic nonbacterial osteomyelitis</article-title>. <source>Z Rheumatol</source>. <year>2023</year>;<volume>82</volume>:<fpage>122</fpage>&#x2013;<lpage>133</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s00393-021-01035-x</pub-id>
+<pub-id pub-id-type="pmid">34196794</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>J</given-names></name>, <name><surname>Xiong</surname><given-names>A</given-names></name>, <name><surname>Ma</surname><given-names>Y</given-names></name>, <name><surname>Qin</surname><given-names>C</given-names></name>, <name><surname>Ho</surname><given-names>CL</given-names></name>. <article-title>Impact of the host-microbiome on osteomyelitis pathogenesis</article-title>. <source>Front Mol Biosci</source>. <year>2021</year>;<volume>8</volume>:<fpage>702484</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fmolb.2021.702484</pub-id>
+<pub-id pub-id-type="pmid">34434965</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Padhiary</surname><given-names>SK</given-names></name>, <name><surname>Srivastava</surname><given-names>G</given-names></name>, <name><surname>Panda</surname><given-names>S</given-names></name>, <name><surname>Subudhi</surname><given-names>S</given-names></name>, <name><surname>Lenka</surname><given-names>S</given-names></name>. <article-title>E.coli associated extensive bilateral maxillary osteomyelitis: a rare case report</article-title>. <source>J Clin Diagn Res</source>. <year>2013</year>;<volume>7</volume>(<issue>10</issue>):<fpage>2380</fpage>&#x2013;<lpage>2382</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.7860/JCDR/2013/5628.3531</pub-id>
+<pub-id pub-id-type="pmid">24298536</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>Gannepalli</surname><given-names>A</given-names></name>, <name><surname>Ayinampudi</surname><given-names>BK</given-names></name>, <name><surname>Baghirath</surname><given-names>PV</given-names></name>, <name><surname>Reddy</surname><given-names>GV</given-names></name>. <article-title>Actinomycotic osteomyelitis of maxilla presenting as oroantral fistula: a rare case report</article-title>. <source>Case Rep Dent</source>. <year>2015</year>;<volume>2015</volume>:<fpage>689240</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1155/2015/689240</pub-id>
+<pub-id pub-id-type="pmid">26451261</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Gaetti-Jardim</surname><given-names>E</given-names><suffix>Junior</suffix></name>, <name><surname>Fardin</surname><given-names>AC</given-names></name>, <name><surname>Gaetti-Jardim</surname><given-names>EC</given-names></name>, <name><surname>de Castro</surname><given-names>AL</given-names></name>, <name><surname>Schweitzer</surname><given-names>CM</given-names></name>, <name><surname>Avila-Campos</surname><given-names>MJ</given-names></name>. <article-title>Microbiota associated with chronic osteomyelitis of the jaws</article-title>. <source>Braz J Microbiol</source>. <year>2010</year>;<volume>41</volume>(<issue>4</issue>):<fpage>1056</fpage>&#x2013;<lpage>1064</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1590/S1517-838220100004000025</pub-id>
+<pub-id pub-id-type="pmid">24031586</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Goda</surname><given-names>A</given-names></name>, <name><surname>Maruyama</surname><given-names>F</given-names></name>, <name><surname>Michi</surname><given-names>Y</given-names></name>, <name><surname>Nakagawa</surname><given-names>I</given-names></name>, <name><surname>Harada</surname><given-names>K</given-names></name>. <article-title>Analysis of the factors affecting the formation of the microbiome associated with chronic osteomyelitis of the jaw</article-title>. <source>Clin Microbiol Infect</source>. <year>2014</year>;<volume>20</volume>(<issue>5</issue>):<fpage>O309</fpage>&#x2013;<lpage>O317</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/1469-0691.12400</pub-id>
+<pub-id pub-id-type="pmid">24112138</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Brooks</surname><given-names>JP</given-names></name>, <name><surname>Edwards</surname><given-names>DJ</given-names></name>, <name><surname>Harwich</surname><given-names>MD</given-names></name>, <name><surname>Rivera</surname><given-names>MC</given-names></name>, <name><surname>Fettweis</surname><given-names>JM</given-names></name>, <name><surname>Serrano</surname><given-names>MG</given-names></name>, <etal>et al</etal>. <article-title>The truth about metagenomics: quantifying and counteracting bias in 16S rRNA studies</article-title>. <source>BMC Microbiol</source>. <year>2015</year>;<volume>15</volume>:<fpage>66</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12866-015-0351-6</pub-id>
+<pub-id pub-id-type="pmid">25880246</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Yahara</surname><given-names>K</given-names></name>, <name><surname>Suzuki</surname><given-names>M</given-names></name>, <name><surname>Hirabayashi</surname><given-names>A</given-names></name>, <name><surname>Suda</surname><given-names>W</given-names></name>, <name><surname>Hattori</surname><given-names>M</given-names></name>, <name><surname>Suzuki</surname><given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Long-read metagenomics using PromethION uncovers oral bacteriophages and their interaction with host bacteria</article-title>. <source>Nat Commun</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>27</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41467-020-20199-9</pub-id>
+<pub-id pub-id-type="pmid">33397904</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Gudmundsson</surname><given-names>T</given-names></name>
+<name><surname>T</surname><given-names>Peter</given-names></name>; <name><surname>Thygesen</surname><given-names>Torben</given-names></name>. <article-title>Diagnosis and treatment of osteomyelitis of the jaw&#x2013;a systematic review (2002&#x2013;2015) of the literature</article-title>. <source>J Dent &amp; Oral Disord</source>. <year>2017</year>; <volume>3</volume>(<issue>4</issue>):<fpage>1066</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.26420/jdentoraldisord.2017.1066</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Belstrom</surname><given-names>D</given-names></name>, <name><surname>Holmstrup</surname><given-names>P</given-names></name>, <name><surname>Bardow</surname><given-names>A</given-names></name>, <name><surname>Kokaras</surname><given-names>A</given-names></name>, <name><surname>Fiehn</surname><given-names>NE</given-names></name>, <name><surname>Paster</surname><given-names>BJ</given-names></name>. <article-title>Temporal stability of the salivary microbiota in oral health</article-title>. <source>PLoS One</source>. <year>2016</year>;<volume>11</volume>(<issue>1</issue>):<fpage>e0147472</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0147472</pub-id>
+<pub-id pub-id-type="pmid">26799067</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Jo</surname><given-names>R</given-names></name>, <name><surname>Nishimoto</surname><given-names>Y</given-names></name>, <name><surname>Umezawa</surname><given-names>K</given-names></name>, <name><surname>Yama</surname><given-names>K</given-names></name>, <name><surname>Aita</surname><given-names>Y</given-names></name>, <name><surname>Ichiba</surname><given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Comparison of oral microbiome profiles in stimulated and unstimulated saliva, tongue, and mouth-rinsed water</article-title>. <source>Sci Rep</source>. <year>2019</year>;<volume>9</volume>(<issue>1</issue>):<fpage>16124</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41598-019-52445-6</pub-id>
+<pub-id pub-id-type="pmid">31695050</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Yahara</surname><given-names>H</given-names></name>, <name><surname>Hiraki</surname><given-names>A</given-names></name>, <name><surname>Maruoka</surname><given-names>Y</given-names></name>, <name><surname>Hirabayashi</surname><given-names>A</given-names></name>, <name><surname>Suzuki</surname><given-names>M</given-names></name>, <name><surname>Yahara</surname><given-names>K</given-names></name>. <article-title>Shotgun metagenome sequencing identification of a set of genes encoded by Actinomyces associated with medication-related osteonecrosis of the jaw</article-title>. <source>PloS One</source>. <year>2020</year>;<volume>15</volume>(<issue>11</issue>):<fpage>e0241676</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0241676</pub-id>
+<pub-id pub-id-type="pmid">33253207</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Said</surname><given-names>HS</given-names></name>, <name><surname>Suda</surname><given-names>W</given-names></name>, <name><surname>Nakagome</surname><given-names>S</given-names></name>, <name><surname>Chinen</surname><given-names>H</given-names></name>, <name><surname>Oshima</surname><given-names>K</given-names></name>, <name><surname>Kim</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Dysbiosis of salivary microbiota in inflammatory bowel disease and its association with oral immunological biomarkers</article-title>. <source>DNA Res</source>. <year>2014</year>;<volume>21</volume>(<issue>1</issue>):<fpage>15</fpage>&#x2013;<lpage>25</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/dnares/dst037</pub-id>
+<pub-id pub-id-type="pmid">24013298</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>PE</given-names></name>, <name><surname>Lo</surname><given-names>CC</given-names></name>, <name><surname>Anderson</surname><given-names>JJ</given-names></name>, <name><surname>Davenport</surname><given-names>KW</given-names></name>, <name><surname>Bishop-Lilly</surname><given-names>KA</given-names></name>, <name><surname>Xu</surname><given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Enabling the democratization of the genomics revolution with a fully integrated web-based bioinformatics platform</article-title>. <source>Nucleic Acids Res</source>. <year>2017</year>;<volume>45</volume>(<issue>1</issue>):<fpage>67</fpage>&#x2013;<lpage>80</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/nar/gkw1027</pub-id>
+<pub-id pub-id-type="pmid">27899609</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Carr</surname><given-names>VR</given-names></name>, <name><surname>Witherden</surname><given-names>EA</given-names></name>, <name><surname>Lee</surname><given-names>S</given-names></name>, <name><surname>Shoaie</surname><given-names>S</given-names></name>, <name><surname>Mullany</surname><given-names>P</given-names></name>, <name><surname>Proctor</surname><given-names>GB</given-names></name>, <etal>et al</etal>. <article-title>Abundance and diversity of resistomes differ between healthy human oral cavities and gut</article-title>. <source>Nat Commun</source>. <year>2020</year>;<volume>11</volume>(<issue>1</issue>):<fpage>693</fpage>. Epub 20200204. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41467-020-14422-w</pub-id>
+<pub-id pub-id-type="pmid">32019923</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="other">Bushnell B. BBTools software package. 2014. <ext-link xlink:href="http://bbtools.jgi.doe.gov" ext-link-type="uri">http://bbtools.jgi.doe.gov</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Beghini</surname><given-names>F</given-names></name>, <name><surname>McIver</surname><given-names>LJ</given-names></name>, <name><surname>Blanco-Miguez</surname><given-names>A</given-names></name>, <name><surname>Dubois</surname><given-names>L</given-names></name>, <name><surname>Asnicar</surname><given-names>F</given-names></name>, <name><surname>Maharjan</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Integrating taxonomic, functional, and strain-level profiling of diverse microbial communities with bioBakery 3</article-title>. <source>Elife</source>. <year>2021</year>;<volume>10</volume>. <comment>doi: </comment><pub-id pub-id-type="doi">10.7554/eLife.65088</pub-id>
+<pub-id pub-id-type="pmid">33944776</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><name><surname>Wood</surname><given-names>DE</given-names></name>, <name><surname>Lu</surname><given-names>J</given-names></name>, <name><surname>Langmead</surname><given-names>B</given-names></name>. <article-title>Improved metagenomic analysis with Kraken 2</article-title>. <source>Genome Biol</source>. <year>2019</year>;<volume>20</volume>(<issue>1</issue>):<fpage>257</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s13059-019-1891-0</pub-id>
+<pub-id pub-id-type="pmid">31779668</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Lu</surname><given-names>J</given-names></name>, <name><surname>Breitwieser</surname><given-names>FP</given-names></name>, <name><surname>Thielen</surname><given-names>P</given-names></name>, <name><surname>Salzberg</surname><given-names>SL</given-names></name>. <article-title>Bracken: estimating species abundance in metagenomics data</article-title>. <source>PeerJ Comput Sci</source>. <year>2017</year>;<volume>3</volume>. <comment>doi: </comment><pub-id pub-id-type="doi">10.7717/peerj-cs.104</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><name><surname>Sun</surname><given-names>Z</given-names></name>, <name><surname>Huang</surname><given-names>S</given-names></name>, <name><surname>Zhang</surname><given-names>M</given-names></name>, <name><surname>Zhu</surname><given-names>Q</given-names></name>, <name><surname>Haiminen</surname><given-names>N</given-names></name>, <name><surname>Carrieri</surname><given-names>AP</given-names></name>, <etal>et al</etal>. <article-title>Challenges in benchmarking metagenomic profilers</article-title>. <source>Nat Methods</source>. <year>2021</year>;<volume>18</volume>(<issue>6</issue>):<fpage>618</fpage>&#x2013;<lpage>626</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41592-021-01141-3</pub-id>
+<pub-id pub-id-type="pmid">33986544</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><name><surname>Nurk</surname><given-names>S</given-names></name>, <name><surname>Meleshko</surname><given-names>D</given-names></name>, <name><surname>Korobeynikov</surname><given-names>A</given-names></name>, <name><surname>Pevzner</surname><given-names>PA</given-names></name>. <article-title>metaSPAdes: a new versatile metagenomic assembler</article-title>. <source>Genome Res</source>. <year>2017</year>;<volume>27</volume>(<issue>5</issue>):<fpage>824</fpage>&#x2013;<lpage>834</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1101/gr.213959.116</pub-id>
+<pub-id pub-id-type="pmid">28298430</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><name><surname>von Meijenfeldt</surname><given-names>FAB</given-names></name>, <name><surname>Arkhipova</surname><given-names>K</given-names></name>, <name><surname>Cambuy</surname><given-names>DD</given-names></name>, <name><surname>Coutinho</surname><given-names>FH</given-names></name>, <name><surname>Dutilh</surname><given-names>BE</given-names></name>. <article-title>Robust taxonomic classification of uncharted microbial sequences and bins with CAT and BAT</article-title>. <source>Genome Biol</source>. <year>2019</year>;<volume>20</volume>(<issue>1</issue>):<fpage>217</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s13059-019-1817-x</pub-id>
+<pub-id pub-id-type="pmid">31640809</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><name><surname>Seemann</surname><given-names>T</given-names></name>. <article-title>Prokka: rapid prokaryotic genome annotation</article-title>. <source>Bioinformatics</source>. <year>2014</year>;<volume>30</volume>(<issue>14</issue>):<fpage>2068</fpage>&#x2013;<lpage>9</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/bioinformatics/btu153</pub-id>
+<pub-id pub-id-type="pmid">24642063</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><name><surname>Nakazawa</surname><given-names>F</given-names></name>, <name><surname>Poco</surname><given-names>SE</given-names></name>, <name><surname>Sato</surname><given-names>M</given-names></name>, <name><surname>Ikeda</surname><given-names>T</given-names></name>, <name><surname>Kalfas</surname><given-names>S</given-names></name>, <name><surname>Sundqvist</surname><given-names>G</given-names></name>, <etal>et al</etal>. <article-title>Taxonomic characterization of Mogibacterium diversum sp. nov. and Mogibacterium neglectum sp. nov., isolated from human oral cavities</article-title>. <source>Int J Syst Evol Microbiol</source>. <year>2002</year>;<volume>52</volume>(<issue>Pt 1</issue>):<fpage>115</fpage>&#x2013;<lpage>122</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1099/00207713-52-1-115</pub-id>
+<pub-id pub-id-type="pmid">11837293</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><name><surname>Page</surname><given-names>AJ</given-names></name>, <name><surname>Cummins</surname><given-names>CA</given-names></name>, <name><surname>Hunt</surname><given-names>M</given-names></name>, <name><surname>Wong</surname><given-names>VK</given-names></name>, <name><surname>Reuter</surname><given-names>S</given-names></name>, <name><surname>Holden</surname><given-names>MT</given-names></name>, <etal>et al</etal>. <article-title>Roary: rapid large-scale prokaryote pan genome analysis</article-title>. <source>Bioinformatics</source>. <year>2015</year>;<volume>31</volume>(<issue>22</issue>):<fpage>3691</fpage>&#x2013;<lpage>3693</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/bioinformatics/btv421</pub-id>
+<pub-id pub-id-type="pmid">26198102</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><name><surname>Guindon</surname><given-names>S</given-names></name>, <name><surname>Dufayard</surname><given-names>JF</given-names></name>, <name><surname>Lefort</surname><given-names>V</given-names></name>, <name><surname>Anisimova</surname><given-names>M</given-names></name>, <name><surname>Hordijk</surname><given-names>W</given-names></name>, <name><surname>Gascuel</surname><given-names>O</given-names></name>. <article-title>New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0</article-title>. <source>Syst Biol</source>. <year>2010</year>;<volume>59</volume>(<issue>3</issue>):<fpage>307</fpage>&#x2013;<lpage>321</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/sysbio/syq010</pub-id>
+<pub-id pub-id-type="pmid">20525638</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>Hadfield</surname><given-names>J</given-names></name>, <name><surname>Croucher</surname><given-names>NJ</given-names></name>, <name><surname>Goater</surname><given-names>RJ</given-names></name>, <name><surname>Abudahab</surname><given-names>K</given-names></name>, <name><surname>Aanensen</surname><given-names>DM</given-names></name>, <name><surname>Harris</surname><given-names>SR</given-names></name>. <article-title>Phandango: an interactive viewer for bacterial population genomics</article-title>. <source>Bioinformatics</source>. <year>2018</year>;<volume>34</volume>(<issue>2</issue>):<fpage>292</fpage>&#x2013;<lpage>293</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/bioinformatics/btx610</pub-id>
+<pub-id pub-id-type="pmid">29028899</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><name><surname>Mallick</surname><given-names>H</given-names></name>, <name><surname>Rahnavard</surname><given-names>A</given-names></name>, <name><surname>McIver</surname><given-names>LJ</given-names></name>, <name><surname>Ma</surname><given-names>S</given-names></name>, <name><surname>Zhang</surname><given-names>Y</given-names></name>, <name><surname>Nguyen</surname><given-names>LH</given-names></name>, <etal>et al</etal>. <article-title>Multivariable association discovery in population-scale meta-omics studies</article-title>. <source>PLoS Comput Biol</source>. <year>2021</year>;<volume>17</volume>(<issue>11</issue>):<fpage>e1009442</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pcbi.1009442</pub-id>
+<pub-id pub-id-type="pmid">34784344</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><name><surname>Dahan</surname><given-names>E</given-names></name>, <name><surname>Martin</surname><given-names>VM</given-names></name>, <name><surname>Yassour</surname><given-names>M</given-names></name>. <article-title>EasyMap&#x2014;an interactive web tool for evaluating and comparing associations of clinical variables and microbiome composition</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2022</year>;<volume>12</volume>:<fpage>854164</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fcimb.2022.854164</pub-id>
+<pub-id pub-id-type="pmid">35646745</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><name><surname>Nearing</surname><given-names>JT</given-names></name>, <name><surname>Douglas</surname><given-names>GM</given-names></name>, <name><surname>Hayes</surname><given-names>MG</given-names></name>, <name><surname>MacDonald</surname><given-names>J</given-names></name>, <name><surname>Desai</surname><given-names>DK</given-names></name>, <name><surname>Allward</surname><given-names>N</given-names></name>, <etal>et al</etal>. <article-title>Microbiome differential abundance methods produce different results across 38 datasets</article-title>. <source>Nat Commun</source>. <year>2022</year>;<volume>13</volume>(<issue>1</issue>):<fpage>342</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/s41467-022-28034-z</pub-id>
+<pub-id pub-id-type="pmid">35039521</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="other">SAS Institute Inc. JMP<sup>&#xAE;</sup>, Version 14. Cary, NC. 1989&#x2013;2023.</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="book"><collab>R Core Team</collab>. <part-title>R: A language and environment for statistical computing</part-title>. <source>R Foundation for Statistical Computing</source>, <publisher-loc>Vienna, Austria</publisher-loc>. <ext-link xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R-project.org/</ext-link>. <year>2022</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><name><surname>Oliveira</surname><given-names>SG</given-names></name>, <name><surname>Nishiyama</surname><given-names>RR</given-names></name>, <name><surname>Trigo</surname><given-names>CAC</given-names></name>, <name><surname>Mattos-Guaraldi</surname><given-names>AL</given-names></name>, <name><surname>Davila</surname><given-names>AMR</given-names></name>, <name><surname>Jardim</surname><given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Core of the saliva microbiome: an analysis of the MG-RAST data</article-title>. <source>BMC Oral Health</source>. <year>2021</year>;<volume>21</volume>(<issue>1</issue>):<fpage>351</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12903-021-01719-5</pub-id>
+<pub-id pub-id-type="pmid">34271900</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Nakazawa</surname><given-names>F</given-names></name>, <name><surname>Sato</surname><given-names>M</given-names></name>, <name><surname>Poco</surname><given-names>SE</given-names></name>, <name><surname>Hashimura</surname><given-names>T</given-names></name>, <name><surname>Ikeda</surname><given-names>T</given-names></name>, <name><surname>Kalfas</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Description of Mogibacterium pumilum gen. nov., sp. nov. and Mogibacterium vescum gen. nov., sp. nov., and reclassification of <italic toggle="yes">Eubacterium timidum</italic> (Holdeman et al. 1980) as Mogibacterium timidum gen. nov., comb. nov</article-title>. <source>Int J Syst Evol Microbiol</source>. <year>2000</year>;<volume>50</volume>
+<issue>Pt 2</issue>:<fpage>679</fpage>&#x2013;<lpage>688</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1099/00207713-50-2-679</pub-id>
+<pub-id pub-id-type="pmid">10758875</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>Q</given-names></name>, <name><surname>Pu</surname><given-names>Y</given-names></name>, <name><surname>Lu</surname><given-names>H</given-names></name>, <name><surname>Zhao</surname><given-names>N</given-names></name>, <name><surname>Wang</surname><given-names>Y</given-names></name>, <name><surname>Guo</surname><given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Porphyromonas, Treponema, and Mogibacterium promote IL8/IFNgamma/TNFalpha-based pro-inflammation in patients with medication-related osteonecrosis of the jaw</article-title>. <source>J Oral Microbiol</source>. <year>2020</year>;<volume>13</volume>(<issue>1</issue>):<fpage>1851112</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/20002297.2020.1851112</pub-id>
+<pub-id pub-id-type="pmid">33391627</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302569.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><name><surname>Yamamoto</surname><given-names>M</given-names></name>, <name><surname>Aochi</surname><given-names>S</given-names></name>, <name><surname>Uehara</surname><given-names>M</given-names></name>. <article-title>Analysis of the saliva microbiome in patients with IgG4-related disease</article-title>. <source>Mod Rheumatol</source>. <year>2023</year>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/mr/road037</pub-id>
+<pub-id pub-id-type="pmid">37043362</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <sub-article article-type="aggregated-review-documents" id="pone.0302569.r001" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0302569.r001</article-id>
+      <title-group>
+        <article-title>Decision Letter 0</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spekker</surname>
+            <given-names>Olga</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Olga Spekker</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Olga Spekker</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0302569" id="rel-obj001" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>0</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">19 Feb 2024</named-content>
+</p>
+      <p><!-- <div> -->PONE-D-23-38526<!-- </div> --><!-- <div> -->Shotgun metagenomics comparing taxonomic and sequence abundances identifies Mogibacterium associated with chronic bacterial osteomyelitis in the saliva microbiome<!-- </div> --><!-- <div> -->PLOS ONE</p>
+      <p>Dear Dr. Yahara,</p>
+      <p>Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE&#x2019;s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.</p>
+      <p>==============================</p>
+      <p><bold>ACADEMIC EDITOR:</bold><!-- </div> --><!-- <div> -->&#xA0;<!-- </div> --><!-- <div> -->Dear Dr Yahara,</p>
+      <p>We appreciate you submitting your manuscript to PLOS ONE and thank you for giving us the opportunity to consider your work.<!-- </div> --><!-- <div> --></p>
+      <p>I have completed my evaluation of your manuscript, which has been reviewed by two highly qualified reviewers all of whom agree it is worth to be published in PLOS ONE. Nevertheless, they have suggested some changes that will help to improve the paper.</p>
+      <p>Therefore, I invite you to resubmit your manuscript after addressing the reviewers&#x2019; comments below. When revising your manuscript, please consider all issues mentioned in the reviewers' comments carefully: please, outline every change made in response to their comments and provide suitable rebuttals for any comments not addressed. Please, note that your revised submission may need to be re-reviewed.</p>
+      <p>PLOS ONE values your contribution and I look forward to receiving your revised manuscript.</p>
+      <p>Yours sincerely,</p>
+      <p>Dr. Olga Spekker<!-- <div> -->==============================</p>
+      <p>Please submit your revised manuscript by Apr 04 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at&#xA0;<email>plosone@plos.org</email>. When you're ready to submit your revision, log on to <ext-link xlink:href="https://www.editorialmanager.com/pone/" ext-link-type="uri">https://www.editorialmanager.com/pone/</ext-link> and select the 'Submissions Needing Revision' folder to locate your manuscript file.</p>
+      <p>Please include the following items when submitting your revised manuscript:<!-- </div> --><list list-type="bullet"><list-item><p>A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.</p></list-item><list-item><p>A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.</p></list-item><list-item><p>An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.</p></list-item></list></p>
+      <p>If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.</p>
+      <p>If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: <ext-link xlink:href="https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols" ext-link-type="uri">https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols</ext-link>. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at <ext-link xlink:href="https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols" ext-link-type="uri">https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols</ext-link>.</p>
+      <p>We look forward to receiving your revised manuscript.</p>
+      <p>Kind regards,</p>
+      <p>Olga Spekker, Ph.D.</p>
+      <p>Academic Editor</p>
+      <p>PLOS ONE</p>
+      <p>Journal requirements:</p>
+      <p>1. When submitting your revision, we need you to address these additional requirements.</p>
+      <p>Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at&#xA0;</p>
+      <p><ext-link xlink:href="https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf" ext-link-type="uri">https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf</ext-link> and&#xA0;</p>
+      <p><ext-link xlink:href="https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf" ext-link-type="uri">https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf</ext-link>.</p>
+      <p>2. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.&#xA0;</p>
+      <p>Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (<ext-link xlink:href="http://learn.aje.com/plos/" ext-link-type="uri">http://learn.aje.com/plos/</ext-link>) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (<ext-link xlink:href="http://www.editage.com" ext-link-type="uri">www.editage.com</ext-link>) and enter referral code PLOSEDIT for a 15% discount off Editage services.&#xA0; If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.</p>
+      <p>Upon resubmission, please provide the following:</p>
+      <p>The name of the colleague or the details of the professional service that edited your manuscript</p>
+      <p>A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)</p>
+      <p>A clean copy of the edited manuscript (uploaded as the new *manuscript* file)&#x201D;.</p>
+      <p>3. Thank you for stating the following financial disclosure:&#xA0;</p>
+      <p>&#xA0;[This study was supported by a Grant-in-Aid for Scientific Research of Education, Culture, Science, Sports, and Technology (MEXT) from Japan (19J40070 to H.Y.).&#xA0; This work was supported in part by Grants-in-Aid for Research from the National Center for Global Health and Medicine (23A3001)].&#xA0;&#xA0;</p>
+      <p>Please state what role the funders took in the study.&#xA0; If the funders had no role, please state: ""The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.""&#xA0;</p>
+      <p>If this statement is not correct you must amend it as needed.&#xA0;</p>
+      <p>Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.</p>
+      <p>[Note: HTML markup is below. Please do not edit.]</p>
+      <p>Reviewers' comments:</p>
+      <p>Reviewer's Responses to Questions</p>
+      <p>
+<!-- <font color="black"> -->
+<bold>Comments to the Author</bold>
+</p>
+      <p>1. Is the manuscript technically sound, and do the data support the conclusions?</p>
+      <p>The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented. <!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;Yes</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->2. Has the statistical analysis been performed appropriately and rigorously? <!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;Yes</p>
+      <p>Reviewer #2:&#xA0;I Don't Know</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->3. Have the authors made all data underlying the findings in their manuscript fully available?</p>
+      <p>The <ext-link xlink:href="http://www.plosone.org/static/policies.action#sharing" ext-link-type="uri">PLOS Data policy</ext-link> requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data&#x2014;e.g. participant privacy or use of data from a third party&#x2014;those must be specified.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;Yes</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->4. Is the manuscript presented in an intelligible fashion and written in standard English?</p>
+      <p>PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;Yes</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->5. Review Comments to the Author</p>
+      <p>Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;The authors have presented a well-written, clear and concise paper to show the results of a study to investigate the salivary bacterial composition of people with osteomyelitis. The abstract and introduction are logical and complete, the materials and methods present the sampling and data creation well, and the results and discussion bring the work together and explain the conclusions well. My only comment is the number of samples that were taken, being n=10 and n=5 respectively for different types of osteomyelitis. It is a small sample set, but I do understand that this is an exploratory and descriptive study. Are there other datasets to compare these results with? I was pleased to see the depth of sequencing- in my experience the hardest consequence of salivary studies is to gain enough bacterial reads above the human reads. A final question is what the overall bacterial abundance is in real terms and how this relates to the healthy controls. Could increase in relative abundance of Mogibacterium be a consequence of a proliferating bacterial counts in the saliva? In short, a complete descriptive paper that will likely stimulate understandings of the progression of disease.</p>
+      <p>Reviewer #2:&#xA0;Review of the article titled Shotgun metagenomics comparing taxonomic and sequence abundances identifies Mogibacterium associated with chronic bacterial osteomyelitis in the saliva microbiome</p>
+      <p>Summary</p>
+      <p>The authors of this article clearly display the signs of expertise and competence in their field. The article is well written and the main points are clearly discussed with understandable and elaborate language. Based on their published literature they are well entrenched in this research field, which is clearly shown from their confidence in handling their data and discussing the results. I believe that the findings of this article are appropriate for publication and they will be a valuable addition in the oral microbiome research. I would like them however to address some of my concerns first, mainly about the statistical analysis that they employed.</p>
+      <p>Major revisions</p>
+      <p>My biggest problem with the article is the data analysis in the Taxonomic profiling identifies microbes associated with chronic bacterial osteomyelitis section. Seemingly the &#x201C;taxonomic abundance&#x201D; data that you publish in this article (Table S2) is not exactly the same as the data that were used in your statistical analyses that you discuss. I take this from your statement in Line 228-229 in parenthesis and from the fact that I tried to replicate your analyses using Table S2 and I obtained substantially different results.</p>
+      <p>I performed pairwise Wilcoxon tests between the patient groups across all taxa which yielded more than 4 significant differences with the given 0.05 significance threshold or none with a Bonferroni corrected threshold. I also tried to replicate your boxplots from Figure 1 but I found interesting differences (the position of the median line, position of your data points between the 25th and 75th percentiles), which &#x2013; for me &#x2013; suggest that there was an underlying distribution (differing from the data published in Table S2) that was used to create these boxplots.</p>
+      <p>The reason for these discrepancies are not clear to me. If there is a difference between the employed data in the analyses and the published data in Table S2 then this difference should be strongly emphasized in the text. I would also like you to include a more detailed description of the data handling steps mentioned in Line 229 (&#x201C;using a model with default normalization and transformation implemented in MaAsLin2&#x201D;) in the Methods section, as this would explain why you would get different results from the raw sequence data.</p>
+      <p>If, however, I should be able to replicate your results from the available data table (Table S2) alone, then please explain to me why I obtained different results from the ones you discussed in this section. For clarity I include my R script (verification.R) for you to check the validity of my claims.</p>
+      <p>I had another problem specifically with the results concerning the Mogibacterium comparison. In my R script I also try to show you that assuming a simplistic normal distribution, 2 of your samples seems highly likely to be outliers. I don&#x2019;t want to assume that this type of data is necessarily normally distributed, but this should still indicate that you should be careful interpreting these results. I see that you touch on this topic in Line 407-408, but I would like you to also include a short disclaimer in this section as well, that you are indeed aware of the low sample size of the chronic bacterial osteomyelitis group and the possibility of some samples to be outliers.</p>
+      <p>Minor revisions</p>
+      <p>Title &#x2013; I would suggest a modified title &#x201C;Shotgun metagenomic analysis of saliva microbiome suggests Mogibacterium as a factor associated with chronic bacterial osteomyelitis&#x201D; or something along this line. As I don&#x2019;t think your discussion of taxonomic and sequence abundance comparison is that central to this articles message. I also suggested to change the &#x201C;identify&#x201D; part as you yourself describe these results as preliminary in the Conclusion section (Line 407-408).</p>
+      <p>Line 39 &#x201C;previous study&#x201D; &#x2013; Please include a reference here.</p>
+      <p>Line 168-170 &#x2013; &#x201C;we randomly selected the same number of read pairs [..] using BBmap.&#x201D; &#x2013; If this is the standard method when account for differences in sequence coverage than please include a reference here where they discuss the reason behind this method. If this is a new approach than please include a description here about the validity of this method. Also I think a reference is missing here for BBmap.</p>
+      <p>Line 176-177 Which program was used for the concatenation?</p>
+      <p>Line 186-187 &#x201C;Contig Annotation Tool (CAT) [30]&#x201D; &#x2013; I think a reference is missing from here, because the Nakazawa et al. 2002 article is referenced here which clearly belong to Line 196 where it is given appropriately. Please insert the proper reference (this would be von Meijenfeldt et al. 2019, <ext-link xlink:href="https://doi.org/10.1186/s13059-019-1817-x" ext-link-type="uri">https://doi.org/10.1186/s13059-019-1817-x</ext-link> ?) and number the rest of the references accordingly.</p>
+      <p>Line 194-195 Mogibacterium is not mentioned prior to this statement, maybe a short introduction should be included to justify why this specific taxon was selected for the phylogenetic analysis.</p>
+      <p>Line 202-203 Where can I find this heatmap, please reference this statement. If the picture/table is not included in the article, why do you mention it?</p>
+      <p>Line 209-210 I think it would be appropriate to reference both JMP Pro and R software as well in the Reference list to clarify the availability of these softwares.</p>
+      <p>Line 253-256 &#x201C;were highly correlated (Spearman&#x2019;s correlation coefficient: 0.85) [&#x2026;]&#x201D; &#x2013; the other groups seemed also highly correlated, I am not sure whether this difference is high enough to justify discussion</p>
+      <p>Line 284-285 &#x201C;The blue line indicates the significant enrichment [&#x2026;]&#x201D; &#x2013; I cannot see a blue line on Figure 2. Please clarify the meaning of the sentence.</p>
+      <p>Line 393-395 &#x201C;[&#x2026;] using multiple reference genomes across species, [&#x2026;]&#x201D; &#x2013; This approach is first mentioned here. Please include a more detailed description of the validity of this method compared to others in the Method section.</p>
+      <p>TableS2 The heading of the first column describes sampleIDs, the table however seemingly contains genus names. If it was the intended nomenclature, please clarify why you chose &#x201C;sampleID&#x201D;, otherwise correct the header.</p>
+      <p>Spelling errors</p>
+      <p>Line 43 &#x201C;level&#x201D; &#x2013; levels</p>
+      <p>Line 44 &#x201C;in a chronic&#x201D; &#x2013; in the chronic</p>
+      <p>Line 45-47 &#x201C;this is the first study&#x2026;&#x201D; &#x2013; this seems like a strong statement, maybe it would be prudent to lighten it</p>
+      <p>Line 81 &#x201C;chronic specific inflammation&#x201D; &#x2013; I don&#x2019;t think chronic specific is an appropriate term in English. Maybe &#x201C;CNO is characterized by markers specific to chronic inflammation,&#x201D; or something along this line.</p>
+      <p>Line 96 &#x201C;For instance, a&#x201D; &#x2013; an</p>
+      <p>Line 122 &#x201C;from previous out study&#x201D; &#x2013; from our previous study</p>
+      <p>Line 133 &#x201C;techniques have employed&#x201D; &#x2013; are employed</p>
+      <p>Line 148-149 &#x201C;A total of 15 patients [&#x2026;] with CNO in Japan&#x201D;. &#x2013; &#x201C;A total of 15 Japanese patients were [&#x2026;]&#x201D;; or &#x201C;A total of 15 patients were chosen from Japan for this study [&#x2026;]&#x201D;. The original statement reads like only the 10 CNO patients are from Japan.</p>
+      <p>Line 160 &#x201C;data of the five healthy control&#x201D; &#x2013; data of five healthy controls</p>
+      <p>Line 167 &#x201C;Afte&#x201D; &#x2013; After</p>
+      <p>Line 338 &#x201C;which may may include&#x201D; &#x2013; which may include</p>
+      <p>Questions</p>
+      <p>Line 327-328 &#x2013; I am not sure about the origin of the data used in the Oliveira et al. 2021 article, but I would presume it analysed the salival microbiomes of mainly North-American and Western European individuals. Can the difference in the taxon composition of your data also be the result of the different dietary culture of Japan and/or East Asia? I would assume that diet plays a substantial role in the formation of the general oral microbiome. I see that you elaborate on this a bit in Line 400-401, but I think a short paragraph could be also included about this after Line 328. Actually, your finding of these completely different genera compared to the previously reported &#x201C;core salival microbiome&#x201D; is much more interesting than your discussion of the Mogibacterium related results. Maybe you could elaborate on these findings in a subsequent article.</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->6. PLOS authors have the option to publish the peer review history of their article (<ext-link xlink:href="https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history" ext-link-type="uri">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+      <p>If you choose &#x201C;no&#x201D;, your identity will remain anonymous but your review may still be made public.</p>
+      <p><bold>Do you want your identity to be public for this peer review?</bold> For information about this choice, including consent withdrawal, please see our <ext-link xlink:href="https://www.plos.org/privacy-policy" ext-link-type="uri">Privacy Policy</ext-link>.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;<bold>Yes:&#xA0;</bold>Kate Howell</p>
+      <p>Reviewer #2:&#xA0;No</p>
+      <p>**********</p>
+      <p>[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]</p>
+      <p>While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool,&#xA0;<ext-link xlink:href="https://pacev2.apexcovantage.com/" ext-link-type="uri">https://pacev2.apexcovantage.com/</ext-link>. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at&#xA0;<email>figures@plos.org</email>. Please note that Supporting Information files do not need this step.</p>
+    </body>
+  </sub-article>
+  <sub-article article-type="author-comment" id="pone.0302569.r002">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0302569.r002</article-id>
+      <title-group>
+        <article-title>Author response to Decision Letter 0</article-title>
+      </title-group>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0302569" id="rel-obj002" related-article-type="editor-report"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="author-response-date">4 Mar 2024</named-content>
+</p>
+      <p>Uploaded as a Word file and included at the end of the combined PDF</p>
+      <supplementary-material id="pone.0302569.s005" position="float" content-type="local-data">
+        <label>Attachment</label>
+        <caption>
+          <p>Submitted filename: <named-content content-type="submitted-filename">response.docx</named-content></p>
+        </caption>
+        <media xlink:href="pone.0302569.s005.docx"/>
+      </supplementary-material>
+    </body>
+  </sub-article>
+  <sub-article article-type="aggregated-review-documents" id="pone.0302569.r003" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0302569.r003</article-id>
+      <title-group>
+        <article-title>Decision Letter 1</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spekker</surname>
+            <given-names>Olga</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Olga Spekker</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Olga Spekker</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0302569" id="rel-obj003" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">26 Mar 2024</named-content>
+</p>
+      <p><!-- <div> -->PONE-D-23-38526R1<!-- </div> --><!-- <div> -->Shotgun metagenomic analysis of the saliva microbiome suggests Mogibacterium as a factor associated with chronic bacterial osteomyelitis<!-- </div> --><!-- <div> -->PLOS ONE</p>
+      <p>Dear Dr. Yahara,</p>
+      <p>Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE&#x2019;s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.<!-- </div> --><!-- <div> --></p>
+      <p>Please submit your revised manuscript by May 10 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at&#xA0;<email>plosone@plos.org</email>. When you're ready to submit your revision, log on to <ext-link xlink:href="https://www.editorialmanager.com/pone/" ext-link-type="uri">https://www.editorialmanager.com/pone/</ext-link> and select the 'Submissions Needing Revision' folder to locate your manuscript file.</p>
+      <p>Please include the following items when submitting your revised manuscript:<!-- </div> --><list list-type="bullet"><list-item><p>A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.</p></list-item><list-item><p>A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.</p></list-item><list-item><p>An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.</p></list-item></list><!-- <div> -->If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.</p>
+      <p>If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: <ext-link xlink:href="https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols" ext-link-type="uri">https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols</ext-link>. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at <ext-link xlink:href="https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols" ext-link-type="uri">https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols</ext-link>.</p>
+      <p>We look forward to receiving your revised manuscript.</p>
+      <p>Kind regards,</p>
+      <p>Olga Spekker, Ph.D.</p>
+      <p>Academic Editor</p>
+      <p>PLOS ONE</p>
+      <p>Journal Requirements:</p>
+      <p>Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article&#x2019;s retracted status in the References list and also include a citation and full reference for the retraction notice.</p>
+      <p><bold>Additional Editor Comments:</bold><!-- <div> -->==============================</p>
+      <p>
+<bold>ACADEMIC EDITOR:</bold>
+<!-- </div> -->
+</p>
+      <p>Dear Dr. Yahara,</p>
+      <p>We appreciate you submitting your manuscript to PLOS ONE and thank you for giving us the opportunity to consider your work.</p>
+      <p>I have completed my evaluation of your manuscript, which has been reviewed by two highly qualified reviewers all of whom agree it is worth to be published in PLOS ONE. Nevertheless, one of the reviewers has suggested some minor changes regarding the supplementary tables.</p>
+      <p>Therefore, I invite you to resubmit your manuscript after addressing these minor comments below.</p>
+      <p>PLOS ONE values your contribution and I look forward to receiving your revised manuscript.</p>
+      <p>Yours sincerely,</p>
+      <p>Dr. Olga Spekker</p>
+      <p>==============================</p>
+      <p>[Note: HTML markup is below. Please do not edit.]</p>
+      <p>Reviewers' comments:</p>
+      <p>Reviewer's Responses to Questions</p>
+      <p>
+<!-- <font color="black"> -->
+<bold>Comments to the Author</bold>
+</p>
+      <p>1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the &#x201C;Comments to the Author&#x201D; section, enter your conflict of interest statement in the &#x201C;Confidential to Editor&#x201D; section, and submit your "Accept" recommendation.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;All comments have been addressed</p>
+      <p>Reviewer #2:&#xA0;All comments have been addressed</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->2. Is the manuscript technically sound, and do the data support the conclusions?</p>
+      <p>The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented. <!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;(No Response)</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->3. Has the statistical analysis been performed appropriately and rigorously? <!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;(No Response)</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->4. Have the authors made all data underlying the findings in their manuscript fully available?</p>
+      <p>The <ext-link xlink:href="http://www.plosone.org/static/policies.action#sharing" ext-link-type="uri">PLOS Data policy</ext-link> requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data&#x2014;e.g. participant privacy or use of data from a third party&#x2014;those must be specified.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;(No Response)</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->5. Is the manuscript presented in an intelligible fashion and written in standard English?</p>
+      <p>PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;(No Response)</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->6. Review Comments to the Author</p>
+      <p>Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;(No Response)</p>
+      <p>Reviewer #2:&#xA0;Answer to revisions</p>
+      <p>Summary</p>
+      <p>Thank you for considering my review suggestion. I think the presentation of your data improved significantly and the inclusion of the requested paragraph clarified the background workings of your analysis framework. The language and overall structure of your article is still very clear and straightforward.</p>
+      <p>In the next section, I would like to answer the answers to my reviews. Then I listed some suggestions concerning the Supplementary Tables. I wouldn&#x2019;t like an answer for these I just included them as to make sure to really bring out the maximum from your excellent article.</p>
+      <p>Answers</p>
+      <p>"The comparison also shows that the data points are the same between the 25th and 75th percentiles (shown as black dots in the middle boxes). Although the 75th percentile is indeed different (11.4 in Fig 1b and 8.5 in the figure created by reviewer&#x2019;s R script), we confirmed that it is due to a difference in the quantile algorithm between JMP and R: the 75th percentile in Fig 1b (11.4) calculated by JMP is obtained using the 6th type quantile algorithm implemented in R, whereas that in the figure by the reviewer&#x2019;s R script (8.5) is obtained using the 7th type quantile algorithm, which is the default in R."</p>
+      <p>Thank you for this thorough explanation I didn&#x2019;t even know that quartile calculation was this complicated in R. I accept your answer.</p>
+      <p>"According to your suggestion, we have added the following to the Methods: &#x201C;According to previous studies [38, 39], we specified the total sum scaling (TSS) normalization (to ensure that the profile values ranged from 0 to 1) and arcsine square-root transformation (AST) (to stabilize the variance and improve parametric estimation models in the presence of violated data assumptions, such as normality and homoscedasticity) [37].&#x201D; (Lines 216&#x2013;219) We have also confirmed that the arcsine square-root transformation (AST) is conducted using the following R code "sign(x) * asin(sqrt(abs(x)))", and the taxonomic abundance of Mogibacterium (normalized to be from 0 to 1) before and after the transformation is distributed as shown below (left and right, respectively). The transformation seems to make the distribution less skewed."</p>
+      <p>Thank your for including this section in Methods. Your explanation clarifies the exact method that you were using, and thus I accept your answer. This helps to facilitate reproducibility furthermore provides opportunities for you to show your seemingly considerable experience working with this kind of data, which &#x2013; I think &#x2013; overall strengthens the viewers assessment of your ability to produce trustful results.</p>
+      <p>"We appreciate your comment and agree with it. The illustration of the distribution above shows that the two samples at the right seem to be outliers, even after the arcsine square-root transformation (AST). Therefore, we added the following to the Discussion: &#x201C;However, the sample size of the present study was small (N=5 in the chronic bacterial osteomyelitis group). Although all five patients with chronic bacterial osteomyelitis showed a greater taxonomic abundance of Mogibacterium than the five healthy controls, the abundance values for two of these patients appeared to be outliers that were only distinct relative to those of CNO patients (Fig 1b). Further studies should be performed with additional data on chronic bacterial osteomyelitis patients to explore the external validity of the study and determine the frequency of such outliers, which may represent a potential characteristic of chronic bacterial osteomyelitis. (Lines 390&#x2013;397)"</p>
+      <p>Thank you again, this section further strengthens the sincerity and transparency of your previous statements.</p>
+      <p>All together I think this article is appropriate for publication in this state.</p>
+      <p>Suggestions</p>
+      <p>The first row in Table_S1 contains 3 white spaces before the beginning of the sentence.</p>
+      <p>The name of the 5th control individual is CN001_ with an ending underscore is this a typo?</p>
+      <p>The genus header in Table_S2 is still sampleID in the uploaded file but I presume you just didn&#x2019;t upload the revised version along the Response to reviewers file.</p>
+      <p>I am sure the publisher has regulations in this regard, however I saw some really bad examples in even highly regarded publishers like Nature, that the name of the supplementary files were jumbled completely. Please name your files in a straightforward manner like Table_S1 or something like that because this really helps later reading and organisation for your readership.</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->7. PLOS authors have the option to publish the peer review history of their article (<ext-link xlink:href="https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history" ext-link-type="uri">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+      <p>If you choose &#x201C;no&#x201D;, your identity will remain anonymous but your review may still be made public.</p>
+      <p><bold>Do you want your identity to be public for this peer review?</bold> For information about this choice, including consent withdrawal, please see our <ext-link xlink:href="https://www.plos.org/privacy-policy" ext-link-type="uri">Privacy Policy</ext-link>.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;No</p>
+      <p>Reviewer #2:&#xA0;No</p>
+      <p>**********</p>
+      <p>[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]</p>
+      <p>While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool,&#xA0;<ext-link xlink:href="https://pacev2.apexcovantage.com/" ext-link-type="uri">https://pacev2.apexcovantage.com/</ext-link>. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at&#xA0;<email>figures@plos.org</email>. Please note that Supporting Information files do not need this step.</p>
+      <supplementary-material id="pone.0302569.s006" position="float" content-type="local-data">
+        <label>Attachment</label>
+        <caption>
+          <p>Submitted filename: <named-content content-type="submitted-filename">Answear to revisions.docx</named-content></p>
+        </caption>
+        <media xlink:href="pone.0302569.s006.docx"/>
+      </supplementary-material>
+    </body>
+  </sub-article>
+  <sub-article article-type="author-comment" id="pone.0302569.r004">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0302569.r004</article-id>
+      <title-group>
+        <article-title>Author response to Decision Letter 1</article-title>
+      </title-group>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0302569" id="rel-obj004" related-article-type="editor-report"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>2</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="author-response-date">5 Apr 2024</named-content>
+</p>
+      <p>Included in the combined PDF</p>
+      <supplementary-material id="pone.0302569.s007" position="float" content-type="local-data">
+        <label>Attachment</label>
+        <caption>
+          <p>Submitted filename: <named-content content-type="submitted-filename">response.docx</named-content></p>
+        </caption>
+        <media xlink:href="pone.0302569.s007.docx"/>
+      </supplementary-material>
+    </body>
+  </sub-article>
+  <sub-article article-type="editor-report" id="pone.0302569.r005" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0302569.r005</article-id>
+      <title-group>
+        <article-title>Decision Letter 2</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spekker</surname>
+            <given-names>Olga</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Olga Spekker</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Olga Spekker</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0302569" id="rel-obj005" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>2</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">9 Apr 2024</named-content>
+</p>
+      <p>Shotgun metagenomic analysis of the saliva microbiome suggests Mogibacterium as a factor associated with chronic bacterial osteomyelitis</p>
+      <p>PONE-D-23-38526R2</p>
+      <p>Dear Dr. Yahara,</p>
+      <p>We&#x2019;re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.</p>
+      <p>Within one week, you&#x2019;ll receive an e-mail detailing the required amendments. When these have been addressed, you&#x2019;ll receive a formal acceptance letter and your manuscript will be scheduled for publication.</p>
+      <p>An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at <ext-link xlink:href="https://www.editorialmanager.com/pone/" ext-link-type="uri">Editorial Manager&#xAE;</ext-link>&#xA0;and clicking the &#x2018;Update My Information' link at the top of the page. If you have any questions relating to publication charges, please contact our Author Billing department directly at <email>authorbilling@plos.org</email>.</p>
+      <p>If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they&#x2019;ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact <email>onepress@plos.org</email>.</p>
+      <p>Kind regards,</p>
+      <p>Olga Spekker, Ph.D.</p>
+      <p>Academic Editor</p>
+      <p>PLOS ONE</p>
+      <p>Additional Editor Comments (optional):</p>
+      <p>Reviewers' comments:</p>
+    </body>
+  </sub-article>
+</article>
+</pmc-articleset>

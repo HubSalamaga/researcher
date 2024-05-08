@@ -1,0 +1,811 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Online J Public Health Inform</journal-id><journal-id journal-id-type="iso-abbrev">Online J Public Health Inform</journal-id><journal-id journal-id-type="publisher-id">JMIR</journal-id><journal-title-group><journal-title>Online Journal of Public Health Informatics</journal-title></journal-title-group><issn pub-type="epub">1947-2579</issn><publisher><publisher-name>JMIR Publications</publisher-name><publisher-loc>Toronto, Canada</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38700929</article-id><article-id pub-id-type="pmc">11073632</article-id><article-id pub-id-type="publisher-id">v16i1e53445</article-id><article-id pub-id-type="doi">10.2196/53445</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Paper</subject></subj-group><subj-group subj-group-type="article-type"><subject>Original Paper</subject></subj-group></article-categories><title-group><article-title>Characterization of Post&#x2013;COVID-19 Definitions and Clinical Coding Practices: Longitudinal Study</article-title></title-group><contrib-group><contrib contrib-type="editor"><name><surname>Mensah</surname><given-names>Edward</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="reviewer"><name><surname>Drew</surname><given-names>David</given-names></name></contrib><contrib contrib-type="reviewer"><name><surname>Zhang</surname><given-names>Linying</given-names></name></contrib></contrib-group><contrib-group><contrib id="contrib1" contrib-type="author" corresp="yes"><name><surname>Maripuri</surname><given-names>Monika</given-names></name><degrees>MBBS, MPH</degrees><contrib-id contrib-id-type="orcid">https://orcid.org/0009-0003-8848-6171</contrib-id><xref rid="aff1" ref-type="aff">1</xref><address><institution>Veterans Affairs Boston Healthcare System</institution><addr-line>2 Avenue de Lafayette</addr-line><addr-line>Boston, MA, 02111</addr-line><country>United States</country><phone>1 617 390 6976</phone><email>monika.maripuri@va.gov</email></address></contrib><contrib id="contrib2" contrib-type="author"><name><surname>Dey</surname><given-names>Andrew</given-names></name><degrees>MPH</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8890-8387</contrib-id></contrib><contrib id="contrib3" contrib-type="author"><name><surname>Honerlaw</surname><given-names>Jacqueline</given-names></name><degrees>RN, MPH</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5872-359X</contrib-id></contrib><contrib id="contrib4" contrib-type="author"><name><surname>Hong</surname><given-names>Chuan</given-names></name><degrees>PhD</degrees><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-7056-9559</contrib-id></contrib><contrib id="contrib5" contrib-type="author"><name><surname>Ho</surname><given-names>Yuk-Lam</given-names></name><degrees>MPH</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3305-3830</contrib-id></contrib><contrib id="contrib6" contrib-type="author"><name><surname>Tanukonda</surname><given-names>Vidisha</given-names></name><degrees>MD</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0009-0001-8103-3474</contrib-id></contrib><contrib id="contrib7" contrib-type="author"><name><surname>Chen</surname><given-names>Alicia W</given-names></name><degrees>MS</degrees><xref rid="aff1" ref-type="aff">1</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0009-0002-4417-6932</contrib-id></contrib><contrib id="contrib8" contrib-type="author"><name><surname>Panickan</surname><given-names>Vidul Ayakulangara</given-names></name><degrees>MS</degrees><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0616-0403</contrib-id></contrib><contrib id="contrib9" contrib-type="author"><name><surname>Wang</surname><given-names>Xuan</given-names></name><degrees>PhD</degrees><xref rid="aff3" ref-type="aff">3</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0011-5663</contrib-id></contrib><contrib id="contrib10" contrib-type="author"><name><surname>Zhang</surname><given-names>Harrison G</given-names></name><degrees>BA</degrees><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6679-1464</contrib-id></contrib><contrib id="contrib11" contrib-type="author"><name><surname>Yang</surname><given-names>Doris</given-names></name><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5188-2571</contrib-id></contrib><contrib id="contrib12" contrib-type="author"><name><surname>Samayamuthu</surname><given-names>Malarkodi Jebathilagam</given-names></name><degrees>MD</degrees><xref rid="aff4" ref-type="aff">4</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0061-8196</contrib-id></contrib><contrib id="contrib13" contrib-type="author"><name><surname>Morris</surname><given-names>Michele</given-names></name><degrees>BA</degrees><xref rid="aff4" ref-type="aff">4</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3255-5727</contrib-id></contrib><contrib id="contrib14" contrib-type="author"><name><surname>Visweswaran</surname><given-names>Shyam</given-names></name><degrees>MD, PhD</degrees><xref rid="aff4" ref-type="aff">4</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2079-8684</contrib-id></contrib><contrib id="contrib15" contrib-type="author"><name><surname>Beaulieu-Jones</surname><given-names>Brendin</given-names></name><degrees>MBA, MBI, MD</degrees><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1208-8025</contrib-id></contrib><contrib id="contrib16" contrib-type="author"><name><surname>Ramoni</surname><given-names>Rachel</given-names></name><degrees>DMD, ScD</degrees><xref rid="aff5" ref-type="aff">5</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1459-9638</contrib-id></contrib><contrib id="contrib17" contrib-type="author"><name><surname>Muralidhar</surname><given-names>Sumitra</given-names></name><degrees>PhD</degrees><xref rid="aff5" ref-type="aff">5</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8417-9068</contrib-id></contrib><contrib id="contrib18" contrib-type="author"><name><surname>Gaziano</surname><given-names>J Michael</given-names></name><degrees>MPH, MD</degrees><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff6" ref-type="aff">6</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5384-9767</contrib-id></contrib><contrib id="contrib19" contrib-type="author"><name><surname>Liao</surname><given-names>Katherine</given-names></name><degrees>MPH, MD</degrees><xref rid="aff7" ref-type="aff">7</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4797-3200</contrib-id></contrib><contrib id="contrib20" contrib-type="author"><name><surname>Xia</surname><given-names>Zongqi</given-names></name><degrees>MD, PhD</degrees><xref rid="aff8" ref-type="aff">8</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1500-2589</contrib-id></contrib><contrib id="contrib21" contrib-type="author"><name><surname>Brat</surname><given-names>Gabriel A</given-names></name><degrees>MPH, MD</degrees><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff9" ref-type="aff">9</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-3928-5931</contrib-id></contrib><contrib id="contrib22" contrib-type="author"><name><surname>Cai</surname><given-names>Tianxi</given-names></name><degrees>ScD</degrees><xref rid="aff2" ref-type="aff">2</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5379-2502</contrib-id></contrib><contrib id="contrib23" contrib-type="author"><name><surname>Cho</surname><given-names>Kelly</given-names></name><degrees>MPH, PhD</degrees><xref rid="aff1" ref-type="aff">1</xref><xref rid="aff6" ref-type="aff">6</xref><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1727-7076</contrib-id></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<institution>Veterans Affairs Boston Healthcare System</institution>
+<addr-line>Boston, MA</addr-line>
+<country>United States</country>
+</aff><aff id="aff2">
+<label>2</label>
+<institution>Department of Biomedical Informatics</institution>
+<institution>Harvard Medical School</institution>
+<addr-line>Boston, MA</addr-line>
+<country>United States</country>
+</aff><aff id="aff3">
+<label>3</label>
+<institution>Department of Population Health Sciences</institution>
+<institution>University of Utah</institution>
+<addr-line>Salt Lake City, UT</addr-line>
+<country>United States</country>
+</aff><aff id="aff4">
+<label>4</label>
+<institution>Department of Biomedical Informatics</institution>
+<institution>University of Pittsburgh</institution>
+<addr-line>Pittsburgh, PA</addr-line>
+<country>United States</country>
+</aff><aff id="aff5">
+<label>5</label>
+<institution>Office of Research and Development</institution>
+<institution>US Department of Veterans Affairs</institution>
+<addr-line>Washington, DC</addr-line>
+<country>United States</country>
+</aff><aff id="aff6">
+<label>6</label>
+<institution>Division of Aging, Department of Medicine</institution>
+<institution>Mass General Brigham</institution>
+<institution>Harvard Medical School</institution>
+<addr-line>Boston, MA</addr-line>
+<country>United States</country>
+</aff><aff id="aff7">
+<label>7</label>
+<institution>Division of Rheumatology, Inflammation, and Immunity</institution>
+<institution>Brigham and Women's Hospital</institution>
+<addr-line>Boston, MA</addr-line>
+<country>United States</country>
+</aff><aff id="aff8">
+<label>8</label>
+<institution>Department of Neurology</institution>
+<institution>University of Pittsburgh</institution>
+<addr-line>Pittsburgh, PA</addr-line>
+<country>United States</country>
+</aff><aff id="aff9">
+<label>9</label>
+<institution>Department of Surgery</institution>
+<institution>Beth Israel Deaconess Medical Center</institution>
+<addr-line>Boston, MA</addr-line>
+<country>United States</country>
+</aff><author-notes><corresp>Corresponding Author: Monika Maripuri <email>monika.maripuri@va.gov</email></corresp></author-notes><pub-date pub-type="collection"><year>2024</year></pub-date><pub-date pub-type="epub"><day>3</day><month>5</month><year>2024</year></pub-date><volume>16</volume><elocation-id>e53445</elocation-id><history><date date-type="received"><day>11</day><month>10</month><year>2023</year></date><date date-type="rev-request"><day>28</day><month>12</month><year>2023</year></date><date date-type="rev-recd"><day>19</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>19</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9;Monika Maripuri, Andrew Dey, Jacqueline Honerlaw, Chuan Hong, Yuk-Lam Ho, Vidisha Tanukonda, Alicia W Chen, Vidul Ayakulangara Panickan, Xuan Wang, Harrison G Zhang, Doris Yang, Malarkodi Jebathilagam Samayamuthu, Michele Morris, Shyam Visweswaran, Brendin Beaulieu-Jones, Rachel Ramoni, Sumitra Muralidhar, J Michael Gaziano, Katherine Liao, Zongqi Xia, Gabriel A Brat, Tianxi Cai, Kelly Cho. Originally published in the Online Journal of Public Health Informatics (https://ojphi.jmir.org/), 03.05.2024.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Online Journal of Public Health Informatics, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link xlink:href="https://ojphi.jmir.org/" ext-link-type="uri">https://ojphi.jmir.org/</ext-link>, as well as this copyright and license information must be included.</license-p></license></permissions><self-uri xlink:href="https://ojphi.jmir.org/2024/1/e53445"/><abstract><sec sec-type="background"><title>Background</title><p>Post&#x2013;COVID-19 condition (colloquially known as &#x201C;long COVID-19&#x201D;) characterized as postacute sequelae of SARS-CoV-2 has no universal clinical case definition. Recent efforts have focused on understanding long COVID-19 symptoms, and electronic health record (EHR) data provide a unique resource for understanding this condition. The introduction of the <italic>International Classification of Diseases, Tenth Revision</italic> (<italic>ICD-10</italic>) code U09.9 for &#x201C;Post COVID-19 condition, unspecified&#x201D; to identify patients with long COVID-19 has provided a method of evaluating this condition in EHRs; however, the accuracy of this code is unclear.</p></sec><sec sec-type="objective"><title>Objective</title><p>This study aimed to characterize the utility and accuracy of the U09.9 code across 3 health care systems&#x2014;the Veterans Health Administration, the Beth Israel Deaconess Medical Center, and the University of Pittsburgh Medical Center&#x2014;against patients identified with long COVID-19 via a chart review by operationalizing the World Health Organization (WHO) and Centers for Disease Control and Prevention (CDC) definitions.</p></sec><sec sec-type="methods"><title>Methods</title><p>Patients who were COVID-19 positive with either a U07.1 ICD-10 code or positive polymerase chain reaction test within these health care systems were identified for chart review. Among this cohort, we sampled patients based on two approaches: (1) with a U09.9 code and (2) without a U09.9 code but with a new onset long COVID-19&#x2013;related ICD-10 code, which allows us to assess the sensitivity of the U09.9 code. To operationalize the long COVID-19 definition based on health agency guidelines, symptoms were grouped into a &#x201C;core&#x201D; cluster of 11 commonly reported symptoms among patients with long COVID-19 and an extended cluster that captured all other symptoms by disease domain. Patients having &#x2265;2 symptoms persisting for &#x2265;60 days that were new onset after their COVID-19 infection, with &#x2265;1 symptom in the core cluster, were labeled as having long COVID-19 per chart review. The code&#x2019;s performance was compared across 3 health care systems and across different time periods of the pandemic.</p></sec><sec sec-type="results"><title>Results</title><p>Overall, 900 patient charts were reviewed across 3 health care systems. The prevalence of long COVID-19 among the cohort with the U09.9 ICD-10 code based on the operationalized WHO definition was between 23.2% and 62.4% across these health care systems. We also evaluated a less stringent version of the WHO definition and the CDC definition and observed an increase in the prevalence of long COVID-19 at all 3 health care systems.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>This is one of the first studies to evaluate the U09.9 code against a clinical case definition for long COVID-19, as well as the first to apply this definition to EHR data using a chart review approach on a nationwide cohort across multiple health care systems. This chart review approach can be implemented at other EHR systems to further evaluate the utility and performance of the U09.9 code.</p></sec></abstract><kwd-group><kwd>veterans</kwd><kwd>long COVID-19</kwd><kwd>postacute sequelae of SARS-CoV-2</kwd><kwd>PASC</kwd><kwd>International Classification of Diseases</kwd><kwd>U09.9 ICD-10 code</kwd><kwd>algorithm validation</kwd><kwd>chart review</kwd><kwd>electronic health records</kwd><kwd>COVID-19</kwd></kwd-group></article-meta></front>
+  <body>
+    <sec sec-type="introduction">
+      <title>Introduction</title>
+      <p>Characterizing the public health burden of postacute sequelae of SARS-CoV-2, also known as post&#x2013;COVID-19 condition or colloquially as long COVID-19, has been difficult, given that multiple clinical case definitions have been proposed by various international health agencies [<xref rid="ref1" ref-type="bibr">1</xref>-<xref rid="ref3" ref-type="bibr">3</xref>]. While the exact components of these definitions vary, they share some common underlying features such as the development of symptoms that are new onset after a COVID-19 infection and the persistence of new onset symptoms for a duration of time after acute infection period. Electronic health records (EHRs) provide a uniquely rich resource for studying this condition at scale, and there have been multiple efforts to describe long COVID-19 symptoms and estimate prevalence in various EHR systems [<xref rid="ref4" ref-type="bibr">4</xref>-<xref rid="ref9" ref-type="bibr">9</xref>].</p>
+      <p>Specifically, the introduction of the <italic>International Classification of Diseases, Tenth Revision</italic> (<italic>ICD-10</italic>) code U09.9 for &#x201C;Post COVID-19 condition, unspecified&#x201D; has provided an alternative method of evaluating this condition in EHRs, and its use has been described in various health care systems [<xref rid="ref10" ref-type="bibr">10</xref>-<xref rid="ref13" ref-type="bibr">13</xref>]. However, there is no universal diagnostic guideline for defining long COVID-19, and thus, there is no standard guideline for assigning U09.9. The use of the U09.9 code and its accuracy in identifying long COVID-19 have not yet been evaluated against any existing clinical case definitions in a multicenter setting. Clinical coding of long COVID-19 has the potential for misclassification, given the heterogeneity and ambiguity around the definition of long COVID-19 [<xref rid="ref14" ref-type="bibr">14</xref>].</p>
+      <p>This study aims (1) to characterize the use of <italic>ICD-10</italic> code U09.9 across 3 health care systems and (2) to evaluate the accuracy of the U09.9 code against patients identified with long COVID-19 via chart review.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Data Sources and Study Cohort</title>
+        <p>The Consortium for Clinical Characterization of COVID-19 by EHR (4CE) is an international consortium for data-driven studies on the COVID-19 pandemic [<xref rid="ref15" ref-type="bibr">15</xref>]. Three health care systems from the 4CE contributed chart review results for this study, namely, the national Veterans Health Administration (VHA), the Beth Israel Deaconess Medical Center (BIDMC), and the University of Pittsburgh Medical Center (UPMC). Over 15 million patients are collectively provided care across all 3 health care systems [<xref rid="ref16" ref-type="bibr">16</xref>-<xref rid="ref18" ref-type="bibr">18</xref>]. The VHA is the largest integrated health care system in the United States with 171 medical centers throughout the country [<xref rid="ref16" ref-type="bibr">16</xref>]. The BIDMC is an academic medical center that is part of Beth Israel Lahey health care system located in Boston, and the UPMC is a Pittsburgh-based health care system with 40 hospitals across Pennsylvania [<xref rid="ref17" ref-type="bibr">17</xref>,<xref rid="ref18" ref-type="bibr">18</xref>].</p>
+        <p>EHR data from the 3 health care systems were used to identify patients who were COVID-19 positive, define patient characteristics, and obtain clinical notes for chart review. The sampling strategy for our chart review is described in <xref rid="figure1" ref-type="fig">Figure 1</xref>. Patients who had their first incidence of COVID-19 diagnosis reported within the participating health care systems&#x2019; EHR with either a U07.1 ICD-10 code for &#x201C;COVID-19&#x201D; or a positive polymerase chain reaction test performed between March 1, 2020, and December 31, 2021, were identified for chart review. From this COVID-19&#x2013;positive cohort, we then sampled patients based on two approaches: (1) the presence of the U09.9 ICD-10 code, which was first introduced in the United States in October 2021, or (2) the presence of at least 1 new onset long COVID-19&#x2013;related ICD-10 code if the patient did not have a U09.9 code. These long COVID-19&#x2013;related ICD-10 codes were selected to enrich the chart review sample for patients who may potentially have long COVID-19. At the VHA, we further sampled patients from 2 time periods: those who were COVID-19 positive before September 1, 2021 (pre-U09.9 period), and those who were COVID-19 positive after this date (post-U09.9 period).</p>
+        <p>The presence of long COVID-19&#x2013;related ICD-10 codes was identified via a data-driven process using EHR data from 10 health care systems at the 4CE [<xref rid="ref19" ref-type="bibr">19</xref>]. Initial steps consisted of extracting longitudinal codified features such as ICD-10 codes and mapping these codified features to phecodes for new onset of conditions after COVID-19 infection. Phecodes are a curated grouping of ICD-10 codes used to analyze EHR data characterizing specific clinical symptoms or diagnoses [<xref rid="ref20" ref-type="bibr">20</xref>]. New onset conditions were defined as those that were not present before the initial COVID-19 infection. The conditions were selected such that patients with COVID-19 are associated with a higher risk of a new onset of the condition after adjusting for baseline confounders such as age, sex, self-reported race, and health care use. Marginal testing using a logistic regression framework was then performed to identify associated new onset conditions emerging 3 months after the initial infection. Conditions that passed marginal testing were then subject to conditional randomization analyses via distillation to robustly test whether a condition&#x2019;s new onset is conditionally dependent on prior COVID-19 infection [<xref rid="ref19" ref-type="bibr">19</xref>]. The Benjamini-Hochberg procedure was used to adjust for multiple comparisons [<xref rid="ref21" ref-type="bibr">21</xref>]. <xref rid="app1" ref-type="supplementary-material">Multimedia Appendix 1</xref> [<xref rid="ref19" ref-type="bibr">19</xref>,<xref rid="ref20" ref-type="bibr">20</xref>] presents a list of the phecodes identified.</p>
+        <fig position="float" id="figure1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Patient sampling strategy for chart review. BIDMC: Beth Israel Deaconess Medical Center; EHR: electronic health record; ICD-10: International Classification of Diseases, Tenth Revision; PASC: postacute sequelae SARS-CoV-2; PCR: polymerase chain reaction; UPMC: University of Pittsburg Medical Center; VHA: Veterans Health Administration.</p>
+          </caption>
+          <graphic xlink:href="ojphi_v16i1e53445_fig1" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Ethical Considerations</title>
+        <p>Exempt approval for this study was received by the Central Institutional Review Board at Veterans Affairs Boston Healthcare System (MVP000), BIDMC (2020P000565), and UPMC (STUDY20070095).</p>
+      </sec>
+      <sec>
+        <title>Chart Review Approach</title>
+        <p>The primary aim of our chart review was to operationalize the clinical case definition for long COVID-19 by the World Health Organization (WHO), with secondary aims to compare against a less stringent WHO definition and the Centers for Disease Control and Prevention (CDC) definition [<xref rid="ref3" ref-type="bibr">3</xref>,<xref rid="ref22" ref-type="bibr">22</xref>]. The chart review protocol (<xref rid="app2" ref-type="supplementary-material">Multimedia Appendix 2</xref>) was developed at the VHA with guidance from 4CE subject matter experts to operationalize the WHO and CDC clinical case definitions. Long COVID-19 symptoms were identified from the WHO definition as well as through a literature review, and 11 commonly occurring symptoms among patients with long COVID-19 were classified into a &#x201C;core&#x201D; symptom cluster [<xref rid="ref23" ref-type="bibr">23</xref>-<xref rid="ref26" ref-type="bibr">26</xref>]. All other symptoms were classified into an &#x201C;extended&#x201D; symptom cluster based on their disease domain, which included cardiovascular, neurological, dermatological, musculoskeletal, digestive, and respiratory domains. For patients to be labeled as having long COVID-19 per the WHO definition during the chart review (reported here as &#x201C;WHO-2&#x201D;), at least 2 new onset symptoms after their COVID-19 infection were required (<xref rid="figure2" ref-type="fig">Figure 2</xref>). These could be either (1) two &#x201C;core&#x201D; symptoms or (2) one &#x201C;core&#x201D; and 1 &#x201C;extended&#x201D; cluster symptom, each of which must have persisted for 60 days or longer. All sampled patient charts had at least 6 months of clinical notes for review after the incident COVID-19 infection to allow appropriate assessment of symptoms. During chart review, all symptoms were collected based on their onset and duration of persistence for either 30 or 60 days (<xref rid="app2" ref-type="supplementary-material">Multimedia Appendix 2</xref>) to allow evaluation against multiple long COVID-19 definitions. The less stringent WHO definition (reported here as &#x201C;WHO-1&#x201D;) was defined as a patient having just 1 core symptom persisting for at least 60 days or longer, and the CDC definition was defined as a patient having just 1 core symptom persisting for at least 30 days.</p>
+        <p>Reviewers had access to all clinical notes 1 year prior to the incident COVID-19 infection to determine baseline symptoms and conditions. Any symptoms present at the time of the incident COVID-19 infection or exacerbations of existing conditions were not considered new onset and thus not captured in the review. Chart reviewers were instructed to look for consistent mention or documentation of COVID-19-related symptoms in the notes and mark the duration of persistence (30 or 60 days). However, symptoms that waxed and waned over time were captured. At the VHA, a total of 500 patient charts were reviewed, and 200 patient charts were reviewed at each of the other 2 sites&#x2014;BIDMC and UPMC.</p>
+        <fig position="float" id="figure2">
+          <label>Figure 2</label>
+          <caption>
+            <p>Chart review approach. CDC: Centers for Disease Control; WHO: World Health Organization.</p>
+          </caption>
+          <graphic xlink:href="ojphi_v16i1e53445_fig2" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Characterizing the U09.9 ICD-10 Code</title>
+        <p>To characterize the use of the U09.9 ICD-10 code in clinical practice, the following three metrics were investigated: (1) the frequency of the U09.9 code used over time from October 2021 to September 2022, (2) the frequency of the U09.9 code used across Veterans Integrated Service Networks (VISNs; which are regional systems of care at the VHA), and (3) the time elapsed between COVID-19 diagnosis and U09.9 code assignment.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Characteristics of Study Cohort</title>
+        <p>Demographics and cohort sizes across the health care systems varied; notably, patients in VHA who had a COVID-19 diagnosis between March 1, 2020, and December 31, 2021, were generally White and male veterans. Among those who were assigned a U09.9 code, the demographics were generally similar with a few notable exceptions (<xref rid="table1" ref-type="table">Table 1</xref>). At the BIDMC and UPMC, however, the demographics were different, with a higher proportion of female patients who were assigned the U09.9 code. We also observed across all 3 health care systems that a higher proportion of those assigned a U09.9 code had received at least 1 dose of a COVID-19 vaccine compared to the general population of patients who were COVID-19 positive.</p>
+        <p>We observed a substantial variation in the use of the U09.9 code to diagnose long COVID-19 over time and region. <xref rid="figure3" ref-type="fig">Figures 3</xref> and <xref rid="figure4" ref-type="fig">4</xref> show the results of our characterizations of the U09.9 code use 12 months following its introduction in the United States on October 1, 2021. <xref rid="figure3" ref-type="fig">Figure 3</xref> shows the frequency of the U09.9 code diagnosis per 10,000 new COVID-19 cases that occurred in the last 12 months from when they received the code. Results from the 3 health care systems were anonymized so as to provide an unbiased interpretation. The frequency of the U09.9 code used to diagnose long COVID-19 was highest from January to March 2022 at health care system 1, from February to March 2022 at health care system 2, and from December 2021 to January 2022 at health care system 3.</p>
+        <p>There were also large regional differences in the use of the U09.9 code across VHA health care system VISNs (<xref rid="figure4" ref-type="fig">Figure 4</xref>). VISN17 assigned the U09.9 code to 28.4% (6304/22,196) of all patients who received this code at the VHA, while VISN1 assigned the U09.9 code to just 2.4% (533/22,196) of all patients who received the code at the VHA.</p>
+        <table-wrap position="float" id="table1">
+          <label>Table 1</label>
+          <caption>
+            <p>Patient demographics.</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="170" span="1"/>
+            <col width="100" span="1"/>
+            <col width="90" span="1"/>
+            <col width="90" span="1"/>
+            <col width="90" span="1"/>
+            <col width="80" span="1"/>
+            <col width="80" span="1"/>
+            <col width="0" span="1"/>
+            <col width="90" span="1"/>
+            <col width="90" span="1"/>
+            <col width="90" span="1"/>
+            <thead>
+              <tr valign="top">
+                <td colspan="2" rowspan="1">Demographics</td>
+                <td colspan="10" rowspan="1">Patient cohort and health care system</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="2" rowspan="1">
+<break/>
+</td>
+                <td colspan="3" rowspan="1">All patients who were COVID-19 positive<sup>a</sup> from March 1, 2020, to December 31, 2021</td>
+                <td colspan="4" rowspan="1">All patients who were COVID-19 positive<sup>a</sup> with a U09.9 ICD-10<sup>b</sup> code</td>
+                <td colspan="3" rowspan="1">All patients who were COVID-19 positive<sup>a</sup> with a new onset long COVID-19 feature</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="2" rowspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">VHA<sup>c</sup> (n=307,909)</td>
+                <td rowspan="1" colspan="1">BIDMC<sup>d</sup> (n=30,294)</td>
+                <td rowspan="1" colspan="1">UPMC<sup>e</sup> (n=147,653)</td>
+                <td rowspan="1" colspan="1">VHA (n=22,196)</td>
+                <td rowspan="1" colspan="1">BIDMC (n=164)</td>
+                <td rowspan="1" colspan="1">UPMC (n=6057)</td>
+                <td colspan="2" rowspan="1">VHA (n=294,302)</td>
+                <td rowspan="1" colspan="1">BIDMC (n=7245)</td>
+                <td rowspan="1" colspan="1">UPMC (n=92,120)</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="2" rowspan="1">Age at incident COVID-19 diagnosis (years), mean (SD)</td>
+                <td rowspan="1" colspan="1">59.2 (16.1)</td>
+                <td rowspan="1" colspan="1">47.5 (20.5)</td>
+                <td rowspan="1" colspan="1">45.7 (23.8)</td>
+                <td rowspan="1" colspan="1">61.7 (15.1)</td>
+                <td rowspan="1" colspan="1">54.7 (13.9)</td>
+                <td rowspan="1" colspan="1">55.1 (17.2)</td>
+                <td colspan="2" rowspan="1">61.2 (15.7)</td>
+                <td rowspan="1" colspan="1">54.6 (18.4)</td>
+                <td rowspan="1" colspan="1">47.5 (24.1)</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="12" rowspan="1">
+<bold>Sex, n (%)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Male</td>
+                <td rowspan="1" colspan="1">272,957 (88.7)</td>
+                <td rowspan="1" colspan="1">16,579 (54.7)</td>
+                <td rowspan="1" colspan="1">63,421 (43)</td>
+                <td rowspan="1" colspan="1">19,275 (86.8)</td>
+                <td rowspan="1" colspan="1">58 (35.4)</td>
+                <td rowspan="1" colspan="1">2219 (36.6)</td>
+                <td colspan="2" rowspan="1">260,055 (88.4)</td>
+                <td rowspan="1" colspan="1">2947 (40.67)</td>
+                <td rowspan="1" colspan="1">38,348 (41.6)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Female</td>
+                <td rowspan="1" colspan="1">34,898 (11.3)</td>
+                <td rowspan="1" colspan="1">13,715 (45.3)</td>
+                <td rowspan="1" colspan="1">84,232 (57)</td>
+                <td rowspan="1" colspan="1">2921 (13.2)</td>
+                <td rowspan="1" colspan="1">106 (64.6)</td>
+                <td rowspan="1" colspan="1">3838 (63.4)</td>
+                <td colspan="2" rowspan="1">34,214 (11.6)</td>
+                <td rowspan="1" colspan="1">4298 (59.3)</td>
+                <td rowspan="1" colspan="1">53,772 (58.4)</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="12" rowspan="1">
+<bold>Race, n (%)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">American Indian or Alaska Native</td>
+                <td rowspan="1" colspan="1">3521 (1.1)</td>
+                <td rowspan="1" colspan="1">31 (0.1)</td>
+                <td rowspan="1" colspan="1">704 (0.5)</td>
+                <td rowspan="1" colspan="1">273 (1.2)</td>
+                <td rowspan="1" colspan="1">1 (0.6)</td>
+                <td rowspan="1" colspan="1">0 (0)</td>
+                <td colspan="2" rowspan="1">3282 (1.1)</td>
+                <td rowspan="1" colspan="1">8 (0.1)</td>
+                <td rowspan="1" colspan="1">493 (0.5)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Asian</td>
+                <td rowspan="1" colspan="1">3326 (1.1)</td>
+                <td rowspan="1" colspan="1">1200 (4)</td>
+                <td rowspan="1" colspan="1">1303 (0.9)</td>
+                <td rowspan="1" colspan="1">249 (1.1)</td>
+                <td rowspan="1" colspan="1">4 (2.4)</td>
+                <td rowspan="1" colspan="1">70 (1.2)</td>
+                <td colspan="2" rowspan="1">3360 (1.1)</td>
+                <td rowspan="1" colspan="1">270 (3.7)</td>
+                <td rowspan="1" colspan="1">986 (1.1)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Black or African American</td>
+                <td rowspan="1" colspan="1">69,067 (22.4)</td>
+                <td rowspan="1" colspan="1">5074 (16.7)</td>
+                <td rowspan="1" colspan="1">14,966 (10.1)</td>
+                <td rowspan="1" colspan="1">3621 (16.3)</td>
+                <td rowspan="1" colspan="1">29 (17.7)</td>
+                <td rowspan="1" colspan="1">880 (14.5)</td>
+                <td colspan="2" rowspan="1">69,037 (26.5)</td>
+                <td rowspan="1" colspan="1">1730 (23.9)</td>
+                <td rowspan="1" colspan="1">10,564 (11.5)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Native Hawaiian or Pacific Islander</td>
+                <td rowspan="1" colspan="1">3189 (1)</td>
+                <td rowspan="1" colspan="1">21 (0.07)</td>
+                <td rowspan="1" colspan="1">35 (0.02)</td>
+                <td rowspan="1" colspan="1">239 (1.1)</td>
+                <td rowspan="1" colspan="1">0 (0)</td>
+                <td rowspan="1" colspan="1">0 (0)</td>
+                <td colspan="2" rowspan="1">3018 (1)</td>
+                <td rowspan="1" colspan="1">9 (0.1)</td>
+                <td rowspan="1" colspan="1">0 (0)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">White</td>
+                <td rowspan="1" colspan="1">208,457 (67.7)</td>
+                <td rowspan="1" colspan="1">8983 (29.7)</td>
+                <td rowspan="1" colspan="1">125,503 (85)</td>
+                <td rowspan="1" colspan="1">16,102 (72.5)</td>
+                <td rowspan="1" colspan="1">105 (64)</td>
+                <td rowspan="1" colspan="1">4965 (82)</td>
+                <td colspan="2" rowspan="1">197,237 (67)</td>
+                <td rowspan="1" colspan="1">3096 (42.7)</td>
+                <td rowspan="1" colspan="1">77,471 (84.1)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Not reported</td>
+                <td rowspan="1" colspan="1">0 (0)</td>
+                <td rowspan="1" colspan="1">14,985 (49.5)</td>
+                <td rowspan="1" colspan="1">5141 (3.5)</td>
+                <td rowspan="1" colspan="1">0 (0)</td>
+                <td rowspan="1" colspan="1">25 (15.2)</td>
+                <td rowspan="1" colspan="1">142 (2.3)</td>
+                <td colspan="2" rowspan="1">0 (0)</td>
+                <td rowspan="1" colspan="1">2132 (29.4)</td>
+                <td rowspan="1" colspan="1">2606 (2.8)</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="12" rowspan="1">
+<bold>Vaccination status, n (%)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Received at least 1 dose of COVID-19 vaccine</td>
+                <td rowspan="1" colspan="1">199,235 (64.7)</td>
+                <td rowspan="1" colspan="1">9649 (31.9)</td>
+                <td rowspan="1" colspan="1">58,244 (39.4)</td>
+                <td rowspan="1" colspan="1">15,295 (68.9)</td>
+                <td rowspan="1" colspan="1">112 (68.3)</td>
+                <td rowspan="1" colspan="1">3521 (58.1)</td>
+                <td colspan="2" rowspan="1">203,569 (69.2)</td>
+                <td rowspan="1" colspan="1">4470 (61.7)</td>
+                <td rowspan="1" colspan="1">41,271 (44.8)</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Did not receive at least 1 dose of COVID-19 vaccine</td>
+                <td rowspan="1" colspan="1">104,907 (34.1)</td>
+                <td rowspan="1" colspan="1">20,645 (68.1)</td>
+                <td rowspan="1" colspan="1">89,409 (60.6)</td>
+                <td rowspan="1" colspan="1">6684 (30.9)</td>
+                <td rowspan="1" colspan="1">52 (31.7)</td>
+                <td rowspan="1" colspan="1">2536 (41.9)</td>
+                <td colspan="2" rowspan="1">87,569 (29.8)</td>
+                <td rowspan="1" colspan="1">2775 (38.3)</td>
+                <td rowspan="1" colspan="1">50,849 (55.2)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="table1fn1">
+              <p><sup>a</sup>COVID-19 positive is defined as a patient having either a U07.1 ICD-10 code or a documented positive polymerase chain reaction test.</p>
+            </fn>
+            <fn id="table1fn2">
+              <p><sup>b</sup>ICD-10: International Classification of Diseases, Tenth Revision.</p>
+            </fn>
+            <fn id="table1fn3">
+              <p><sup>c</sup>VHA: Veterans Health Administration.</p>
+            </fn>
+            <fn id="table1fn4">
+              <p><sup>d</sup>BIDMC: Beth Israel Deaconess Medical Center.</p>
+            </fn>
+            <fn id="table1fn5">
+              <p><sup>e</sup>UPMC: University of Pittsburgh Medical Center.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <fig position="float" id="figure3">
+          <label>Figure 3</label>
+          <caption>
+            <p>Frequency of a new U09.9 ICD-10 code assignment per 10,000 new COVID-19 cases in the last 12 months, not including the month of U09.9 diagnosis. HS: health care system; ICD-10: International Classification of Diseases, Tenth Revision.</p>
+          </caption>
+          <graphic xlink:href="ojphi_v16i1e53445_fig3" position="float"/>
+        </fig>
+        <fig position="float" id="figure4">
+          <label>Figure 4</label>
+          <caption>
+            <p>Prevalence of the U09.9 ICD-10 code by region. ICD-10: International Classification of Diseases, Tenth Revision; VA: Veterans Affairs; VISN: Veterans Integrated Service Networks.</p>
+          </caption>
+          <graphic xlink:href="ojphi_v16i1e53445_fig4" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Chart Review Results</title>
+        <p>Chart review at the VHA was conducted by 2 clinical reviewers (M Maripuri and JH) with a 1% overlap and an interrater reliability of 80%. At the BIDMC and UPMC, a chart review was conducted by 1 clinical reviewer (BB-J and MJS, respectively). The most common symptoms identified during chart review among patients with long COVID-19 as per the WHO-2 definition were shortness of breath, fatigue, cough, and loss of smell or taste from the core symptom cluster. Among the extended symptom clusters, we most commonly saw symptoms across the cardiovascular, gastrointestinal, neurological, and respiratory disease domains.</p>
+        <p>Chart review was performed on a total of 900 patients infected with COVID-19 across 3 health care systems. These 3 institutions were anonymized to provide an unbiased interpretation of the results. The performance of the U09.9 code was evaluated by calculating the positive predictive value (PPV) or the probability of having long COVID-19 (as defined by chart review classification) among the patients who had the U09.9 code. When using the WHO-2 definition to define long COVID-19, the PPV was 29.8% at health care system 1 and 62.4% and 23.2% at health care systems 2 and 3, respectively (<xref rid="figure5" ref-type="fig">Figure 5</xref>). However, when we consider the WHO-1 and the CDC definitions, the PPV of long COVID-19 was higher at all 3 health care systems, but at health care system 2, the PPV was slightly higher for the WHO-1 definition and remained the same for the CDC definition (<xref rid="figure5" ref-type="fig">Figure 5</xref>).</p>
+        <p>We also evaluated PPV in the sample of patients with new onset long COVID-19 features. Using the WHO-2 definition, the PPV was 7% at health care system 1 and 6.7% and 3% at health care systems 2 and 3, respectively.</p>
+        <p>Weighted sensitivity calculations were used due to the nonrandom nature of our labeled set in relation to the overall cohort. Our approach involved a random sampling of patients with the U09.9 code, while those without this code were intentionally downsampled. Applying standard sensitivity calculations to such a biased labeled set could lead to misleading results. To counteract this, weighted sensitivity was used, which assigns a specific sampling weight to each case in our labeled data set. This weight is calculated to be inversely proportional to the likelihood of a case&#x2019;s inclusion in the sample. By integrating this weighting system, we ensure that each case&#x2019;s contribution to the sensitivity analysis accurately mirrors its representation in the full cohort, thereby yielding more representative and reliable results. The overall performance of the U09.9 code based on the WHO-2 definition resulted in a weighted sensitivity of 15% at health care system 1 and 4.9% and 19.1% at health care systems 2 and 3, respectively.</p>
+        <p>Additionally, at the VHA, we looked at the prevalence of long COVID-19 among patients with the U09.9 ICD-10 code across different time periods based on their first COVID-19 infection date. From the chart reviewed cohort, 44.6% (50/112) had long COVID-19 from the pre-U09.9 period and 22.7% (53/233) from the post-U09.9 period at the VHA. The PPV of patients with long COVID-19 in the pre-U09.9 period is higher, as many of these patients were backcoded.</p>
+        <p>Through our chart review, we observed that patients were given the U09.9 code over a wide range of time from fewer than 29 days to over 365 days following their initial COVID-19 infection. Most patients did not have persisting symptoms after acute infection, and waxing and waning of symptoms were frequently observed.</p>
+        <fig position="float" id="figure5">
+          <label>Figure 5</label>
+          <caption>
+            <p>Comparison of results among all sites. (A) Predictive values of ICD-10 U09.9 code for various clinical definitions of long COVID-19. (B) Capture of PASC symptoms using diagnosis codes and natural language processing data. (C) Average number of new onset PASC symptoms in long COVID-19 clinic patients. CDC: Centers for Disease Control; HS: health care system; ICD-10: International Classification of Diseases, Tenth Revision; PASC: postacute sequelae of SARS-CoV-2; SOB: shortness of breath; WHO: World Health Organization.</p>
+          </caption>
+          <graphic xlink:href="ojphi_v16i1e53445_fig5" position="float"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <sec>
+        <title>Principal Results</title>
+        <p>This study provides a comprehensive, multicenter evaluation of the U09.9 code against proposed clinical case definitions for long COVID-19. It is also one of the first studies to apply a clinical case definition to EHR data using a chart review approach. The use of EHR data allowed evaluation of the U09.9 code across multiple health care systems nationwide. The availability of ample clinical notes enabled reviewers to ascertain whether observed symptoms after COVID-19 infection were truly new onset and to evaluate the duration of new symptoms, which are critical components of case definitions for long COVID-19. Another strength of this study was that we evaluated both the WHO and CDC clinical case definitions for long COVID-19 since one universal definition is not currently available. Our symptom collection approach (<xref rid="app2" ref-type="supplementary-material">Multimedia Appendix 2</xref>) captured discrete symptoms by the duration of 30 or 60 days, which allowed for multiple case definitions to be applied.</p>
+        <p>There were large variations in the accuracy of the use of the U09.9 code for long COVID-19. We observed that 1 center had a much higher predictive value for patients with long COVID-19 among the U09.9 cohort across all definitions than the other 2 health care systems. This health care system also had the highest average number of new onset symptoms among patients seen in long COVID-19 clinics. The U09.9 code assignment at this health care system could have been more accurate due to a higher proportion of patients being seen at long COVID-19 clinics.</p>
+        <p>In a recent publication on this work, we also evaluated the capture of long COVID-19 symptoms using ICD-10 codes and natural language processing (NLP) data [<xref rid="ref14" ref-type="bibr">14</xref>]. The Narrative Information Linear Extraction NLP tool was used to extract relevant concept unique identifiers that were manually mapped to each of the long COVID-19 symptoms we studied [<xref rid="ref27" ref-type="bibr">27</xref>]. Among the chart-reviewed patients with the U09.9 code, we then identified the ones who had the various symptoms through the chart review. We then assessed what proportion of them with the symptom (ie, brain fog) had a corresponding ICD-10 or concept unique identifier mention of the concept and calculated the proportion of patients with the NLP or codified data capture. We shared the findings from this evaluation in <xref rid="figure5" ref-type="fig">Figure 5</xref>B. The performance of NLP was significantly better for all the commonly occurring long COVID-19 symptoms. The accuracy of using either a diagnosis code or NLP had the best results with 97% accuracy for loss of smell or taste and 87% accuracy for chest pain and cough.</p>
+      </sec>
+      <sec>
+        <title>Limitations</title>
+        <p>There were several limitations to this study. The cohort at the VHA had a higher proportion of male patients who were generally older and predominantly White. Incident COVID-19 infection was required for inclusion in the chart review, and it is possible that patients had an infection outside of the health care systems that was not recorded in the EHR. Patients may have also had symptoms that were not reported at health care system visits. The variation in the number of long COVID-19 clinics across regions may have led to a differential capture of symptoms for those patients who were seen at long COVID-19 clinics versus those who were seen by their primary care providers. We observed that symptoms among these patients were well documented as most long COVID-19 clinics have a specific template for evaluating and capturing COVID-19 symptoms [<xref rid="ref28" ref-type="bibr">28</xref>]. In some instances, it was difficult to assess whether a symptom was truly new onset due to COVID-19 infection or a result of underlying health conditions noted at baseline. While the WHO definition has been in use since 2021, long COVID-19 is still an evolving disease, and the case definition may change over time as the condition is further characterized. We also faced some challenges in optimizing a heterogenous and sparse data capture within the EHR systems.</p>
+      </sec>
+      <sec>
+        <title>Comparison With Prior Work</title>
+        <p>The use of the U09.9 code has been described in several cohorts. The National Institutes of Health&#x2019;s National COVID Cohort Collaborative (N3C) reported on the growing use of U09.9 from October 2021 through January 2022 in a nationwide cohort of 21,072 patients with the code [<xref rid="ref10" ref-type="bibr">10</xref>]. However, the N3C did not require patients in the cohort to have a positive COVID-19 test to evaluate the use of the U09.9 code, and 37.2% (n=12,550) of patients did not have a COVID-19 index date. McGrath et al [<xref rid="ref12" ref-type="bibr">12</xref>] also reported increasing use of the U09.9 code in the months following its release in the nationwide HealthVerity cohort of 56,143 patients with a U09.9 code that included children younger than 18 years of age. Similar to the N3C, this cohort did not require a COVID-19 positive test for evaluation of the U09.9 code, and only 70.4% (n=8879) had a documented COVID-19 infection. Of the patients who were COVID-19 positive with U09.9, the median time from infection to U09.9 diagnosis was 56 (21-200) days. A study in Sweden by Bygdell et al [<xref rid="ref11" ref-type="bibr">11</xref>] reported 10,196 patients with the U09.9 code. They also found that 2% of the population who were COVID-19 positive in the 2 largest regions of Sweden had U09.9 at least 28 days after infection.</p>
+      </sec>
+      <sec>
+        <title>Conclusions</title>
+        <p>Our findings suggest that the U09.9 code should be used judiciously in EHR-based studies of long COVID-19. Given the low PPV of the U09.9 code, its use as a proxy for long COVID-19 is not recommended. However, the sensitivity of the code makes it useful for identifying patients who may have long COVID-19 and thus require further clinical evaluation.</p>
+        <p>This was one of the initial efforts toward validating long COVID-19 against a clinical case definition and the U09.9 code through a chart review on a nationwide cohort. The chart review approach developed at the VHA can be implemented at other EHR systems to further evaluate the utility and performance of the U09.9 code. Further efforts to develop a more refined and reproducible phenotyping algorithm for long COVID-19 using NLP are underway, using the chart review labels from our study for algorithm training and development.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This study was supported by the Office of Research and Development, Veterans Health Administration through the Centralized Interactive Phenomics Resource program. The authors thank the Consortium for Clinical Characterization of COVID-19 by Electronic Health Record for their collaboration. This publication does not represent the views of the Department of Veteran Affairs or the US government.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="COI-statement">
+        <p>Conflicts of Interest: None declared.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <supplementary-material id="app1" position="float" content-type="local-data">
+        <label>Multimedia Appendix 1</label>
+        <p>Selected postacute sequelae of SARS-CoV-2 feature phecodes.</p>
+        <media xlink:href="ojphi_v16i1e53445_app1.docx" xlink:title="DOCX File , 25 KB" id="d98e1064" position="anchor"/>
+      </supplementary-material>
+      <supplementary-material id="app2" position="float" content-type="local-data">
+        <label>Multimedia Appendix 2</label>
+        <p>Chart review protocol.</p>
+        <media xlink:href="ojphi_v16i1e53445_app2.docx" xlink:title="DOCX File , 27 KB" id="d98e1068" position="anchor"/>
+      </supplementary-material>
+    </app-group>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term id="abb1">4CE</term>
+          <def>
+            <p>Consortium for Clinical Characterization of COVID-19 by Electronic Health Record</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb2">BIDMC</term>
+          <def>
+            <p>Beth Israel Deaconess Medical Center</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb3">CDC</term>
+          <def>
+            <p>Centers for Disease Control and Prevention</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb4">EHR</term>
+          <def>
+            <p>electronic health record</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb5">ICD-10</term>
+          <def>
+            <p>International Classification of Diseases, Tenth Revision</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb6">N3C</term>
+          <def>
+            <p>National COVID Cohort Collaborative</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb7">NLP</term>
+          <def>
+            <p>natural language processing</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb8">PPV</term>
+          <def>
+            <p>positive predictive value</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb9">UPMC</term>
+          <def>
+            <p>University of Pittsburg Medical Center</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb10">VHA</term>
+          <def>
+            <p>Veterans Health Administration</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb11">VISN</term>
+          <def>
+            <p>Veterans Integrated Service Networks</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb12">WHO</term>
+          <def>
+            <p>World Health Organization</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Soriano</surname><given-names>JB</given-names></name><name><surname>Murthy</surname><given-names>S</given-names></name><name><surname>Marshall</surname><given-names>JC</given-names></name><name><surname>Relan</surname><given-names>P</given-names></name><name><surname>Diaz</surname><given-names>JV</given-names></name><collab>WHO Clinical Case Definition Working Group on Post-COVID-19 Condition</collab></person-group><article-title>A clinical case definition of post-COVID-19 condition by a Delphi consensus</article-title><source>Lancet Infect Dis</source><year>2022</year><month>04</month><volume>22</volume><issue>4</issue><fpage>e102</fpage><lpage>e107</lpage><pub-id pub-id-type="doi">10.1016/S1473-3099(21)00703-9</pub-id><pub-id pub-id-type="medline">34951953</pub-id><pub-id pub-id-type="pii">S1473-3099(21)00703-9</pub-id><!--<pub-id pub-id-type="pmcid">PMC8691845</pub-id>--><pub-id pub-id-type="pmid">34951953</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="webpage">
+          <article-title>Overview: COVID-19 rapid guideline: managing the long-term effects of COVID-19: guidance</article-title>
+          <source>National Institute for Health and Care Excellence</source>
+          <date-in-citation content-type="access-date">2022-11-05</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://www.nice.org.uk/guidance/NG188" ext-link-type="uri">https://www.nice.org.uk/guidance/NG188</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="webpage">
+          <article-title>Long COVID or post-COVID condition</article-title>
+          <source>Centers for Disease Control and Prevention</source>
+          <date-in-citation content-type="access-date">2022-11-05</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html" ext-link-type="uri">https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fritsche</surname>
+              <given-names>LG</given-names>
+            </name>
+            <name>
+              <surname>Jin</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Admon</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Characterizing and predicting post-acute sequelae of SARS CoV-2 infection (PASC) in a large academic medical center in the US</article-title>
+          <source>J Clin Med</source>
+          <year>2023</year>
+          <month>02</month>
+          <day>07</day>
+          <volume>12</volume>
+          <issue>4</issue>
+          <fpage>1</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.3390/jcm12041328</pub-id>
+          <pub-id pub-id-type="medline">36835863</pub-id>
+          <pub-id pub-id-type="pii">jcm12041328</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC9967320</pub-id>-->
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pfaff</surname><given-names>ER</given-names></name><name><surname>Girvin</surname><given-names>AT</given-names></name><name><surname>Bennett</surname><given-names>TD</given-names></name><name><surname>Bhatia</surname><given-names>A</given-names></name><name><surname>Brooks</surname><given-names>IM</given-names></name><name><surname>Deer</surname><given-names>RR</given-names></name><name><surname>Dekermanjian</surname><given-names>JP</given-names></name><name><surname>Jolley</surname><given-names>SE</given-names></name><name><surname>Kahn</surname><given-names>MG</given-names></name><name><surname>Kostka</surname><given-names>K</given-names></name><name><surname>McMurry</surname><given-names>JA</given-names></name><name><surname>Moffitt</surname><given-names>R</given-names></name><name><surname>Walden</surname><given-names>A</given-names></name><name><surname>Chute</surname><given-names>CG</given-names></name><name><surname>Haendel</surname><given-names>MA</given-names></name></person-group><article-title>Identifying who has long COVID in the USA: a machine learning approach using N3C data</article-title><source>Lancet Digit Health</source><year>2022</year><month>07</month><volume>4</volume><issue>7</issue><fpage>e532</fpage><lpage>e541</lpage><pub-id pub-id-type="doi">10.1016/S2589-7500(22)00048-6</pub-id><pub-id pub-id-type="medline">35589549</pub-id><pub-id pub-id-type="pii">S2589-7500(22)00048-6</pub-id><!--<pub-id pub-id-type="pmcid">PMC9110014</pub-id>--><pub-id pub-id-type="pmid">35589549</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thompson</surname><given-names>EJ</given-names></name><name><surname>Williams</surname><given-names>DM</given-names></name><name><surname>Walker</surname><given-names>AJ</given-names></name><name><surname>Mitchell</surname><given-names>RE</given-names></name><name><surname>Niedzwiedz</surname><given-names>CL</given-names></name><name><surname>Yang</surname><given-names>TC</given-names></name><name><surname>Huggins</surname><given-names>CF</given-names></name><name><surname>Kwong</surname><given-names>ASF</given-names></name><name><surname>Silverwood</surname><given-names>RJ</given-names></name><name><surname>Di Gessa</surname><given-names>G</given-names></name><name><surname>Bowyer</surname><given-names>RCE</given-names></name><name><surname>Northstone</surname><given-names>K</given-names></name><name><surname>Hou</surname><given-names>B</given-names></name><name><surname>Green</surname><given-names>MJ</given-names></name><name><surname>Dodgeon</surname><given-names>B</given-names></name><name><surname>Doores</surname><given-names>KJ</given-names></name><name><surname>Duncan</surname><given-names>EL</given-names></name><name><surname>Williams</surname><given-names>FMK</given-names></name><name><surname>Steptoe</surname><given-names>A</given-names></name><name><surname>Porteous</surname><given-names>DJ</given-names></name><name><surname>McEachan</surname><given-names>RRC</given-names></name><name><surname>Tomlinson</surname><given-names>L</given-names></name><name><surname>Goldacre</surname><given-names>B</given-names></name><name><surname>Patalay</surname><given-names>P</given-names></name><name><surname>Ploubidis</surname><given-names>GB</given-names></name><name><surname>Katikireddi</surname><given-names>SV</given-names></name><name><surname>Tilling</surname><given-names>K</given-names></name><name><surname>Rentsch</surname><given-names>CT</given-names></name><name><surname>Timpson</surname><given-names>NJ</given-names></name><name><surname>Chaturvedi</surname><given-names>N</given-names></name><name><surname>Steves</surname><given-names>CJ</given-names></name></person-group><article-title>Long COVID burden and risk factors in 10 UK longitudinal studies and electronic health records</article-title><source>Nat Commun</source><year>2022</year><month>06</month><day>28</day><volume>13</volume><issue>1</issue><fpage>3528</fpage><pub-id pub-id-type="doi">10.1038/s41467-022-30836-0</pub-id><pub-id pub-id-type="medline">35764621</pub-id><pub-id pub-id-type="pii">10.1038/s41467-022-30836-0</pub-id><!--<pub-id pub-id-type="pmcid">PMC9240035</pub-id>--><pub-id pub-id-type="pmid">35764621</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><collab>Global Burden of Disease Long COVID Collaborators</collab><name><surname>Wulf Hanson</surname><given-names>S</given-names></name><name><surname>Abbafati</surname><given-names>C</given-names></name><name><surname>Aerts</surname><given-names>JG</given-names></name><name><surname>Al-Aly</surname><given-names>Z</given-names></name><name><surname>Ashbaugh</surname><given-names>C</given-names></name><name><surname>Ballouz</surname><given-names>T</given-names></name><name><surname>Blyuss</surname><given-names>O</given-names></name><name><surname>Bobkova</surname><given-names>P</given-names></name><name><surname>Bonsel</surname><given-names>G</given-names></name><name><surname>Borzakova</surname><given-names>S</given-names></name></person-group><article-title>Estimated global proportions of individuals with persistent fatigue, cognitive, and respiratory symptom clusters following symptomatic COVID-19 in 2020 and 2021</article-title><source>JAMA</source><year>2022</year><month>10</month><day>25</day><volume>328</volume><issue>16</issue><fpage>1604</fpage><lpage>1615</lpage><pub-id pub-id-type="doi">10.1001/jama.2022.18931</pub-id><pub-id pub-id-type="medline">36215063</pub-id><pub-id pub-id-type="pii">2797443</pub-id><!--<pub-id pub-id-type="pmcid">PMC9552043</pub-id>--><pub-id pub-id-type="pmid">36215063</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>Y</given-names></name><name><surname>Bowe</surname><given-names>B</given-names></name><name><surname>Al-Aly</surname><given-names>Z</given-names></name></person-group><article-title>Burdens of post-acute sequelae of COVID-19 by severity of acute infection, demographics and health status</article-title><source>Nat Commun</source><year>2021</year><month>11</month><day>12</day><volume>12</volume><issue>1</issue><fpage>6571</fpage><pub-id pub-id-type="doi">10.1038/s41467-021-26513-3</pub-id><pub-id pub-id-type="medline">34772922</pub-id><pub-id pub-id-type="pii">10.1038/s41467-021-26513-3</pub-id><!--<pub-id pub-id-type="pmcid">PMC8589966</pub-id>--><pub-id pub-id-type="pmid">34772922</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Aly</surname><given-names>Z</given-names></name><name><surname>Xie</surname><given-names>Y</given-names></name><name><surname>Bowe</surname><given-names>B</given-names></name></person-group><article-title>High-dimensional characterization of post-acute sequelae of COVID-19</article-title><source>Nature</source><year>2021</year><month>06</month><volume>594</volume><issue>7862</issue><fpage>259</fpage><lpage>264</lpage><pub-id pub-id-type="doi">10.1038/s41586-021-03553-9</pub-id><pub-id pub-id-type="medline">33887749</pub-id><pub-id pub-id-type="pii">10.1038/s41586-021-03553-9</pub-id><pub-id pub-id-type="pmid">33887749</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pfaff</surname><given-names>ER</given-names></name><name><surname>Madlock-Brown</surname><given-names>C</given-names></name><name><surname>Baratta</surname><given-names>JM</given-names></name><name><surname>Bhatia</surname><given-names>A</given-names></name><name><surname>Davis</surname><given-names>H</given-names></name><name><surname>Girvin</surname><given-names>A</given-names></name><name><surname>Hill</surname><given-names>E</given-names></name><name><surname>Kelly</surname><given-names>E</given-names></name><name><surname>Kostka</surname><given-names>K</given-names></name><name><surname>Loomba</surname><given-names>J</given-names></name><name><surname>McMurry</surname><given-names>JA</given-names></name><name><surname>Wong</surname><given-names>R</given-names></name><name><surname>Bennett</surname><given-names>TD</given-names></name><name><surname>Moffitt</surname><given-names>R</given-names></name><name><surname>Chute</surname><given-names>CG</given-names></name><name><surname>Haendel</surname><given-names>M</given-names></name></person-group><article-title>Coding long COVID: characterizing a new disease through an ICD-10 lens</article-title><source>BMC Med</source><year>2023</year><month>02</month><day>16</day><volume>21</volume><issue>1</issue><fpage>58</fpage><pub-id pub-id-type="doi">10.1186/s12916-023-02737-6</pub-id><pub-id pub-id-type="medline">36793086</pub-id><pub-id pub-id-type="pii">10.1186/s12916-023-02737-6</pub-id><!--<pub-id pub-id-type="pmcid">PMC9931566</pub-id>--><pub-id pub-id-type="pmid">36793086</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bygdell</surname><given-names>M</given-names></name><name><surname>Leach</surname><given-names>S</given-names></name><name><surname>Lundberg</surname><given-names>L</given-names></name><name><surname>Gyll</surname><given-names>D</given-names></name><name><surname>Martikainen</surname><given-names>J</given-names></name><name><surname>Santosa</surname><given-names>A</given-names></name><name><surname>Li</surname><given-names>H</given-names></name><name><surname>Gissl&#xE9;n</surname><given-names>Magnus</given-names></name><name><surname>Nyberg</surname><given-names>F</given-names></name></person-group><article-title>A comprehensive characterization of patients diagnosed with post-COVID-19 condition in Sweden 16 months after the introduction of the International Classification of Diseases Tenth Revision diagnosis code (U09.9): a population-based cohort study</article-title><source>Int J Infect Dis</source><year>2023</year><month>01</month><volume>126</volume><fpage>104</fpage><lpage>113</lpage><pub-id pub-id-type="doi">10.1016/j.ijid.2022.11.021</pub-id><pub-id pub-id-type="medline">36410693</pub-id><pub-id pub-id-type="pii">S1201-9712(22)00612-9</pub-id><!--<pub-id pub-id-type="pmcid">PMC9678230</pub-id>--><pub-id pub-id-type="pmid">36410693</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McGrath</surname><given-names>LJ</given-names></name><name><surname>Scott</surname><given-names>AM</given-names></name><name><surname>Surinach</surname><given-names>A</given-names></name><name><surname>Chambers</surname><given-names>R</given-names></name><name><surname>Benigno</surname><given-names>M</given-names></name><name><surname>Malhotra</surname><given-names>D</given-names></name></person-group><article-title>Use of the postacute sequelae of COVID-19 diagnosis code in routine clinical practice in the US</article-title><source>JAMA Netw Open</source><year>2022</year><month>10</month><day>03</day><volume>5</volume><issue>10</issue><fpage>e2235089</fpage><pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.35089</pub-id><pub-id pub-id-type="medline">36201207</pub-id><pub-id pub-id-type="pii">2797042</pub-id><!--<pub-id pub-id-type="pmcid">PMC9539719</pub-id>--><pub-id pub-id-type="pmid">36201207</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ioannou</surname><given-names>GN</given-names></name><name><surname>Baraff</surname><given-names>A</given-names></name><name><surname>Fox</surname><given-names>A</given-names></name><name><surname>Shahoumian</surname><given-names>T</given-names></name><name><surname>Hickok</surname><given-names>A</given-names></name><name><surname>O'Hare</surname><given-names>AM</given-names></name><name><surname>Bohnert</surname><given-names>ASB</given-names></name><name><surname>Boyko</surname><given-names>EJ</given-names></name><name><surname>Maciejewski</surname><given-names>ML</given-names></name><name><surname>Bowling</surname><given-names>CB</given-names></name><name><surname>Viglianti</surname><given-names>E</given-names></name><name><surname>Iwashyna</surname><given-names>TJ</given-names></name><name><surname>Hynes</surname><given-names>DM</given-names></name></person-group><article-title>Rates and factors associated with documentation of diagnostic codes for long COVID in the national veterans affairs health care system</article-title><source>JAMA Netw Open</source><year>2022</year><month>07</month><day>01</day><volume>5</volume><issue>7</issue><fpage>e2224359</fpage><pub-id pub-id-type="doi">10.1001/jamanetworkopen.2022.24359</pub-id><pub-id pub-id-type="medline">35904783</pub-id><pub-id pub-id-type="pii">2794788</pub-id><!--<pub-id pub-id-type="pmcid">PMC9338411</pub-id>--><pub-id pub-id-type="pmid">35904783</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>HG</given-names></name><name><surname>Honerlaw</surname><given-names>JP</given-names></name><name><surname>Maripuri</surname><given-names>M</given-names></name><name><surname>Samayamuthu</surname><given-names>MJ</given-names></name><name><surname>Beaulieu-Jones</surname><given-names>BR</given-names></name><name><surname>Baig</surname><given-names>HS</given-names></name><name><surname>L'Yi</surname><given-names>S</given-names></name><name><surname>Ho</surname><given-names>YL</given-names></name><name><surname>Morris</surname><given-names>M</given-names></name><name><surname>Panickan</surname><given-names>VA</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Weber</surname><given-names>GM</given-names></name><name><surname>Liao</surname><given-names>KP</given-names></name><name><surname>Visweswaran</surname><given-names>S</given-names></name><name><surname>Tan</surname><given-names>BWQ</given-names></name><name><surname>Yuan</surname><given-names>W</given-names></name><name><surname>Gehlenborg</surname><given-names>N</given-names></name><name><surname>Muralidhar</surname><given-names>S</given-names></name><name><surname>Ramoni</surname><given-names>RB</given-names></name></person-group><article-title>Potential pitfalls in the use of real-world data for studying long COVID</article-title><source>Nat Med</source><year>2023</year><month>05</month><volume>29</volume><issue>5</issue><fpage>1040</fpage><lpage>1043</lpage><pub-id pub-id-type="doi">10.1038/s41591-023-02274-y</pub-id><pub-id pub-id-type="medline">37055567</pub-id><pub-id pub-id-type="pii">10.1038/s41591-023-02274-y</pub-id><!--<pub-id pub-id-type="pmcid">PMC10205658</pub-id>--><pub-id pub-id-type="pmid">37055567</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="webpage">
+          <article-title>4CE: consortium for clinical characterization of COVID-19 by EHR</article-title>
+          <source>Covidclinical.net</source>
+          <date-in-citation content-type="access-date">2022-11-05</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://covidclinical.net/" ext-link-type="uri">https://covidclinical.net/</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="webpage">
+          <article-title>Veterans Health Administration</article-title>
+          <source>US Department of Veterans Affairs</source>
+          <date-in-citation content-type="access-date">2023-03-22</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://www.va.gov/health" ext-link-type="uri">https://www.va.gov/health</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="webpage">
+          <article-title>By the numbers: UPMC facts and figures</article-title>
+          <source>UPMC</source>
+          <date-in-citation content-type="access-date">2023-03-22</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://www.upmc.com/about/facts/numbers" ext-link-type="uri">https://www.upmc.com/about/facts/numbers</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18</label>
+        <element-citation publication-type="webpage">
+          <article-title>About Beth Israel Deaconess Medical Center</article-title>
+          <source>Beth Israel Deaconess Medical Center</source>
+          <date-in-citation content-type="access-date">2023-03-22</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://www.bidmc.org/about-bidmc" ext-link-type="uri">https://www.bidmc.org/about-bidmc</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>M</given-names></name><name><surname>Katsevich</surname><given-names>E</given-names></name><name><surname>Janson</surname><given-names>L</given-names></name><name><surname>Ramdas</surname><given-names>A</given-names></name></person-group><article-title>Fast and powerful conditional randomization testing via distillation</article-title><source>Biometrika</source><year>2022</year><month>06</month><volume>109</volume><issue>2</issue><fpage>277</fpage><lpage>293</lpage><pub-id pub-id-type="doi">10.1093/biomet/asab039</pub-id><pub-id pub-id-type="medline">37416628</pub-id><!--<pub-id pub-id-type="pmcid">PMC10323874</pub-id>--><pub-id pub-id-type="pmid">37416628</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Denny</surname><given-names>JC</given-names></name><name><surname>Bastarache</surname><given-names>L</given-names></name><name><surname>Ritchie</surname><given-names>MD</given-names></name><name><surname>Carroll</surname><given-names>RJ</given-names></name><name><surname>Zink</surname><given-names>R</given-names></name><name><surname>Mosley</surname><given-names>JD</given-names></name><name><surname>Field</surname><given-names>JR</given-names></name><name><surname>Pulley</surname><given-names>JM</given-names></name><name><surname>Ramirez</surname><given-names>AH</given-names></name><name><surname>Bowton</surname><given-names>E</given-names></name><name><surname>Basford</surname><given-names>MA</given-names></name><name><surname>Carrell</surname><given-names>DS</given-names></name><name><surname>Peissig</surname><given-names>PL</given-names></name><name><surname>Kho</surname><given-names>AN</given-names></name><name><surname>Pacheco</surname><given-names>JA</given-names></name><name><surname>Rasmussen</surname><given-names>LV</given-names></name><name><surname>Crosslin</surname><given-names>DR</given-names></name><name><surname>Crane</surname><given-names>PK</given-names></name><name><surname>Pathak</surname><given-names>J</given-names></name><name><surname>Bielinski</surname><given-names>SJ</given-names></name><name><surname>Pendergrass</surname><given-names>SA</given-names></name><name><surname>Xu</surname><given-names>H</given-names></name><name><surname>Hindorff</surname><given-names>LA</given-names></name><name><surname>Li</surname><given-names>R</given-names></name><name><surname>Manolio</surname><given-names>TA</given-names></name><name><surname>Chute</surname><given-names>CG</given-names></name><name><surname>Chisholm</surname><given-names>RL</given-names></name><name><surname>Larson</surname><given-names>EB</given-names></name><name><surname>Jarvik</surname><given-names>GP</given-names></name><name><surname>Brilliant</surname><given-names>MH</given-names></name><name><surname>McCarty</surname><given-names>CA</given-names></name><name><surname>Kullo</surname><given-names>IJ</given-names></name><name><surname>Haines</surname><given-names>JL</given-names></name><name><surname>Crawford</surname><given-names>DC</given-names></name><name><surname>Masys</surname><given-names>DR</given-names></name><name><surname>Roden</surname><given-names>DM</given-names></name></person-group><article-title>Systematic comparison of phenome-wide association study of electronic medical record data and genome-wide association study data</article-title><source>Nat Biotechnol</source><year>2013</year><month>12</month><volume>31</volume><issue>12</issue><fpage>1102</fpage><lpage>1110</lpage><pub-id pub-id-type="doi">10.1038/nbt.2749</pub-id><pub-id pub-id-type="medline">24270849</pub-id><pub-id pub-id-type="pii">nbt.2749</pub-id><!--<pub-id pub-id-type="pmcid">PMC3969265</pub-id>--><pub-id pub-id-type="pmid">24270849</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benjamini</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Hochberg</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>
+          <source>J R Stat Soc</source>
+          <year>2018</year>
+          <month>12</month>
+          <day>05</day>
+          <volume>57</volume>
+          <issue>1</issue>
+          <fpage>289</fpage>
+          <lpage>300</lpage>
+          <comment>
+<ext-link xlink:href="https://rss.onlinelibrary.wiley.com/doi/10.1111/j.2517-6161.1995.tb02031.x" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1111/j.2517-6161.1995.tb02031.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22</label>
+        <element-citation publication-type="webpage">
+          <article-title>Post COVID-19 condition (long COVID)</article-title>
+          <source>World Health Organization</source>
+          <date-in-citation content-type="access-date">2022-12-07</date-in-citation>
+          <comment>
+<ext-link xlink:href="http://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition" ext-link-type="uri">http://www.who.int/europe/news-room/fact-sheets/item/post-covid-19-condition</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sudre</surname><given-names>CH</given-names></name><name><surname>Murray</surname><given-names>B</given-names></name><name><surname>Varsavsky</surname><given-names>T</given-names></name><name><surname>Graham</surname><given-names>MS</given-names></name><name><surname>Penfold</surname><given-names>RS</given-names></name><name><surname>Bowyer</surname><given-names>RC</given-names></name><name><surname>Pujol</surname><given-names>JC</given-names></name><name><surname>Klaser</surname><given-names>K</given-names></name><name><surname>Antonelli</surname><given-names>M</given-names></name><name><surname>Canas</surname><given-names>LS</given-names></name><name><surname>Molteni</surname><given-names>E</given-names></name><name><surname>Modat</surname><given-names>M</given-names></name><name><surname>Jorge Cardoso</surname><given-names>M</given-names></name><name><surname>May</surname><given-names>A</given-names></name><name><surname>Ganesh</surname><given-names>S</given-names></name><name><surname>Davies</surname><given-names>R</given-names></name><name><surname>Nguyen</surname><given-names>LH</given-names></name><name><surname>Drew</surname><given-names>DA</given-names></name><name><surname>Astley</surname><given-names>CM</given-names></name><name><surname>Joshi</surname><given-names>AD</given-names></name><name><surname>Merino</surname><given-names>J</given-names></name><name><surname>Tsereteli</surname><given-names>N</given-names></name><name><surname>Fall</surname><given-names>T</given-names></name><name><surname>Gomez</surname><given-names>MF</given-names></name><name><surname>Duncan</surname><given-names>EL</given-names></name><name><surname>Menni</surname><given-names>C</given-names></name><name><surname>Williams</surname><given-names>FMK</given-names></name><name><surname>Franks</surname><given-names>PW</given-names></name><name><surname>Chan</surname><given-names>AT</given-names></name><name><surname>Wolf</surname><given-names>J</given-names></name><name><surname>Ourselin</surname><given-names>S</given-names></name><name><surname>Spector</surname><given-names>T</given-names></name><name><surname>Steves</surname><given-names>CJ</given-names></name></person-group><article-title>Attributes and predictors of long COVID</article-title><source>Nat Med</source><year>2021</year><month>04</month><volume>27</volume><issue>4</issue><fpage>626</fpage><lpage>631</lpage><pub-id pub-id-type="doi">10.1038/s41591-021-01292-y</pub-id><pub-id pub-id-type="medline">33692530</pub-id><pub-id pub-id-type="pii">10.1038/s41591-021-01292-y</pub-id><!--<pub-id pub-id-type="pmcid">PMC7611399</pub-id>--><pub-id pub-id-type="pmid">33692530</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cervia</surname><given-names>C</given-names></name><name><surname>Zurbuchen</surname><given-names>Y</given-names></name><name><surname>Taeschler</surname><given-names>P</given-names></name><name><surname>Ballouz</surname><given-names>T</given-names></name><name><surname>Menges</surname><given-names>D</given-names></name><name><surname>Hasler</surname><given-names>S</given-names></name><name><surname>Adamo</surname><given-names>S</given-names></name><name><surname>Raeber</surname><given-names>ME</given-names></name><name><surname>B&#xE4;chli</surname><given-names>Esther</given-names></name><name><surname>Rudiger</surname><given-names>A</given-names></name><name><surname>St&#xFC;ssi-Helbling</surname><given-names>Melina</given-names></name><name><surname>Huber</surname><given-names>LC</given-names></name><name><surname>Nilsson</surname><given-names>J</given-names></name><name><surname>Held</surname><given-names>U</given-names></name><name><surname>Puhan</surname><given-names>MA</given-names></name><name><surname>Boyman</surname><given-names>O</given-names></name></person-group><article-title>Immunoglobulin signature predicts risk of post-acute COVID-19 syndrome</article-title><source>Nat Commun</source><year>2022</year><month>01</month><day>25</day><volume>13</volume><issue>1</issue><fpage>446</fpage><pub-id pub-id-type="doi">10.1038/s41467-021-27797-1</pub-id><pub-id pub-id-type="medline">35078982</pub-id><pub-id pub-id-type="pii">10.1038/s41467-021-27797-1</pub-id><!--<pub-id pub-id-type="pmcid">PMC8789854</pub-id>--><pub-id pub-id-type="pmid">35078982</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lambert</surname><given-names>N</given-names></name><collab>Survivor Corps</collab><name><surname>El-Azab</surname><given-names>SA</given-names></name><name><surname>Ramrakhiani</surname><given-names>NS</given-names></name><name><surname>Barisano</surname><given-names>A</given-names></name><name><surname>Yu</surname><given-names>L</given-names></name><name><surname>Taylor</surname><given-names>K</given-names></name><name><surname>Esperan&#xE7;a</surname><given-names>&#xC1;</given-names></name><name><surname>Mendiola</surname><given-names>C</given-names></name><name><surname>Downs</surname><given-names>CA</given-names></name><name><surname>Abrahim</surname><given-names>HL</given-names></name><name><surname>Hughes</surname><given-names>T</given-names></name><name><surname>Rahmani</surname><given-names>AM</given-names></name><name><surname>Borelli</surname><given-names>JL</given-names></name><name><surname>Chakraborty</surname><given-names>R</given-names></name><name><surname>Pinto</surname><given-names>MD</given-names></name></person-group><article-title>The other COVID-19 survivors: timing, duration, and health impact of post-acute sequelae of SARS-CoV-2 infection</article-title><source>J Clin Nurs</source><year>2024</year><month>01</month><volume>33</volume><issue>1</issue><fpage>76</fpage><lpage>88</lpage><pub-id pub-id-type="doi">10.1111/jocn.16541</pub-id><pub-id pub-id-type="medline">36181315</pub-id><!--<pub-id pub-id-type="pmcid">PMC9538514</pub-id>--><pub-id pub-id-type="pmid">36181315</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Su</surname><given-names>Y</given-names></name><name><surname>Yuan</surname><given-names>D</given-names></name><name><surname>Chen</surname><given-names>DG</given-names></name><name><surname>Ng</surname><given-names>RH</given-names></name><name><surname>Wang</surname><given-names>K</given-names></name><name><surname>Choi</surname><given-names>J</given-names></name><name><surname>Li</surname><given-names>S</given-names></name><name><surname>Hong</surname><given-names>S</given-names></name><name><surname>Zhang</surname><given-names>R</given-names></name><name><surname>Xie</surname><given-names>J</given-names></name><name><surname>Kornilov</surname><given-names>SA</given-names></name><name><surname>Scherler</surname><given-names>K</given-names></name><name><surname>Pavlovitch-Bedzyk</surname><given-names>AJ</given-names></name><name><surname>Dong</surname><given-names>S</given-names></name><name><surname>Lausted</surname><given-names>C</given-names></name><name><surname>Lee</surname><given-names>I</given-names></name><name><surname>Fallen</surname><given-names>S</given-names></name><name><surname>Dai</surname><given-names>CL</given-names></name><name><surname>Baloni</surname><given-names>P</given-names></name><name><surname>Smith</surname><given-names>B</given-names></name><name><surname>Duvvuri</surname><given-names>VR</given-names></name><name><surname>Anderson</surname><given-names>KG</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Yang</surname><given-names>F</given-names></name><name><surname>Duncombe</surname><given-names>CJ</given-names></name><name><surname>McCulloch</surname><given-names>DJ</given-names></name><name><surname>Rostomily</surname><given-names>C</given-names></name><name><surname>Troisch</surname><given-names>P</given-names></name><name><surname>Zhou</surname><given-names>J</given-names></name><name><surname>Mackay</surname><given-names>S</given-names></name><name><surname>DeGottardi</surname><given-names>Q</given-names></name><name><surname>May</surname><given-names>DH</given-names></name><name><surname>Taniguchi</surname><given-names>R</given-names></name><name><surname>Gittelman</surname><given-names>RM</given-names></name><name><surname>Klinger</surname><given-names>M</given-names></name><name><surname>Snyder</surname><given-names>TM</given-names></name><name><surname>Roper</surname><given-names>R</given-names></name><name><surname>Wojciechowska</surname><given-names>G</given-names></name><name><surname>Murray</surname><given-names>K</given-names></name><name><surname>Edmark</surname><given-names>R</given-names></name><name><surname>Evans</surname><given-names>S</given-names></name><name><surname>Jones</surname><given-names>L</given-names></name><name><surname>Zhou</surname><given-names>Y</given-names></name><name><surname>Rowen</surname><given-names>L</given-names></name><name><surname>Liu</surname><given-names>R</given-names></name><name><surname>Chour</surname><given-names>W</given-names></name><name><surname>Algren</surname><given-names>HA</given-names></name><name><surname>Berrington</surname><given-names>WR</given-names></name><name><surname>Wallick</surname><given-names>JA</given-names></name><name><surname>Cochran</surname><given-names>RA</given-names></name><name><surname>Micikas</surname><given-names>ME</given-names></name></person-group><article-title>Multiple early factors anticipate post-acute COVID-19 sequelae</article-title><source>Cell</source><year>2022</year><month>03</month><day>03</day><volume>185</volume><issue>5</issue><fpage>881</fpage><lpage>895.e20</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2022.01.014</pub-id><pub-id pub-id-type="medline">35216672</pub-id><pub-id pub-id-type="pii">S0092-8674(22)00072-1</pub-id><!--<pub-id pub-id-type="pmcid">PMC8786632</pub-id>--><pub-id pub-id-type="pmid">35216672</pub-id>
+</element-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheng</surname>
+              <given-names>Yu</given-names>
+            </name>
+            <name>
+              <surname>Tianrun</surname>
+              <given-names>Cai</given-names>
+            </name>
+            <name>
+              <surname>Tianxi</surname>
+              <given-names>Cai</given-names>
+            </name>
+          </person-group>
+          <article-title>NILE: fast natural language processing for electronic health records</article-title>
+          <source>ArXiv</source>
+          <year>2019</year>
+          <month>11</month>
+          <day>23</day>
+          <fpage>2</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="doi">10.48550/arXiv.1311.6063</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gustavson</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Eaton</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Schapira</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Iwashyna</surname>
+              <given-names>TJ</given-names>
+            </name>
+            <name>
+              <surname>Adly</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Purnell</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Approaches to long COVID care: the Veterans Health Administration experience in 2021</article-title>
+          <source>BMJ Mil Health</source>
+          <year>2024</year>
+          <month>03</month>
+          <day>20</day>
+          <volume>170</volume>
+          <issue>2</issue>
+          <fpage>179</fpage>
+          <lpage>180</lpage>
+          <pub-id pub-id-type="doi">10.1136/military-2022-002185</pub-id>
+          <pub-id pub-id-type="medline">35777859</pub-id>
+          <pub-id pub-id-type="pii">military-2022-002185</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

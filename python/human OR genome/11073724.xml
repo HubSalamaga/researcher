@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS One</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709761</article-id><article-id pub-id-type="pmc">11073724</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0291839</article-id><article-id pub-id-type="publisher-id">PONE-D-23-26523</article-id><article-categories><subj-group subj-group-type="heading"><subject>Study Protocol</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Population Groupings</subject><subj-group><subject>Age Groups</subject><subj-group><subject>Children</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Population Groupings</subject><subj-group><subject>Families</subject><subj-group><subject>Children</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Database and Informatics Methods</subject><subj-group><subject>Database Searching</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Cognitive Science</subject><subj-group><subject>Cognitive Neuroscience</subject><subj-group><subject>Learning Disabilities</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Cognitive Neuroscience</subject><subj-group><subject>Learning Disabilities</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Nutrition</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Nutrition</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pediatrics</subject><subj-group><subject>Child Development</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pediatrics</subject><subj-group><subject>Child Health</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Public and Occupational Health</subject><subj-group><subject>Child Health</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Disabilities</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Neurodevelopmental Disorders</subject><subj-group><subject>Adhd</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Neuroscience</subject><subj-group><subject>Developmental Neuroscience</subject><subj-group><subject>Neurodevelopmental Disorders</subject><subj-group><subject>Adhd</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Neurology</subject><subj-group><subject>Neurodevelopmental Disorders</subject><subj-group><subject>Adhd</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Mental Health and Psychiatry</subject><subj-group><subject>Neuropsychiatric Disorders</subject><subj-group><subject>Adhd</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Nurturing care practices for children with developmental disabilities in sub-Saharan Africa: A scoping review protocol</article-title><alt-title alt-title-type="running-head">Nurturing care for children with developmental disabilities</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0001-9066-6065</contrib-id><name><surname>Onyango</surname><given-names>Silas</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-1200-6042</contrib-id><name><surname>Nampijja</surname><given-names>Margaret</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Otwate</surname><given-names>Paul</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Langat</surname><given-names>Nelson</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Oloo</surname><given-names>Linda</given-names></name><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Okelo</surname><given-names>Kenneth</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kitsao-Wekulo</surname><given-names>Patricia</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Early Childhood Development (ECD) Unit, Human Development Theme, African Population and Health Research Center, Nairobi, Kenya</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Department of Psychology, School of Philosophy, Psychology and Language Sciences, University of Edinburgh, Edinburgh, United Kingdom</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Ahmed</surname><given-names>Sohel</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>Ahmed Physiotherapy and Research Center, BANGLADESH</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>onyangosilo@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>19</volume><issue>5</issue><elocation-id>e0291839</elocation-id><history><date date-type="received"><day>6</day><month>9</month><year>2023</year></date><date date-type="accepted"><day>31</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Onyango et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Onyango et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pone.0291839.pdf"/><abstract><sec id="sec001"><title>Background</title><p>The majority of children with neurodevelopmental disorders <bold>(</bold>NDDs) reside in low- and middle-income countries (LMICs). NDDs are a public health concern in countries in sub-Saharan Africa (SSA). Nurturing care has been recommended as a pathway for addressing the developmental needs and unlocking the full potential of children, including those with NDDs. However, little information exists on the strategies to support children with NDDs using the Nurturing Care Framework in many countries in SSA. This review aims to synthesize information on nurturing care practices for children with NDDs in SSA. The review will also determine gaps in the provision of nurturing care for children with NDDs. Further, the review will highlight the drivers of care as well as the experiences of the caregivers.</p></sec><sec id="sec002"><title>Methods</title><p>The review will be implemented in six steps: specification of the research question, identification of relevant studies, selection of studies to be included, extracting, mapping, and charting the data, collating, summarizing, and reporting the results, and stakeholder consultation. We propose a database search followed by a manual search for the literature synthesis. We will search the following electronic databases: PubMed, ScienceDirect, Scopus, Open Grey and African Journals Online (AJOL). All studies published after May 2018 to May 2023 that include relevant terms will be identified and included. The research team will develop a data extraction form for use in capturing relevant information from each of the included studies. A patterning chart that will summarize and analyze the key findings of each article will be created.</p></sec><sec id="sec003"><title>Discussion</title><p>We anticipate that the study will provide evidence on the existing nurturing care practices and unearth gaps in the provision of nurturing care for children with NDDs. Key determinants of care and the experiences of the parents/caregivers of children will also be identified. The study will provide key recommendations on interventions to improve the quality of care for children with NDDs. Through this study, awareness of the unmet nurturing care needs of these children will be increased. The evidence generated may assist policymakers and stakeholders in addressing the needs of children with NDDs.</p></sec></abstract><funding-group><funding-statement>The authors declare no funding received for this review.</funding-statement></funding-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="7"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All data and/or information are in the manuscript. This is a scoping review protocol that do have data sets and therefore we do not have any separate data sets.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All data and/or information are in the manuscript. This is a scoping review protocol that do have data sets and therefore we do not have any separate data sets.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec004">
+      <title>Background</title>
+      <p>Globally, it is estimated that over 53 million children currently live with neurodevelopmental disorders (NDDs), and the majority of these children live in low- and middle-income countries (LMICs) [<xref rid="pone.0291839.ref001" ref-type="bibr">1</xref>]. Children with NDDs face deficits in neurological and brain functioning that considerably impair their cognition, communication, mobility, and/or social interaction. NDDs, or childhood disabilities, are a significant cause of poor development in children and continue to be a public health concern in many countries in SSA [<xref rid="pone.0291839.ref002" ref-type="bibr">2</xref>]. Nurturing care has been recommended as a pathway for addressing the developmental needs and unlocking the full potential of children, including those with NDDs [<xref rid="pone.0291839.ref003" ref-type="bibr">3</xref>]. <italic toggle="yes">Nurturing care</italic> refers to a stable caregiving environment that provides for good health, adequate nutrition, opportunities for early learning, responsive caregiving, and safety and security [<xref rid="pone.0291839.ref004" ref-type="bibr">4</xref>]. Empirically, all children need nurturing care to thrive; however, children with NDDs need more intensive nurturing care strategies not only to survive but also to thrive, as they are at a higher risk of poor developmental outcomes.</p>
+      <p>With nurturing care, known and modifiable risk factors for developmental disorders, such as poor maternal health-seeking behavior and family violence, can be monitored and effectively mitigated. Children with NDDs are often at risk for maltreatment, violence, and neglect due to unfavorable cultural beliefs about disability, discrimination, and family and community stigma [<xref rid="pone.0291839.ref002" ref-type="bibr">2</xref>]. Limited resources in most settings in SSA, where most of these children live, further constrain their care as the demands for their needs are high. Moreover, persistent parental stress and negative feelings associated with having a child with NDDs present a challenge [<xref rid="pone.0291839.ref001" ref-type="bibr">1</xref>]. Studies on young children in LMICs have generally excluded those with NDDs, and therefore little is known about the importance of interventions such as nurturing care to support child growth and development.</p>
+      <p>The World Health Organization, UNICEF and the World Bank Group in collaboration with the Partnership for Maternal, Newborn &amp; Child Health and the Early Childhood Development Action Network launched the Nurturing Care Framework to help children survive and thrive in order to achieve their full potential [<xref rid="pone.0291839.ref004" ref-type="bibr">4</xref>, <xref rid="pone.0291839.ref005" ref-type="bibr">5</xref>]. Since its launch, the Framework has been implemented across the globe, with countries in SSA being the focus. However, the nurturing care of children with NDDs who require more support has not received adequate attention. Further, little information exists on the strategies of using the Framework to support children with NDDs in many countries in SSA. The main objective of the proposed scoping review is therefore to identify, explore, and map the literature on the nurturing care practices for children with NDDs in SSA. The review will also highlight the existing gaps in the provision of nurturing care for children and determine the drivers of the quality of nurturing care provided. Further, the review will highlight the experiences of caregivers of children with NDDs in relation to the care provided. It is anticipated that the evidence generated from this study will inform appropriate interventions or practices that can inform policy on nurturing care for children with NDDs across the SSA region. This will ensure that children living with disabilities in low-resource settings receive the nurturing care they need to thrive and achieve their full potential.</p>
+      <p>The research questions are:</p>
+      <list list-type="order">
+        <list-item>
+          <p>What are the current nurturing care practices for children with NDDs in SSA?</p>
+        </list-item>
+        <list-item>
+          <p>What gaps exist in the provision of nurturing care for children with NDDs?</p>
+        </list-item>
+        <list-item>
+          <p>What are the key determinants/drivers of the quality of nurturing care provided to children with NDDs?</p>
+        </list-item>
+        <list-item>
+          <p>What are the experiences of parents/caregivers of children with NDDs in relation to the nurturing care provided?</p>
+        </list-item>
+      </list>
+    </sec>
+    <sec sec-type="materials|methods" id="sec005">
+      <title>Methodology</title>
+      <p>Using a scoping review approach, we seek to answer the overarching question: "What are the current nurturing care practices for children with NDDs in SSA?&#x201D; We chose a scoping review method because it will provide a broader perspective on the existing nurturing care practices across different age ranges. The review will be based on the five components of the nurturing care [<xref rid="pone.0291839.ref004" ref-type="bibr">4</xref>] and will follow the proposed methods by Arksey &amp; O&#x2019;Malley [<xref rid="pone.0291839.ref006" ref-type="bibr">6</xref>] and advanced by Levac and colleagues [<xref rid="pone.0291839.ref007" ref-type="bibr">7</xref>]. The scoping review will be implemented in six stages namely, i) specification of the research question, ii) identification of relevant studies, iii) study selection, iv) data extraction, mapping and charting, v) collating, summarizing and reporting the results and vi) stakeholder consultation [<xref rid="pone.0291839.ref008" ref-type="bibr">8</xref>]. We will follow the preferred reporting items for systematic reviews and meta-analyses extension for scoping reviews (PRISMA-ScR) checklist [<xref rid="pone.0291839.ref009" ref-type="bibr">9</xref>] to select studies. The team used Microsoft Excel to manage the review process. The PICO framework will guide the title and abstract screening (<bold><xref rid="pone.0291839.t001" ref-type="table">Table 1</xref></bold>).</p>
+      <table-wrap position="float" id="pone.0291839.t001">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0291839.t001</object-id>
+        <label>Table 1</label>
+        <caption>
+          <title>PICO framework for determining eligibility of review questions.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="pone.0291839.t001" id="pone.0291839.t001g" position="float"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1">Criteria</th>
+                <th align="justify" rowspan="1" colspan="1">Determinants</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<bold>Population</bold>
+</td>
+                <td align="justify" rowspan="1" colspan="1">Caregivers and their children with disabilities (intellectual disabilities, autism spectrum disorders, cerebral palsy, attention deficit and hyperactive disorders (ADHD), and sensory disorders)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<bold>Intervention</bold>
+</td>
+                <td align="justify" rowspan="1" colspan="1">Nurturing care for early childhood development (good health, adequate nutrition, responsive caregiving, opportunities for early learning, and safety and security)</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<bold>Comparison</bold>
+</td>
+                <td align="justify" rowspan="1" colspan="1">Children without disabilities</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<bold>Outcomes</bold>
+</td>
+                <td align="justify" rowspan="1" colspan="1">Access to quality and effective nurturing care services</td>
+              </tr>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">
+<bold>Study setting</bold>
+</td>
+                <td align="justify" rowspan="1" colspan="1">Sub-Saharan Africa</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+    </sec>
+    <sec id="sec006">
+      <title>Identifying relevant studies</title>
+      <p>The research team will search published and unpublished literature from all the key relevant electronic databases <bold>(<xref rid="pone.0291839.t002" ref-type="table">Table 2</xref>)</bold>. All studies published after May 2018 to date will be searched using search terms including &#x201C;developmental disabilities,&#x201D; &#x201C;nutrition,&#x201D; &#x201C;health,&#x201D; &#x201C;nurturing care,&#x201D; &#x201C;responsive care,&#x201D; &#x201C;early learning,&#x201D; &#x201C;safety,&#x201D; &#x201C;security,&#x201D; &#x201C;children with disability,&#x201D; &#x201C;ADHD,&#x201D; &#x201C;autism,&#x201D; &#x201C;cerebral palsy,&#x201D; &#x201C;learning disorder,&#x201D; &#x201C;intellectual disorder,&#x201D; &#x201C;communication disorder,&#x201D; and &#x201C;sub-Saharan Africa.&#x201D;. In addition, we will search websites such as the World Health Organization (WHO) to identify any potential literature or publications relevant to our study&#x2019;s main question. Relevant unpublished literature will be identified through a search of conference abstracts, organizational reports, and ProQuest Dissertation &amp; Theses Global. If the search produces too many irrelevant studies, we will consider revising the search strategy to include only relevant terms that could yield reasonable results. The Framework was launched in May 2018, thus the choice of the period of the scoping review.</p>
+      <table-wrap position="float" id="pone.0291839.t002">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0291839.t002</object-id>
+        <label>Table 2</label>
+        <caption>
+          <title>A draft search strategy from PubMed.</title>
+        </caption>
+        <alternatives>
+          <graphic xlink:href="pone.0291839.t002" id="pone.0291839.t002g" position="float"/>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+              <col align="left" valign="middle" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th align="left" rowspan="1" colspan="1"/>
+                <th align="left" rowspan="1" colspan="1">Date of search</th>
+                <th align="left" rowspan="1" colspan="1">Search engine used</th>
+                <th align="left" rowspan="1" colspan="1">Number of publications retrieved</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left" rowspan="1" colspan="1">(("children with disabilities "[MeSH Terms] OR ("developmental disabilities"[All Fields] AND "health"[All Fields]) OR "nutrition" [(("children with disabilities "[MeSH Terms] OR ("developmental disabilities"[All Fields] AND "health"[MeSH Terms]) OR "nutrition"[MeSH Terms] OR "early learning"[All Fields]) OR ("safety and security"[MeSH Terms] OR "Responsive care"[All Fields] OR "early learning"[All Fields]) OR ("safety and security"[MeSH Terms] OR "Responsive care"[All Fields] AND &#x201C;sub-Saharan Africa"[All Fields] AND ("2018/05/01"[PDAT]: "2023/05/31"[PDAT]))</td>
+                <td align="left" rowspan="1" colspan="1">17-07-2023</td>
+                <td align="left" rowspan="1" colspan="1">PubMed</td>
+                <td align="left" rowspan="1" colspan="1">2706</td>
+              </tr>
+            </tbody>
+          </table>
+        </alternatives>
+      </table-wrap>
+    </sec>
+    <sec id="sec007">
+      <title>Database searching</title>
+      <p>We will employ database and manual search to complete the synthesis. Most studies have used database searches to complete scoping reviews, while manual searches are less common. We propose a combination of the two search methods. The review team will carry out the reviews independently.</p>
+    </sec>
+    <sec id="sec008">
+      <title>Systematic manual search</title>
+      <p>The five components of the nurturing care make the topic under review interdisciplinary in nature, and therefore some relevant articles may not be found in databases or in other journals that may not be in databases. Therefore, we will supplement the database search with a manual search to access as many articles as possible. Based on the recommendations by Teare and Taks [<xref rid="pone.0291839.ref010" ref-type="bibr">10</xref>], a systematic manual search will be conducted in three steps. The first step will be to select top journals based on the five components of nurturing care and their relation to NDDs. The journals will be identified by the impact factor above one. The research team will then search for articles published after May 2018 that are related to the research topic by keywords. The articles will be selected based on their titles and abstracts, as well as a full-text reading. The articles that meet the criteria will eventually be included in the selection. Finally, after selecting the relevant articles in the top journals, the lists will then be checked to identify other relevant journals, followed by a manual search of journals related to the study objectives. Steps 2 and 3 will be repeated until we reach saturation.</p>
+    </sec>
+    <sec id="sec009">
+      <title>Systematic database search</title>
+      <p>The electronic databases to be searched are PubMed, ScienceDirect, Scopus, Open Grey, and African Journals Online (AJOL). The systematic data search will follow two levels of screening: i) a title and abstract review, and ii) a full-text review. At the first level of review, each of the authors will independently screen the abstracts and titles against a set of inclusion criteria. In the second level, the researchers will independently assess the full-text articles that made it through the screening stage to ascertain that they meet the inclusion criteria. Full-text articles will be reviewed a second time by a third reviewer, and any further disagreements about eligibility at the full-text review level will be resolved through discussion until consensus is reached (<bold><xref rid="pone.0291839.g001" ref-type="fig">Fig 1</xref></bold>).</p>
+      <fig position="float" id="pone.0291839.g001">
+        <object-id pub-id-type="doi">10.1371/journal.pone.0291839.g001</object-id>
+        <label>Fig 1</label>
+        <caption>
+          <title>Study selection procedure.</title>
+        </caption>
+        <graphic xlink:href="pone.0291839.g001" position="float"/>
+      </fig>
+      <sec id="sec010">
+        <title>Inclusion and exclusion criteria</title>
+        <p>The studies that will be included must meet the following criteria: i) they must focus on children ages 0&#x2013;5 years with NDDs; ii) they must report any of the five components of the nurturing care (health, nutrition, opportunities for early learning, responsive caregiving, and safety and security); iii) they must be published after May 2018, iv) they must include participants from SSA; and v) they must be published in the English language. Any article that will be found relevant by the reviewers and is in line with the research questions will be included in the full review. Studies that report participants outside SSA, have been published before 2018 and are not published in the English language will not be included.</p>
+      </sec>
+      <sec id="sec011">
+        <title>Charting the data</title>
+        <p>To capture data electronically, the research team will develop a data extraction form that will capture relevant information from each of the included studies. The form will include information on study identification (using the last name of the first author and year of publication), title, aim, setting, population, sampling method, data collection method, outcomes, data analysis, conclusion, or most relevant findings. The data extraction form will also have a section for comments by the authors (<bold><xref rid="pone.0291839.t003" ref-type="table">Table 3</xref></bold>). The form will be reviewed by all investigators before implementation to ensure that it accurately captures important information.</p>
+        <table-wrap position="float" id="pone.0291839.t003">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0291839.t003</object-id>
+          <label>Table 3</label>
+          <caption>
+            <title>Data extraction form.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0291839.t003" id="pone.0291839.t003g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Author</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Date of publication</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Study title</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Study aim/objective</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Type of study design</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Study setting</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Study population</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Sampling method</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Data collection methods</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Data analysis method</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Significant findings</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Conclusion</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec id="sec012">
+      <title>Collating, summarizing, and reporting the outcomes</title>
+      <p>The Patterns, Advances, Gaps, Evidence of Practice, and Research Recommendations (PAGER) framework will be used to analyze and report the outcomes [<xref rid="pone.0291839.ref011" ref-type="bibr">11</xref>, <xref rid="pone.0291839.ref012" ref-type="bibr">12</xref>]. After completion of article searches, an analysis of the findings will be undertaken. The first step of the analysis will be to create a patterning chart that will summarize and analyze the key findings of each included article, deductively bringing them together under unique key themes based on the five components of the nurturing care. We will then describe the progression of these patterns (themes), reflecting the dynamic state of the use of nurturing care practices for children with NDDs in SSA. The team will then identify research gaps in the articles, especially in the provision of nurturing care for children with NDDs. In addition, we will take note of areas that have been extensively explored and do not require further exploration. After identifying the gaps, we will extract from each article information useful to practitioners, academics, and policymakers. The information provided will be based on the informed understanding of the authors of this review. Finally, from the identified gaps and information, we will provide practical recommendations to key stakeholders on the best practices and priority areas to support children with NDDs. These recommendations will also be useful in the design of future research on this topic.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec013">
+      <title>Discussion</title>
+      <p>The review aims to provide evidence on existing nurturing care practices for children with NDDs in sub-Saharan African countries. The review also aims to identify key determinants of care provided to children with NDDs as well as the experiences of the parents/caregivers of children with NDDs. Further, the review will highlight existing gaps in the provision of nurturing care for children. The review will provide key recommendations on practical best practices and interventions for improving the quality of care and developmental outcomes for children with NDDs. This review will also contribute to increased awareness of the nurturing needs of children with NDDs in SSA. Policymakers and stakeholders may use the evidence generated to address existing implementation gaps for this vulnerable population.</p>
+      <p>The evidence generated will be limited to sub-Saharan African Countries and may suffer from publication bias, which is why we chose a scoping review approach. The review is also limited to the English language, which may bias the evidence. In addition, the review only considers the common NDDs; (ADHD, cerebral palsy, autism spectrum disorders, learning disorders, communication disorders, and intellectual disorders), excluding all other disabilities, further biasing the evidence.</p>
+    </sec>
+    <sec id="sec014" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0291839.s001" position="float" content-type="local-data">
+        <label>S1 Checklist</label>
+        <caption>
+          <title>PRISMA-P (Preferred Reporting Items for Systematic review and Meta-Analysis Protocols) 2015 checklist: Recommended items to address in a systematic review protocol*.</title>
+          <p>(DOC)</p>
+        </caption>
+        <media xlink:href="pone.0291839.s001.doc"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0291839.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Olusanya</surname><given-names>BO</given-names></name>, <name><surname>Adrian</surname><given-names>D</given-names></name>, <name><surname>Wertlieb</surname><given-names>D</given-names></name>, <name><surname>Boo</surname><given-names>N-YY</given-names></name>, <name><surname>Nair</surname><given-names>MKC</given-names></name>, <name><surname>Halpern</surname><given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Developmental disabilities among children younger than 5 years in 195 countries and territories, 1990&#x2013;2016: a systematic analysis for the Global Burden of Disease Study 2016</article-title>. <source>Lancet Glob Heal</source>. <year>2018</year>;<volume>6</volume>(<issue>10</issue>):<fpage>1100</fpage>&#x2013;<lpage>21</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2214-109X(18)30309-7</pub-id>
+<pub-id pub-id-type="pmid">30172774</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Olusanya</surname><given-names>BO</given-names></name>, <name><surname>Gladstone</surname><given-names>M</given-names></name>, <name><surname>Rukabyarwema</surname><given-names>JP</given-names></name>, <name><surname>Kuper</surname><given-names>H</given-names></name>, <name><surname>Mulaudzi</surname><given-names>M</given-names></name>, <name><surname>Kakooza</surname><given-names>A</given-names></name>, <etal>et al</etal>. <source>Nurturing care for children with developmental disabilities: a moral imperative for sub-Saharan Africament</source>. <year>2018</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="book"><name><surname>Tamburlini</surname><given-names>G.</given-names></name>
+<source>Nurturing care for early child development</source>. Vol. <volume>37</volume>, <publisher-name>Medico e Bambino</publisher-name>. <year>2018</year>. 489 p.</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><collab>WHO</collab>. <source>Nurturing Care for Early Childhood Development: A framework for helping children survive and thrive to transform health and human potential</source>. <year>2018</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Black</surname><given-names>MM</given-names></name>, <name><surname>Walker</surname><given-names>SPS</given-names></name>, <name><surname>Fernald</surname><given-names>LCHL</given-names></name>, <name><surname>Andersen</surname><given-names>CT</given-names></name>, <name><surname>DiGirolamo</surname><given-names>AM</given-names></name>, <name><surname>Lu</surname><given-names>C</given-names></name>, <etal>et al</etal>. <article-title>Early childhood development coming of age: science through the life course</article-title>. <source>Lancet</source>. <year>2016</year>;<volume>0</volume>(<issue>0</issue>):<fpage>60</fpage>&#x2013;<lpage>70</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(16)31389-7</pub-id>
+<pub-id pub-id-type="pmid">27717614</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Arksey</surname><given-names>H</given-names></name>, <name><surname>O&#x2019;Malley</surname><given-names>L</given-names></name>. <article-title>Scoping studies: Towards a methodological framework</article-title>. <source>Int J Soc Res Methodol Theory Pract</source>. <year>2005</year>;<volume>8</volume>(<issue>1</issue>):<fpage>19</fpage>&#x2013;<lpage>32</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Levac</surname><given-names>D</given-names></name>, <name><surname>Colquhoun</surname><given-names>H</given-names></name>, <name><surname>O&#x2019;Brien</surname><given-names>KK</given-names></name>. <article-title>Scoping studies: Advancing the methodology</article-title>. <source>Implement Sci</source>. <year>2010</year>;<volume>5</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>9</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/1748-5908-5-69</pub-id>
+<pub-id pub-id-type="pmid">20047652</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Naidoo</surname><given-names>K</given-names></name>, <name><surname>Van Wyk</surname><given-names>J</given-names></name>. <article-title>Protocol for a scoping review of age-related health conditions among geriatric populations in sub-Saharan Africa</article-title>. <source>Syst Rev</source>. <year>2019</year>;<volume>8</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">30606256</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Tricco</surname><given-names>AC</given-names></name>, <name><surname>Lillie</surname><given-names>E</given-names></name>, <name><surname>Zarin</surname><given-names>W</given-names></name>, <name><surname>O&#x2019;Brien</surname><given-names>KK</given-names></name>, <name><surname>Colquhoun</surname><given-names>H</given-names></name>, <name><surname>Levac</surname><given-names>D</given-names></name>, <etal>et al</etal>. <article-title>PRISMA extension for scoping reviews (PRISMA-ScR): Checklist and explanation</article-title>. <source>Ann Intern Med</source>. <year>2018</year>;<volume>169</volume>(<issue>7</issue>):<fpage>467</fpage>&#x2013;<lpage>73</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.7326/M18-0850</pub-id>
+<pub-id pub-id-type="pmid">30178033</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Teare</surname><given-names>G</given-names></name>, <name><surname>Taks</surname><given-names>M</given-names></name>. <article-title>Extending the scoping review framework: a guide for interdisciplinary researchers</article-title>. <source>Int J Soc Res Methodol</source>. <year>2019</year>;<fpage>1</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Bradbury-Jones</surname><given-names>C</given-names></name>, <name><surname>Aveyard</surname><given-names>H</given-names></name>, <name><surname>Herber</surname><given-names>OR</given-names></name>, <name><surname>Isham</surname><given-names>L</given-names></name>, <name><surname>Taylor</surname><given-names>J</given-names></name>, <name><surname>O&#x2019;Malley</surname><given-names>L</given-names></name>. <article-title>Scoping reviews: the PAGER framework for improving the quality of reporting</article-title>. <source>Int J Soc Res Methodol</source>. <year>2022</year>;<volume>25</volume>(<issue>4</issue>):<fpage>457</fpage>&#x2013;<lpage>70</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0291839.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Shi</surname><given-names>P</given-names></name>, <name><surname>Bairner</surname><given-names>A</given-names></name>. <article-title>Sustainable Development of Olympic Sport Participation Legacy: A Scoping Review Based on the PAGER Framework</article-title>. <source>Sustain</source>. <year>2022</year>;<volume>14</volume>(<issue>13</issue>).</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
