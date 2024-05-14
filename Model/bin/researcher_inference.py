@@ -11,7 +11,7 @@ with open(file_path, "r", encoding="utf-8") as file:
     new_text = file.readlines()
 
 # Tokenize new data
-inputs = tokenizer(new_text, padding=True, truncation=True, max_length=128, return_tensors="pt")
+inputs = tokenizer(new_text, padding=True, truncation=True, max_length=512, return_tensors="pt")
 
 # Perform inference
 with torch.no_grad():
@@ -19,6 +19,6 @@ with torch.no_grad():
     predictions = torch.argmax(outputs.logits, dim=1)
 
 # Convert predictions to labels (assuming binary classification)
-predicted_labels = ["Positive" if pred.item() == 1 else "Negative" for pred in predictions]
+predicted_labels = ["Positive" if pred.item() > 0.7 else "Negative" for pred in predictions]
 print(predicted_labels)
 
