@@ -1,2 +1,4 @@
 
 Model/finetuned_PMBERT_regression.pth
+python/results
+/Model/data/test_articles
