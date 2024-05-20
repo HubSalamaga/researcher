@@ -129,7 +129,8 @@ class Const:
             for query in file:
                 query = query.strip()
                 folder_query = query
-                query = str(query + " AND " "(" + previous_date + "[PubDate]" + " :"  + " " + current_date + "[PubDate]" + ")")
+                if current_date != previous_date
+                query = str(query + " AND " "(" + previous_date + "[PubDate]" + " :"  + " " + current_date + "[PubDate]" + ")") # jeśli odpalamy po raz pierwszy to co się dzieje 
                 folder_name_components = [download_dir, folder_query ] 
                 folder_name = "/".join(folder_name_components)
                 if not os.path.exists(folder_name):  # Checks whether destination directory hasn't been yet created
@@ -187,20 +188,26 @@ class Const:
 
         print(f"Downloaded {len(pmc_ids)} articles to {destination_dir}")
     @staticmethod
-    def overwrite_date(date_file_path, previous_date, current_date):
+    def overwrite_date(date_file_path, previous_date, current_date, is_first_run = False, threshold = 7):
         current_date = str(current_date)
         current_date = datetime.datetime.strptime(current_date,"%Y-%m-%d").date()
         previous_date = datetime.datetime.strptime(previous_date,"%Y-%m-%d").date()
         date_difference = abs((current_date - previous_date).days)
         download_dir = ""
         try:
-            if date_difference >= 7:
+            if is_first_run:
                 file_path = "./cos.txt"
                 Const.read_queries_and_fetch_articles(file_path, download_dir,current_date,previous_date)
-                print(f"Date was different")
+                print(f"First")
+            elif date_difference == 0:
+                # Handle the case where the program is run on the same day
+                print("Program run on the same day")
+            elif date_difference >= threshold:
+                file_path = "./cos.txt"
+                Const.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
+                print(f"More than {threshold} days passed")
             else:
-                print(f"Date was the same")
-                pass
+                print(f"Less than {threshold} days passed")
         except Exception as e:
             print(f"An error has occured {e}")
     @staticmethod
