@@ -1,0 +1,1014 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS One</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709796</article-id><article-id pub-id-type="pmc">11073666</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0302847</article-id><article-id pub-id-type="publisher-id">PONE-D-23-22928</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Response</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Response</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Clinical Medicine</subject><subj-group><subject>Signs and Symptoms</subject><subj-group><subject>Inflammation</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Physics</subject><subj-group><subject>Classical Mechanics</subject><subj-group><subject>Mechanical Stress</subject><subj-group><subject>Thermal Stresses</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Economics</subject><subj-group><subject>Labor Economics</subject><subj-group><subject>Employment</subject><subj-group><subject>Jobs</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Clinical Medicine</subject><subj-group><subject>Signs and Symptoms</subject><subj-group><subject>Hyperthermia</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Physiology</subject><subj-group><subject>Immune Physiology</subject><subj-group><subject>Cytokines</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune System</subject><subj-group><subject>Innate Immune System</subject><subj-group><subject>Cytokines</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune System</subject><subj-group><subject>Innate Immune System</subject><subj-group><subject>Cytokines</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Developmental Biology</subject><subj-group><subject>Molecular Development</subject><subj-group><subject>Cytokines</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Inflammatory Diseases</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Economics</subject><subj-group><subject>Labor Economics</subject><subj-group><subject>Employment</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Biochemistry</subject><subj-group><subject>Proteins</subject><subj-group><subject>C-Reactive Proteins</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>The influence of occupational heat stress on serum inflammatory cytokines among traditional bakery workers in Iran</article-title><alt-title alt-title-type="running-head">Chronic heat stress exaggerate inflammation in subjects</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Mirsanei</surname><given-names>Zahra</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Asemani</surname><given-names>Yahya</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Derakhshanjazari</surname><given-names>Milad</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/software/">Software</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-9974-3060</contrib-id><name><surname>Gharibi</surname><given-names>Vahid</given-names></name><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author" corresp="yes"><name><surname>Norouzi</surname><given-names>Pirasteh</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><xref rid="aff005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Mahdavi</surname><given-names>Sepideh</given-names></name><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/software/">Software</role><xref rid="aff006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-4829-5138</contrib-id><name><surname>Cousins</surname><given-names>Rosanna</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Department of Immunology, Shahid Beheshti University of Medical Sciences, Tehran, Iran</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Department of Immunology, Student Research Committee, Shahid Beheshti University of Medical Sciences, Tehran, Iran</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>Department of Occupational Health, Neyshabur University of Medical Sciences, Neyshabur, Iran</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>Department of Occupational Health and Safety Engineering, School of Public Health, Arak University of Medical Sciences, Arak, Iran</addr-line></aff><aff id="aff005"><label>5</label>
+<addr-line>Department of Physiology, School of Medicine, Shahroud University of Medical Sciences, Shahroud, Iran</addr-line></aff><aff id="aff006"><label>6</label>
+<addr-line>Department of Epidemiology, School of Public Health, Iran University of Medical Sciences, Tehran, Iran</addr-line></aff><aff id="aff007"><label>7</label>
+<addr-line>Department of Psychology, Liverpool Hope University, Liverpool, United Kingdom</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Burstyn</surname><given-names>Igor</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>Drexel University School of Public Health, UNITED STATES</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>gharibivahid@gmail.com</email> (VG); <email>pirasteh_norozi@yahoo.com</email> (PN)</corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>19</volume><issue>5</issue><elocation-id>e0302847</elocation-id><history><date date-type="received"><day>20</day><month>7</month><year>2023</year></date><date date-type="accepted"><day>2</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Mirsanei et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Mirsanei et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pone.0302847.pdf"/><abstract><p>Heat exposure exceeding the ISO7243:1989 standard limit can contribute to health problems among employees in a variety of workplaces. Ignoring heat standard requirements in hot working conditions such as bakeries results in physiologic and health problems, as well as an elevated risk of later illnesses. In this analytical case-control study, the serum levels of four inflammatory factors (interleukin-1 beta, interleukin-6, tumor necrosis factor-&#x3B1;, and C-reactive protein) were assessed using an enzyme-linked immunosorbent assay. 105 male artisan bakers (in four job classifications in bakeries and staff) were compared based on demographic characteristics and inflammatory factors. The findings of the study showed correlations between serum interleukin-1&#x3B2;, interleukin-6, and C-reactive protein levels and thermal exposure in the occupational environment and employment type. Moreover, some differences in serum level of interleukin-1&#x3B2; and job type were observed. Heat overexposure affected the increase of interleukin-1&#x3B2; and C-reactive protein secretion. As a result of years of working in high-temperature conditions, inflammation can lead to subsequent diseases in workers. To protect their health from this occupational hazard, additional safeguards are needed. Our recommendations could also be applied to overly hot work environments that may cause heat stress in workers.</p></abstract><funding-group><funding-statement>The author(s) received no specific funding for this work.</funding-statement></funding-group><counts><fig-count count="1"/><table-count count="2"/><page-count count="13"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>All relevant data are within the paper and its <xref rid="sec015" ref-type="sec">Supporting Information</xref> files.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>All relevant data are within the paper and its <xref rid="sec015" ref-type="sec">Supporting Information</xref> files.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec001">
+      <title>Introduction</title>
+      <p>Heat exposure has been identified as a health risk factor, and one of the most serious health hazards among people who work in hot conditions [<xref rid="pone.0302847.ref001" ref-type="bibr">1</xref>,<xref rid="pone.0302847.ref002" ref-type="bibr">2</xref>]. Humans, as warm-blooded creatures, can only survive and execute social and professional activities within a specific temperature range [<xref rid="pone.0302847.ref003" ref-type="bibr">3</xref>,<xref rid="pone.0302847.ref004" ref-type="bibr">4</xref>]. Most people are comfortable when the temperature is 21&#x2013;24&#xB0;C and the relative humidity is 50&#x2013;60% [<xref rid="pone.0302847.ref005" ref-type="bibr">5</xref>,<xref rid="pone.0302847.ref006" ref-type="bibr">6</xref>]. Various animal and human studies have examined the effects of increased ambient temperatures&#x2013;either as a result of climate change or as a result of employment conditions&#x2013;on the body&#x2019;s health and physiology, including the cardiovascular [<xref rid="pone.0302847.ref007" ref-type="bibr">7</xref>], respiratory [<xref rid="pone.0302847.ref008" ref-type="bibr">8</xref>], endocrine [<xref rid="pone.0302847.ref009" ref-type="bibr">9</xref>], urinary [<xref rid="pone.0302847.ref010" ref-type="bibr">10</xref>], proteomic [<xref rid="pone.0302847.ref011" ref-type="bibr">11</xref>], and reproductive systems [<xref rid="pone.0302847.ref012" ref-type="bibr">12</xref>].</p>
+      <p>Studies show that due to climate change and global warming, heat stress incidence is increasing [<xref rid="pone.0302847.ref013" ref-type="bibr">13</xref>&#x2013;<xref rid="pone.0302847.ref015" ref-type="bibr">15</xref>]. Heat stress, as defined by the American Conference of Governmental Industrial Hygienists [<xref rid="pone.0302847.ref014" ref-type="bibr">14</xref>,<xref rid="pone.0302847.ref016" ref-type="bibr">16</xref>], is the amount of heat load or net heat to which a worker is subjected [<xref rid="pone.0302847.ref017" ref-type="bibr">17</xref>]. Work rate, clothes, ambient temperature, and humidity influence heat load. Moreover, indoor climates in non-air-conditioned buildings are likely to increase the risk of heat waves, especially in low-income countries as climate change and energy crises, and it can cause heat stress to residents and workers who spend most of their time indoors [<xref rid="pone.0302847.ref018" ref-type="bibr">18</xref>,<xref rid="pone.0302847.ref019" ref-type="bibr">19</xref>]. High workplace heat load can have a variety of effects on a person&#x2019;s metabolism, body temperature, heart rate, and blood pressure. However, it will ultimately lead to illness and an increase in work errors [<xref rid="pone.0302847.ref020" ref-type="bibr">20</xref>]. Excessive heat exposure has been linked to consequences such as heat exhaustion, neurological and psychiatric diseases, and decreased labor productivity [<xref rid="pone.0302847.ref021" ref-type="bibr">21</xref>].</p>
+      <p>Inflammation is a natural and necessary response to injury or infection, where the body&#x2019;s immune system activates to protect itself and promote healing. However, long-term chronic inflammation is a sustained immune response lasting months or years arising from factors such as persistent infections, exposure to irritants, and unresolved inflammatory responses that contribute to its development. The long-term presence of chronic inflammation can lead to cardiovascular disease, autoimmune disorders, and cancer [<xref rid="pone.0302847.ref022" ref-type="bibr">22</xref>,<xref rid="pone.0302847.ref023" ref-type="bibr">23</xref>]. Various blood and tissue factors including cytokines interleukin-1beta (IL-1&#x3B2;), interleukin-6 (IL-6), and Tumor Necrosis Factor-Alpha (TNF-&#x3B1;), several serum proteins such as C-reactive protein (CRP), intercellular cell adhesion molecules (ICAM) and vascular cell adhesion molecules (VCAM), which are considered as inflammatory agents, are altered during inflammation and provoke exacerbation [<xref rid="pone.0302847.ref022" ref-type="bibr">22</xref>]. Cytokines constitute a group of proteins or soluble glycoproteins that transmit vital signals between immune and non-immune cells. They also possess pro-inflammatory, anti-inflammatory, and and immunosuppressive activities [<xref rid="pone.0302847.ref023" ref-type="bibr">23</xref>]. Studies have shown that IL-1, IL-6, TNF-&#x3B1;, and CRP play a major role in the pathogenesis of heat-related illnesses such as heatstroke, and their serum levels are greatly increased by heat [<xref rid="pone.0302847.ref011" ref-type="bibr">11</xref>,<xref rid="pone.0302847.ref024" ref-type="bibr">24</xref>,<xref rid="pone.0302847.ref025" ref-type="bibr">25</xref>].</p>
+      <p>There is evidence of a positive correlation between heat stroke patients&#x2019; body temperature and IL-1&#x3B2; levels [<xref rid="pone.0302847.ref026" ref-type="bibr">26</xref>]. TNF-&#x3B1; production also occurs with thermal exposure [<xref rid="pone.0302847.ref025" ref-type="bibr">25</xref>]. When the body temperature rises, certain tissue-resident immune cells, such as macrophages, produce proinflammatory cytokines such as IL-1&#x3B2;, IL-6, and TNF-&#x3B1; [<xref rid="pone.0302847.ref025" ref-type="bibr">25</xref>,<xref rid="pone.0302847.ref027" ref-type="bibr">27</xref>]. Evaluations in a mouse model have indicated that heat stress causes an increase in inflammatory cytokines, reactive oxygen species (ROS), and nitric oxide (NO) by activating nuclear factor kB (NF-kB) as the master regulator of inflammatory responses [<xref rid="pone.0302847.ref028" ref-type="bibr">28</xref>,<xref rid="pone.0302847.ref029" ref-type="bibr">29</xref>], and IL-6 and IL-1 mediate the release of acute-phase proteins such as CRP, from liver cells. In line with this data, research has revealed that individuals who report job-related stress often exhibit elevated CRP levels, which are associated with atherosclerosis [<xref rid="pone.0302847.ref030" ref-type="bibr">30</xref>]. Furthermore, male cyclists who trained in hot conditions and had limited fluid intake experienced an increase in IL-6, cortisol, and CRP [<xref rid="pone.0302847.ref031" ref-type="bibr">31</xref>].</p>
+      <p>To evaluate workplace thermal conditions and the associated heat stress on people, many thermal indicators have been presented and used over many years [<xref rid="pone.0302847.ref032" ref-type="bibr">32</xref>,<xref rid="pone.0302847.ref033" ref-type="bibr">33</xref>]. One of the most widely used and standard indicators in this area is the wet-bulb globe temperature (WBGT). This index was introduced in 1957 by Yaglou [<xref rid="pone.0302847.ref034" ref-type="bibr">34</xref>] and approved in the ISO7243:1989 standard [<xref rid="pone.0302847.ref035" ref-type="bibr">35</xref>]. Despite some criticism, the WBGT is the most common measure of heat stress as the calculation is formulated to accommodate human heat exchanges with the environment and the influence of work according to temperature and humidity [<xref rid="pone.0302847.ref014" ref-type="bibr">14</xref>,<xref rid="pone.0302847.ref032" ref-type="bibr">32</xref>]. Ultimately, calculations for potential heat stress involve calculations of the WBGT index alongside published threshold limit values (TLV).</p>
+      <p>In this study, the population of interest to explore the impact of heat stress on inflammatory markers was traditional artisan bakers in Iran who work indoors in front of hot ovens. Studies show that WBGT indices are high in people who work long hours in front of artisan bakery furnaces and ovens [<xref rid="pone.0302847.ref002" ref-type="bibr">2</xref>,<xref rid="pone.0302847.ref036" ref-type="bibr">36</xref>]. This work is considered to be moderately strenuous. The strenuousness of a job impacts on the TLV. That is, work that involves greater strenuousness will have lower TLV for managing heat stress.</p>
+      <p>Iranian bakers start work at 4 a.m. and 3 p.m. and generally work two shifts per day, six days a week. It takes about 5 hours overall to prepare the dough to bake the bread. There are four distinct job roles undertaken by traditional bakers in the course of making bread. The initial preparation is undertaken by a dough-maker who mixes flour and water to make a dough of a spongy consistency. Next, dough-formers knead, portion and shape the dough. Then the dough-baker puts the cut dough into the open ovens and manages the heat until the dough is baked and becomes bread. Finally, a bread-taker retrieves the freshly baked bread and put it on a counter ready to be sold. The risk for heat stress may differ according to role. For moderately strenuous jobs a WBGT TLV of 28&#xB0;C or lower should be sought to reduce the risk of heat stress and its consequences [<xref rid="pone.0302847.ref002" ref-type="bibr">2</xref>].</p>
+      <p>An investigation of the effects of high heat on broilers found that high heat increased inflammation and the release of IL-1 and IL-6 [<xref rid="pone.0302847.ref036" ref-type="bibr">36</xref>]. Considering the effects of high heat on humans, under carefully controlled experimental conditions, Kaldur <italic toggle="yes">et al</italic>. evaluated the effect of indirect heat on vascular stiffness, oxidative stress, and inflammation in healthy, physically active young men [<xref rid="pone.0302847.ref037" ref-type="bibr">37</xref>]. They found that exposure to high temperature (42&#xB0;C) and a relative humidity of 18% in a climatic chamber during a 10-day heat and exercise study protocol, yielded a significant relationship between heat rise and hardening of arterial blood vessels [<xref rid="pone.0302847.ref038" ref-type="bibr">38</xref>]. Based on the findings, they also asserted there is a correlation between high heat and CRP and IL-6 levels seen in the study participants. This led to increased CRP and IL-6 levels significantly [<xref rid="pone.0302847.ref038" ref-type="bibr">38</xref>,<xref rid="pone.0302847.ref039" ref-type="bibr">39</xref>]. Since heat propounds inflammation, and inflammatory factors underlie the onset of many disorders including autoimmune disease [<xref rid="pone.0302847.ref040" ref-type="bibr">40</xref>], cancers [<xref rid="pone.0302847.ref041" ref-type="bibr">41</xref>], organ failure [<xref rid="pone.0302847.ref042" ref-type="bibr">42</xref>], and psychological consequences like depression [<xref rid="pone.0302847.ref043" ref-type="bibr">43</xref>], we determined a need to study the level of the inflammation criteria IL-1, IL-6 and, TNF-&#x3B1; and CRP in the serum of workers who are exposed to a high heat environment during their work. This study investigated how excessive heat in working environments affects people&#x2019;s inflammatory conditions. It also recommended some actions to alleviate hazardous conditions for workers.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec002">
+      <title>Materials and methods</title>
+      <sec id="sec003">
+        <title>Design and participants</title>
+        <p>This is a case-control study of men who were referred to the specialized Center of Occupational Medicine in Shahroud for their annual health assessment in 2019&#x2013;2020. Using information from serum samples, the participants were divided into two groups: case (n = 47) and control (n = 58). The normal range of IL-6, IL-&#x3B2;, TNF-&#x3B1;, and CRP are 2&#x2013;60 ng/L, 20-60pg/L, 3- 90ng/L and 3&#x2013;10 mg/L respectively. Thus, the case group (abnormal inflammation) included people with a higher-than-normal range of one or more of the four inflammatory factors IL-6, IL-1&#x3B2;, TNF-a, and CRP, and participants with serum samples in the normal range for these four inflammatory factors became the control group (normal inflammation).</p>
+        <p>96 men bakers working in artisan bakeries performing one of four jobs and 15 administrative officers, who all met the study criteria and filled out the informed consent form, were recruited. Six participants subsequently withdrew due to infection yielding a final sample of 105 participants.</p>
+      </sec>
+      <sec id="sec004">
+        <title>Ethical considerations</title>
+        <p>This project was approved by the Research Ethics Committee of Shahroud University of Medical Sciences under No. IR.SHMU.REC.1397.211. The study was conducted in 2020, according to the principles of the Declaration of Helsinki.</p>
+        <p>The details of the project were explained to all participants in a transparent manner and the personal information of the individuals was kept strictly confidential. All participants entered the study voluntarily after giving informed written consent.</p>
+      </sec>
+      <sec id="sec005">
+        <title>Sample size</title>
+        <p>Sufficiency of sample size was based on the mean and standard deviation of serum level of TNF-&#x3B1; in heat stroke patients in Chang&#x2019;s study of the role of cytokines in heat stroke. Considering a significance level of 0.05 and statistical power of 80%, the minimum sample size required for each group needed to reach 25 considering a 10% loss to our samples. Also, ratio of control to case assumed 1. Finally, in order to increase the study power, the research group doubled the sample size in each group and the sample size was increased to 50 people in each group. That is, the planned minimum sample size was increased to 100.</p>
+        <disp-formula id="pone.0302847.e001">
+<alternatives><graphic xlink:href="pone.0302847.e001.jpg" id="pone.0302847.e001g" position="anchor"/><mml:math id="M1" display="block" overflow="scroll"><mml:msub><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mrow><mml:mi>n</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mrow><mml:mi>Z</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x2212;</mml:mo><mml:mfrac><mml:mrow><mml:mi>&#x3B1;</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:mfrac></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>Z</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>&#x2212;</mml:mo><mml:mi>&#x3B2;</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo stretchy="false">(</mml:mo><mml:msubsup><mml:mrow><mml:mi>&#x3B4;</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msubsup><mml:mo>+</mml:mo><mml:msubsup><mml:mrow><mml:mi>&#x3B4;</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msubsup><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mrow><mml:mi>&#x3BC;</mml:mi></mml:mrow><mml:mrow><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>&#x2212;</mml:mo><mml:msub><mml:mrow><mml:mi>&#x3BC;</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mfrac></mml:math></alternatives>
+</disp-formula>
+        <p>For all participants: inclusion criteria were full-time employment for at least one year, and men aged 18 to 60 years old; exclusion criteria included suffering from diseases such as high blood pressure, heart disease, and fever.</p>
+      </sec>
+      <sec id="sec006">
+        <title>Data collection</title>
+        <p>To conduct this study, the purpose of the study and the conditions for collecting samples through oral explanations were described for all individuals. After declaring consent to participate in the study, participants filled out a written informed consent form. Subsequently, among all individuals who entered the study after completing the written consent form, 6 individuals were excluded due to infection. The study was then carried out on the remaining participants. A questionnaire was used to collect demographic and personal information, including age, smoking status, vegetable consumption, regular exercise, work experience, daily working hours, and job type. Iranian bakeries start at 4 a.m. and 3 p.m. in two shifts per day. It takes about 5 hours to prepare the dough to bake the bread. Participants&#x2019; blood samples (5ml) were collected from a cubital vein by a laboratory technician skilled in phlebotomy in the morning, before bakers&#x2019; working hours ended. After that, samples were left at room temperature for 15&#x2013;30 minutes for clotting. After removing the clot by centrifuging 1500g for 10 minutes at 4&#xB0;C, serum specimens were collected and kept at -70&#xB0;C until analysis.</p>
+        <p>In this study various variables were investigated as follows: BMI(Kg/m<sup>2</sup>) was calculated using height (m) and weight (kg), age (years), work experience (years), and exposure to heat using a dosimeter were recorded quantitatively. Participants were categorized based on BMI (&gt;25 or &#x2264;25), heat exposure (&#x2264;28&#xB0;C or &gt;28&#xB0;C), and daily work hours (&#x2265;8 hours or &lt;8 hours). Additional qualitative data on exercise, smoking, vegetable consumption, and job type were collected through interviews. The first three were categorized as "Yes" or "No" and the occupation type was classified as "official" or "baker."</p>
+        <p>The wet bulb globe temperature (WBGT) index was used to evaluate heat stress in bakery workers. Previous studies have confirmed an acceptable association of the WBGT index with physiological indicators of the body such as core temperature [<xref rid="pone.0302847.ref044" ref-type="bibr">44</xref>&#x2013;<xref rid="pone.0302847.ref046" ref-type="bibr">46</xref>]. To take measurements, we used a digital WBGT meter made by Casella, Australia (MK427JY model) which is designed to monitor the risk for heat stress in employees working in hot environments. Because of environmental inconsistency, and according to the standard protocol, measurements were made at three heights: head (1.7 m), trunk (1.1 m) and ankles (0.1 m) and their average were determined (<xref rid="pone.0302847.e002" ref-type="disp-formula">Eq 1</xref>) [<xref rid="pone.0302847.ref047" ref-type="bibr">47</xref>]. Also, based on the measurement of temperature values at different times during work shifts (both at rest and during work), the WBGT index was calculated using the mean weighted-time relation (<xref rid="pone.0302847.e003" ref-type="disp-formula">Eq 2</xref>) [<xref rid="pone.0302847.ref048" ref-type="bibr">48</xref>].</p>
+        <disp-formula id="pone.0302847.e002">
+<alternatives><graphic xlink:href="pone.0302847.e002.jpg" id="pone.0302847.e002g" position="anchor"/><mml:math id="M2" display="block" overflow="scroll"><mml:mi>W</mml:mi><mml:mi>B</mml:mi><mml:mi>G</mml:mi><mml:mi>T</mml:mi><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">W</mml:mi><mml:mi mathvariant="normal">B</mml:mi><mml:mi mathvariant="normal">G</mml:mi><mml:msub><mml:mi mathvariant="normal">T</mml:mi><mml:mrow><mml:mi mathvariant="normal">head</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mo>(</mml:mo><mml:mrow><mml:mn>2</mml:mn><mml:mo>&#xD7;</mml:mo><mml:mi mathvariant="normal">W</mml:mi><mml:mi mathvariant="normal">B</mml:mi><mml:mi mathvariant="normal">G</mml:mi><mml:msub><mml:mi mathvariant="normal">T</mml:mi><mml:mi mathvariant="normal">abdomen</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo><mml:mo>+</mml:mo><mml:mi mathvariant="normal">W</mml:mi><mml:mi mathvariant="normal">B</mml:mi><mml:mi mathvariant="normal">G</mml:mi><mml:msub><mml:mi mathvariant="normal">T</mml:mi><mml:mi mathvariant="normal">leg</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mn>4</mml:mn></mml:mrow></mml:mfrac></mml:math></alternatives>
+<label>(Eq 1)</label>
+</disp-formula>
+        <disp-formula id="pone.0302847.e003">
+<alternatives><graphic xlink:href="pone.0302847.e003.jpg" id="pone.0302847.e003g" position="anchor"/><mml:math id="M3" display="block" overflow="scroll"><mml:mi>W</mml:mi><mml:mi>B</mml:mi><mml:mi>G</mml:mi><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="normal">average</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mrow><mml:msubsup><mml:mo stretchy="false">&#x2211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mi>i</mml:mi><mml:mo>&#xD7;</mml:mo><mml:mi>W</mml:mi><mml:mi>B</mml:mi><mml:mi>G</mml:mi><mml:mi>T</mml:mi><mml:mi>i</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:msubsup><mml:mo stretchy="false">&#x2211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mrow><mml:mi>n</mml:mi></mml:mrow></mml:msubsup><mml:mspace width="2.25em"/><mml:mrow><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:mrow></mml:mrow></mml:mrow></mml:mfrac></mml:math></alternatives>
+<label>(Eq 2)</label>
+</disp-formula>
+        <p>To determine the permissible values of the WBGT index of the environment, the working metabolism of individuals was determined using ISO-8996 Standard tables to judge the level of heat stress. Using this approach, and accounting for the postures, types and amounts of each individual&#x2019;s activity, the metabolism of bakery workers was calculated as 200&#x2013;350 kcal/h, which is in the average work range. According to this Standard, 8 hours working time corresponded to the pattern of 75&#x2013;100% of baker&#x2019;s working time and the acceptable limit of WBGT index was 28&#xB0;C.</p>
+      </sec>
+      <sec id="sec007">
+        <title>Evaluation of serum inflammatory factors</title>
+        <p>Serum concentration of inflammatory factors IL-1&#x3B2;, IL-6, TNF-&#x3B1;, and CRP were determined with an enzyme-linked immunoassay (ELISA) method using the Bioassay Technology Laboratory kits. As previously described, a 5 ml blood sample was collected from the right antecubital vein of all participants in the morning, while they were seated. The blood samples were centrifuged for 20 minutes at 1500g and serum were separated and collected in 0.5 ml microtubes and were then refrigerated at -70&#xB0;C until analysis. All tests were performed in the central laboratory of Shahroud University of Medical Science.</p>
+      </sec>
+      <sec id="sec008">
+        <title>Statistical analyses</title>
+        <p>Kolmogorov-Smirnov tests were used to evaluate the normality of data distribution. Descriptive data were reported using mean, standard deviation, frequency and frequency percentage. Then, <italic toggle="yes">&#x3C7;</italic>2 analyses was used to check the relationship of qualitative variables with study groups and independent t-test analyses was used to check the relationship of quantitative variables with study groups.</p>
+        <p>Adjusted odds ratio and their 95% confident interval were calculated by including all variables in the multivariate model to control for confounding effects. All statistical calculations were performed with SPSS version 26 (SPSS Inc, Chicago, Ill, USA) and p-value &lt; 0.05 was considered statistically significant. Graphs were drawn using GraphPad Prism version 9 software.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec009">
+      <title>Results</title>
+      <sec id="sec010">
+        <title>Descriptive information</title>
+        <p>The 105 subjects were all male and had a mean age of 35.67&#xB1;8.30 years. Body mass index (BMI) was 25.24&#xB1;4.63 kg/m<sup>2</sup>, work experience 13.56&#xB1;9.01 years, and daily working hours 9.67 &#xB1; 1.42 hours. <xref rid="pone.0302847.t001" ref-type="table">Table 1</xref> shows the frequencies of qualitative and quantitative demographic variables for case and control groups, and the validity of qualitative variables as well as the normality of quantitative data has been reported by examining the results of Chi-square and Kolmogorov-Smirnov tests, respectively.</p>
+        <table-wrap position="float" id="pone.0302847.t001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302847.t001</object-id>
+          <label>Table 1</label>
+          <caption>
+            <title>Demographic information and other characteristics in cases and control groups.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0302847.t001" id="pone.0302847.t001g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Parameter</th>
+                  <th align="center" rowspan="1" colspan="1">Control</th>
+                  <th align="center" rowspan="1" colspan="1">Case</th>
+                  <th align="center" rowspan="1" colspan="1">OR</th>
+                  <th align="center" colspan="3" rowspan="1">95%CI</th>
+                  <th align="center" colspan="3" rowspan="1">P-value</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Age (years)</bold>
+<xref rid="t001fn001" ref-type="table-fn">*</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1">34.23&#xB1;7.40</td>
+                  <td align="center" rowspan="1" colspan="1">36.84&#xB1;8.85</td>
+                  <td align="center" rowspan="1" colspan="1">1.04</td>
+                  <td align="center" rowspan="1" colspan="1">0.99</td>
+                  <td align="center" colspan="3" rowspan="1">1.09</td>
+                  <td align="center" colspan="2" rowspan="1">0.11</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Experience (years)</bold>
+<xref rid="t001fn001" ref-type="table-fn">*</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1">12.93&#xB1;7.55</td>
+                  <td align="center" rowspan="1" colspan="1">14.06&#xB1;10.08</td>
+                  <td align="center" rowspan="1" colspan="1">1.01</td>
+                  <td align="center" rowspan="1" colspan="1">1.00</td>
+                  <td align="center" colspan="3" rowspan="1">1.06</td>
+                  <td align="center" colspan="2" rowspan="1">0.52</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>BMI (kg /m<sup>2</sup>)</bold>
+<xref rid="t001fn002" ref-type="table-fn">**</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" colspan="3" rowspan="1"/>
+                  <td align="center" colspan="2" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">&#x2264;25</td>
+                  <td align="center" rowspan="1" colspan="1">24 (51.1%)</td>
+                  <td align="center" rowspan="1" colspan="1">32 (55.2%)</td>
+                  <td align="center" rowspan="1" colspan="1">Reference</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" colspan="3" rowspan="1">Ref</td>
+                  <td align="center" colspan="2" rowspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">&gt;25</td>
+                  <td align="center" rowspan="1" colspan="1">23 (48.9%)</td>
+                  <td align="center" rowspan="1" colspan="1">26 (44.8%)</td>
+                  <td align="center" rowspan="1" colspan="1">0.85</td>
+                  <td align="center" rowspan="1" colspan="1">0.39</td>
+                  <td align="center" colspan="3" rowspan="1">1.83</td>
+                  <td align="center" colspan="2" rowspan="1">0.67</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Vegetable Consumption</bold>
+<xref rid="t001fn002" ref-type="table-fn">**</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" colspan="3" rowspan="1"/>
+                  <td align="center" colspan="2" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">yes</td>
+                  <td align="center" rowspan="1" colspan="1">39 (83.0%)</td>
+                  <td align="center" rowspan="1" colspan="1">47 (81.0%)</td>
+                  <td align="center" rowspan="1" colspan="1">Reference</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" colspan="3" rowspan="1">Ref</td>
+                  <td align="center" colspan="2" rowspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">no</td>
+                  <td align="center" rowspan="1" colspan="1">8 (17.0%)</td>
+                  <td align="center" rowspan="1" colspan="1">11 (19.0%)</td>
+                  <td align="center" rowspan="1" colspan="1">0.88</td>
+                  <td align="center" rowspan="1" colspan="1">0.32</td>
+                  <td align="center" colspan="3" rowspan="1">2.39</td>
+                  <td align="center" colspan="2" rowspan="1">0.80</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Smoking</bold>
+<xref rid="t001fn002" ref-type="table-fn">**</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" colspan="3" rowspan="1"/>
+                  <td align="center" colspan="2" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Yes</td>
+                  <td align="center" rowspan="1" colspan="1">30 (63.8%)</td>
+                  <td align="center" rowspan="1" colspan="1">32 (55.2%)</td>
+                  <td align="center" rowspan="1" colspan="1">1.43</td>
+                  <td align="center" rowspan="1" colspan="1">0.65</td>
+                  <td align="center" colspan="3" rowspan="1">3.15</td>
+                  <td align="center" colspan="2" rowspan="1">0.38</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">No</td>
+                  <td align="center" rowspan="1" colspan="1">17 (36.2%)</td>
+                  <td align="center" rowspan="1" colspan="1">26 (44.8%)</td>
+                  <td align="center" rowspan="1" colspan="1">Reference</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" colspan="3" rowspan="1">Ref</td>
+                  <td align="center" colspan="2" rowspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Daily work hours</bold>
+<xref rid="t001fn002" ref-type="table-fn">**</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" colspan="3" rowspan="1"/>
+                  <td align="center" colspan="2" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">&lt;8</td>
+                  <td align="center" rowspan="1" colspan="1">16 (8.3%)</td>
+                  <td align="center" rowspan="1" colspan="1">12 (16.7%)</td>
+                  <td align="center" rowspan="1" colspan="1">Reference</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" colspan="3" rowspan="1">Ref</td>
+                  <td align="center" colspan="2" rowspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">&gt;8</td>
+                  <td align="center" rowspan="1" colspan="1">31 (21.4%)</td>
+                  <td align="center" rowspan="1" colspan="1">46 (53.6%)</td>
+                  <td align="center" rowspan="1" colspan="1">1.98</td>
+                  <td align="center" rowspan="1" colspan="1">0.82</td>
+                  <td align="center" colspan="3" rowspan="1">4.75</td>
+                  <td align="center" colspan="2" rowspan="1">0.13</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1"><bold>Exercise</bold>**</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" colspan="3" rowspan="1"/>
+                  <td align="center" colspan="2" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">yes</td>
+                  <td align="center" rowspan="1" colspan="1">6 (12.8%)</td>
+                  <td align="center" rowspan="1" colspan="1">16 (27.6%)</td>
+                  <td align="center" rowspan="1" colspan="1">Reference</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" colspan="3" rowspan="1">Ref</td>
+                  <td align="center" colspan="2" rowspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">no</td>
+                  <td align="center" rowspan="1" colspan="1">41 (87.2%)</td>
+                  <td align="center" rowspan="1" colspan="1">42 (72.4%)</td>
+                  <td align="center" rowspan="1" colspan="1">2.60</td>
+                  <td align="center" rowspan="1" colspan="1">0.93</td>
+                  <td align="center" colspan="3" rowspan="1">7.31</td>
+                  <td align="center" colspan="2" rowspan="1">0.06</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Job</bold>
+<xref rid="t001fn002" ref-type="table-fn">**</xref>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" colspan="3" rowspan="1"/>
+                  <td align="center" colspan="2" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Official</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">4 (3.6%)</td>
+                  <td align="center" rowspan="1" colspan="1">11 (19%)</td>
+                  <td align="center" rowspan="1" colspan="1">Reference</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" colspan="3" rowspan="1">Ref</td>
+                  <td align="center" colspan="2" rowspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Bread-taker</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">5 (10.6%)</td>
+                  <td align="center" rowspan="1" colspan="1">16 (27.6%)</td>
+                  <td align="center" rowspan="1" colspan="1">1.16</td>
+                  <td align="center" rowspan="1" colspan="1">0.25</td>
+                  <td align="center" colspan="3" rowspan="1">5.33</td>
+                  <td align="center" colspan="2" rowspan="1">0.84</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Dough-making</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">6 (12.8%)</td>
+                  <td align="center" rowspan="1" colspan="1">8 (13.8%)</td>
+                  <td align="center" rowspan="1" colspan="1">0.48</td>
+                  <td align="center" rowspan="1" colspan="1">0.10</td>
+                  <td align="center" colspan="3" rowspan="1">2.30</td>
+                  <td align="center" colspan="2" rowspan="1">0.36</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Dough-forming</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">25 (53.2%)</td>
+                  <td align="center" rowspan="1" colspan="1">19 (32.8%)</td>
+                  <td align="center" rowspan="1" colspan="1">0.27</td>
+                  <td align="center" rowspan="1" colspan="1">0.76</td>
+                  <td align="center" colspan="3" rowspan="1">1.00</td>
+                  <td align="center" colspan="2" rowspan="1">0.05</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">
+<bold>Baker</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">7 (14.9%)</td>
+                  <td align="center" rowspan="1" colspan="1">4 (6.9%)</td>
+                  <td align="center" rowspan="1" colspan="1">0.20</td>
+                  <td align="center" rowspan="1" colspan="1">0.39</td>
+                  <td align="center" colspan="3" rowspan="1">1.11</td>
+                  <td align="center" colspan="2" rowspan="1">0.06</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1"><bold>Testate of Exposure to thermal stress</bold>**</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" colspan="2" rowspan="1"/>
+                  <td align="center" colspan="3" rowspan="1"/>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Acceptable limit</td>
+                  <td align="center" rowspan="1" colspan="1">21 (44.7%)</td>
+                  <td align="center" rowspan="1" colspan="1">17 (29.3%)</td>
+                  <td align="center" rowspan="1" colspan="1">Reference</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" colspan="3" rowspan="1">Ref</td>
+                  <td align="center" colspan="2" rowspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Unacceptable limit<xref rid="t001fn003" ref-type="table-fn"><sup>1</sup></xref></td>
+                  <td align="center" rowspan="1" colspan="1">26 (55.3%)</td>
+                  <td align="center" rowspan="1" colspan="1">41 (70.7%)</td>
+                  <td align="center" rowspan="1" colspan="1">1.95</td>
+                  <td align="center" rowspan="1" colspan="1">0.87</td>
+                  <td align="center" colspan="3" rowspan="1">4.36</td>
+                  <td align="center" colspan="2" rowspan="1">0.10</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t001fn001">
+              <p>*Independent T-test</p>
+            </fn>
+            <fn id="t001fn002">
+              <p>**Chi Square Test, OR by Binary Logistic Regression.</p>
+            </fn>
+            <fn id="t001fn003">
+              <p><sup>1</sup> Exceeds the workplace standard for heat stress.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="sec011">
+        <title>Laboratory findings</title>
+        <p>Serum levels of IL-1&#x3B2;, IL-6, TNF-&#x3B1;, and CRP in the case and control groups were evaluated using ELISA. There were higher levels of all four factors among heat-stressed participants, but independent t-test analyses showed that only the augmentation of IL-1&#x3B2; (p-value = 0.03, 95% CI of diff = -2.85 to -0.085) and CRP (p-value &lt; 0.01, 95% CI of diff = -4.11 to -1.0) was statistically significant. Following the results, we divided the sample into two categories: case (people with abnormal inflammation) and control (people with normal inflammation), and evaluated their responses to increasing temperature. The findings revealed that, as the temperature increased, there was an augmentation in abnormal inflammation in the case group; however, this effect was not significant (See <xref rid="pone.0302847.g001" ref-type="fig">Fig 1</xref>).</p>
+        <fig position="float" id="pone.0302847.g001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302847.g001</object-id>
+          <label>Fig 1</label>
+          <caption>
+            <title>Investigating the effect of increasing temperature on inflammatory status in both normal (dotted columns) and abnormal (grey columns) inflammation groups.</title>
+            <p><bold>(A)</bold> Increasing the temperature beyond the acceptable limit WBGT (28&#x5AF;C) leads to an increase in any of the four inflammatory factors. <bold>(B)</bold> Increasing temperature effect on total inflammation (including all 4 inflammatory factors: IL1&#x3B2;, IL6, TNF&#x3B1; and CRP) in participants with normal/abnormal inflammation.</p>
+          </caption>
+          <graphic xlink:href="pone.0302847.g001" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec012">
+        <title>Multivariate logistic regression model for total inflammation</title>
+        <p>To further understand the significantly raised occupational heat stress levels of IL-1&#x3B2; and CRP, a multivariate model based on the enter method was used. The analysis included all variables and adjusted odds ratios and their 95% confidence intervals were used, as presented in <xref rid="pone.0302847.t002" ref-type="table">Table 2</xref>.</p>
+        <table-wrap position="float" id="pone.0302847.t002">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0302847.t002</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Multivariate logistic regression model of risk factor for total inflammation<xref rid="t002fn001" ref-type="table-fn">*</xref>.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0302847.t002" id="pone.0302847.t002g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="2" colspan="1">Parameter</th>
+                  <th align="center" rowspan="2" colspan="1">OR</th>
+                  <th align="center" colspan="2" rowspan="1">95% CI</th>
+                  <th align="center" rowspan="2" colspan="1">p-value</th>
+                </tr>
+                <tr>
+                  <th align="center" rowspan="1" colspan="1">Lower</th>
+                  <th align="center" rowspan="1" colspan="1">Upper</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">
+<bold>Age (Years)</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">1.04</td>
+                  <td align="center" rowspan="1" colspan="1">0.94</td>
+                  <td align="center" rowspan="1" colspan="1">1.14</td>
+                  <td align="center" rowspan="1" colspan="1">0.47</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">
+<bold>BMI (kg /m2)</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">1.01</td>
+                  <td align="center" rowspan="1" colspan="1">0.91</td>
+                  <td align="center" rowspan="1" colspan="1">1.12</td>
+                  <td align="center" rowspan="1" colspan="1">0.81</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">
+<bold>Experience (years)</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1">0.98</td>
+                  <td align="center" rowspan="1" colspan="1">0.90</td>
+                  <td align="center" rowspan="1" colspan="1">1.07</td>
+                  <td align="center" rowspan="1" colspan="1">0.74</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+<bold>Testate Exposure to thermal stress</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Acceptable limit</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Unacceptable limit<xref rid="t002fn002" ref-type="table-fn"><sup>1</sup></xref></td>
+                  <td align="center" rowspan="1" colspan="1">4.11</td>
+                  <td align="center" rowspan="1" colspan="1">1.25</td>
+                  <td align="center" rowspan="1" colspan="1">13.51</td>
+                  <td align="center" rowspan="1" colspan="1">0.02</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">
+<bold>Job</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Official</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Bread-taker</td>
+                  <td align="center" rowspan="1" colspan="1">0.49</td>
+                  <td align="center" rowspan="1" colspan="1">0.07</td>
+                  <td align="center" rowspan="1" colspan="1">3.63</td>
+                  <td align="center" rowspan="1" colspan="1">0.48</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Dough-making</td>
+                  <td align="center" rowspan="1" colspan="1">0.17</td>
+                  <td align="center" rowspan="1" colspan="1">0.21</td>
+                  <td align="center" rowspan="1" colspan="1">1.35</td>
+                  <td align="center" rowspan="1" colspan="1">0.09</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Dough-forming</td>
+                  <td align="center" rowspan="1" colspan="1">0.13</td>
+                  <td align="center" rowspan="1" colspan="1">0.21</td>
+                  <td align="center" rowspan="1" colspan="1">0.77</td>
+                  <td align="center" rowspan="1" colspan="1">0.02</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Baker</td>
+                  <td align="center" rowspan="1" colspan="1">0.08</td>
+                  <td align="center" rowspan="1" colspan="1">0.01</td>
+                  <td align="center" rowspan="1" colspan="1">0.71</td>
+                  <td align="center" rowspan="1" colspan="1">0.02</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2" rowspan="1">
+<bold>Vegetable Consumption</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Yes</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">No</td>
+                  <td align="center" rowspan="1" colspan="1">0.38</td>
+                  <td align="center" rowspan="1" colspan="1">0.08</td>
+                  <td align="center" rowspan="1" colspan="1">1.87</td>
+                  <td align="center" rowspan="1" colspan="1">0.23</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">
+<bold>Smoking</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">No</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Yes</td>
+                  <td align="center" rowspan="1" colspan="1">1.13</td>
+                  <td align="center" rowspan="1" colspan="1">0.41</td>
+                  <td align="center" rowspan="1" colspan="1">3.09</td>
+                  <td align="center" rowspan="1" colspan="1">0.81</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">
+<bold>Exercise</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">Yes</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">No</td>
+                  <td align="center" rowspan="1" colspan="1">0.23</td>
+                  <td align="center" rowspan="1" colspan="1">0.05</td>
+                  <td align="center" rowspan="1" colspan="1">1.04</td>
+                  <td align="center" rowspan="1" colspan="1">0.06</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">
+<bold>Daily work hours</bold>
+</td>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                  <td align="center" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">&lt;8</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                  <td align="center" rowspan="1" colspan="1">Ref</td>
+                </tr>
+                <tr>
+                  <td align="justify" rowspan="1" colspan="1">&gt;8</td>
+                  <td align="center" rowspan="1" colspan="1">1.08</td>
+                  <td align="center" rowspan="1" colspan="1">0.26</td>
+                  <td align="center" rowspan="1" colspan="1">4.44</td>
+                  <td align="center" rowspan="1" colspan="1">0.91</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t002fn001">
+              <p>* Total inflammation includes two inflammatory factors, CRP and IL1&#x3B2;, that showed significant changes in studied groups after heat exposure, as depicted in <xref rid="pone.0302847.g001" ref-type="fig">Fig 1A</xref>.</p>
+            </fn>
+            <fn id="t002fn002">
+              <p><sup>1</sup> Exceeds the workplace standard for heat stress.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>The effect estimates for heat exposure varied considerably between bivariate (OR: 1.948, 95%CI: 0.870 4.363) in <xref rid="pone.0302847.t001" ref-type="table">Table 1</xref> and multivariate analysis (OR: 4.114, 95% CI 1.254, 13.514) in <xref rid="pone.0302847.t002" ref-type="table">Table 2</xref>. the analysis was repeated two more times. Once by removing variables one by one and the second time by adding variables one by one. In both models, the job variable has the greatest impact on etestate exposure to thermal stress.</p>
+        <p>So that by removing the job variable from the model, the adjusted OR of heat exposure decreases to 2.25 (95%CI 0.928, 5.458), which means that the heat exposure variable is no longer statistically significant (p = 0.073). However, due to the high importance of the job variable in our study and its determining role in the heat exposure of the participants, we cannot remove job variable from the final model. The multivariate model without the job is shown in supplementary material (<xref rid="pone.0302847.s002" ref-type="supplementary-material">S1 File</xref>, <xref rid="pone.0302847.t001" ref-type="table">Table 1</xref>).</p>
+        <p>If in the sub-groups of the job variable, the official occupation is removed and only baker types are included in the multivariate analysis, the adjusted odds ratio changes to 4.844 (95%CI 1.380, 16.999), which is statistically significant (p = 0.014) (<xref rid="pone.0302847.s002" ref-type="supplementary-material">S1 File</xref>, <xref rid="pone.0302847.t002" ref-type="table">Table 2</xref>).</p>
+        <p>The multivariate regression model found that exposure to thermal stress, and two of the bakers&#x2019; job type (dough forming and baker) affected total inflammation. As shown in <xref rid="pone.0302847.t002" ref-type="table">Table 2</xref>, participants exposed to high temperatures and above the TLV WBGT have a 4.11-fold increased probability of having total inflammation. Specifically, two types of bakery jobs&#x2013;dough-forming and baker&#x2013;have an influence on the total inflammation by 1.2-fold and 0.08-fold, respectively. Age, BMI, experience, vegetable consumption, smoking, exercise, and daily work hours despite having an effect on total inflammation, were not significant.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec013">
+      <title>Discussion</title>
+      <p>The objective of this study was to investigate the effects of prolonged exposure to ambient heat in specific occupations on inflammatory changes in individuals employed in those fields. Initially, all participants (bakers and employees) were categorized into two groups&#x2014;normal and abnormal&#x2014;according to their inflammatory status. Subsequently, their demographic status, exposure to environmental heat at work, and the ensuing effects on inflammation were evaluated. Investigation of serum concentrations of IL-1&#x3B2;, IL-6, TNF-&#x3B1;, and CRP as indicators of systemic inflammation in individuals revealed that the increase of IL-1&#x3B2; and CRP in bakers was significant. Although IL-6 and TNF-&#x3B1; were also increased in workers with an excessively high WBGT index, these increases were not statistically significant. While this result was not in line with expectations, it was not, in fact, at odds with some studies in the literature. For example, Wright <italic toggle="yes">et al</italic>. [<xref rid="pone.0302847.ref049" ref-type="bibr">49</xref>] designed a study that examined the effect of exercise in a high temperature / humid environment that represented occupational heat stress. They hypothesized that age would make men more susceptible to heat illnesses, as they had higher circulating TNF-&#x3B1; and IL-6 levels at baseline. Whilst &#x2019;working conditions&#x2019; (for example exercise) raised circulating TNF-&#x3B1; and IL-6 levels in both older and younger groups of men in their experiment, the changes observed were similar. That is, just as in this study, environmental conditions elevated TNF-&#x3B1; and IL-6 measures to levels indicative of persistent low-grade inflammation, but the difference between the two groups was not substantial enough to be statistically significant.</p>
+      <p>For a more comprehensive analysis of the participants&#x2019; inflammatory condition, they were divided into case and control groups based on their abnormal/normal levels of four inflammation factors. Their inflammatory condition was evaluated following exposure to temperatures exceeding the WBGT index. Univariate regression analyses revealed no significant difference between total inflammation and exposure to high environmental heat. Nevertheless, when key variables were entered into the multivariate logistic regression model, a four-fold increase in total inflammation was observed due to exposure to high heat. A non-significant result of IL-6 and TNF-&#x3B1; can be attributed to the overall result of inflammation in the univariate analysis. However, in the multivariate logistic regression model, the effect of excessive temperature on total inflammation increased when different factors interacted with each other, and confounding factors were controlled. The analyses also indicated a relationship between the type of bakery task and the total inflammation. Among the bakery job roles, bakers who do bread baking had the most direct contact with direct heat and worked in the hottest place for most of their working day. After that, dough-formers, bread-takers, and dough-makers were exposed to more heat and high ambient temperatures. As a result of the multivariate logistic regression test, bread bakers and dough-formers were found to have the highest likelihood of significantly increasing total inflammation, whereas dough makers and bread takers showed no significant correlation with total inflammation when compared to officials. This significant correlation confirmed the hypothesis of the probability effect of high WBGT on the increase in total inflammation in workers.</p>
+      <p>The results demonstrate that workers can be negatively affected by high-heat conditions. Although there may be a practical barrier to installing more ventilation in hot indoor environments, the results suggest that less specialism in the working day would benefit traditional bakers. It is recommended that bakers operate a rotating work schedule as dough-maker, dough-former, baker, and bread-taker to minimize exposure to excessive heat. At hot temperatures, water consumption plays a critical role in controlling inflammation. Bakers can prevent dehydration by drinking copious amounts of liquid other than alcohol and caffeine. In fact, an examination of the effects of acute exercise in the heat on biomarkers of stress and inflammation found that IL-6 and cortisol increased only when fluid intake was restricted [<xref rid="pone.0302847.ref031" ref-type="bibr">31</xref>].</p>
+      <p>Ultimately, although substantial strides have been taken to ameliorate work-related health hazards, the notion of a risk-free work environment is utopian as a fundamental aspect of many occupational and environmental risk factors is that they are integral to the job. Bakers need heat to make bread. No heat, no job. Understanding risks, incorporating appropriate and sufficient surveillance, and mitigating actions are critical to the health of employees (and businesses). We have provided indicative actions in the previous paragraph. As noted by Chirico &amp; Magnavita [<xref rid="pone.0302847.ref049" ref-type="bibr">49</xref>], risk assessment is necessary, but not sufficient in managing occupational heat stress. That is, health surveillance is also a critical part of employee health. Critically, there is some need for a personalized perspective in understanding an employee&#x2019;s health risk because individual differences dictate non-work risks for health problems which can interact with work risks [<xref rid="pone.0302847.ref019" ref-type="bibr">19</xref>]. Thus, if high heat stress cannot be prevented, health surveillance should be a part of working conditions. In addition, health surveillance should be a part of general strategies to ameliorate workplace risk because of high environmental heat. Thus, if high heat stress cannot be reduced, then health surveillance should be a part of the working conditions, as well as the general strategies to ameliorate the workplace risk because of the high environmental heat [<xref rid="pone.0302847.ref050" ref-type="bibr">50</xref>].</p>
+      <p>Despite the importance of this topic, there are not enough comprehensive studies investigating the effect of occupational conditions such as heat, on physiological and clinical changes in workers [<xref rid="pone.0302847.ref050" ref-type="bibr">50</xref>,<xref rid="pone.0302847.ref051" ref-type="bibr">51</xref>]. ISO 12894 does not explicitly call for individual tests of heat tolerance to be conducted in the section considering &#x201C;Individual heat strain monitoring [<xref rid="pone.0302847.ref052" ref-type="bibr">52</xref>], but equally this international standard does require those overseeing the welfare of those working in conditions in which exposure to high heat cannot be avoided. In our study, we tried to consider various influential factors to health outcomes, including markers of nutrition, exercise and smoking habits, BMI, and working hours. In future studies, however, it is necessary to carefully examine the factors related to exposure. These factors include the intensity of the heat encountered, the number of working days per week, and the type of thermal source encountered, among others. These are variables we would expect to be part of an annual health assessment for those working in high-heat-stress conditions. Responses should indicate those whose health should be closely monitored.</p>
+      <p>The all-male sample was a limitation, though this is typical of Iran&#x2019;s occupation. According to a recent study conducted in traditional bakeries in Lebanon, women were more likely to experience heat-stress-related symptoms [<xref rid="pone.0302847.ref050" ref-type="bibr">50</xref>]. This should be confirmed in future studies. Although this study focused on inflammatory factors in workers&#x2019; plasma, it may have been beneficial to include other inflammatory factors related to the heart, liver, and kidney. These factors include D-Dimer, liver enzymes, and a-keratin. Similarly, molecular investigations could provide affirmative evidence for plasma cytokine changes. While our study&#x2019;s methodology was accurate, limitations consisted of small sample size and lack of diversity in the jobs examined. A larger sample size from different regions of the country with different climates among a large population of heat-exposed workers in future studies would strengthen our findings. Moreover, future studies should incorporate participants&#x2019; drinking water as a crucial criterion for controlling body temperature.</p>
+      <p>The novel aspect of our study lies in examining long-term exposure to ambient heat in specific occupations and its effect on inflammation changes in individuals engaged in those occupations. In this way, the participants were initially divided into two groups, normal and abnormal, based on their inflammatory status. After that, the environmental thermal effect of jobs was evaluated on these people&#x2019;s inflammatory status.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec014">
+      <title>Conclusions</title>
+      <p>This study affirmed that prolonged exposure to unregulated occupational environmental stress such as heat, heightens risk factors such as inflammation in workers. Consequently, establishing standardized working conditions in businesses becomes crucial for maintaining workers&#x2019; health.</p>
+    </sec>
+    <sec id="sec015" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0302847.s001" position="float" content-type="local-data">
+        <label>S1 Data</label>
+        <caption>
+          <title>Raw data file.xlsx and.sav format of raw data of the study that is available by Excel and SPSS software.</title>
+          <p>(XLSX)</p>
+        </caption>
+        <media xlink:href="pone.0302847.s001.xlsx"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302847.s002" position="float" content-type="local-data">
+        <label>S1 File</label>
+        <caption>
+          <title>Supplementary.</title>
+          <p>The multivariate models in bakers after excluding officials.</p>
+          <p>(ZIP)</p>
+        </caption>
+        <media xlink:href="pone.0302847.s002.zip"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302847.s003" position="float" content-type="local-data">
+        <label>S2 File</label>
+        <caption>
+          <title>Questionnaire.</title>
+          <p>The original language questionary form to collect data from participant.</p>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pone.0302847.s003.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0302847.s004" position="float" content-type="local-data">
+        <label>S3 File</label>
+        <caption>
+          <title>Multivariete report.</title>
+          <p>The output file of the data analysis that contains the EXP(B) report.</p>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pone.0302847.s004.docx"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors express their gratitude to the Vice-Chancellor for Research, Shahroud University of Medical Sciences, for their help in carrying out this study.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0302847.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Derakhshanjazari</surname><given-names>M</given-names></name>, <name><surname>Jangjou</surname><given-names>A</given-names></name>, <name><surname>Bagherzadeh</surname><given-names>R</given-names></name>, <name><surname>Reza</surname><given-names>M</given-names></name>, <name><surname>Monazzam</surname><given-names>ZZ</given-names></name>. <article-title>Prevalence of heat-related illnesses among outdoor workplaces workers in hot and dry areas of Iran</article-title>. <source>Journal of Environmental Treatment Techniques</source>. <year>2021</year>;<volume>9</volume>(<issue>1</issue>):<fpage>253</fpage>&#x2013;<lpage>8</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Gharibi</surname><given-names>V</given-names></name>, <name><surname>Khanjani</surname><given-names>N</given-names></name>, <name><surname>Heidari</surname><given-names>H</given-names></name>, <name><surname>Ebrahimi</surname><given-names>MH</given-names></name>, <name><surname>Hosseinabadi</surname><given-names>MB</given-names></name>. <article-title>The effect of heat stress on hematological parameters and oxidative stress among bakery workers</article-title>. <source>Toxicology and industrial health</source>. <year>2020</year>;<volume>36</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>10</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/0748233719899824</pub-id>
+<pub-id pub-id-type="pmid">31934822</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="other">Ghajar Kohestani M, editor Assessment of the heat stress index WBGT in the bakeries in Sari, Iran. 4th Congress of Occupational Health; 2005.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Parvizpour</surname><given-names>D.</given-names></name>
+<article-title>An epidemiological study of industrial accidents among insured workers in Tehran, Iran.</article-title>
+<source>Iranian Journal of Public Health</source>. <year>1979</year>;<volume>8</volume>(<issue>2</issue>):<fpage>51</fpage>&#x2013;<lpage>60</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Haghshenas Darona</surname><given-names>Z</given-names></name>, <name><surname>Mahdavi</surname><given-names>S</given-names></name>, <name><surname>Atifah</surname><given-names>R</given-names></name>, <name><surname>Almasian</surname><given-names>M</given-names></name>. <article-title>The evaluation of heat stress levels among the workers of industrial and traditional bakeries in Khorramabad, Iran, using the WBGT index in summer 2016.</article-title>
+<source>Yafteh</source>. <year>2019</year>;<volume>20</volume>(<issue>4</issue>).</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Yazdanirad</surname><given-names>S</given-names></name>, <name><surname>Golbabaei</surname><given-names>F</given-names></name>, <name><surname>Foroushani</surname><given-names>AR</given-names></name>, <name><surname>Monazzam</surname><given-names>MR</given-names></name>, <name><surname>Dehghan</surname><given-names>H</given-names></name>. <article-title>Development and validation of an environmental heat strain risk assessment (EHSRA) index using structural equation modeling based on empirical relations.</article-title>
+<source>Environmental Health and Preventive Medicine.</source>
+<year>2020</year>;<volume>25</volume>:<fpage>1</fpage>&#x2013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">31898483</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Basu</surname><given-names>R.</given-names></name>
+<article-title>High ambient temperature and mortality: a review of epidemiologic studies from 2001 to 2008.</article-title>
+<source>Environmental health.</source>
+<year>2009</year>;<volume>8</volume>:<fpage>1</fpage>&#x2013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">19138417</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Soneja</surname><given-names>S</given-names></name>, <name><surname>Jiang</surname><given-names>C</given-names></name>, <name><surname>Fisher</surname><given-names>J</given-names></name>, <name><surname>Upperman</surname><given-names>CR</given-names></name>, <name><surname>Mitchell</surname><given-names>C</given-names></name>, <name><surname>Sapkota</surname><given-names>A</given-names></name>. <article-title>Exposure to extreme heat and precipitation events associated with increased risk of hospitalization for asthma in Maryland, USA.</article-title>
+<source>Environmental Health</source>. <year>2016</year>;<volume>15</volume>:<fpage>1</fpage>&#x2013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">26739281</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Hajat</surname><given-names>S</given-names></name>, <name><surname>Haines</surname><given-names>A</given-names></name>, <name><surname>Sarran</surname><given-names>C</given-names></name>, <name><surname>Sharma</surname><given-names>A</given-names></name>, <name><surname>Bates</surname><given-names>C</given-names></name>, <name><surname>Fleming</surname><given-names>L</given-names></name>. <article-title>The effect of ambient temperature on type-2-diabetes: case-crossover analysis of 4+ million GP consultations across England.</article-title>
+<source>Environmental health</source>. <year>2017</year>;<volume>16</volume>:<fpage>1</fpage>&#x2013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">28049482</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Glaser</surname><given-names>J</given-names></name>, <name><surname>Lemery</surname><given-names>J</given-names></name>, <name><surname>Rajagopalan</surname><given-names>B</given-names></name>, <name><surname>Diaz</surname><given-names>HF</given-names></name>, <name><surname>Garc&#xED;a-Trabanino</surname><given-names>R</given-names></name>, <name><surname>Taduri</surname><given-names>G</given-names></name>, <etal>et al</etal>. <article-title>Climate change and the emergent epidemic of CKD from heat stress in rural communities: the case for heat stress nephropathy. Clinical journal of the American Society of Nephrology</article-title>: <source>CJASN</source>. <year>2016</year>;<volume>11</volume>(<issue>8</issue>):<fpage>1472</fpage>.<pub-id pub-id-type="pmid">27151892</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Min</surname><given-names>L</given-names></name>, <name><surname>Zheng</surname><given-names>N</given-names></name>, <name><surname>Zhao</surname><given-names>S</given-names></name>, <name><surname>Cheng</surname><given-names>J</given-names></name>, <name><surname>Yang</surname><given-names>Y</given-names></name>, <name><surname>Zhang</surname><given-names>Y</given-names></name>, <etal>et al</etal>. <article-title>Long-term heat stress induces the inflammatory response in dairy cows revealed by plasma proteome analysis</article-title>. <source>Biochemical and biophysical research communications</source>. <year>2016</year>;<volume>471</volume>(<issue>2</issue>):<fpage>296</fpage>&#x2013;<lpage>302</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.bbrc.2016.01.185</pub-id>
+<pub-id pub-id-type="pmid">26851364</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>X</given-names></name>, <name><surname>Tian</surname><given-names>X</given-names></name>, <name><surname>Ye</surname><given-names>B</given-names></name>, <name><surname>Zhang</surname><given-names>Y</given-names></name>, <name><surname>Zhang</surname><given-names>X</given-names></name>, <name><surname>Huang</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>The association between ambient temperature and sperm quality in Wuhan, China.</article-title>
+<source>Environmental Health</source>. <year>2020</year>;<volume>19</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">31898503</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>Miao</surname><given-names>Y</given-names></name>, <name><surname>Che</surname><given-names>H</given-names></name>, <name><surname>Liu</surname><given-names>S</given-names></name>, <name><surname>Zhang</surname><given-names>X</given-names></name>. <article-title>Heat stress in Beijing and its relationship with boundary layer structure and air pollution</article-title>. <source>Atmospheric Environment</source>. <year>2022</year>;<volume>282</volume>:<fpage>119159</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Gao</surname><given-names>C</given-names></name>, <name><surname>Kuklane</surname><given-names>K</given-names></name>, <name><surname>&#xD6;stergren</surname><given-names>P-O</given-names></name>, <name><surname>Kjellstrom</surname><given-names>T</given-names></name>. <article-title>Occupational heat stress assessment and protective strategies in the context of climate change</article-title>. <source>International journal of biometeorology</source>. <year>2018</year>;<volume>62</volume>:<fpage>359</fpage>&#x2013;<lpage>71</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s00484-017-1352-y</pub-id>
+<pub-id pub-id-type="pmid">28444505</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Lorenz</surname><given-names>R</given-names></name>, <name><surname>Stalhandske</surname><given-names>Z</given-names></name>, <name><surname>Fischer</surname><given-names>EM</given-names></name>. <article-title>Detection of a climate change signal in extreme heat, heat stress, and cold in Europe from observations</article-title>. <source>Geophysical Research Letters</source>. <year>2019</year>;<volume>46</volume>(<issue>14</issue>):<fpage>8363</fpage>&#x2013;<lpage>74</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Habibi</surname><given-names>P</given-names></name>, <name><surname>Moradi</surname><given-names>G</given-names></name>, <name><surname>Dehghan</surname><given-names>H</given-names></name>, <name><surname>Moradi</surname><given-names>A</given-names></name>, <name><surname>Heydari</surname><given-names>A</given-names></name>. <article-title>The impacts of climate change on occupational heat strain in outdoor workers: A systematic review.</article-title>
+<source>Urban Climate</source>. <year>2021</year>;<volume>36</volume>:<fpage>100770</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Dehghan</surname><given-names>H</given-names></name>, <name><surname>Mortzavi</surname><given-names>SB</given-names></name>, <name><surname>Jafari</surname><given-names>MJ</given-names></name>, <name><surname>Maracy</surname><given-names>MR</given-names></name>. <article-title>Development and validation of a questionnaire for preliminary assessment of heat stress at workplace</article-title>. <source>Journal of research in health sciences</source>. <year>2015</year>;<volume>15</volume>(<issue>3</issue>):<fpage>175</fpage>&#x2013;<lpage>81</lpage>. <pub-id pub-id-type="pmid">26411664</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Lundgren Kownacki</surname><given-names>K</given-names></name>, <name><surname>Gao</surname><given-names>C</given-names></name>, <name><surname>Kuklane</surname><given-names>K</given-names></name>, <name><surname>Wierzbicka</surname><given-names>A</given-names></name>. <article-title>Heat stress in indoor environments of scandinavian urban areas: A literature review.</article-title>
+<source>International journal of environmental research and public health</source>. <year>2019</year>;<volume>16</volume>(<issue>4</issue>):<fpage>560</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3390/ijerph16040560</pub-id>
+<pub-id pub-id-type="pmid">30769945</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Chirico</surname><given-names>F</given-names></name>, <name><surname>Magnavita</surname><given-names>N</given-names></name>. <article-title>New and old indices for evaluating heat stress in an indoor environment: Some considerations.</article-title>
+<source>Comment on Kownacki, L.</source>
+<year>2019</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Varghese</surname><given-names>BM</given-names></name>, <name><surname>Hansen</surname><given-names>AL</given-names></name>, <name><surname>Williams</surname><given-names>S</given-names></name>, <name><surname>Bi</surname><given-names>P</given-names></name>, <name><surname>Hanson-Easey</surname><given-names>S</given-names></name>, <name><surname>Barnett</surname><given-names>AG</given-names></name>, <etal>et al</etal>. <article-title>Heat-related injuries in Australian workplaces: Perspectives from health and safety representatives.</article-title>
+<source>Safety science</source>. <year>2020</year>;<volume>126</volume>:<fpage>104651</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Kjellstrom</surname><given-names>T.</given-names></name>
+<article-title>Climate change, direct heat exposure, health and well-being in low and middle-income countries.</article-title>
+<source>Global Health Action</source>. <year>2009</year>;<fpage>2</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3402/gha.v2i0.1958</pub-id>
+<pub-id pub-id-type="pmid">20027264</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Ferrero-Miliani</surname><given-names>L</given-names></name>, <name><surname>Nielsen</surname><given-names>O</given-names></name>, <name><surname>Andersen</surname><given-names>P</given-names></name>, <name><surname>Girardin</surname><given-names>S</given-names></name>. <article-title>Chronic inflammation: importance of NOD2 and NALP3 in interleukin-1&#x3B2; generation.</article-title>
+<source>Clinical &amp; Experimental Immunology.</source>
+<year>2007</year>;<volume>147</volume>(<issue>2</issue>):<fpage>227</fpage>&#x2013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">17223962</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Rethorst</surname><given-names>CD</given-names></name>, <name><surname>Toups</surname><given-names>MS</given-names></name>, <name><surname>Greer</surname><given-names>TL</given-names></name>, <name><surname>Nakonezny</surname><given-names>PA</given-names></name>, <name><surname>Carmody</surname><given-names>TJ</given-names></name>, <name><surname>Grannemann</surname><given-names>BD</given-names></name>, <etal>et al</etal>. <article-title>Pro-inflammatory cytokines as predictors of antidepressant effects of exercise in major depressive disorder</article-title>. <source>Molecular psychiatry</source>. <year>2013</year>;<volume>18</volume>(<issue>10</issue>):<fpage>1119</fpage>&#x2013;<lpage>24</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/mp.2012.125</pub-id>
+<pub-id pub-id-type="pmid">22925832</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Fairchild</surname><given-names>KD</given-names></name>, <name><surname>Hasday</surname><given-names>JD</given-names></name>. <article-title>Effect of temperature on cytokine release by monocytes and macrophages</article-title>. <source>Pediatric Research</source>. <year>1999</year>;<volume>45</volume>(<issue>7</issue>):<fpage>261</fpage>&#x2013;.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Koch</surname><given-names>F</given-names></name>, <name><surname>Thom</surname><given-names>U</given-names></name>, <name><surname>Albrecht</surname><given-names>E</given-names></name>, <name><surname>Weikard</surname><given-names>R</given-names></name>, <name><surname>Nolte</surname><given-names>W</given-names></name>, <name><surname>Kuhla</surname><given-names>B</given-names></name>, <name><surname>Kuehn</surname><given-names>C</given-names></name>. <article-title>Heat stress directly impairs gut integrity and recruits distinct immune cell populations into the bovine intestine</article-title>. <source>Proceedings of the National Academy of Sciences</source>. <year>2019</year>;<volume>116</volume>(<issue>21</issue>):<fpage>10333</fpage>&#x2013;<lpage>8</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1073/pnas.1820130116</pub-id>
+<pub-id pub-id-type="pmid">31064871</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Chang</surname><given-names>D.</given-names></name>
+<article-title>The role of cytokines in heat stroke</article-title>. <source>Immunological investigations</source>. <year>1993</year>;<volume>22</volume>(<issue>8</issue>):<fpage>553</fpage>&#x2013;<lpage>61</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3109/08820139309084183</pub-id>
+<pub-id pub-id-type="pmid">8300162</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><name><surname>Ostberg</surname><given-names>JR</given-names></name>, <name><surname>Gellin</surname><given-names>C</given-names></name>, <name><surname>Patel</surname><given-names>R</given-names></name>, <name><surname>Repasky</surname><given-names>EA</given-names></name>. <article-title>Regulatory potential of fever-range whole body hyperthermia on Langerhans cells and lymphocytes in an antigen-dependent cellular immune response</article-title>. <source>The Journal of Immunology</source>. <year>2001</year>;<volume>167</volume>(<issue>5</issue>):<fpage>2666</fpage>&#x2013;<lpage>70</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.4049/jimmunol.167.5.2666</pub-id>
+<pub-id pub-id-type="pmid">11509609</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Ganesan</surname><given-names>S</given-names></name>, <name><surname>Reynolds</surname><given-names>C</given-names></name>, <name><surname>Hollinger</surname><given-names>K</given-names></name>, <name><surname>Pearce</surname><given-names>SC</given-names></name>, <name><surname>Gabler</surname><given-names>NK</given-names></name>, <name><surname>Baumgard</surname><given-names>LH</given-names></name>, <etal>et al</etal>. <article-title>Twelve hours of heat stress induces inflammatory signaling in porcine skeletal muscle.</article-title>
+<source>American journal of physiology-Regulatory, integrative and comparative physiology.</source>
+<year>2016</year>;<volume>310</volume>(<issue>11</issue>):<fpage>R1288</fpage>&#x2013;<lpage>R96</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1152/ajpregu.00494.2015</pub-id>
+<pub-id pub-id-type="pmid">27009052</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><name><surname>Hop</surname><given-names>HT</given-names></name>, <name><surname>Arayan</surname><given-names>LT</given-names></name>, <name><surname>Reyes</surname><given-names>AWB</given-names></name>, <name><surname>Huy</surname><given-names>TXN</given-names></name>, <name><surname>Min</surname><given-names>WG</given-names></name>, <name><surname>Lee</surname><given-names>HJ</given-names></name>, <etal>et al</etal>. <article-title>Heat-stress-modulated induction of NF-&#x3BA;B leads to brucellacidal pro-inflammatory defense against Brucella abortus infection in murine macrophages and in a mouse model</article-title>. <source>BMC microbiology</source>. <year>2018</year>;<volume>18</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">29433435</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><name><surname>Xu</surname><given-names>W</given-names></name>, <name><surname>Chen</surname><given-names>B</given-names></name>, <name><surname>Guo</surname><given-names>L</given-names></name>, <name><surname>Li</surname><given-names>Z</given-names></name>, <name><surname>Zhao</surname><given-names>Y</given-names></name>, <name><surname>Zeng</surname><given-names>H</given-names></name>. <article-title>High&#x2010;sensitivity CRP: possible link between job stress and atherosclerosis.</article-title>
+<source>American journal of industrial medicine</source>. <year>2015</year>;<volume>58</volume>(<issue>7</issue>):<fpage>773</fpage>&#x2013;<lpage>9</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/ajim.22470</pub-id>
+<pub-id pub-id-type="pmid">26258191</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><name><surname>Costello</surname><given-names>JT</given-names></name>, <name><surname>Rendell</surname><given-names>RA</given-names></name>, <name><surname>Furber</surname><given-names>M</given-names></name>, <name><surname>Massey</surname><given-names>HC</given-names></name>, <name><surname>Tipton</surname><given-names>MJ</given-names></name>, <name><surname>Young</surname><given-names>JS</given-names></name>, <name><surname>Corbett</surname><given-names>J</given-names></name>. <article-title>Effects of acute or chronic heat exposure, exercise and dehydration on plasma cortisol, IL-6 and CRP levels in trained males</article-title>. <source>Cytokine</source>. <year>2018</year>;<volume>110</volume>:<fpage>277</fpage>&#x2013;<lpage>83</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.cyto.2018.01.018</pub-id>
+<pub-id pub-id-type="pmid">29402724</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><name><surname>Zare</surname><given-names>S</given-names></name>, <name><surname>Hasheminejad</surname><given-names>N</given-names></name>, <name><surname>Shirvan</surname><given-names>HE</given-names></name>, <name><surname>Hemmatjo</surname><given-names>R</given-names></name>, <name><surname>Sarebanzadeh</surname><given-names>K</given-names></name>, <name><surname>Ahmadi</surname><given-names>S</given-names></name>. <article-title>Comparing Universal Thermal Climate Index (UTCI) with selected thermal indices/environmental parameters during 12 months of the year.</article-title>
+<source>Weather and climate extremes.</source>
+<year>2018</year>;<volume>19</volume>:<fpage>49</fpage>&#x2013;<lpage>57</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><name><surname>de Freitas</surname><given-names>CR</given-names></name>, <name><surname>Grigorieva</surname><given-names>EA</given-names></name>. <article-title>A comparison and appraisal of a comprehensive range of human thermal climate indices</article-title>. <source>International journal of biometeorology</source>. <year>2017</year>;<volume>61</volume>:<fpage>487</fpage>&#x2013;<lpage>512</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s00484-016-1228-6</pub-id>
+<pub-id pub-id-type="pmid">27568190</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><name><surname>Yaglou</surname><given-names>C</given-names></name>, <name><surname>Minaed</surname><given-names>D</given-names></name>. <article-title>Control of heat casualties at military training centers.</article-title>
+<source>Arch Indust Health.</source>
+<year>1957</year>;<volume>16</volume>(<issue>4</issue>):<fpage>302</fpage>&#x2013;<lpage>16</lpage>. <pub-id pub-id-type="pmid">13457450</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><name><surname>Budd</surname><given-names>GM</given-names></name>. <article-title>Wet-bulb globe temperature (WBGT)&#x2014;its history and its limitations.</article-title>
+<source>Journal of science and medicine in sport</source>. <year>2008</year>;<volume>11</volume>(<issue>1</issue>):<fpage>20</fpage>&#x2013;<lpage>32</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.jsams.2007.07.003</pub-id>
+<pub-id pub-id-type="pmid">17765661</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>Abbas</surname><given-names>AO</given-names></name>, <name><surname>Gehad</surname><given-names>AE</given-names></name>, <name><surname>Hendricks</surname><given-names>GL</given-names></name>, <name><surname>Gharib</surname><given-names>H</given-names></name>, <name><surname>Mashaly</surname><given-names>MM</given-names></name>. <article-title>The effect of lighting program and melatonin on the alleviation of the negative impact of heat stress on the immune response in broiler chickens</article-title>. <source>Int J Poult Sci</source>. <year>2007</year>;<volume>6</volume>(<issue>9</issue>):<fpage>651</fpage>&#x2013;<lpage>60</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><name><surname>Kaldur</surname><given-names>T</given-names></name>, <name><surname>Kals</surname><given-names>J</given-names></name>, <name><surname>&#xD6;&#xF6;pik</surname><given-names>V</given-names></name>, <name><surname>Zilmer</surname><given-names>M</given-names></name>, <name><surname>Zilmer</surname><given-names>K</given-names></name>, <name><surname>Eha</surname><given-names>J</given-names></name>, <name><surname>Unt</surname><given-names>E</given-names></name>. <article-title>Effects of heat acclimation on changes in oxidative stress and inflammation caused by endurance capacity test in the heat</article-title>. <source>Oxidative Medicine and Cellular Longevity</source>. <year>2014</year>;<fpage>2014</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1155/2014/107137</pub-id>
+<pub-id pub-id-type="pmid">24895525</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><name><surname>Kaldur</surname><given-names>T</given-names></name>, <name><surname>Kals</surname><given-names>J</given-names></name>, <name><surname>&#xD6;&#xF6;pik</surname><given-names>V</given-names></name>, <name><surname>Burk</surname><given-names>A</given-names></name>, <name><surname>Kampus</surname><given-names>P</given-names></name>, <name><surname>Zagura</surname><given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Heat acclimation increases arterial elasticity in young men. Applied Physiology, Nutrition, and</article-title>
+<source>Metabolism</source>. <year>2013</year>;<volume>38</volume>(<issue>9</issue>):<fpage>922</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><name><surname>Kaldur</surname><given-names>T</given-names></name>, <name><surname>Unt</surname><given-names>E</given-names></name>, <name><surname>&#xD6;&#xF6;pik</surname><given-names>V</given-names></name>, <name><surname>Zilmer</surname><given-names>M</given-names></name>, <name><surname>Eha</surname><given-names>J</given-names></name>, <name><surname>Paapstel</surname><given-names>K</given-names></name>, <name><surname>Kals</surname><given-names>J</given-names></name>. <article-title>The acute effects of passive heat exposure on arterial stiffness, oxidative stress, and inflammation</article-title>. <source>Medicina</source>. <year>2016</year>;<volume>52</volume>(<issue>4</issue>):<fpage>211</fpage>&#x2013;<lpage>6</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.medici.2016.06.001</pub-id>
+<pub-id pub-id-type="pmid">27697238</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><name><surname>Duan</surname><given-names>L</given-names></name>, <name><surname>Rao</surname><given-names>X</given-names></name>, <name><surname>Sigdel</surname><given-names>KR</given-names></name>. <article-title>Regulation of inflammation in autoimmune disease</article-title>. <source>Hindawi</source>; <year>2019</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><name><surname>Coussens</surname><given-names>LM</given-names></name>, <name><surname>Werb</surname><given-names>Z</given-names></name>. <article-title>Inflammation and cancer</article-title>. <source>Nature</source>. <year>2002</year>;<volume>420</volume>(<issue>6917</issue>):<fpage>860</fpage>&#x2013;<lpage>7</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1038/nature01322</pub-id>
+<pub-id pub-id-type="pmid">12490959</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><name><surname>Zaccherini</surname><given-names>G</given-names></name>, <name><surname>Aguilar</surname><given-names>F</given-names></name>, <name><surname>Caraceni</surname><given-names>P</given-names></name>, <name><surname>Cl&#xE0;ria</surname><given-names>J</given-names></name>, <name><surname>Lozano</surname><given-names>JJ</given-names></name>, <name><surname>Fenaille</surname><given-names>F</given-names></name>, <etal>et al</etal>. <article-title>Assessing the role of amino acids in systemic inflammation and organ failure in patients with ACLF</article-title>. <source>Journal of hepatology</source>. <year>2021</year>;<volume>74</volume>(<issue>5</issue>):<fpage>1117</fpage>&#x2013;<lpage>31</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.jhep.2020.11.035</pub-id>
+<pub-id pub-id-type="pmid">33276029</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Lee</surname><given-names>C-H</given-names></name>, <name><surname>Giuliani</surname><given-names>F</given-names></name>. <article-title>The role of inflammation in depression and fatigue</article-title>. <source>Frontiers in immunology</source>. <year>2019</year>;<volume>10</volume>:<fpage>1696</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fimmu.2019.01696</pub-id>
+<pub-id pub-id-type="pmid">31379879</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="book"><collab>Health NIf, Excellence C.</collab>
+<source>National Institute for Health and Care Excellence: Clinical Guidelines. Dementia: Assessment, Management and Support for People Living With Dementia and Their Carers</source>. <publisher-name>National Institute for Health and Care Excellence</publisher-name>
+<publisher-loc>(UK) London</publisher-loc>; <year>2018</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><name><surname>Falahati</surname><given-names>M</given-names></name>, <name><surname>Alimohammadi</surname><given-names>I</given-names></name>, <name><surname>Farshad</surname><given-names>A</given-names></name>, <name><surname>Zokaei</surname><given-names>M</given-names></name>, <name><surname>Sardar</surname><given-names>A</given-names></name>. <article-title>Evaluating the reliability of WBGT and P4SR by comparison to core body temperature.</article-title>
+<source>Iran Occupational Health.</source>
+<year>2012</year>;<volume>9</volume>(<issue>3</issue>).</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref046">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><name><surname>Heidari</surname><given-names>H</given-names></name>, <name><surname>Rahimifard</surname><given-names>H</given-names></name>, <name><surname>Mohammadbeigi</surname><given-names>A</given-names></name>, <name><surname>Golbabaei</surname><given-names>F</given-names></name>, <name><surname>Sahranavard</surname><given-names>R</given-names></name>, <name><surname>Shokri</surname><given-names>Z</given-names></name>. <article-title>Validation of air enthalpy in evaluation of heat stress using wet bulb globe temperature (WBGT) and body core temperature: A case study in a hot and dry climate.</article-title>
+<source>Journal of Health and Safety at Work</source>. <year>2018</year>;<volume>8</volume>(<issue>1</issue>):<fpage>81</fpage>&#x2013;<lpage>92</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref047">
+        <label>47</label>
+        <mixed-citation publication-type="journal"><name><surname>Mahdavi</surname><given-names>S</given-names></name>, <name><surname>Esmaelzadeh</surname><given-names>A</given-names></name>, <name><surname>Ebrahemzadeh</surname><given-names>F</given-names></name>, <name><surname>Rashidi</surname><given-names>R</given-names></name>, <name><surname>Naeimi</surname><given-names>N</given-names></name>. <article-title>Comparing the core body temperature and the heat stress indices of HSI and WBGT in Lorestan steels industry workers.</article-title>
+<source>Archives of Hygiene Sciences.</source>
+<year>2014</year>;<volume>3</volume>(<issue>4</issue>):<fpage>160</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref048">
+        <label>48</label>
+        <mixed-citation publication-type="other">AC08013703 A. Ergonomics of the thermal environment-estimation of thermal insulation and water vapour resistance of a clothing ensemble: ISO; 2008.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref049">
+        <label>49</label>
+        <mixed-citation publication-type="journal"><name><surname>Chirico</surname><given-names>F</given-names></name>, <name><surname>Magnavita</surname><given-names>N</given-names></name>. <article-title>The significant role of health surveillance in the occupational heat stress assessment</article-title>. <source>International journal of biometeorology</source>. <year>2019</year>;<volume>63</volume>:<fpage>193</fpage>&#x2013;<lpage>4</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s00484-018-1651-y</pub-id>
+<pub-id pub-id-type="pmid">30519957</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref050">
+        <label>50</label>
+        <mixed-citation publication-type="book"><name><surname>Magnavita</surname><given-names>N</given-names></name>, <name><surname>Chirico</surname><given-names>F</given-names></name>. <source>New and emerging risk factors in occupational health</source>. <publisher-name>MDPI</publisher-name>; <year>2020</year>. p. <fpage>8906</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref051">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><name><surname>Habib</surname><given-names>RR</given-names></name>, <name><surname>El-Haddad</surname><given-names>NW</given-names></name>, <name><surname>Halwani</surname><given-names>DA</given-names></name>, <name><surname>Elzein</surname><given-names>K</given-names></name>, <name><surname>Hojeij</surname><given-names>S</given-names></name>. <article-title>Heat stress-related symptoms among bakery workers in Lebanon: a national cross-sectional study.</article-title>
+<source>INQUIRY: The Journal of Health Care Organization, Provision, and Financing.</source>
+<year>2021</year>;<volume>58</volume>:<fpage>0046958021990517</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0302847.ref052">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><name><surname>Gao</surname><given-names>C</given-names></name>, <name><surname>Kuklane</surname><given-names>K</given-names></name>, <name><surname>&#xD6;stergren</surname><given-names>P-O</given-names></name>, <name><surname>Kjellstrom</surname><given-names>T</given-names></name>. <article-title>Surveillance of work environment and heat stress assessment using meteorological data</article-title>. <source>International journal of biometeorology</source>. <year>2019</year>;<volume>63</volume>:<fpage>195</fpage>&#x2013;<lpage>6</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s00484-018-1652-x</pub-id>
+<pub-id pub-id-type="pmid">30610378</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

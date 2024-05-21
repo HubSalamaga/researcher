@@ -1,0 +1,2344 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Blood Transfus</journal-id><journal-id journal-id-type="iso-abbrev">Blood Transfus</journal-id><journal-id journal-id-type="publisher-id">SIMTI</journal-id><journal-title-group><journal-title>Blood Transfusion</journal-title></journal-title-group><issn pub-type="ppub">1723-2007</issn><issn pub-type="epub">2385-2070</issn><publisher><publisher-name>Edizioni SIMTI - SIMTI Servizi Srl</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38063792</article-id><article-id pub-id-type="pmc">11073624</article-id>
+<article-id pub-id-type="doi">10.2450/BloodTransfus.586</article-id><article-id pub-id-type="publisher-id">blt-22-213</article-id><article-categories><subj-group subj-group-type="heading"><subject>Collection, Production and Storage of Blood Components</subject><subj-group><subject>Original Article</subject></subj-group></subj-group></article-categories><title-group><article-title>Knowledge, attitude and practice survey of bacterial contamination of blood for transfusion in the Democratic Republic of the Congo</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Heroes</surname><given-names>Anne-Sophie</given-names></name><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af1-blt-22-213" ref-type="aff">1</xref><xref rid="af2-blt-22-213" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><name><surname>Kabamba</surname><given-names>Paul</given-names></name><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af3-blt-22-213" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><name><surname>Luyindula</surname><given-names>Aim&#xE9;e</given-names></name><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af4-blt-22-213" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><name><surname>Bongenya</surname><given-names>Bernard</given-names></name><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af5-blt-22-213" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Nzazi</surname><given-names>Pierre</given-names></name><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af5-blt-22-213" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Nasali</surname><given-names>Monica</given-names></name><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af5-blt-22-213" ref-type="aff">5</xref></contrib><contrib contrib-type="author"><name><surname>Akele</surname><given-names>Cath&#xE9;rine</given-names></name><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af6-blt-22-213" ref-type="aff">6</xref></contrib><contrib contrib-type="author"><name><surname>Lusinga</surname><given-names>Marie-Paule</given-names></name><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af7-blt-22-213" ref-type="aff">7</xref></contrib><contrib contrib-type="author"><name><surname>Ekofo</surname><given-names>John</given-names></name><role content-type="https://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af8-blt-22-213" ref-type="aff">8</xref></contrib><contrib contrib-type="author"><name><surname>Coene</surname><given-names>Jos&#xE9;</given-names></name><role content-type="https://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af9-blt-22-213" ref-type="aff">9</xref></contrib><contrib contrib-type="author"><name><surname>Van Cauwenberg</surname><given-names>Inge</given-names></name><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af10-blt-22-213" ref-type="aff">10</xref></contrib><contrib contrib-type="author"><name><surname>Vandekerckhove</surname><given-names>Philippe</given-names></name><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af9-blt-22-213" ref-type="aff">9</xref><xref rid="af11-blt-22-213" ref-type="aff">11</xref><xref rid="af12-blt-22-213" ref-type="aff">12</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Lunguya</surname><given-names>Octavie</given-names></name><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><xref rid="af13-blt-22-213" ref-type="aff">13</xref><xref rid="af14-blt-22-213" ref-type="aff">14</xref><xref rid="fn1-blt-22-213" ref-type="author-notes">*</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Jacobs</surname><given-names>Jan</given-names></name><role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="https://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="https://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing - original draft</role><role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing - review &amp; editing</role><role content-type="https://credit.niso.org/contributor-roles/supervision/">Supervision</role><xref rid="af1-blt-22-213" ref-type="aff">1</xref><xref rid="af2-blt-22-213" ref-type="aff">2</xref><xref rid="fn1-blt-22-213" ref-type="author-notes">*</xref></contrib></contrib-group><aff id="af1-blt-22-213">
+<label>1</label>Department of Clinical Sciences, Institute of Tropical Medicine, Antwerp, Belgium</aff><aff id="af2-blt-22-213">
+<label>2</label>Department of Microbiology, Immunology and Transplantation, KU Leuven, Leuven, Belgium</aff><aff id="af3-blt-22-213">
+<label>3</label>Education office, Centre National de Transfusion Sanguine, Kinshasa, Democratic Republic of the Congo</aff><aff id="af4-blt-22-213">
+<label>4</label>Blood bank, H&#xF4;pital Saint-Luc, Kisantu, Democratic Republic of the Congo</aff><aff id="af5-blt-22-213">
+<label>5</label>Blood bank, H&#xF4;pital Provincial G&#xE9;n&#xE9;ral de R&#xE9;f&#xE9;rence, Kinshasa, Democratic Republic of the Congo</aff><aff id="af6-blt-22-213">
+<label>6</label>Director Office, H&#xF4;pital P&#xE9;diatrique Kalembe Lembe, Kinshasa, Democratic Republic of the Congo</aff><aff id="af7-blt-22-213">
+<label>7</label>Blood bank, H&#xF4;pital P&#xE9;diatrique Kalembe Lembe, Kinshasa, Democratic Republic of the Congo</aff><aff id="af8-blt-22-213">
+<label>8</label>Nursing department, H&#xF4;pital P&#xE9;diatrique Kalembe Lembe, Kinshasa, Democratic Republic of the Congo</aff><aff id="af9-blt-22-213">
+<label>9</label>Blood service, Belgian Red Cross-Flanders, Mechelen, Belgium</aff><aff id="af10-blt-22-213">
+<label>10</label>Democratic Republic of the Congo Office, Institute of Tropical Medicine, Antwerp, Belgium</aff><aff id="af11-blt-22-213">
+<label>11</label>Department of Public Health and Primary Care, KU Leuven, Leuven, Belgium</aff><aff id="af12-blt-22-213">
+<label>12</label>Department of Global Health, Faculty of Medicine and Health Sciences, Stellenbosch University, Stellenbosch, South Africa</aff><aff id="af13-blt-22-213">
+<label>13</label>Department of Microbiology, Institut National de Recherche Biom&#xE9;dicale, Kinshasa, Democratic Republic of the Congo</aff><aff id="af14-blt-22-213">
+<label>14</label>Department of Clinical Biology, Cliniques Universitaires, Kinshasa, Democratic Republic of the Congo</aff><author-notes><corresp id="c1-blt-22-213">Correspondence: Anne-Sophie Heroes, e-mail: <email>aheroes@itg.be</email></corresp><fn id="fn1-blt-22-213"><label>*</label><p>Lunguya O and Jacobs J share last authorship</p></fn></author-notes><pub-date pub-type="ppub"><month>5</month><year>2024</year></pub-date><pub-date pub-type="epreprint"><day>17</day><month>11</month><year>2023</year></pub-date><volume>22</volume><issue>3</issue><fpage>213</fpage><lpage>225</lpage><history><date date-type="received"><day>30</day><month>6</month><year>2023</year></date><date date-type="accepted"><day>18</day><month>9</month><year>2023</year></date></history><permissions><copyright-statement>&#xA9; SIMTI Servizi Srl</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>Published under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND license</ext-link></license-p></license></permissions><abstract><sec><title>Background</title><p>We assessed healthcare worker&#x2019;s knowledge-attitude-practice regarding bacterial contamination of blood products in the Democratic Republic of the Congo.</p></sec><sec><title>Materials and methods</title><p>In three hospitals and the National Blood Transfusion Center (NBTC), two multiple-choice surveys were completed on a tablet computer: one each, for blood bank (31 questions) and for clinical ward staff (20 questions). A score was calculated for 11 overlapping knowledge questions.</p></sec><sec><title>Results</title><p>Among 247 participants (blood bank No.=62, ward No.=185), median (range) knowledge score was 10 (2&#x2013;19) on a maximum of 20, with blood bank staff (12/20) scoring higher than clinical ward staff (9/20) (p&lt;0.0001). Half (50.2%) of 247 participants recalled previous training in transfusion medicine. Participants had limited understanding of and compliance with NBTC-recommended preventive measures: incorrect assumption that wearing gloves prevents bacterial contamination (83.8%) and that blood banks test donor blood for bacteria (59.9%). Half (50.0%) of blood bank staff did not acknowledge the NBTC-recommended antisepsis procedure, 62.1% did not apply the appropriate number of antisepsis steps, and 32.3% saw no harm in touching the venipuncture site after antisepsis. Presence of bacteria on healthy skin (62.3%) and blood bank fomites (examination gloves: 30.8%, soap: 62.8%) was underestimated. Although 92.4% of clinical ward staff said to easily recognize transfusion reactions, only 15.7% recognized septic reactions and post-transfusion antibiotic treatment practices were not consistent. Challenges reported by blood bank staff and particular for low-resource settings were: frequent power cuts (98.4%), transport of blood products by patient attendants (41.1%), without cooling elements (64.4%), and reuse of finished antiseptic/disinfectant containers (75.4%).</p></sec><sec><title>Discussion</title><p>The present study points to gaps in knowledge, attitudes, practices along sampling, cold chain and transfusion which can feed customized training and monitoring.</p></sec></abstract><kwd-group><kwd>blood transfusion</kwd><kwd>bacterial contamination</kwd><kwd>transfusion-transmitted infections</kwd><kwd>Africa South of the Sahara</kwd></kwd-group><funding-group><award-group><funding-source id="CS1">Research Foundation-Flanders funded travels</funding-source><award-id award-type="contract" rid="CS1">K215420N</award-id><award-id award-type="contract" rid="CS1">1S22817N</award-id></award-group></funding-group></article-meta></front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUCTION</title>
+      <p>In previous research, we found that 1.4% of blood products for transfusion in the Democratic Republic of the Congo (DRC) was contaminated with bacteria<xref rid="b1-blt-22-213" ref-type="bibr">1</xref>. Isolated bacteria were species typically found on donor skin and in the hospital environment, demonstrating the importance of skin antisepsis, and blood bank infection prevention and control (IPC) practices<xref rid="b2-blt-22-213" ref-type="bibr">2</xref>. This includes access to good quality cleaning, antiseptic and disinfectant products, functional cold chain and procedures. In addition, compliance with prevention measures depends on healthcare worker&#x2019;s understanding of the processes and risk awareness. Therefore, the aim of this study was to assess healthcare worker&#x2019;s knowledge, attitude and practices towards bacterial contamination of blood for transfusion in DRC.</p>
+    </sec>
+    <sec sec-type="materials|methods">
+      <title>MATERIALS AND METHODS</title>
+      <sec>
+        <title>Study sites</title>
+        <p>In DRC, the National Blood Transfusion Center (NBTC) in Kinshasa provides guidelines and manages healthcare facilities to organize blood transfusion. For this survey, NBTC and 3 hospitals in DRC were selected, as described previously<xref rid="b1-blt-22-213" ref-type="bibr">1</xref>: H&#xF4;pital P&#xE9;diatrique Kalembe Lembe (urban paediatric hospital, HPKLL), H&#xF4;pital Provincial G&#xE9;n&#xE9;ral de R&#xE9;f&#xE9;rence (urban general hospital, HPGRK), H&#xF4;pital Saint-Luc Kisantu (rural hospital, HSLK) (<xref rid="tI-blt-22-213" ref-type="table">Table I</xref>). Study hospitals routinely test donor&#x2019;s blood before or after blood donation for hepatitis B and C, Human Immune Deficiency Virus (HIV) and syphilis, but do not culture for bacteria.</p>
+      </sec>
+      <sec>
+        <title>Participants</title>
+        <p>Two participant groups were defined: blood bank staff and clinical ward staff (clinicians and nurses, including midwives). Frequently transfusing wards were targeted. A sample size of 200 participants was set, including 50 blood bank staff (overall) and 50 clinical ward staff (per hospital).</p>
+      </sec>
+      <sec>
+        <title>Survey</title>
+        <p>Two surveys with multiple-choice questions with 1 or multiple correct options were developed: 1 blood bank survey and 1 clinical ward survey (<xref rid="tII-blt-22-213" ref-type="table">Table II</xref>, <xref rid="s1-blt-22-213" ref-type="supplementary-material">Online Supplementary Content Table SI</xref>). Surveys were validated for content, clarity and French language by Belgian and Congolese clinical biologists and transfusion specialists.</p>
+        <p>Knowledge questions were defined as questions with an objectively definable correct answer. Attitude questions included hypothetical cases of situations a participant had not necessarily encountered yet (&#x201C;what would you do&#x201D;?). Practice questions included cases covering routine practices (&#x201C;what do you do&#x201D;?).</p>
+        <p>Apart from 8 socio-demographic questions, the blood bank survey contained 31 questions (17 knowledge, 4 attitude and 10 practice) and the clinical ward survey 20 questions (14 knowledge, 3 attitude and 3 practice) (<xref rid="tII-blt-22-213" ref-type="table">Table II</xref>) along 3 themes: transfusion practices (12 questions, including 10 cold-chain related), microbiology (11 questions), and IPC (15 questions).</p>
+      </sec>
+      <sec>
+        <title>Data collection</title>
+        <p>In September 2020, healthcare workers were invited by the head of the ward to participate and present themselves in a hospital meeting room. Consenting participants completed the self-administered, anonymous survey off line in the KoboCollect application (KoboToolbox, Cambridge, MA, USA) on a tablet computer, in presence of study staff available for technical and content questions. Per study site, data were collected over maximum 3 days. Questions appeared one by one, participants were unable to return to previous questions or to terminate the survey before completing all questions. Completed surveys were uploaded daily to the KoboToolbox server.</p>
+      </sec>
+      <sec>
+        <title>Data analysis</title>
+        <p>Upon completion of data collection, data were exported to Excel (Microsoft, Redmond, Washington, United States) for analysis. Questions were assessed per category (knowledge, attitude, practice) and theme (transfusion practice, microbiology, IPC). Expected correct answers are presented in <xref rid="tII-blt-22-213" ref-type="table">Table II</xref> and <xref rid="s1-blt-22-213" ref-type="supplementary-material">Online Supplementary Content, Table SI</xref>. Results were presented per question as the frequency (%) of selected options with total replies per question as denominator. Further in the text, &#x201C;participants&#x201D; refers to all participants (blood bank and clinical ward combined), unless specified.</p>
+        <p>A score per participant was calculated for 11/12 knowledge questions which were in common for both surveys (1/12 question was not presented to all participants and excluded). Individual questions were scored with 0 or 1 point for every incorrect or correct option selected, respectively. If multiple options could be selected, the exclusive selection of correct options was scored higher than a combination of correct and incorrect options (<xref rid="s1-blt-22-213" ref-type="supplementary-material">Online Supplementary Content, Table SI</xref>). A question was scored 0 for the option &#x201C;I don&#x2019;t know&#x201D; or invalid answers (nonsense combinations of options, e.g., &#x201C;I don&#x2019;t know&#x201D; combined with another option)<xref rid="b3-blt-22-213" ref-type="bibr">3</xref>,<xref rid="b4-blt-22-213" ref-type="bibr">4</xref>.</p>
+        <p>Scores per question were weighed according to the estimated risk of incorrect answers leading to inadequate practices (<xref rid="s1-blt-22-213" ref-type="supplementary-material">Online Supplementary Content, Table SI</xref>). The sum of weighed scores for the 11 questions made the total score per participant, with a maximum score of 20.</p>
+        <p>Surveys were validated post-hoc by the frequency of invalid answers (target: &lt;5%) and &#x201C;I don&#x2019;t know&#x201D; (target &lt;10%) and for the knowledge questions a difficulty ratio, i.e., the frequency of score 0 (expected range 20&#x2013;70%). After the survey analysis, the study staff presented the findings to the staff at the study sites and survey answers were discussed. In addition, survey questions with unexpected scores were discussed with a subgroup of study participants to verify whether the questions had been well understood.</p>
+        <p>As secondary objective, major differences of individual questions and scores among participant subgroups were compared: blood bank <italic>vs</italic> clinical ward, professional profile, study site. Median scores were compared between participant groups by the Mann-Whitney U test.</p>
+      </sec>
+      <sec>
+        <title>Ethical issues</title>
+        <p>The Institutional Review Board of the Institute of Tropical Medicine (Antwerp, Belgium), the Ethics Committee of Antwerp University, and the School of Public Health of Kinshasa University approved the study protocol. Prior to the conduct, hospital authorities granted their permission. Participants received an information leaf let and confirmed their consent on the study tablet computer before participation.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTS</title>
+      <sec>
+        <title>Participant demographics</title>
+        <p>In total, 247 surveys were completed (62 blood bank and 185 clinical ward staff), excluding 1 refusal after receiving the tablet computer. It took (median, range) 23 (8&#x2013;177) minutes to complete the surveys. Men and women were equally represented (51.0% women). The largest proportion of participants was 31&#x2013;40 years old (38.5%). <xref rid="s1-blt-22-213" ref-type="supplementary-material">Online Supplementary Content, Table SII</xref> provides numbers of participants per study site and age distribution.</p>
+        <p>Blood bank staff comprised 39 laboratory technicians, 9 biomedical staff, 7 clinicians, 7 nurses. Clinical ward staff (No.=184 with data) included 120 nurses and 64 clinicians (incl. 5 assistants or interns), from &#x2013;in descending frequency&#x2013;pediatrics, surgery, gynecology-obstetrics, intensive care, internal medicine, emergency, hospitalization, outpatient department, orthopedic and stomatology wards. Most clinicians had experience in prescribing transfusion (95.3%), whereas nurses mostly administered (73.3%) and monitored (80.0%) transfusions. Half (50.2%) of participants recalled being trained in transfusion medicine.</p>
+      </sec>
+      <sec>
+        <title>Survey validation</title>
+        <p>For 12/14 questions with potentially invalid answers, &lt;5% of participants (0.0 to 3.2%) gave an invalid answer, scoring 0 for that question (<xref rid="tII-blt-22-213" ref-type="table">Table II</xref>). For the remaining 2 questions (effect of soap and ethanol on bacteria, <xref rid="tII-blt-22-213" ref-type="table">Table II</xref>, <bold>Question</bold> [<bold>Q</bold>] <bold>7&#x2013;8</bold>), 10.5% and 15.0% gave an invalid answer, respectively. For 4/19 questions, &gt; 10% (19.8 to 61.5%) of participants selected &#x201C;I don&#x2019;t know&#x201D;. The difficulty ratio for the knowledge questions varied between 5.0% and 80.0%, with 3/11 below and 1/11 above the expected range. No questions were consistently incorrectly answered by participants with the highest scores, reflecting that questions were clear. Questions addressing similar themes had congruent scores (see below, <bold>Q4</bold> and <bold>Q9</bold> [fridge], <bold>Q9</bold> and <bold>Q38</bold> [antibiotic treatment] and <bold>Q9</bold>, <bold>10</bold>, <bold>11</bold>, <bold>24</bold> [gloves]).</p>
+        <p>Post-hoc survey discussions confirmed that questions with answer frequencies outside expected range (indicators above) or showing unexpected results (i.e., <bold>Q19</bold> and <bold>Q24</bold>) were well understood and reflect participant&#x2019;s knowledge. Except for <bold>Q3</bold> (&#x201C;Does your blood bank test for bacteria&#x201D;), it was opted that participants confused bacteria with other microbes (results <bold>Q1</bold> below) or had patient bacterial cultures in mind. In addition, during the post-hoc survey discussion, participants declared that in their setting, there is a low tendency to admit not knowing the answer.</p>
+      </sec>
+      <sec>
+        <title>Knowledge</title>
+        <sec>
+          <title>Microbiology</title>
+          <p>Overall, 34.4% of participants correctly recognized exclusively <italic>Staphylococcus</italic> and <italic>Bacillus</italic> spp. as bacteria from a list also including HIV and hepatitis B virus (<bold>Q1</bold>). Frequencies were higher among blood bank staff compared to clinical ward staff (61.3 <italic>vs</italic> 25.4%, respectively). Half of participants (54.7%) correctly selected all 3 measures recommended by NBTC to prevent bacterial contamination of blood products (antisepsis, refrigerator storage, medical donor selection) (<bold>Q9</bold>). The frequency of blood bank staff selecting all 3 measures was higher compared to clinical ward staff (74.2 <italic>vs</italic> 48.1%). Nobody selected exclusively correct measures. Most frequently answered incorrect options were &#x201C;wearing gloves during blood collection&#x201D; (83.8%) and &#x201C;testing donor blood before donation&#x201D; (63.6%).</p>
+          <p>Although none of the studied blood banks tests blood for bacteria, 59.9% of participants stated they did (blood bank: 25.8%, clinical ward: 71.4%). Most (61.5%) participants had no idea of the contamination ratio in their center (<bold>Q2&#x2013;3</bold>).</p>
+          <p>Among all participants, 62.3% knew that healthy skin contains bacteria, however almost half of them (28.7% of participants) also incorrectly indicated that bacteria circulate in healthy donor&#x2019;s blood and 19.8% declared not to know the answer (<bold>Q6</bold>). Blood bank staff (58.1% skin exclusively; 21.0% skin and blood) were more knowledgeable than clinical ward staff (25.4% skin exclusively; 31.4% skin and blood).</p>
+          <p>More than half of participants (57.1%) acknowledged that refrigeration prevents growth but does not kill all bacteria. The remaining participants either did not know the effect of refrigerator temperature on bacteria (21.1%) or erroneously assumed it kills all bacteria (16.6%). A minority (9.3%) correctly stated that refrigeration favors growth of certain bacteria (<bold>Q4</bold>). Answers were similar for both survey groups.</p>
+          <p>Among blood bank staff, only 14.8% recognized all risk factors for presence of bacteria in donor blood (<bold>Q15</bold>). Recent fever (90.7%) and skin disease (77.8%) were well recognized, recent visit to the dentist (27.8%) and recent surgery (37.0%) were less frequently recognized.</p>
+          <p>Only 55.7% of clinical ward staff knew septic transfusion reactions occur immediately after transfusion. Although 92.4% of clinical ward staff said to easily recognize transfusion reactions (<bold>Attitude Q32</bold>), only 15.7% correctly selected the unique patient with septic symptoms out of three presented patient cases with symptoms of transfusion reactions (hemolytic, allergic and septic reaction) (<bold>Q33&#x2013;34</bold>).</p>
+        </sec>
+        <sec>
+          <title>Infection prevention and control</title>
+          <p>Of all participants, 29.7% correctly selected &#x201C;70%&#x201D; (among the options) as the effective concentration required for ethanol (<bold>Q5</bold>), with more correct answers by blood bank <italic>vs</italic> clinical ward staff (41.9 <italic>vs</italic> 23.0%, respectively). Part of participants wrongly assumed ethanol 70% or soap kills all bacteria (22.7% and 15.0% respectively), or did not know their effect or answered a nonsense combination (23.9% and 15.0% respectively). Half of participants knew certain bacteria are resistant to and may survive in ethanol (49.0%) or soap (62.8%) and 38.1% correctly replied that some can grow in soap (<bold>Q7&#x2013;8</bold>). Answers were similar for both survey groups.</p>
+          <p>Gloves were recognized by 93.1% participants to protect against blood exposure and by 56.7% to protect against infections after needle stick accidents. However, over two-thirds of clinical (70.8%) as well as blood bank staff (69.4%) incorrectly replied that gloves permit touching the donor skin without transferring bacteria and most (64.5% respectively 57.8%) assumed that examination gloves do not contain bacteria (<bold>Q11&#x2013;12</bold>).</p>
+          <p>Half (50.0%) of blood bank staff erroneously classified the skin antisepsis procedure described according to NBTC as incorrect (<bold>Q22</bold>), and 32.3% incorrectly saw no harm in touching the venipuncture site after antisepsis (<bold>Q24</bold>). From a panel of four figures showing risk practices for bacterial contamination during use of antiseptics and disinfectants, only 6.5% correctly selected all four (<bold>Q21</bold>).</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Attitudes and practices</title>
+        <sec>
+          <title>Transfusion</title>
+          <p>Blood bank staff with experience in donor selection (No.=47) declared taking donor temperature or asking history of fever (95.8%) (<bold>Q16</bold>). Although the delay between blood collection and refrigerator storage was reported to be longer for mobile (27.3% within 1 h) compared to fixed collection (41.7% within 1 h) (<bold>Q25&#x2013;26</bold>), both remained within the maximum allowed delay of 8h (98.3 <italic>vs</italic> 96.4%, respectively). After taking blood products out of the refrigerator, most blood bank staff declared to send them to the ward within 1 h (preferred) (77.8%) (<bold>Q27</bold>). However, for transport to the ward, non-recommended conditions were reported, each by around a third of participants: transport by patient&#x2019;s attendants (41.1%), without cool packs (33.9%) or without a container (30.5%) (<bold>Q29</bold>, <bold>30</bold>). Most (85.5%) would discard a blood bag returning from the ward later than a full day, as is recommended (<bold>Q28</bold>). Most blood bank staff reported power cuts (98.8%) that occurred in the previous week (82.0%) and lasted up to a few hours (96.8%) (<bold>Q31</bold>).</p>
+          <p>Most clinical ward staff stated to store delivered blood products at room temperature (75.6%) or warmed (3.9%) (<bold>Q35</bold>). Among them, 1 in 4 (19.5% of all clinical ward staff) declared they started their most recent transfusion &gt;1 h upon blood product delivery, which is later than recommended (<bold>Q37</bold>). Non-validated techniques (lukewarm water, incubation or rubbing between hands) were reported for blood warming. Most (90.7%) clinical ward staff would correctly return non-transfused blood bags to the blood bank, although nearly two-thirds (64.1% of clinical staff) with the incorrect intention to take it back in stock (<bold>Q36</bold>).</p>
+        </sec>
+        <sec>
+          <title>Microbiology</title>
+          <p>The list of preventive measures from which participants had to select NBTC-recommended measures (<bold>Q9</bold>), was presented again in a subsequent question. Participants (No.=247) were asked which measures they considered useful (<bold>Q10</bold>). Overall, the proportion of participants considering the presented measures useful was comparable to the proportion of participants stating they are NBTC-recommended. However, per individual measure, between 5.7&#x2013;20.6% of participants replied differently.</p>
+          <p>Clinical ward staff incorrectly indicated to never (20.5%) or always (4.8%) give antibiotics to a transfused patient. Correctly replying staff declared to only give antibiotics if fever persists (62.2%) or depending on extra clinical or laboratory information (9.2%) (<bold>Q38</bold>). According to 6.1% and 14.6% of all participants, giving antibiotics to every donor or patient, respectively, would be a useful preventive measure.</p>
+        </sec>
+        <sec>
+          <title>Infection prevention and control</title>
+          <p>All 52 blood bank staff of sites organizing blood collections indicated to use alcohol as antiseptic. Additionally reported antiseptics were povidone iodine (25.0%), chlorhexidine (3.8%) or other (3.8%) (<bold>Q14</bold>). For the number of antisepsis steps, blood bank staff reported 1 step (20.7%), 2 steps (41.4%) or the number needed to get a clean cotton after swabbing (i.e., the correct option) (37.9%) (<bold>Q23</bold>).</p>
+          <p>Most blood bank staff (75.4%) reused antiseptic/disinfectant/soap containers (<bold>Q20</bold>), however only 19.4% of blood bank staff considered reprocessing containers by emptying, washing and drying before refilling a good practice (<bold>Knowledge Q19</bold>). Upon presentation of a picture of an expired and wrongly stored 0.5% chlorine solution, 30.6% would still use the product (<bold>Q18</bold>). Among the 41 (66.1%) blood bank staff who stated not to use the solution anymore, 87.8% knew chlorine solutions degrade with time and sunlight (<bold>Knowledge Q18b</bold>).</p>
+          <p>When asked to select 3 cleaning priorities among a list of blood bank items, most frequently selected items were benches (93.5%), scissors to cut tubing (79.0%) and blood donor chairs (48.4%) (<bold>Q17</bold>). Of note, 20/62 blood bank staff did not comply with the question instruction and selected &gt; 3 items.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Knowledge score</title>
+        <p>For the knowledge questions completed by all participants, a median (range) score of 10 (2&#x2013;19) on a maximum of 20 was scored (<xref rid="tIII-blt-22-213" ref-type="table">Table III</xref>). Blood bank staff had higher scores (12 [4&#x2013;18]) compared to ward staff (9 [2&#x2013;19]) (p&lt;0.0001).</p>
+        <p>Median scores were highest for biomedical staff (13/20), lowest for nurses (9/20) (<xref rid="tIII-blt-22-213" ref-type="table">Table III</xref>). Scores were highest for NBTC (12/20), and lowest for participants who could not recall their last training (9/20).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSION</title>
+      <p>The present knowledge-attitude-practice survey among 185 clinical ward and 62 blood bank staff in the DRC identified challenges in cold chain practices and demonstrated that knowledge about microbiology and IPC was not yet well established. Other observations were lack of training in transfusion medicine and limited understanding of and compliance with NBTC-recommended preventive measures. Half of blood bank staff did not acknowledge the NBTC recommended antisepsis procedure and one-third saw no harm in touching the venipuncture site after antisepsis. Among clinical ward staff, only few recognized septic reactions. Post-transfusion antibiotic treatment practices were not consistent among ward staff and irrational for more than a third. Challenges particular for low-resource settings were: frequent power cuts, blood product transport by patient attendants and without cooling elements, and reuse of antiseptic/disinfectant containers.</p>
+      <p>The survey did not cover all risk practices for bacterial contamination (i.e., knots, cutting tubing, re-pricking donor). We did not ask for job tenure. Measures of association were difficult to calculate (low participant numbers per sub-group) and interpret (bias of previous studies on bacterial contamination in the study sites). Representativeness for HPGRK was limited, given its &gt;2,000 registered healthcare workers. As data collection took multiple days, exchanges between participants about the survey cannot be excluded. As the survey was self-completed, some participants might have misunderstood questions. Although &#x201C;I don&#x2019;t know&#x201D; was listed among the options, guessing could not be excluded. Some participants mixed up viruses and bacteria, and might have completed the survey with microbes other than bacteria in mind.</p>
+      <p>Our questions were based on previously studied risk factors in the same study sites<xref rid="b1-blt-22-213" ref-type="bibr">1</xref>,<xref rid="b2-blt-22-213" ref-type="bibr">2</xref>. In pseudonymized self-completed surveys as presently used, participants are more likely to answer honestly than in oral interviews<xref rid="b5-blt-22-213" ref-type="bibr">5</xref>,<xref rid="b6-blt-22-213" ref-type="bibr">6</xref>. The digitalized survey did not allow to return to previous questions, preventing corrections based on information read in subsequent questions. Overall survey quality indicators were satisfying and post-hoc exchanges with participants allowed for validation of the surveys.</p>
+      <p>The low frequency of training noted in the present study aligned with those of previous studies (21&#x2013;43% of participants)<xref rid="b3-blt-22-213" ref-type="bibr">3</xref>,<xref rid="b7-blt-22-213" ref-type="bibr">7</xref>&#x2013;<xref rid="b15-blt-22-213" ref-type="bibr">15</xref> as were the higher scores among clinicians compared to nurses<xref rid="b3-blt-22-213" ref-type="bibr">3</xref>,<xref rid="b7-blt-22-213" ref-type="bibr">7</xref>,<xref rid="b10-blt-22-213" ref-type="bibr">10</xref>. Similarly to our study, healthcare workers in DRC and Ghana did not know which infectious markers were tested in blood banks<xref rid="b7-blt-22-213" ref-type="bibr">7</xref>,<xref rid="b16-blt-22-213" ref-type="bibr">16</xref>. In a survey in Namibia, most respondents (96%) indicated being capable of identifying an acute transfusion reaction, although only 5% correctly identified all clinical signs<xref rid="b15-blt-22-213" ref-type="bibr">15</xref>, which is comparable to our observations. Also in the US, clinicians and nurse practitioners performed poorly (&lt;25% correct) on transfusion reaction questions<xref rid="b13-blt-22-213" ref-type="bibr">13</xref>. Cold chain and storage conditions were well known in Morocco, with 69% correctly replying participants<xref rid="b9-blt-22-213" ref-type="bibr">9</xref>. In Niger, 65.4% of respondents declared to keep an unused blood bag at the ward, and 20% to have transfused such a blood bag to another patient. This contrasts with our findings, only 9.2% would keep unused blood bags in the ward, 2.2% would use it for another patient<xref rid="b10-blt-22-213" ref-type="bibr">10</xref>.</p>
+      <p>Most scored knowledge questions covered IPC and microbiology topics, which is blood bank staff expertise and may explain their higher frequencies of correct answers compared to clinical ward staff. However, microbiology knowledge was poor among all participants, possibly due to limited uptake in pre-service curricula and in-service training. Difficultly recognizing transfusion reactions might be due to lack of exposure, as a study in Niger showed that 45% of healthcare workers did not stay at bedside after transfusion but delegated this task to patient attendants<xref rid="b10-blt-22-213" ref-type="bibr">10</xref>. Further, well-functioning blood transfusion committees would increase awareness among hospital staff, but are absent in all study hospitals. The present survey demonstrates limited acknowledgement of bacterial presence on healthy skin and blood bank fomites, which turns into risk practices like touching the venipuncture site after antisepsis, inadequate use of gloves and soap contaminated with bacteria<xref rid="b17-blt-22-213" ref-type="bibr">17</xref>&#x2013;<xref rid="b19-blt-22-213" ref-type="bibr">19</xref>. This is in line with previous findings in the same study sites, where we isolated skin and environmental bacteria from blood products and demonstrated room for improvement in the antisepsis procedure<xref rid="b1-blt-22-213" ref-type="bibr">1</xref>,<xref rid="b2-blt-22-213" ref-type="bibr">2</xref>. Moreover, the overestimated power of refrigeration, ethanol and soap (&#x201C;kills all bacteria&#x201D;) and of using gloves during blood collection, may decrease compliance with preventive measures.</p>
+      <p>Bacterial contamination of blood products remains under-investigated in Africa<xref rid="b20-blt-22-213" ref-type="bibr">20</xref>. To our knowledge, the present survey is the first to address factors and reasons behind bacterial contamination of blood for transfusion in sub-Saharan Africa. The identified knowledge gaps, incorrect attitudes and inappropriate practices are attributable to the situation in many low resource settings (frequent power cuts, reuse of antiseptic/disinfectant containers, involvement of patient attendants in hospital care). The study findings may also help to understand the challenges in domains of healthcare IPC in low- and middle-income countries which face a high burden of healthcare-associated infections<xref rid="b21-blt-22-213" ref-type="bibr">21</xref>. As the participating hospitals were among the better-served in DRC and previously were study sites for bacterial contamination of blood products<xref rid="b1-blt-22-213" ref-type="bibr">1</xref>,<xref rid="b2-blt-22-213" ref-type="bibr">2</xref>, it is expected that these identified challenges may be even more severely pronounced in remote and less supported hospitals in DRC and sub-Saharan Africa.</p>
+      <p>Therefore we need to integrate our findings in future training, tailored to professional profiles (i.e., nurses <italic>vs</italic> laboratory technicians) and combining e-learning with hands-on workshops<xref rid="b22-blt-22-213" ref-type="bibr">22</xref>,<xref rid="b23-blt-22-213" ref-type="bibr">23</xref>. It is important to establish transfusion committees in every hospital and to engage local champions<xref rid="b24-blt-22-213" ref-type="bibr">24</xref>. Future research on bacteria in blood bank environments as a potential source of contaminated blood products will contribute to define risk-based IPC practices tailored to transfusion in low-income countries.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>CONCLUSIONS</title>
+      <p>In conclusion, the present survey among healthcare workers in DRC identified challenges in knowledge, attitudes, practices along sampling, cold chain and transfusion. Uptake of our findings in customized hands-on training and implementation will contribute to improved IPC within and outside the blood transfusion context.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Information</title>
+      <supplementary-material id="s1-blt-22-213" position="float" content-type="local-data">
+        <media xlink:href="BLT-22-213_Online_Supplementary_Content.pdf" id="d98e725" position="anchor"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>ACKNOWLEDGEMENTS</title>
+      <p>We thank Vera K&#xFC;hne, Palpouguini Lompo and Jocelyne Kalema for their feedback on the survey questions and all study sites staff for their participation. We acknowledge study sites staff, colleagues of the Institute of Tropical Medicine and Red Cross-Flanders for their feedback on our findings.</p>
+    </ack>
+    <fn-group>
+      <fn id="fn2-blt-22-213">
+        <p><bold>ETHICAL CONSIDERATION:</bold> This study was approved by the Institutional Ethics Committees: Institutional Review Board of the Institute of Tropical Medicine, Antwerp, Belgium (reference 1192/17), the Ethics Committee of Antwerp University (reference 17/47/526), the School of Public Health of Kinshasa University (reference ESP/CE/110/2020).</p>
+        <p>The research was conducted ethically, with all study procedures being performed in accordance with the requirements of the World Medical Association&#x2019;s Declaration of Helsinki.</p>
+        <p>Written informed consent was obtained from each participant/patient for study participation and data publication.</p>
+      </fn>
+      <fn id="fn3-blt-22-213">
+        <p><bold>AUTHORS&#x2019; CONTRIBUTIONS:</bold> Conceptualization AH, JJ and OL; methodology AH and JJ; validation AH, JC, JJ; data collection AH, PK, AL, BB, PN, MN, JE, ML; data cleaning AH; data analysis AH and JJ; data interpretation AH, JJ, AL, BB, PN, MN, CA, ML, JE, JC, IVC, PV, OL; writing original draft preparation AH and JJ; writing review and editing AH, JJ, PK, AL, BB, PN, MN, CA, ML, JE, JC, IVC, PV, OL; supervision JJ. All Authors have read and agreed to the published version of the manuscript.</p>
+      </fn>
+      <fn id="fn4-blt-22-213" fn-type="COI-statement">
+        <p>The Authors declare no conflicts of interest.</p>
+      </fn>
+      <fn id="fn5-blt-22-213">
+        <p><bold>FUNDING:</bold> Research Foundation-Flanders funded travels (grant number K215420N) and a PhD grant strategic basic research (grant number 1S22817N) of first author AH.</p>
+      </fn>
+      <fn id="fn6">
+        <p>Commented by doi 10.2450/BloodTransfus.692</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="b1-blt-22-213">
+        <label>1</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heroes</surname><given-names>AS</given-names></name><name><surname>Ndalingosu</surname><given-names>N</given-names></name><name><surname>Kalema</surname><given-names>J</given-names></name><name><surname>Luyindula</surname><given-names>A</given-names></name><name><surname>Kashitu</surname><given-names>D</given-names></name><name><surname>Akele</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Bacterial contamination of blood products for transfusion in the Democratic Republic of the Congo: temperature monitoring, qualitative and semi-quantitative culture</article-title>
+<source>Blood Transfus</source>
+<year>2020</year>
+<volume>18</volume>
+<fpage>348</fpage>
+<lpage>358</lpage>
+<pub-id pub-id-type="doi">10.2450/2020.0108-20</pub-id>
+<pub-id pub-id-type="pmid">32931413</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b2-blt-22-213">
+        <label>2</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heroes</surname><given-names>AS</given-names></name><name><surname>Okitale</surname><given-names>P</given-names></name><name><surname>Ndalingosu</surname><given-names>N</given-names></name><name><surname>Vandekerckhove</surname><given-names>P</given-names></name><name><surname>Lunguya</surname><given-names>O</given-names></name><name><surname>Jacobs</surname><given-names>J</given-names></name></person-group>
+<article-title>Presence of Gram-negative bacteria and Staphylococcus aureus on the skin of blood donors in the Democratic Republic of the Congo</article-title>
+<source>Transfusion</source>
+<year>2023</year>
+<volume>63</volume>
+<fpage>360</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="doi">10.1111/trf.17196</pub-id>
+<pub-id pub-id-type="pmid">36478388</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b3-blt-22-213">
+        <label>3</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diakit&#xE9;</surname><given-names>M</given-names></name><name><surname>Diawara</surname><given-names>SI</given-names></name><name><surname>Tchiengoua Tchogang</surname><given-names>N</given-names></name><name><surname>Fofana</surname><given-names>DB</given-names></name><name><surname>Diakit&#xE9;</surname><given-names>SA</given-names></name><etal/></person-group>
+<article-title>Connaissances et attitudes du personnel m&#xE9;dical en mati&#xE8;re de transfusion sanguine au Mali</article-title>
+<source>Transfus Clin Biol</source>
+<year>2012</year>
+<volume>19</volume>
+<fpage>74</fpage>
+<lpage>77</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tracli.2012.01.004</pub-id>
+<pub-id pub-id-type="pmid">22512912</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b4-blt-22-213">
+        <label>4</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Melku</surname><given-names>M</given-names></name><name><surname>Asrie</surname><given-names>F</given-names></name><name><surname>Shiferaw</surname><given-names>E</given-names></name><name><surname>Woldu</surname><given-names>B</given-names></name><name><surname>Yihunew</surname><given-names>Y</given-names></name><name><surname>Asmelash</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Knowledge, attitude and practice regarding blood donation among graduating undergraduate health Science Students at the University of Gondar, Northwest Ethiopia</article-title>
+<source>Ethiop J Health Sci</source>
+<year>2018</year>
+<volume>28</volume>
+<fpage>571</fpage>
+<lpage>582</lpage>
+<pub-id pub-id-type="doi">10.4314/ejhs.v28i5.8</pub-id>
+<pub-id pub-id-type="pmid">30607072</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b5-blt-22-213">
+        <label>5</label>
+        <element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Groves</surname><given-names>RM</given-names></name><name><surname>Fowler</surname><given-names>FJJ</given-names></name><name><surname>Couper</surname><given-names>M</given-names></name><name><surname>Lepkowski</surname><given-names>JM</given-names></name><name><surname>Singer</surname><given-names>E</given-names></name><name><surname>Tourangea</surname><given-names>R</given-names></name></person-group>
+<article-title>Questions and answers in surveys</article-title>
+<edition>2nd ed</edition>
+<source>Survey Methodology</source>
+<publisher-loc>Hoboken, NJ</publisher-loc>
+<publisher-name>John Wiley &amp; Sons, Inc</publisher-name>
+<year>2009</year>
+<fpage>415</fpage>
+</element-citation>
+      </ref>
+      <ref id="b6-blt-22-213">
+        <label>6</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heerwegh</surname><given-names>D</given-names></name></person-group>
+<article-title>Mode differences between face-to-face and web surveys: an experimental investigation of data quality and social desirability effects</article-title>
+<source>Int J Public Opin Res</source>
+<year>2009</year>
+<volume>21</volume>
+<fpage>111</fpage>
+<lpage>121</lpage>
+<pub-id pub-id-type="doi">10.1093/ijpor/edn054</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b7-blt-22-213">
+        <label>7</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kabinda</surname><given-names>JM</given-names></name><name><surname>Miyanga</surname><given-names>SA</given-names></name><name><surname>Donnen</surname><given-names>P</given-names></name><name><surname>Van denEnde</surname><given-names>J</given-names></name><name><surname>Dramaix</surname><given-names>M-W</given-names></name></person-group>
+<article-title>Knowledge, attitudes and practices of medical and paramedical staff in blood transfusion in the Democratic Republic of Congo</article-title>
+<source>Open J Prev Med</source>
+<year>2014</year>
+<volume>04</volume>
+<fpage>672</fpage>
+<lpage>680</lpage>
+<pub-id pub-id-type="doi">10.4236/ojpm.2014.48076</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b8-blt-22-213">
+        <label>8</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Laher</surname><given-names>M</given-names></name><name><surname>Patel</surname><given-names>M</given-names></name></person-group>
+<article-title>Assessment of the knowledge of usage of blood and blood products amongst medical doctors in the Department of Medicine at the Faculty of Health Sciences, University of the Witwatersrand affiliated academic hospitals</article-title>
+<source>Transfus Apher Sci</source>
+<year>2019</year>
+<volume>58</volume>
+<fpage>43</fpage>
+<lpage>47</lpage>
+<pub-id pub-id-type="doi">10.1016/j.transci.2018.11.002</pub-id>
+<pub-id pub-id-type="pmid">30477934</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b9-blt-22-213">
+        <label>9</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lahlimi</surname><given-names>FZ</given-names></name><name><surname>Tazi</surname><given-names>I</given-names></name><name><surname>Sifsalam</surname><given-names>M</given-names></name><name><surname>Bouchtia</surname><given-names>M</given-names></name><name><surname>Mahmal</surname><given-names>L</given-names></name></person-group>
+<article-title>Assessment of transfusion practice: Assessing nurses&#x2019; knowledge in transfusion medicine at Mohamed VI Hematology and Oncology Center of Marrakesh, Morocco</article-title>
+<source>Transfus Clin Biol</source>
+<year>2015</year>
+<volume>22</volume>
+<fpage>12</fpage>
+<lpage>16</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tracli.2014.05.006</pub-id>
+<pub-id pub-id-type="pmid">25458986</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b10-blt-22-213">
+        <label>10</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mayaki</surname><given-names>Z</given-names></name><name><surname>Kabo</surname><given-names>R</given-names></name><name><surname>Moutschen</surname><given-names>M</given-names></name><name><surname>Albert</surname><given-names>A</given-names></name><name><surname>Dardenne</surname><given-names>N</given-names></name><name><surname>Sondag</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Connaissances, attitudes, pratiques des prescripteurs de produits sanguins &#xE0; Niamey</article-title>
+<source>Transfus Clin Biol</source>
+<year>2016</year>
+<volume>23</volume>
+<fpage>78</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tracli.2015.11.007</pub-id>
+<pub-id pub-id-type="pmid">26778838</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b11-blt-22-213">
+        <label>11</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>EL Mehdaoui</surname><given-names>F</given-names></name><name><surname>Soulaymani</surname><given-names>A</given-names></name><name><surname>EL Khiari</surname><given-names>M</given-names></name><name><surname>Laghawati</surname><given-names>SB</given-names></name><name><surname>Alami</surname><given-names>R</given-names></name></person-group>
+<article-title>Knowledge of health professionals in transfusion and transfusion safety in Morocco</article-title>
+<source>E3S Web Conf</source>
+<year>2021</year>
+<volume>319</volume>
+<fpage>1</fpage>
+<lpage>5</lpage>
+<pub-id pub-id-type="doi">10.1051/e3sconf/202131901069</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b12-blt-22-213">
+        <label>12</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tayou Tagny</surname><given-names>C</given-names></name><name><surname>Kapamba</surname><given-names>G</given-names></name><name><surname>Diarra</surname><given-names>A</given-names></name><name><surname>Ngandu</surname><given-names>C</given-names></name><name><surname>Deneys</surname><given-names>V</given-names></name><name><surname>Sondag-Thull</surname><given-names>D</given-names></name></person-group>
+<article-title>La formation en m&#xE9;decine transfusionnelle reste insuffisante dans les centres d&#x2019;Afrique subsaharienne francophone: R&#xE9;sultats d&#x2019;une &#xE9;tude pr&#xE9;liminaire</article-title>
+<source>Transfus Clin Biol</source>
+<year>2011</year>
+<volume>18</volume>
+<fpage>536</fpage>
+<lpage>541</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tracli.2011.02.026</pub-id>
+<pub-id pub-id-type="pmid">21676637</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b13-blt-22-213">
+        <label>13</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Halford</surname><given-names>B</given-names></name><name><surname>Pinheiro</surname><given-names>A</given-names></name><name><surname>Haspel</surname><given-names>RL</given-names></name></person-group>
+<article-title>Hospital medicine providers&#x2019; transfusion knowledge: a survey study</article-title>
+<source>Transfus Med Rev</source>
+<year>2021</year>
+<volume>35</volume>
+<fpage>140</fpage>
+<lpage>145</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tmrv.2021.04.003</pub-id>
+<pub-id pub-id-type="pmid">34006426</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b14-blt-22-213">
+        <label>14</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Al-Riyami</surname><given-names>AZ</given-names></name><name><surname>Louw</surname><given-names>VJ</given-names></name><name><surname>Indrikovs</surname><given-names>AJ</given-names></name><name><surname>Nedelcu</surname><given-names>E</given-names></name><name><surname>Bakhtary</surname><given-names>S</given-names></name><name><surname>Eichbaum</surname><given-names>QG</given-names></name><etal/></person-group>
+<article-title>Global survey of transfusion medicine curricula in medical schools: Challenges and opportunities</article-title>
+<source>Transfusion</source>
+<year>2021</year>
+<volume>61</volume>
+<fpage>617</fpage>
+<lpage>626</lpage>
+<pub-id pub-id-type="doi">10.1111/trf.16147</pub-id>
+<pub-id pub-id-type="pmid">33091965</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b15-blt-22-213">
+        <label>15</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basavaraju</surname><given-names>SV</given-names></name><name><surname>Lohrke</surname><given-names>B</given-names></name><name><surname>Pitman</surname><given-names>JP</given-names></name><name><surname>Pathak</surname><given-names>SR</given-names></name><name><surname>Shiraishi</surname><given-names>RW</given-names></name><name><surname>Wilkinson</surname><given-names>R</given-names></name><etal/></person-group>
+<article-title>Knowledge and barriers related to reporting of acute transfusion reactions among healthcare workers in Namibia</article-title>
+<source>Transfus Med</source>
+<year>2013</year>
+<volume>23</volume>
+<fpage>367</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="doi">10.1111/tme.12058</pub-id>
+<pub-id pub-id-type="pmid">23841708</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b16-blt-22-213">
+        <label>16</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adusei</surname><given-names>KA</given-names></name><name><surname>Owusu-Ofori</surname><given-names>A</given-names></name></person-group>
+<article-title>Prevalence of plasmodium parasitaemia in blood donors and a survey of the knowledge, attitude and practices of transfusion malaria among health workers in a hospital in kumasi, Ghana</article-title>
+<source>PLoS One</source>
+<year>2018</year>
+<volume>13</volume>
+<fpage>1</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0206303</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b17-blt-22-213">
+        <label>17</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moran</surname><given-names>V</given-names></name><name><surname>Heuertz</surname><given-names>R</given-names></name></person-group>
+<article-title>Cross contamination: are hospital gloves reservoirs for nosocomial infections?</article-title>
+<source>Hosp Top</source>
+<year>2017</year>
+<volume>95</volume>
+<fpage>57</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="doi">10.1080/00185868.2017.1300484</pub-id>
+<pub-id pub-id-type="pmid">28715297</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b18-blt-22-213">
+        <label>18</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lompo</surname><given-names>P</given-names></name><name><surname>Agbobli</surname><given-names>E</given-names></name><name><surname>Heroes</surname><given-names>A</given-names></name><name><surname>Poel</surname><given-names>B</given-names></name><name><surname>Van</surname><given-names>Den</given-names></name><name><surname>K&#xFC;hne</surname><given-names>V</given-names></name><name><surname>Kpossou</surname><given-names>CMG</given-names></name><etal/></person-group>
+<article-title>Bacterial contamination of antiseptics, disinfectants, and hand hygiene products used in healthcare settings in low- and middle-income countries &#x2014; A systematic review</article-title>
+<source>Hygiene</source>
+<year>2023</year>
+<volume>3</volume>
+<fpage>93</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="doi">10.3390/hygiene3020010</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b19-blt-22-213">
+        <label>19</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ombelet</surname><given-names>S</given-names></name><name><surname>Barb&#xE9;</surname><given-names>B</given-names></name><name><surname>Affolabi</surname><given-names>D</given-names></name><name><surname>Ronat</surname><given-names>J-B</given-names></name><name><surname>Lompo</surname><given-names>P</given-names></name><name><surname>Lunguya</surname><given-names>O</given-names></name><etal/></person-group>
+<article-title>Best practices of blood cultures in low- and middle-income countries</article-title>
+<source>Front Med</source>
+<year>2019</year>
+<volume>6</volume>
+<fpage>131</fpage>
+<pub-id pub-id-type="doi">10.3389/fmed.2019.00131</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b20-blt-22-213">
+        <label>20</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ahmad</surname><given-names>Y</given-names></name><name><surname>Heroes</surname><given-names>AS</given-names></name><name><surname>Hume</surname><given-names>HA</given-names></name><name><surname>Farouk</surname><given-names>M</given-names></name><name><surname>Owusu-Ofori</surname><given-names>A</given-names></name><name><surname>Gehrie</surname><given-names>EA</given-names></name><etal/></person-group>
+<article-title>Bacterial contamination of blood products in Africa</article-title>
+<source>Transfusion</source>
+<year>2021</year>
+<volume>61</volume>
+<fpage>767</fpage>
+<lpage>780</lpage>
+<pub-id pub-id-type="doi">10.1111/trf.16262</pub-id>
+<pub-id pub-id-type="pmid">33469916</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b21-blt-22-213">
+        <label>21</label>
+        <element-citation publication-type="book">
+<source>Progress on Wash in Health Care Facilities 2000&#x2013;2021</source>
+<publisher-name>World Health Organization</publisher-name>
+<comment>Available at: <ext-link xlink:href="https://www.who.int/publications/i/item/9789240058699" ext-link-type="uri">https://www.who.int/publications/i/item/9789240058699</ext-link></comment>
+<date-in-citation content-type="access-date">Accessed on 07/07/2023</date-in-citation>
+</element-citation>
+      </ref>
+      <ref id="b22-blt-22-213">
+        <label>22</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Louw</surname><given-names>VJ</given-names></name><name><surname>Nel</surname><given-names>MM</given-names></name><name><surname>Hay</surname><given-names>JF</given-names></name></person-group>
+<article-title>Factors affecting the current status of transfusion medicine education in South Africa</article-title>
+<source>Transfus Apher Sci</source>
+<year>2013</year>
+<volume>49</volume>
+<fpage>665</fpage>
+<lpage>672</lpage>
+<pub-id pub-id-type="doi">10.1016/j.transci.2013.05.003</pub-id>
+<pub-id pub-id-type="pmid">23743009</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b23-blt-22-213">
+        <label>23</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rambiritch</surname><given-names>V</given-names></name><name><surname>Vermeulen</surname><given-names>M</given-names></name><name><surname>Bell</surname><given-names>H</given-names></name><name><surname>Knox</surname><given-names>P</given-names></name><name><surname>Nedelcu</surname><given-names>E</given-names></name><name><surname>Al-Riyami</surname><given-names>AZ</given-names></name><etal/></person-group>
+<article-title>Transfusion medicine and blood banking education and training for blood establishment laboratory staff: a review of selected countries in Africa</article-title>
+<source>Transfusion</source>
+<year>2021</year>
+<volume>61</volume>
+<fpage>1955</fpage>
+<lpage>1965</lpage>
+<pub-id pub-id-type="doi">10.1111/trf.16372</pub-id>
+<pub-id pub-id-type="pmid">33738810</pub-id>
+</element-citation>
+      </ref>
+      <ref id="b24-blt-22-213">
+        <label>24</label>
+        <element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hartford</surname><given-names>E</given-names></name><name><surname>Muanantatha</surname><given-names>O</given-names></name><name><surname>Valigy</surname><given-names>VI</given-names></name><name><surname>Salimo</surname><given-names>S</given-names></name><name><surname>Deugarte</surname><given-names>DA</given-names></name><name><surname>Angeles</surname><given-names>L</given-names></name><etal/></person-group>
+<article-title>Transfusion practice and knowledge in Mozambique</article-title>
+<source>Transfusion</source>
+<year>2015</year>
+<volume>55</volume>
+<fpage>1607</fpage>
+<lpage>1612</lpage>
+<pub-id pub-id-type="doi">10.1111/trf.13019</pub-id>
+<pub-id pub-id-type="pmid">25648912</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <table-wrap position="float" id="tI-blt-22-213">
+      <label>Table I</label>
+      <caption>
+        <p>Blood transfusion at the study sites in the Democratic Republic of the Congo</p>
+      </caption>
+      <table frame="box" rules="all">
+        <thead>
+          <tr>
+            <th valign="top" align="left" rowspan="1" colspan="1"/>
+            <th valign="top" align="center" rowspan="1" colspan="1">National Blood Transfusion Center</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">H&#xF4;pital Provincial G&#xE9;n&#xE9;ral de R&#xE9;f&#xE9;rence</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">H&#xF4;pital P&#xE9;diatrique Kalembe Lembe</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">H&#xF4;pital Saint-Luc Kisantu</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Geographical location</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">Kinshasa, capital city</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">Kinshasa, capital city</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">Kinshasa, capital city</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">Kisantu, rural</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>No. transfusions in 2020</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No. blood collections: &#xB1;15,000</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4,271</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1,139</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4,789</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Blood collection on site?</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">Yes</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">Yes</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>No, blood products are obtained from the National Blood Transfusion Center</p></list-item></list></td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">Yes</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Blood qualification on site?</bold>
+</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Yes, on donor blood, after donation;</p></list-item><list-item><p>Immunoassays and rapid tests: hepatitis B and C, HIV, syphilis</p></list-item></list></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Yes, on donor blood, after donation;</p></list-item><list-item><p>Rapid tests: hepatitis B and C, HIV, syphilis</p></list-item><list-item><p>Microscopy for microfilaria (wet mount) and malaria (thick smear)</p></list-item></list></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>No, blood is qualified by the National Blood Transfusion Center</p></list-item></list></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Yes, on donor blood before donation;</p></list-item><list-item><p>Rapid tests: hepatitis B and C, HIV, syphilis;</p></list-item><list-item><p>Microscopy for microfilaria (wet mount) and malaria (thick smear)</p></list-item></list></td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Active transfusion committee on site?</bold>
+</td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>Not applicable</p></list-item></list></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>No active committee</p></list-item></list></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>No committee, <italic>ad-hoc</italic> meetings in case of transfusion reactions or other issues related to blood banking and transfusion</p></list-item></list></td>
+            <td valign="top" align="left" rowspan="1" colspan="1">
+<list list-type="bullet"><list-item><p>No committee, transfusion reactions are discussed in quality assurance meetings</p></list-item></list></td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="tII-blt-22-213">
+      <label>Table II</label>
+      <caption>
+        <p>Knowledge, attitude and practice survey questions and options for answers</p>
+      </caption>
+      <table frame="box" rules="cols">
+        <thead>
+          <tr>
+            <th valign="top" align="left" rowspan="1" colspan="1">No.</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">KAP</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">Theme T/M/I</th>
+            <th valign="top" align="left" rowspan="1" colspan="1">Abbreviated question</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">All (No.=247)</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">Blood bank (No.=62)</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">Clinical ward (No.=185)</th>
+            <th valign="top" align="left" rowspan="1" colspan="1">Options (correct answer options are underlined)</th>
+          </tr>
+          <tr>
+            <th colspan="8" valign="top" align="left" rowspan="1">
+<hr/></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td valign="middle" rowspan="7" align="center" colspan="1">
+<bold>1</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="7" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="7" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="7" align="left" colspan="1">Which microbes in the list are bacteria?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">64.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">80.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">58.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Staphylococcus</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">28.3%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">34.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; HIV</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">42.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">67.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">34.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Bacillus</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">31.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Hepatitis virus</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; None of this list</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>2</bold>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="5" align="left" colspan="1">According to you, what could be the percentage of blood products contaminated with bacteria in your blood bank?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">33.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">24.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; &lt;1%</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">17.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">7.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; 1 to 5%</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 6 to 10%</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 11 to 20%</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">61.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">45.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">67.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>3</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">Does your blood bank test blood for bacteria?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">59.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">25.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">71.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">66.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; No</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">19.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">23.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>4</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="5" align="left" colspan="1">What is the effect of refrigerator temperature on bacteria?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">16.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">16.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">16.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Kills all bacteria</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">67.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">72.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">65.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Inhibits growth bacteria</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9.3%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">12.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Favours growth some bacteria</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">21.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">16.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">32.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>5</bold>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="5" align="left" colspan="1">What is the appropriate alcohol concentration for disinfection?<xref rid="tfn3-blt-22-213" ref-type="table-fn">1</xref></td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">28.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">24.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">30.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Pure, non-diluted alcohol</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">23.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 90%</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">29.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">41.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">23.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 70%</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.3%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 50%</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">17.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="4" align="center" colspan="1">
+<bold>6</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="4" align="left" colspan="1">Which statement is likely true for a healthy blood donor?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">45.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">29.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">51.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Carries bacteria in his/her blood</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">62.3%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">79.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">56.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Carries bacteria on his/her skin</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">19.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">12.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">22.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>7</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="5" align="left" colspan="1">Which statement(s) of 70% ethanol is (are) correct?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">22.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">21.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">23.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Kills all bacteria</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">49.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">53.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">47.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Some bacteria are resistant and survive in 70% ethanol</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">25.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">22.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Some bacteria can multiply in 70% ethanol</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">7.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">15.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">17.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>8</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="5" align="left" colspan="1">Which statement(s) of soap is (are) correct?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">15.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">17.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Kills all bacteria</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">62.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">64.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">62.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Some bacteria are resistant and survive in soap</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">38.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">41.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">36.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Some bacteria can multiply in soap</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">10.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="9" align="center" colspan="1">
+<bold>9</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="9" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="9" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="9" align="left" colspan="1">What are preventive measures recommended by NBTC to reduce bacterial contamination of blood products?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">63.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">22.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Test blood for bacteria before every donation</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">65.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">85.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">58.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Medical selection by questionnaire and clinical examination</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">81.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">91.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Disinfect skin before blood collection</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">83.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">95.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">80.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Wear gloves during blood collection</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">78.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">93.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">73.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Store blood bag in the refrigerator</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Give antibiotics to every donor</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11.3%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11.3%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Give antibiotics to every transfused patient</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="8" align="center" colspan="1">
+<bold>10</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="8" align="center" colspan="1">A</td>
+            <td valign="middle" rowspan="8" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="8" align="left" colspan="1">Which preventive measures do you think are effective to reduce bacterial contamination of blood products?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">74.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">43.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">84.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Test blood for bacteria before every donation</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">61.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">56.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Medical selection by questionnaire and clinical examination</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">80.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">88.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Disinfect skin before blood collection</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">82.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">88.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">80.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Wear gloves during blood collection</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">78.9%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">82.3%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Store blood bag in the refrigerator</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6.1%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Give antibiotics to every donor</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.6%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Give antibiotics to every transfused patient</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">No invalid answer combinations possible</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="6" align="center" colspan="1">
+<bold>11</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="6" align="left" colspan="1">Why do you need to wear gloves during blood collection?</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">92.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">93.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">92.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Protection against blood exposure</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">56.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">59.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">55.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Protection against infections after prick accident</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">70.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">69.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">70.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Permits touching donor skin without transferring bacteria to donor skin</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; None of the options is correct</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.4%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>12</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">True or false: examination gloves do not contain bacteria</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">59.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">64.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">57.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; True</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">30.8%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">21.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">34.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; False</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>13</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">True or false: surgical gloves do not contain bacteria</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">94.7%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">93.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">95.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; True</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; False</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6.5%</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="7" align="center" colspan="1">
+<bold>14</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="7" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="7" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="7" align="left" colspan="1">Which antiseptic do you use in your blood bank?</td>
+            <td valign="middle" rowspan="7" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">25.0%</td>
+            <td valign="middle" rowspan="7" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Povidone</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">100%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Alcohol</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Chlorhexidine</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; We don&#x2019;t disinfect the donor skin</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Other, specify</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=0</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="10" align="center" colspan="1">
+<bold>15</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="10" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="10" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="10" align="left" colspan="1">Which are risk factors for blood donor bacteraemia or bacterial infection?<xref rid="tfn4-blt-22-213" ref-type="table-fn">2</xref></td>
+            <td valign="middle" rowspan="10" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">90.7%</td>
+            <td valign="middle" rowspan="10" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Recent fever (in past 14 days)</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">48.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; New sexual partner</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Hemoglobin &lt;12 g/dL (man)</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Recent visit to dentist</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Weight &lt;45 kg</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">44.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Visit to prostitute</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Skin disease</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">37.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Recent surgery</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=8</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Not applicable to my training or job</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="6" align="center" colspan="1">
+<bold>16</bold>
+</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="6" align="left" colspan="1">Did you take donor&#x2019;s temperature last time you performed donor selection?<xref rid="tfn4-blt-22-213" ref-type="table-fn">2</xref></td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">30.4%</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Yes</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">67.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; No, I did not take temperature, but asked history of fever</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.2%</td>
+            <td valign="middle" rowspan="2" align="left" colspan="1">&#x25A1; No, I did not take temperature, nor asked history of fever</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=1</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=5</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t remember</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1"/>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Not applicable to my training or job</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="9" align="center" colspan="1">
+<bold>17</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="9" align="center" colspan="1">A</td>
+            <td valign="middle" rowspan="9" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="9" align="left" colspan="1">Which 3 surfaces would you prioritize for cleaning?</td>
+            <td valign="middle" rowspan="9" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">93.5%</td>
+            <td valign="middle" rowspan="9" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Benches</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">48.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Blood collection donor chair</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">40.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Tourniquet</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">35.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Floor</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">79.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Scissors to cut blood bag tubing</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">30.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Blood bag weighing scale</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">29.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Blood bag stool, used during blood collection</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">35.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Inside of blood product refrigerators</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">No invalid answer combinations possible</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>18</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">A</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">Would you use this bleach to disinfect the bench? (picture of 0.5% bleach in transparent soft drink bottle, next to window, &gt; 3 weeks old)</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">30.6%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">66.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; No</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>18b</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">If no, why not?</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">87.8%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Degraded with sunlight and time</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">26.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Not correct concentration</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Not correct product to disinfect the bench</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>19</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">I</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">Is this procedure of recycling soap containers good practice? (description of emptying, washing and drying before refilling)</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">19.4%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; No</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="8" align="center" colspan="1">
+<bold>20</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="8" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="8" align="center" colspan="1">I</td>
+            <td rowspan="8" valign="top" align="left" colspan="1">Which containers do you reuse in your blood bank?</td>
+            <td valign="middle" rowspan="8" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">37.7%</td>
+            <td valign="middle" rowspan="8" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Soap</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">49.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Alcohol</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">44.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Chlorine solution, bleach</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Povidone (betadine)</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Other, specify</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">24.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; We don&#x2019;t reuse containers</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=1</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="6" align="center" colspan="1">
+<bold>21</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">I</td>
+            <td rowspan="6" valign="top" align="left" colspan="1">Which practices for use of antiseptics and disinfectants is not correct?</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1"/>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Every option demonstrated with a figure:</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">38.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Cottons soaked in alcohol or povidone</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">83.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Touching dispenser opening with hand when taking hand rub</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">66.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Touching dispenser opening with cotton to not spill liquid</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">54.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Container neck to neck when aliquoting small containers</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1"/>
+            <td valign="middle" align="left" rowspan="1" colspan="1">No invalid answer combinations possible</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>22</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">I</td>
+            <td rowspan="3" valign="top" align="left" colspan="1">Is this blood sampling procedure correct? (description of NBTC procedure)</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">46.8%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Yes</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">50.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; No</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>23</bold>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">I</td>
+            <td rowspan="5" valign="top" align="left" colspan="1">In how many disinfection steps do you apply on donor skin?</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 0 steps</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 1 step</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">41.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 2 steps</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">37.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Number of steps needed until cotton returns clean</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=4</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Not applicable to my training or job</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>24</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">I</td>
+            <td rowspan="3" valign="top" align="left" colspan="1">Is this procedure of blood sampling correct? (description of touching venepuncture skin site after disinfection)</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">32.3%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">67.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; No</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>25</bold>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">T</td>
+            <td rowspan="5" valign="top" align="left" colspan="1">What is the delay between blood collection and refrigerator storage in your Center? (fixed collection site)</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">41.7%</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; &lt;1 hour</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">35.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; 1 to 4 hours</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">21.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; 5 to 8 hours</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &gt; 8 hours</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=2</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="6" align="center" colspan="1">
+<bold>26</bold>
+</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">T</td>
+            <td rowspan="6" valign="top" align="left" colspan="1">What is the delay between blood collection and refrigerator storage in your Center? (mobile collection site)</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.3%</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; &lt;1 hour</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">40.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; 1 to 4 hours</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">29.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; 5 to 8 hours</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &gt; 8 hours</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=6</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=1</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; We don&#x2019;t do mobile collections</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>27</bold>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">T</td>
+            <td rowspan="5" valign="top" align="left" colspan="1">What is the delay between taking blood out of the blood bank refrigerator and sending it to the ward in your Center?</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">77.8%</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; <underline>&lt;1 hour</underline></td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">14.8%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; <underline>1 to 4 hours</underline></td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 5 to 8 hours</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &gt; 8 hours</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=8</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>28</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">A</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">T</td>
+            <td rowspan="3" valign="top" align="left" colspan="1">Blood bag returns to blood bank after full day at a bench in the surgery ward, what would you do?</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Put it back in stock</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">85.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Discard</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Other</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>29</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">T</td>
+            <td rowspan="5" valign="top" align="left" colspan="1">Who transports blood products to the ward in your Center?</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">41.1%</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Patient caretaker</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">41.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Blood bank responsible</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">75.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Ward responsible</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=4</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>30</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">T</td>
+            <td rowspan="5" valign="top" align="left" colspan="1">How are blood products transported in your Center?</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">54.2%</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Cool box with cool packs</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">33.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Cool box without cool packs</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">30.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; No cool box or container</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=3</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="2" align="center" colspan="1">
+<bold>31</bold>
+</td>
+            <td valign="middle" rowspan="2" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="2" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="2" align="left" colspan="1">Do you have power cuts at your blood bank?</td>
+            <td valign="middle" rowspan="2" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">98.4%</td>
+            <td valign="middle" rowspan="2" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; No</underline>
+</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>31b</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">If yes, when was last time?</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">82.0%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &lt;1 week</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">16.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 1 week to 1 month</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &gt; 1 month</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="4" align="center" colspan="1">
+<bold>31c</bold>
+</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="4" align="left" colspan="1">If yes, how long does it normally take?</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">36.1%</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &lt;1 hour</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">60.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; A couple of hours</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; 1 day</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">1.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &gt; 1 day</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>31d</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">If yes, is your blood bank connected to a generator?</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">72.1%</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">27.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; No</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=0</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>32</bold>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">A</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="5" align="left" colspan="1">Do you easily recognize a transfusion reaction?</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">40.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes, very easily</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">52.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes, easily</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Neutral</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; No, with difficulty</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; No, with big difficulty</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="3" align="center" colspan="1">
+<bold>33</bold>
+</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="3" align="left" colspan="1">A septic transfusion reaction is typically observed as:</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">55.7%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Immediate symptoms, in first hours after transfusion</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">38.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Long term symptoms, after some weeks</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">5.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="6" align="center" colspan="1">
+<bold>34</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">K</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="6" align="left" colspan="1">Which transfused patient do you suspect of septic transfusion reaction?</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; None of the patients</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">52.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Patient 1: fever, vomiting, chills, elevated heart rate, hypotension</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">44.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Patient 2: skin rash, facial oedema, vomiting</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">41.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Patient 3: fever, chills, lumbar pain, red urine</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4.3%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="4" align="center" colspan="1">
+<bold>35</bold>
+</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="4" align="left" colspan="1">What do you do upon delivery of a blood product in your ward for a patient who will be soon transfused?</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">-</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">75.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I keep it at room temperature</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3.9%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I warm the bag (if yes, how?)</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I keep it in the refrigerator</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=5</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="5" align="center" colspan="1">
+<bold>36</bold>
+</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">A</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="5" align="left" colspan="1">What would you do with blood product delivered at your ward, that was not used for transfusion?</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" rowspan="5" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">7.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; I discard it in my ward</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I keep it in my ward, maybe it can serve another patient</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">26.6%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; I send it back to the blood bank to be discarded</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">64.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I send it back to the blood bank to take it back in stock</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=1</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="4" align="center" colspan="1">
+<bold>37</bold>
+</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">T</td>
+            <td valign="middle" rowspan="4" align="left" colspan="1">Last time you transfused a patient, what was the delay between delivery and transfusion of a blood product at your ward?</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">-</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">73.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; &lt;1 hour</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.0%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; 1 to 4 hours</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; &gt; 4 hours</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">No.=30</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; I don&#x2019;t know</td>
+          </tr>
+          <tr>
+            <td colspan="8" valign="middle" align="left" rowspan="1">
+<hr/></td>
+          </tr>
+          <tr>
+            <td valign="middle" rowspan="6" align="center" colspan="1">
+<bold>38</bold>
+<xref rid="tfn2-blt-22-213" ref-type="table-fn">*</xref>
+</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">P</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">M</td>
+            <td valign="middle" rowspan="6" align="left" colspan="1">Do you administer antibiotics to transfused patients in your Center?</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" rowspan="6" align="center" colspan="1">-</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">62.2%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Yes, if persistent fever after transfusion</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">5.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes, to every transfused adult</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11.4%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; Yes, to every transfused child</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">20.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">&#x25A1; No, never</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">15.1%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<underline>&#x25A1; Other, specify</underline>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center" rowspan="1" colspan="1">0.5%</td>
+            <td valign="middle" align="left" rowspan="1" colspan="1">Invalid answer combination</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="tfn1-blt-22-213">
+          <p>Questions are presented in an abbreviated form: first the questions that were in common for both groups (blood bank and clinical ward staff respectively), next the group-specific questions. The complete original French-language survey is presented in <xref rid="s1-blt-22-213" ref-type="supplementary-material">Online Supplementary Content, Table SI</xref>. Correct answer options or options corresponding to the guidelines are underlined. For some questions no options were underlined as there was no correct or incorrect answer to the question. Percentages are calculated on total number of participants to whom the question was applicable; for questions addressing practices, participants who replied &#x201C;I don&#x2019;t know&#x201D; or &#x201C;I don&#x2019;t remember&#x201D; were subtracted from the denominator. Questions are presented in this table with the question&#x2019;s theme (T: transfusion, M: microbiology, I: infection prevention and control) and category (K: knowledge, A: attitude, P: practice). BB: blood bank survey, CW: clinical ward survey, NBTC: National Blood Transfusion Center.</p>
+        </fn>
+        <fn id="tfn2-blt-22-213">
+          <label>*</label>
+          <p>) Questions for which multiple answer options could be selected and therefore could lead to invalid answer combinations.</p>
+        </fn>
+        <fn id="tfn3-blt-22-213">
+          <label>1</label>
+          <p>)Only 113 clinical ward staff received this question due to an intermediate update of the survey (% calculated on total of 113), therefore the question was excluded from the score calculations;</p>
+        </fn>
+        <fn id="tfn4-blt-22-213">
+          <label>2</label>
+          <p>)Percentage on total number of participants to whom question was applicable.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="tIII-blt-22-213">
+      <label>Table III</label>
+      <caption>
+        <p>Survey scores for participant subgroups</p>
+      </caption>
+      <table frame="box" rules="all">
+        <thead>
+          <tr>
+            <th valign="top" align="left" rowspan="1" colspan="1">Participant demographics</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">Score median</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">Score range</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">Score interquartile range</th>
+            <th valign="top" align="center" rowspan="1" colspan="1">p-value</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>All participants (No.=247)</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">10</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2&#x2013;19</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">7&#x2013;12</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Blood bank staff (No.=62)</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">12</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4&#x2013;18</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">10&#x2013;13</td>
+            <td valign="middle" rowspan="2" align="center" colspan="1">p&lt;0.0001</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Clinical ward staff (No.=185)</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2&#x2013;19</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6&#x2013;11</td>
+          </tr>
+          <tr>
+            <td colspan="5" valign="top" align="left" rowspan="1">
+<bold>Professional profile</bold>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Biomedical staff (No.=9)</bold>
+<sup>1,3</sup>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">13</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11&#x2013;16</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">12&#x2013;14</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1"><sup>1</sup>p=0.05<break/><sup>2</sup>p=0.08<break/><sup>3</sup>p=0.009<break/><sup>4</sup>p=0.0001</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Laboratory technicians (No.=39)</bold>
+<sup>1,2</sup>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">5&#x2013;18</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">10&#x2013;13</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Clinicians (No.=71)</bold>
+<sup>2,3,4</sup>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">10</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4&#x2013;19</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8&#x2013;12</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Nurses (No.=127)</bold>
+<sup>4</sup>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2&#x2013;14</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6&#x2013;10</td>
+          </tr>
+          <tr>
+            <td colspan="5" valign="top" align="left" rowspan="1">
+<bold>Most recent training in transfusion medicine</bold>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>&gt;1 year ago (No.=91)</bold>
+<sup>1,2</sup>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">11</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2&#x2013;19</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8&#x2013;13</td>
+            <td valign="middle" rowspan="3" align="center" colspan="1"><sup>1</sup>p=0.03<break/><sup>2</sup>p=0.0005<break/><sup>3</sup>p=0.8</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>&#x2264;1 year ago (No.=33)</bold>
+<sup>1,3</sup>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">10</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3&#x2013;17</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6&#x2013;11</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>Never or could not recall (No.=123)</bold>
+<sup>2,3</sup>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2&#x2013;17</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">7&#x2013;11</td>
+          </tr>
+          <tr>
+            <td colspan="5" valign="top" align="left" rowspan="1">
+<bold>Study site</bold>
+</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>National Blood Transfusion Center (No.=29)</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">12</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">4&#x2013;17</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">10&#x2013;14</td>
+            <td valign="middle" rowspan="4" align="center" colspan="1">p=0.002<break/>NBTC <italic>vs</italic> other</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>H&#xF4;pital P&#xE9;diatrique Kalembe Lembe (No.=77)</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2&#x2013;16</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">7&#x2013;11</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>H&#xF4;pital Provincial G&#xE9;n&#xE9;ral de R&#xE9;f&#xE9;rence (No.=74)</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">3&#x2013;17</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">8&#x2013;11</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="left" rowspan="1" colspan="1">
+<bold>H&#xF4;pital Saint-Luc Kisantu (No.=67)</bold>
+</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">9</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">2&#x2013;19</td>
+            <td valign="middle" align="center" rowspan="1" colspan="1">6&#x2013;12</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="tfn5-blt-22-213">
+          <p>For every subgroup, median score, range and interquartile range of the 11 knowledge questions were calculated. Superscript numbers refer to the p-value of the comparison of median scores between two subgroups.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

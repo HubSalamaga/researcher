@@ -1,7 +1,8 @@
-#from Bio import Entrez
+from Bio import Entrez
 import os
 import time
 import datetime
+from bs4 import BeautifulSoup
 
 class Const:
     @staticmethod
@@ -109,7 +110,7 @@ class Const:
 
         return pmc_ids
     @staticmethod
-    def read_queries_and_fetch_articles(file_path, download_dir):
+    def read_queries_and_fetch_articles(file_path, download_dir,current_date,previous_date):
         """
         Reads queries from a file, fetches PMC IDs for each query, and downloads the articles.
 
@@ -117,16 +118,25 @@ class Const:
         - file_path (str): Path to the file containing the queries.
         - download_dir (str): The directory where articles should be saved.
         """
+        from_format = "%Y-%m-%d"
+        to_format = "%Y/%m/%d"
+        current_date = str(current_date)
+        previous_date = str(previous_date)
+        current_date = Const.convert_date_format(current_date,from_format,to_format)  # Remove any leading/trailing whitespace
+        previous_date = Const.convert_date_format(previous_date,from_format,to_format)
+        #("2024/04/15"[PubDate] : "2024/04/22"[PubDate])
         with open(file_path, 'r') as file:
             for query in file:
-                query = query.strip()  # Remove any leading/trailing whitespace
-                #  GDZIEŚ TUTAJ TRZEBA ROZSZERZYĆ QUERY O DZISIEJSZA DATE ZMIENIAMY TYLKO QUERY
-                folder_name_components = [download_dir, query]
+                query = query.strip()
+                folder_query = query
+                if current_date != previous_date
+                query = str(query + " AND " "(" + previous_date + "[PubDate]" + " :"  + " " + current_date + "[PubDate]" + ")") # jeśli odpalamy po raz pierwszy to co się dzieje 
+                folder_name_components = [download_dir, folder_query ] 
                 folder_name = "/".join(folder_name_components)
                 if not os.path.exists(folder_name):  # Checks whether destination directory hasn't been yet created
                     if query:  # Ensure the query is not empty
                         print(f"Processing query: {query}")
-                        destination_dir = os.path.join(download_dir, query)
+                        destination_dir = os.path.join(download_dir, folder_query)
                         print(f"Creating new folder: {destination_dir}")
                         os.makedirs(destination_dir)
                         Const.download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33)
@@ -156,12 +166,12 @@ class Const:
             while retries < max_retries and not success:
                 try:
                     # Use Entrez.efetch to fetch the article content
-                    handle = Entrez.efetch(db="pmc", id=pmc_id, rettype="html")
+                    handle = Entrez.efetch(db="pmc", id=pmc_id, rettype="xml")
                     article_content = handle.read()
                     handle.close()
 
                     # Define the path for saving the article
-                    article_path = os.path.join(destination_dir, f"{pmc_id}.html")
+                    article_path = os.path.join(destination_dir, f"{pmc_id}.xml")
 
                     # Save the article content to a file
                     with open(article_path, 'wb') as article_file:
@@ -178,18 +188,58 @@ class Const:
 
         print(f"Downloaded {len(pmc_ids)} articles to {destination_dir}")
     @staticmethod
-    def overwrite_date(date_file_path, previous_date, current_date):
+    def overwrite_date(date_file_path, previous_date, current_date, is_first_run = False, threshold = 7):
         current_date = str(current_date)
         current_date = datetime.datetime.strptime(current_date,"%Y-%m-%d").date()
         previous_date = datetime.datetime.strptime(previous_date,"%Y-%m-%d").date()
         date_difference = abs((current_date - previous_date).days)
+        download_dir = ""
         try:
-            if date_difference >= 7:
+            if is_first_run:
                 file_path = "./cos.txt"
-                Const.read_queries_and_fetch_articles(file_path, download_dir)
-                print(f"Date was different")
+                Const.read_queries_and_fetch_articles(file_path, download_dir,current_date,previous_date)
+                print(f"First")
+            elif date_difference == 0:
+                # Handle the case where the program is run on the same day
+                print("Program run on the same day")
+            elif date_difference >= threshold:
+                file_path = "./cos.txt"
+                Const.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
+                print(f"More than {threshold} days passed")
             else:
-                print(f"Date was the same")
-                pass
+                print(f"Less than {threshold} days passed")
         except Exception as e:
-            print("An error has occured {e}")
+            print(f"An error has occured {e}")
+    @staticmethod
+    def convert_date_format(date_str, from_format, to_format):
+        # Parse the input date string using the from_format
+        date_obj = datetime.datetime.strptime(date_str, from_format)
+        
+        # Format the date object using the to_format
+        converted_date_str = date_obj.strftime(to_format)
+        
+        return converted_date_str
+    @staticmethod
+    def extract_body_from_html_files(folder_path):
+        """Add try catch statements 
+        veryfiy paths allow for mulitple inputs"""
+        if not os.path.isdir(folder_path):
+            raise ValueError("The provided path is not a valid directory")
+        
+        body_contents = {}
+        for filename in os.listdir(folder_path):
+            if filename.endswith('.xml'):
+                file_path = os.path.join(folder_path,filename)
+                with open(file_path,'r',encoding='utf-8') as file:
+                    soup = BeautifulSoup(file, 'html.parser')
+                    body = soup.find('body')
+                    if body:
+                        body_path = os.path.join(folder_path,"html_bodies")
+                        if not os.path.exists(body_path):
+                            os.makedirs(body_path)
+                        output_file_path = os.path.join(body_path, f"{os.path.splitext(filename)[0]}_body.html")
+                        with open(output_file_path,'w', encoding='utf-8') as output_file:
+                            output_file.write(str(body))
+                    else:
+                        print(f"No body tag found")
+        return body_contents

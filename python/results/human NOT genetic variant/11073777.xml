@@ -1,0 +1,721 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Plast Reconstr Surg Glob Open</journal-id><journal-id journal-id-type="iso-abbrev">Plast Reconstr Surg Glob Open</journal-id><journal-id journal-id-type="publisher-id">GOX</journal-id><journal-title-group><journal-title>Plastic and Reconstructive Surgery Global Open</journal-title></journal-title-group><issn pub-type="epub">2169-7574</issn><publisher><publisher-name>Lippincott Williams &amp; Wilkins</publisher-name><publisher-loc>Hagerstown, MD</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38712017</article-id><article-id pub-id-type="pmc">11073777</article-id><article-id pub-id-type="publisher-id">GOX-D-23-01081</article-id><article-id pub-id-type="art-access-id">00013</article-id><article-id pub-id-type="doi">10.1097/GOX.0000000000005789</article-id><article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" article-version-type="Version of Record">3</article-version><article-categories><subj-group subj-group-type="heading"><subject>Breast</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Oncoplastic Breast Conservation for Central Tumors: Definition, Classification, and the Analysis of Single Institution Experience</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Zhygulin</surname><given-names>Andrii</given-names></name><degrees>MD</degrees><xref rid="aff1" ref-type="aff">*</xref></contrib><contrib contrib-type="author"><name><surname>Fedosov</surname><given-names>Artem</given-names></name><degrees>MD</degrees><xref rid="aff1" ref-type="aff">*</xref><xref rid="aff2" ref-type="aff">&#x2020;</xref></contrib><aff id="aff1">From the <label>*</label>Breast Center, LISOD Hospital of Israeli Oncology, Kyiv, Ukraine</aff><aff id="aff2"><label>&#x2020;</label>Breast Unit, Innovacia Clinic, Kyiv, Ukraine.</aff></contrib-group><author-notes><corresp id="c1">Andrii Zhygulin, MD, General Shapoval str. 20, #49, Kyiv 03110, Ukraine, E-mail: <email xlink:href="zhygulin@lisod.ua">zhygulin@lisod.ua</email>, Instagram: @andrii_zhygulin</corresp></author-notes><pub-date pub-type="collection"><month>5</month><year>2024</year></pub-date><pub-date pub-type="epub"><day>06</day><month>5</month><year>2024</year></pub-date><volume>12</volume><issue>5</issue><elocation-id>e5789</elocation-id><history><date date-type="received"><day>27</day><month>11</month><year>2023</year></date><date date-type="accepted"><day>12</day><month>3</month><year>2024</year></date></history><permissions><copyright-statement>Copyright &#xA9; 2024 The Authors. Published by Wolters Kluwer Health, Inc. on behalf of The American Society of Plastic Surgeons.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND)</ext-link>, where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.</license-p></license></permissions><self-uri xlink:href="gox-12-e5789.pdf"/><abstract><sec><title>Background:</title><p>Tumors in the central part of the breast are usually considered more aggressive and technically difficult, which limits breast conservation. The definition of central tumors from a surgical point of view, classification of the techniques for partial breast reconstruction, and conceptual algorithm of choice based on tumor and breast characteristics are proposed, along with the estimation of surgical and oncological safety.</p></sec><sec><title>Methods:</title><p>This is a retrospective analysis of the single-institution experience, with a focus on the decision-making process for choosing the oncoplastic breast-conserving surgery technique. To evaluate the safety of breast conservation for central tumors, a comparative analysis of early surgical complications and oncological long-term results of treatment in patients with central breast tumor location and other breast tumor locations was performed.</p></sec><sec><title>Results:</title><p>A total of 940 lumpectomies were performed in 926 patients during 15 years. The central breast tumor location group included 128 patients with 130 lumpectomies (13.8%), and the other breast tumor locations group included 798 patients with 810 lumpectomies (86.2%). We did not find any significant differences in the rate of early surgical complications and involved margins, local and systemic recurrence rates, time to progression, or overall survival between the groups.</p></sec><sec><title>Conclusions:</title><p>Oncoplastic breast-conserving surgery is a safe procedure for the treatment of central tumors. In our opinion, the proposed classification of partial breast reconstruction techniques and an algorithm of their choice allow for effective restoration of the breast shape and volume according to the parameters of the tumor, breast, surgeon, and patient preferences.</p></sec></abstract><custom-meta-group><custom-meta><meta-name>OPEN-ACCESS</meta-name><meta-value>TRUE</meta-value></custom-meta><custom-meta><meta-name>COUNTRY</meta-name><meta-value>UKRAINE</meta-value></custom-meta><custom-meta><meta-name>SDC</meta-name><meta-value>T</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <boxed-text position="float">
+      <sec>
+        <title>Takeaways</title>
+        <p><bold>Question:</bold> How to determine the central tumor of the breast? Are oncoplastic central lumpectomies as safe in terms of surgical complications and long-term oncological outcomes as other tumor locations? How to choose the optimal method of closing the central defect of the breast?</p>
+        <p><bold>Findings:</bold> The retrospective comparison of treatment results was performed between groups with central tumors and tumors with other locations. We presented the classification of the techniques for central defect closure and the algorithm of their choice.</p>
+        <p><bold>Meaning:</bold> Oncoplastic breast conservation is a good and safe option for the treatment of centrally located tumors.</p>
+      </sec>
+    </boxed-text>
+    <sec sec-type="intro">
+      <title>INTRODUCTION</title>
+      <p>Breast cancer is one of leading causes of cancer-related morbidity and mortality worldwide. However, over the last few decades, several great advances have been made not only in understanding the nature of this disease but also in new methods of treatment. The location of the primary tumor was found to be an important prognostic factor. Tumors in the central part of the breast are usually considered more aggressive and have a poorer prognosis than those in the peripheral quadrants. Traditionally, this has led surgeons to adopt more aggressive approaches and perform mastectomies. However, a better understanding of the biological mechanisms of cancer and a focus on the quality of life of patients has led to the widespread introduction of breast-conserving surgery (BCS) for breast cancer treatment. It was found that this does not worsen but significantly improves overall survival (OS),<sup><xref rid="R1" ref-type="bibr">1</xref>&#x2013;<xref rid="R7" ref-type="bibr">7</xref></sup> even in patients with T3 and T4 tumors.<sup><xref rid="R8" ref-type="bibr">8</xref>&#x2013;<xref rid="R12" ref-type="bibr">12</xref></sup> Therefore, oncological safety does not prevent the use of BCS in patients with central tumors. Another factor inhibiting the implementation of BCS for central tumors is the technical difficulty of achieving acceptable aesthetic and functional results. However, the principles of oncoplastic surgery have made it possible to solve this problem. We present our definitions and approaches to the surgical treatment of central tumors with the classification of the techniques and algorithm of their selection depending on the individual features of the patients and tumors. We also present a retrospective comparative analysis of the oncological results and early surgical complications in patients with BCS between the group with central tumors and those with tumors in other locations.</p>
+    </sec>
+    <sec>
+      <title>DEFINITION AND CLASSIFICATION</title>
+      <p>We did not find a clear and commonly used definition of central breast tumors in the literature. However, the main anatomical landmark for determining the central location is the areola, which is the zone of direct contact between the parenchyma of the gland and skin. There is no subcutaneous fat, and there is a superficial lymphatic plexus with direct outflow to the regional lymphatic basins. Thus, it increases the probability of tumor growth in the skin and lymphatic spread of the disease when the tumor is located retroareolarly. These factors determine the poor prognosis of patients with central tumors. A central tumor is defined as retroareolar or located within 2&#x2009;cm of the edge of the areola, and this definition is most commonly used.<sup><xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R14" ref-type="bibr">14</xref></sup> However, to achieve proper radical margins during lumpectomy, more tissue around the tumor must be removed. This results in an increased volume of removed tissue in the &#x201C;surgical&#x201D; terms compared with the &#x201C;oncological&#x201D; terms. In addition, depending on the size of the breast, the size of the areola, and the geometry and exact position of the tumor, the lesion could only be partially localized centrally; however, this requires the removal of a large part of the central segment of the breast parenchyma. It is also important to consider the distance between the tumor, chest wall, and nipple in the projection of the areola because this influences the technique. After analyzing our experience, we propose to define central breast tumors as those that are completely or partially located in the projection of the areola up to the chest wall and/or within 2&#x2009;cm around the areola. This definition was adapted to the technical aspects of surgical decision-making and techniques (Fig. <xref rid="F1" ref-type="fig">1</xref>). We consider oncoplastic surgery as the concept, which offers the patient the best possible aesthetic result after oncologically safe surgery. From this point of view, we offer the patients two approaches: (a) not changing the breast (concept of &#x201C;invisible surgery&#x201D;), and (b) improving the breast (using therapeutic mammoplasty). The type of partial reconstruction technique also depends on whether the areola is preserved, whether it will be completely transplanted or reconstructed, and whether the surgery is immediately performed or delayed. Volume displacement techniques consist of level 1 different modifications and some types of therapeutic mammoplasties that form and displace the internal parenchymal flaps within the gland. It includes periareolar and retroglandular (from the submammary fold&#x2014;&#x201C;from inside&#x201D;) tumor excision with parenchyma rearrangement, conic central lumpectomy with purse-string closure, and horizontal &#x201C;melon slice&#x201D; or &#x201C;bat wing&#x201D; techniques. In cases of areola removal in small nonptotic breasts, the wound can be closed by parenchymal rearrangement with wide skin mobilization. Central defect filling by gland tissue becomes the basis for a full-thickness skin graft for areola reconstruction in one or two stages. Therapeutic mammoplasty can be performed using the Grisotti technique as a rotational parenchymal flap with a skin island,<sup><xref rid="R15" ref-type="bibr">15</xref></sup> the superior or inferior flap technique with inverted T or vertical surgical access, and with or without areola and nipple reconstruction. When areolar preservation is possible, the modified Ribeiro technique<sup><xref rid="R16" ref-type="bibr">16</xref></sup> with nipple-areola complex (NAC) on the upper flap and using the lower flap for closure of the defect behind the areola may be very effective. The volume replacement approach included latissimus dorsi (LD), lateral thoracic artery perforant (LTAP), lateral intercostal artery perforant (LICAP), anterior intercostal artery perforant (AICAP), and thoraco-dorsal artery performant (TDAP) flaps. In some cases, a rotational lateral thoracic (axillary) flap can be used (Fig. <xref rid="F2" ref-type="fig">2</xref>). The decision-making process depends on breast size, grade of ptosis and density, tumor size and location, patient preferences, and surgeon experience. In the case of using therapeutic mammoplasty, the symmetrized procedure should be considered. There is also an option for immediate and delayed nipple reconstructions. The crucial principle of surgery is to respect anatomy and blood supply.</p>
+      <fig position="float" id="F1">
+        <label>Fig. 1.</label>
+        <caption>
+          <p>The location of the tumors which are considered central tumors&#x2014;completely or partially located in the projection of areola up to the chest wall and/or within 2&#x2009;cm around the areola.</p>
+        </caption>
+        <graphic xlink:href="gox-12-e5789-g001" position="float"/>
+      </fig>
+      <fig position="float" id="F2">
+        <label>Fig. 2.</label>
+        <caption>
+          <p>The classification of central lumpectomies and techniques of partial breast reconstruction.</p>
+        </caption>
+        <graphic xlink:href="gox-12-e5789-g002" position="float"/>
+      </fig>
+    </sec>
+    <sec sec-type="methods">
+      <title>METHODS</title>
+      <p>We performed a retrospective review of patients who underwent BCS at the breast center in the LISOD Hospital of Israeli Oncology (Kyiv, Ukraine), focusing on the decision-making process of the surgery type selection, depending on the tumor location. All patients were discussed with a multidisciplinary tumor board at all stages of treatment and treated according to the current National Cancer Comprehensive Network guidelines. We present our classification of the types of procedures and an algorithm for their selection according to tumor and breast size, grade of ptosis, and management of NAC. All measurements and evaluations were based on clinical examination and patient information regarding cup size. To evaluate the safety of oncoplastic BCS with central tumors, we performed a comparative analysis of the early surgical complications (30 days after surgery) and oncological long-term results of treatment in patients with central breast tumor location (CBTL) according to our definition, and in a group with other breast tumor locations (OBTL). A statistical analysis of the main demographic criteria and characteristics of the tumors and procedures using Fisher angular transformation (with Yates correction) showed homogeneity of the groups (Table <xref rid="T1" ref-type="table">1</xref>). We used the local recurrence rate (LRR), systemic recurrence rate (SRR), death due to progression (DDP), time-to-progression (TP) rate, and OS rate as criteria for oncological safety in both groups. The LLR, SSR, and OS curves were evaluated using Kaplan-Meier estimation and log-rank tests using the computer program R commander version 4.2.2. licensed by John Fox under the GNU General Public License. Statistical significance was set at a <italic toggle="yes">P</italic> value less than 0.05. Patients who dropped out after less than 6 months of follow-up were excluded from the delayed results analysis.</p>
+      <table-wrap position="float" id="T1">
+        <label>Table 1.</label>
+        <caption>
+          <p>The Demographic, Surgical, Technical, and Oncological Characteristics of the Groups of Patients with Central Tumors and Tumors with Other Locations</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="1" colspan="1"/>
+              <th align="center" rowspan="1" colspan="1">Central Lumpectomies</th>
+              <th align="center" rowspan="1" colspan="1">Other Lumpectomies</th>
+              <th align="center" rowspan="1" colspan="1">Total</th>
+              <th align="center" rowspan="1" colspan="1">
+<italic toggle="yes">P</italic>
+</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Patients</td>
+              <td align="center" rowspan="1" colspan="1">128 (13.8%)</td>
+              <td align="center" rowspan="1" colspan="1">798 (86.2%)</td>
+              <td align="center" rowspan="1" colspan="1">926</td>
+              <td align="center" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Procedures</td>
+              <td align="center" rowspan="1" colspan="1">130 (13.8%)</td>
+              <td align="center" rowspan="1" colspan="1">810 (86.2%)</td>
+              <td align="center" rowspan="1" colspan="1">940</td>
+              <td align="center" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Age</td>
+              <td align="center" rowspan="1" colspan="1">54 (22&#x2013;81)</td>
+              <td align="center" rowspan="1" colspan="1">52 (23&#x2013;88)</td>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1">0.82</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">
+<bold>ER</bold>
+</td>
+              <td align="center" rowspan="1" colspan="1"><bold>112 (87.5%</bold>)</td>
+              <td align="center" rowspan="1" colspan="1"><bold>589 (73.8%</bold>)</td>
+              <td align="center" rowspan="1" colspan="1">
+<bold>701</bold>
+</td>
+              <td align="center" rowspan="1" colspan="1">
+<bold>0.001</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">PR</td>
+              <td align="center" rowspan="1" colspan="1">92 (71.9%)</td>
+              <td align="center" rowspan="1" colspan="1">508 (63.7%)</td>
+              <td align="center" rowspan="1" colspan="1">600</td>
+              <td align="center" rowspan="1" colspan="1">0.08</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">HER2neu positive</td>
+              <td align="center" rowspan="1" colspan="1">13 (10.2%)</td>
+              <td align="center" rowspan="1" colspan="1">113 (14.2%)</td>
+              <td align="center" rowspan="1" colspan="1">126</td>
+              <td align="center" rowspan="1" colspan="1">0.26</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">
+<bold>Triple negative</bold>
+</td>
+              <td align="center" rowspan="1" colspan="1"><bold>6 (4.7%</bold>)</td>
+              <td align="center" rowspan="1" colspan="1"><bold>143 (17.9%</bold>)</td>
+              <td align="center" rowspan="1" colspan="1">
+<bold>149</bold>
+</td>
+              <td align="center" rowspan="1" colspan="1">
+<bold>0.001</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Tis</td>
+              <td align="center" rowspan="1" colspan="1">8 (6.3%)</td>
+              <td align="center" rowspan="1" colspan="1">19 (2.4%)</td>
+              <td align="center" rowspan="1" colspan="1">27</td>
+              <td align="center" rowspan="1" colspan="1">0.06</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Tx</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">T0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">T1</td>
+              <td align="center" rowspan="1" colspan="1">39 (30.5%)</td>
+              <td align="center" rowspan="1" colspan="1">266 (33.5%)</td>
+              <td align="center" rowspan="1" colspan="1">305</td>
+              <td align="center" rowspan="1" colspan="1">0.59</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">T2</td>
+              <td align="center" rowspan="1" colspan="1">70 (54.7%)</td>
+              <td align="center" rowspan="1" colspan="1">462 (57.9%)</td>
+              <td align="center" rowspan="1" colspan="1">532</td>
+              <td align="center" rowspan="1" colspan="1">0.56</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">T3</td>
+              <td align="center" rowspan="1" colspan="1">4 (3.1%)</td>
+              <td align="center" rowspan="1" colspan="1">42 (5.3%)</td>
+              <td align="center" rowspan="1" colspan="1">46</td>
+              <td align="center" rowspan="1" colspan="1">0.39</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">T4</td>
+              <td align="center" rowspan="1" colspan="1">7 (5.5%)</td>
+              <td align="center" rowspan="1" colspan="1">8 (1.5%)</td>
+              <td align="center" rowspan="1" colspan="1">15</td>
+              <td align="center" rowspan="1" colspan="1">0.06</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">N0</td>
+              <td align="center" rowspan="1" colspan="1">80 (62.5%)</td>
+              <td align="center" rowspan="1" colspan="1">550 (68.9%)</td>
+              <td align="center" rowspan="1" colspan="1">630</td>
+              <td align="center" rowspan="1" colspan="1">0.19</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">N1</td>
+              <td align="center" rowspan="1" colspan="1">37 (28.9%)</td>
+              <td align="center" rowspan="1" colspan="1">170 (21.3%)</td>
+              <td align="center" rowspan="1" colspan="1">207</td>
+              <td align="center" rowspan="1" colspan="1">0.08</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">N2</td>
+              <td align="center" rowspan="1" colspan="1">7 (5.5%)</td>
+              <td align="center" rowspan="1" colspan="1">56 (7.0%)</td>
+              <td align="center" rowspan="1" colspan="1">63</td>
+              <td align="center" rowspan="1" colspan="1">0.64</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">N3</td>
+              <td align="center" rowspan="1" colspan="1">4 (3.1%)</td>
+              <td align="center" rowspan="1" colspan="1">22 (2.8%)</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">0.96</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">
+<bold>Multifocal/multicentric</bold>
+</td>
+              <td align="center" rowspan="1" colspan="1"><bold>31 (24.2%</bold>)</td>
+              <td align="center" rowspan="1" colspan="1"><bold>97 (12.2%</bold>)</td>
+              <td align="center" rowspan="1" colspan="1">
+<bold>128</bold>
+</td>
+              <td align="center" rowspan="1" colspan="1">
+<bold>0.00</bold>
+</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Bilateral</td>
+              <td align="center" rowspan="1" colspan="1">2 (1.5%)</td>
+              <td align="center" rowspan="1" colspan="1">12 (1.6%)</td>
+              <td align="center" rowspan="1" colspan="1">14</td>
+              <td align="center" rowspan="1" colspan="1">0.72</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">SLNB</td>
+              <td align="center" rowspan="1" colspan="1">94 (73.4%)</td>
+              <td align="center" rowspan="1" colspan="1">568 (71.2%)</td>
+              <td align="center" rowspan="1" colspan="1">662</td>
+              <td align="center" rowspan="1" colspan="1">0.68</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">ALND</td>
+              <td align="center" rowspan="1" colspan="1">48 (37.5%)</td>
+              <td align="center" rowspan="1" colspan="1">301 (37.7%)</td>
+              <td align="center" rowspan="1" colspan="1">349</td>
+              <td align="center" rowspan="1" colspan="1">0.96</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Tumor size, cm</td>
+              <td align="center" rowspan="1" colspan="1">2.9 (0.2&#x2013;9)</td>
+              <td align="center" rowspan="1" colspan="1">2.8 (0.3&#x2013;15.8)</td>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1">0.72</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Weight of specimen, g</td>
+              <td align="center" rowspan="1" colspan="1">126.4 (9&#x2013;1034)</td>
+              <td align="center" rowspan="1" colspan="1">107.8 (2&#x2013;1174)</td>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1">0.34</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">R1</td>
+              <td align="center" rowspan="1" colspan="1">5 (3.8%)</td>
+              <td align="center" rowspan="1" colspan="1">29 (3.6%)</td>
+              <td align="center" rowspan="1" colspan="1">34</td>
+              <td align="center" rowspan="1" colspan="1">0.92</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Symmetrizing mammoplasty (in unilateral cases)</td>
+              <td align="center" rowspan="1" colspan="1">20 (15.6%)</td>
+              <td align="center" rowspan="1" colspan="1">165 (20.7%)</td>
+              <td align="center" rowspan="1" colspan="1">185</td>
+              <td align="center" rowspan="1" colspan="1">0.21</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Neoadjuvant treatment</td>
+              <td align="center" rowspan="1" colspan="1">41 (32.0%)</td>
+              <td align="center" rowspan="1" colspan="1">272 (34.1%)</td>
+              <td align="center" rowspan="1" colspan="1">313</td>
+              <td align="center" rowspan="1" colspan="1">0.72</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Time of follow-up, m</td>
+              <td align="center" rowspan="1" colspan="1">42 (6&#x2013;152)</td>
+              <td align="center" rowspan="1" colspan="1">45 (6&#x2013;184)</td>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1">0.59</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Local recurrence</td>
+              <td align="center" rowspan="1" colspan="1">2 (1.6%)</td>
+              <td align="center" rowspan="1" colspan="1">9 (1.1%)</td>
+              <td align="center" rowspan="1" colspan="1">11</td>
+              <td align="center" rowspan="1" colspan="1">0.98</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Regional recurrence</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">4 (0.5%)</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">0.94</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Systemic recurrence</td>
+              <td align="center" rowspan="1" colspan="1">12 (9.4%)</td>
+              <td align="center" rowspan="1" colspan="1">84 (10.5%)</td>
+              <td align="center" rowspan="1" colspan="1">96</td>
+              <td align="center" rowspan="1" colspan="1">0.81</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Died due to progression</td>
+              <td align="center" rowspan="1" colspan="1">5 (3.3%)</td>
+              <td align="center" rowspan="1" colspan="1">44 (5.5%)</td>
+              <td align="center" rowspan="1" colspan="1">49</td>
+              <td align="center" rowspan="1" colspan="1">0.58</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Died due to other causes</td>
+              <td align="center" rowspan="1" colspan="1">1 (0.8%)</td>
+              <td align="center" rowspan="1" colspan="1">4 (0.5%)</td>
+              <td align="center" rowspan="1" colspan="1">5</td>
+              <td align="center" rowspan="1" colspan="1">0.79</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Overall survival</td>
+              <td align="center" rowspan="1" colspan="1">92.9%</td>
+              <td align="center" rowspan="1" colspan="1">90.5%</td>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1">0.34</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Time to progression, m</td>
+              <td align="center" rowspan="1" colspan="1">38 (6&#x2013;70)</td>
+              <td align="center" rowspan="1" colspan="1">35 (1&#x2013;160)</td>
+              <td align="center" rowspan="1" colspan="1"/>
+              <td align="center" rowspan="1" colspan="1">0.72</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn fn-type="other">
+            <p>The Bold text marks the statistically significant differences.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTS</title>
+      <p>All consecutive cases of breast conserving surgery in patients with invasive and/or noninvasive breast cancer performed from 2007 to December 2021 in a single institution in prospectively maintained databases were included in the review. In total, 940 lumpectomies were performed for 926 patients during this period, and 14 (1.5%) patients had bilateral tumors. The CBTL group included 128 patients with 130 lumpectomies (13.8%), the OBTL group included 798 patients with 810 lumpectomies (86.2%). The average ages of the patients were 54 (22&#x2013;81) and 52 (23&#x2013;88) years, respectively. A significant difference was found in the biological characteristics of the tumors, a greater number of estrogen-positive tumors in the group of central tumors (112 (87.5%) versus 589 (73.8%), <italic toggle="yes">P</italic> = 0.001) and triple-negative tumors in the group with other localizations (six (4.7%) versus 143 (17.9%), <italic toggle="yes">P</italic> = 0.001). A significant predominance of multifocal/multicentric tumors in the group of central lumpectomy was found [31 (24.2%) versus 97 (12.2%), <italic toggle="yes">P</italic> = 0.00]. The rates of involved margins in 5 (3.8%) and 29 (3.6%) cases were the same (<italic toggle="yes">P</italic> = 0.98). These patients underwent reexcision or mastectomy. The surgical techniques used for the CBTL are presented in Supplemental Digital Content 1. (<bold>See table, Supplemental Digital Content 1</bold>, which shows the structure of the procedures according to the types of the techniques, managing of the areola, and nipple reconstruction. <ext-link xlink:href="http://links.lww.com/PRSGO/D185" ext-link-type="uri">http://links.lww.com/PRSGO/D185</ext-link>.) In the CBTL group, nipple reconstruction was performed in eight cases: five immediately and three delayed. Both groups had the same number of patients treated with neoadjuvant chemotherapy. The median follow-up period for the CBTL and OBTL groups was 42 (6&#x2013;152) and 45(6&#x2013;184) months, respectively. We did not find any significant differences in LRR, SRR, OS (Fig. <xref rid="F3" ref-type="fig">3</xref>), or rates of TP and DDP (Table <xref rid="T1" ref-type="table">1</xref>) between the groups. However, in the subgroup analysis, SRR, TP, and DDP were significantly higher in patients with triple-negative cancer in the OBTL group, which was obvious because of the higher number of these patients in the OBTL group. Early surgical complications were found in 20 (15.3%) cases in CBTL group and in 153 (18.9%) cases in the OBTL group, with 3 (2.3%) and 30 (3.7%) cases of early revision, respectively, which was not statistically significant (<italic toggle="yes">P</italic> = 0.39 versus <italic toggle="yes">P</italic> = 0.56 respectively). The subgroup analysis did not find any statistical differences in the structure of the main surgical complications such as hematoma, wound infection, seroma, ischemia, and necrosis. (<bold>See table, Supplemental Digital Content 2</bold>, which shows the structure of early complications. <ext-link xlink:href="http://links.lww.com/PRSGO/D186" ext-link-type="uri">http://links.lww.com/PRSGO/D186</ext-link>.)</p>
+      <fig position="float" id="F3">
+        <label>Fig. 3.</label>
+        <caption>
+          <p>Kaplan&#x2013;Meier curves with the analysis of LLR, distant recurrence rate, and OS between groups of CBTL and OBTL.</p>
+        </caption>
+        <graphic xlink:href="gox-12-e5789-g003" position="float"/>
+      </fig>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSION</title>
+      <p>Tumor location is one of the most actively discussed prognostic factors in literature. Most investigations,<sup><xref rid="R17" ref-type="bibr">17</xref>&#x2013;<xref rid="R26" ref-type="bibr">26</xref></sup> but not all,<sup><xref rid="R27" ref-type="bibr">27</xref></sup> consider central and medial locations as more clinically aggressive and those that could have a worse prognosis. The main hypothesis to explain this phenomenon is the lymphatic anatomy<sup><xref rid="R28" ref-type="bibr">28</xref>&#x2013;<xref rid="R30" ref-type="bibr">30</xref></sup> with drainage of potential metastasis to the internal mammary chain lymph nodes, which can cause the early spread of the disease.<sup><xref rid="R31" ref-type="bibr">31</xref>&#x2013;<xref rid="R33" ref-type="bibr">33</xref></sup> Despite this, BCS at the central tumor location not only does not worsen but also significantly improves the oncological results of treatment in comparison with mastectomy, while achieving the same results as BCS in cases with other tumor locations.<sup><xref rid="R34" ref-type="bibr">34</xref>&#x2013;<xref rid="R38" ref-type="bibr">38</xref></sup> Current clinical practice considers BCS as a safe option for central tumors, which is consistent with our experience. However, reconstruction of the central part of the breast can be technically challenging. To choose the technique for breast reconstruction, several factors must be considered, including the size of the breast and tumor, grade of ptosis, distance from the tumor to the nipple, surgeon experience, and patient preference. Surgeons should consider whether the areola has to be preserved, removed, transplanted, or reconstructed. In our practice, we consider cups A and B as small breasts, cup C as medium, and cup D and larger as large breasts. Small tumors are generally up to 2&#x2009;cm in size, medium tumors range from 2 to approximately 4&#x2009;cm, and large tumors are approximately 4&#x2009;cm or more. We tried to avoid or minimize the scars on the breast skin, use the wide rearrangement of the parenchyma with its mobilization along with the retromammary layer and possible fasciotomy of the posterior breast fascia for better tissue redistribution, and widely use regional perforant flaps. These approaches are mostly used in patients with small breasts aiming for complete restoration of breast shape and size, following the concept of &#x201C;invisible surgery.&#x201D;<sup><xref rid="R39" ref-type="bibr">39</xref></sup> In patients with medium and large breasts and ptosis, therapeutic mammoplasty with the formation of internal local parenchymal flaps is preferred to close the defect. Conceptually, it means the division of the gland tissue into upper and lower segments along with the Wuringer septa<sup><xref rid="R40" ref-type="bibr">40</xref></sup> and using the remaining tissue after tumor excision to close the defect. If the NAC remains on the lower segment or is removed (with possible transplantation to the new position), we call it the inferior flap technique.<sup><xref rid="R41" ref-type="bibr">41</xref></sup> (<bold>See figure, Supplemental Digital Content 3,</bold> which shows pre-, intra-, and postoperative photographs with stages of the surgery. <ext-link xlink:href="http://links.lww.com/PRSGO/D187" ext-link-type="uri">http://links.lww.com/PRSGO/D187</ext-link>.) In the case of areola preservation on the upper segment of the breast using the deepidermized lower part, like the mobile local flap for the restoration of the breast shape with many possible modifications, we call it the modified Ribeiro technique<sup><xref rid="R16" ref-type="bibr">16</xref></sup> (Fig. <xref rid="F4" ref-type="fig">4</xref>). The superior flap technique involves complete removal of the lower segment with preservation of the fascial components of the submammary fold and restoration of the breast using the tissue of the upper part of the breast. Therapeutic mammoplasties follow the concept of &#x201C;making the breast better.&#x201D; In such cases, we propose a symmetrization procedure. The aim of oncological surgery is complete removal of the tumor, that is, free margins. Because even 1&#x2009;mm is considered sufficient, every millimeter does matter. Therefore, the intraoperative marking and evaluation of the surgical margins, from our point of view, are crucial for the final selection of the oncoplastic technique and patient safety. The &#x201C;scenario approach&#x201D; is required because the surgeon has to be ready to use various techniques depending on the size of the defect. In our practice, we use the color markings of the specimen in the operating room by the surgeon and immediate evaluation of the margins by the pathologist, including the frozen section, and always discuss different surgical scenarios with the patient before the procedure. Level 1 techniques, according to the Clought classification,<sup><xref rid="R42" ref-type="bibr">42</xref></sup> are considered less complex. If preservation of the NAC is possible, periareolar tumor excision using periareolar access along the areolar contour with wide mobilization and rearrangement of the parenchyma is performed. Round block mammoplasty can be used to correct mild ptosis and obtain better aesthetic results in middle-sized breasts.<sup><xref rid="R43" ref-type="bibr">43</xref></sup> If the tumor is small and located close to the muscle in the projection of the areola, the retroglandular &#x201C;from inside&#x201D; lumpectomy<sup><xref rid="R39" ref-type="bibr">39</xref>,<xref rid="R44" ref-type="bibr">44</xref></sup> from the access along the lateral or inferior contour of the breast is effective. In cases of small breasts, the lateral parenchymal flap can be used when the central parenchymal defect is significant.<sup><xref rid="R39" ref-type="bibr">39</xref>,<xref rid="R45" ref-type="bibr">45</xref></sup> It is formed by mobilization of the lateral part of the parenchyma under the skin and above the muscle, with the formation of a bridge-like parenchymal flap that is displaced medially with the closure of the defect. If necessary, the lateral contour of the gland is compensated for by moving the adipofascial tissue from the axillary region or by a small LTAP/LICAP flap (Fig. <xref rid="F5" ref-type="fig">5</xref>). In the case of areola removal, the central part of the breast can be closed with purse-string sutures with parenchymal remodeling.<sup><xref rid="R46" ref-type="bibr">46</xref></sup> However, it can lead to severe scarring. To avoid this and minimize the reduction of the skin surface area and deformity by flattening the breast, the central defect can be closed by wide tissue rearrangement. The areola is reconstructed using a free-skin graft (Fig. <xref rid="F6" ref-type="fig">6</xref>). Usually, it is harvested from the axillary region. Horizontal mammoplasty with areola removal (&#x201C;melon slice&#x201D; technique) and areola preservation (&#x201C;bat wing&#x201D; technique) is usually used for ptotic fatty breasts in older patients because of the presence of significant scars. In our practice, periareolar mammoplasty and horizontal techniques are most often used. Patients with large and/or ptotic breasts are good candidates for therapeutic mammoplasty.<sup><xref rid="R47" ref-type="bibr">47</xref></sup> If the areola needs to be removed, parenchymal rotation using the Grisotti technique<sup><xref rid="R15" ref-type="bibr">15</xref></sup> is effective. However, the most frequently used techniques in our practice are inferior flap and Ribeiro mammoplasty,<sup><xref rid="R16" ref-type="bibr">16</xref></sup> with different modifications. These techniques allow the possibility of closing significant defects. Occasionally, the inferior flap can be expanded by including tissue from the epigastric zone below the submammary fold with tissue mobilization and upward movement. In this case, the submammary fold was reconstructed in a new position, considering the contralateral breast. Preservation of the skin island on the inferior flap provides the possibility for areola reconstruction. (<bold>See figure, Supplemental Digital Content 4</bold>, which shows pre-, intra-, and postoperative photographs with stages of the surgery. <ext-link xlink:href="http://links.lww.com/PRSGO/D231" ext-link-type="uri">http://links.lww.com/PRSGO/D231</ext-link>.) A superior flap technique can also be used if a patient requires significant reduction or if the tumor has a central-lower location. In cases of moderate ptosis and small tumors with areola preservation, vertical mammoplasty is appropriate. In our practice, different types of therapeutic mammoplasty are commonly used for central defect reconstruction. When a defect is large in small- or medium-sized breasts, regional perforant flaps are highly effective. Even in cases in which the areola should be removed, a flap with a skin island is used for NAC reconstruction. The LD flap was initially used for this purpose. However, the implementation of the LTAP/LICAP/AICAP flap technique allowed us to obtain the same results in a less aggressive and traumatic manner.<sup><xref rid="R48" ref-type="bibr">48</xref></sup> Sometimes, to move the LTAP/LICAP flap to the central defect more safely, we use the &#x201C;window&#x201D; in the pectoralis major muscle (Fig. <xref rid="F7" ref-type="fig">7</xref>). It helps reduce tension in the flap pedicle and bulking in the lateral part of the breast.<sup><xref rid="R49" ref-type="bibr">49</xref></sup> Immediate or delayed nipple reconstruction should be considered in cases of areolar removal.</p>
+      <fig position="float" id="F4">
+        <label>Fig. 4.</label>
+        <caption>
+          <p>The tumor was located in the superior-medial-central part of the breast, in the middle of the parenchyma. The modified Ribeiro technique was used. A, The presurgery view with tumor location and surgical markings, like inverted T; B, The postsurgical view 15 months after the surgery and radiotherapy, after partial nipple and areola necrosis. The weight of the removed specimen was 308&#x2009;g. Intraoperative photographs: C, The surgical access by dividing the breast into superior and inferior segments. The tumor was excised through the medial part of inverted T access, and the skin of the superior-lateral segment was raised to open the tumor bed. The superior flap with NAC on the superior-medial pedicle and inferior flap were mobilized, deepidermized, and moved on to close the defect after tumor removal; D, The superior flap covered the inferior flap with the final view on the table.</p>
+        </caption>
+        <graphic xlink:href="gox-12-e5789-g004" position="float"/>
+      </fig>
+      <fig position="float" id="F5">
+        <label>Fig. 5.</label>
+        <caption>
+          <p>The tumor was located in the central part of the breast, retroareolar, closer to the chest wall. The combination of lateral parenchymal flap technique and LTAP/LICAP flap was used. A, The pretreatment view with tumor location, and surgical markings. B, The postsurgical view 11 months the surgery and radiotherapy. The weight of the removed specimen was 42&#x2009;g. Intraoperative photographs: C, The tumor was excised through the lateral contour access with areola preservation, and the flap was prepared to close the defect. But the flap pedicle was too short to move the flap enough to fill the defect; D, The lateral parenchymal bridge-like flap was mobilized under the skin and above the muscle and then was moved medially to close the defect (blue arrow). To restore the lateral contour of the breast, the LTAP/LICAP flap was used and moved medially (yellow arrow); E, Flaps are in their final positions.</p>
+        </caption>
+        <graphic xlink:href="gox-12-e5789-g005" position="float"/>
+      </fig>
+      <fig position="float" id="F6">
+        <label>Fig. 6.</label>
+        <caption>
+          <p>The tumor was located in the central part of the breast, retroareolar, close to the skin. The tumor was excised with the areola, and the wound&#x2019;s bottom was filled by the parenchyma rearrangement and closed by temporary dressing. The areola was reconstructed by a full-thickness skin graft. The postsurgical view 18 months after the surgery and radiotherapy. The weight of the removed specimen was 10&#x2009;g.</p>
+        </caption>
+        <graphic xlink:href="gox-12-e5789-g006" position="float"/>
+      </fig>
+      <fig position="float" id="F7">
+        <label>Fig. 7.</label>
+        <caption>
+          <p>The tumor was located in the central part of the right breast, retroareolar, close to the skin. LTAP/LICAP flap technique with areola reconstruction was used. A, The pretreatment view with tumor location and surgical markings; B, The postsurgical view 17 months after the surgery and radiotherapy, and delayed nipple reconstruction. The weight of the removed specimen was 84&#x2009;g. Intraoperative photographs: C, The tumor was removed with the areola through a periareolar incision. The LTAP/LICAP flap was mobilized and prepared. The lateral part of the breast was pulled up to open the flap pedicle. To avoid the removal of the healthy parenchyma of the lateral sector of the breast and bulking in the lateral part of the gland, the &#x201C;window&#x201D; in the pectoralis muscle was performed. The clamp was passed through the hole in the muscle and took the flap; D, The flap was deepidermized with the preservation of the skin island for reconstruction, and moved through the &#x201C;window&#x201D; in muscle to the breast; E, the flap was placed onto the defect after tumor removal with the final view on the table with the areola reconstruction.</p>
+        </caption>
+        <graphic xlink:href="gox-12-e5789-g007" position="float"/>
+      </fig>
+      <p>Based on our experience, we propose a general algorithm for selecting a technique for partial breast reconstruction according to the above-mentioned parameters. (<bold>See table, Supplemental Digital Content 5</bold>, which shows the general algorithm of the selection of the technique according to the size of the breast and ptosis grade, size of the tumor, and managing of the areola. <ext-link xlink:href="http://links.lww.com/PRSGO/D232" ext-link-type="uri">http://links.lww.com/PRSGO/D232</ext-link>.) It includes not all but the most rational, from our point of view, types of surgery aimed at achieving maximum aesthetic results. Obviously, the final choice of technique should be based on many factors, including surgeon experience and surgeon and patient preferences. The retrospective analysis of our data shows that the rate of early complications in oncoplastic BCS does not depend on tumor location. This study has several limitations. First, it was retrospective. However, this can be compensated by a significant number of patients and follow-up. The second is the subjectivity in determining the central location of the tumor as well as the distribution of patients according to the size of the breast. We did not perform a special instrumental assessment of the volume of the glands, as this is a complex procedure that, in our opinion, does not fundamentally affect the selection of the surgical technique. Our goal was not to create a strict academic algorithm based on exact measurements. The authors wanted to demonstrate a simple and practical real-life approach for choosing the type of surgery and present the diversity of the techniques, which may be useful for breast surgeons.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>CONCLUSIONS</title>
+      <p>Despite the challenges in cases of central tumor location, it is possible to achieve good oncological, functional, and aesthetic results using oncoplastic breast conservation techniques. Oncoplastic BCS is a safe procedure for the treatment of central tumors. Delayed oncological results, such as LRR, SRR, TP, DDP, OS, and the level of early complications, did not differ significantly between the central tumor location and other tumor location groups. The proposed classification of partial breast reconstruction techniques and an algorithm of their choice, from our point of view, allow for the effective restoration of breast shape and volume according to the parameters of the tumor and breast, and surgeon and patient preferences.</p>
+    </sec>
+    <sec sec-type="COI-statement">
+      <title>DISCLOSURE</title>
+      <p>The authors have no financial interest to declare in relation to the content of this article.</p>
+    </sec>
+    <sec>
+      <title>ETHICAL CONSIDERATIONS</title>
+      <p>This was a retrospective analysis of the single-institution experience with a focus on the decision-making process for choosing the oncoplastic breast-conserving surgery (BCS) technique. All the patients signed a preoperative informed consent form. This study was approved by the ethical committee of the LISOD Hospital of Israeli Oncology where all procedures were performed.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material id="SD1" position="float" content-type="local-data">
+        <media id="s1" content-type="document" xlink:href="gox-12-e5789-s001.pdf" position="anchor"/>
+        <media id="s2" content-type="document" xlink:href="gox-12-e5789-s002.pdf" position="anchor"/>
+        <media id="s3" content-type="document" xlink:href="gox-12-e5789-s003.pdf" position="anchor"/>
+        <media id="s4" content-type="document" xlink:href="gox-12-e5789-s004.pdf" position="anchor"/>
+        <media id="s5" content-type="document" xlink:href="gox-12-e5789-s005.pdf" position="anchor"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="other">
+        <p>Published online 6 May 2024.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>Presented (oral presentation) at XIV Congress of Oncologists and Radiologists of Ukraine, September 30&#x2013;October 2, 2021, Kyiv, Ukraine; and at ASOMACON 5th Annual International Conference of Asian Society of Mastology, November 14&#x2013;16, 2021 Raipur, Chhattisgarh, India.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>
+<italic toggle="yes">Disclosure statements are at the end of this article, following the correspondence information.</italic>
+</p>
+      </fn>
+      <fn fn-type="other">
+        <p>Related Digital Media are available in the full-text version of the article on <ext-link xlink:href="www.PRSGlobalOpen.com" ext-link-type="uri">www.PRSGlobalOpen.com</ext-link>.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="R1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Agarwal</surname><given-names>S</given-names></name><name><surname>Pappas</surname><given-names>L</given-names></name><name><surname>Neumayer</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Effect of breast conservation therapy vs mastectomy on disease-specific survival for early-stage breast cancer.</article-title>
+<source>JAMA Surg</source>. <year>2014</year>;<volume>149</volume>:<fpage>267</fpage>&#x2013;<lpage>274</lpage>.<pub-id pub-id-type="pmid">24429935</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vila</surname><given-names>J</given-names></name><name><surname>Gandini</surname><given-names>S</given-names></name><name><surname>Gentilini</surname><given-names>O</given-names></name></person-group>. <article-title>Overall survival according to type of surgery in young (&#x2264;40 years) early breast cancer patients: a systematic meta-analysis comparing breast-conserving surgery versus mastectomy.</article-title>
+<source>Breast</source>. <year>2015</year>;<volume>24</volume>:<fpage>175</fpage>&#x2013;<lpage>181</lpage>.<pub-id pub-id-type="pmid">25728282</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>K</given-names></name><name><surname>Park</surname><given-names>HJ</given-names></name><name><surname>Shin</surname><given-names>KH</given-names></name><etal/></person-group>. <article-title>Breast conservation therapy versus mastectomy in patients with T1-2N1 triple-negative breast cancer: pooled analysis of KROG 14-18 and 14-23.</article-title>
+<source>Cancer Res Treat</source>. <year>2018</year>;<volume>50</volume>:<fpage>1316</fpage>&#x2013;<lpage>1323</lpage>.<pub-id pub-id-type="pmid">29334604</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corradini</surname><given-names>S</given-names></name><name><surname>Reitz</surname><given-names>D</given-names></name><name><surname>Pazos</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Mastectomy or breast-conserving therapy for early breast cancer in real-life clinical practice: outcome comparison of 7565 cases.</article-title>
+<source>Cancers (Basel)</source>. <year>2019</year>;<volume>11</volume>:<fpage>160</fpage>.<pub-id pub-id-type="pmid">30709048</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almahariq</surname><given-names>MF</given-names></name><name><surname>Quinn</surname><given-names>TJ</given-names></name><name><surname>Siddiqui</surname><given-names>Z</given-names></name><etal/></person-group>. <article-title>Breast conserving therapy is associated with improved overall survival compared to mastectomy in early-stage, lymph node-negative breast cancer.</article-title>
+<source>Radiother Oncol</source>. <year>2020</year>;<volume>142</volume>:<fpage>186</fpage>&#x2013;<lpage>194</lpage>.<pub-id pub-id-type="pmid">31615634</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wan</surname><given-names>Q</given-names></name><name><surname>Su</surname><given-names>L</given-names></name><name><surname>Ouyang</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>Comparison of survival after breast-conserving therapy vs mastectomy among patients with or without the brca1/2 variant in a large series of unselected Chinese patients with breast cancer.</article-title>
+<source>JAMA Netw Open</source>. <year>2021</year>;<volume>4</volume>:<fpage>e216259</fpage>.<pub-id pub-id-type="pmid">33890992</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R7">
+        <label>7.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Boniface</surname><given-names>J</given-names></name><name><surname>Szulkin</surname><given-names>R</given-names></name><name><surname>Johansson</surname><given-names>ALV</given-names></name></person-group>. <article-title>Survival after breast conservation vs mastectomy adjusted for comorbidity and socioeconomic status: a Swedish national 6-year follow-up of 48 986 women.</article-title>
+<source>JAMA Surg</source>. <year>2021</year>;<volume>156</volume>:<fpage>628</fpage>&#x2013;<lpage>637</lpage>.<pub-id pub-id-type="pmid">33950173</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fitzal</surname><given-names>F</given-names></name><name><surname>Riedl</surname><given-names>O</given-names></name><name><surname>Wutzl</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Breast-conserving surgery for T3/T4 breast cancer: an analysis of 196 patients.</article-title>
+<source>Breast Cancer Res Treat</source>. <year>2007</year>;<volume>103</volume>:<fpage>45</fpage>&#x2013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">17417725</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van der Noordaa</surname><given-names>MEM</given-names></name><name><surname>Ioan</surname><given-names>I</given-names></name><name><surname>Rutgers</surname><given-names>EJ</given-names></name><etal/></person-group>. <article-title>Breast-conserving therapy in patients with ct3 breast cancer with good response to neoadjuvant systemic therapy results in excellent local control: a comprehensive cancer center experience.</article-title>
+<source>Ann Surg Oncol</source>. <year>2021</year>;<volume>28</volume>:<fpage>7383</fpage>&#x2013;<lpage>7394</lpage>.<pub-id pub-id-type="pmid">33978889</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abel</surname><given-names>MK</given-names></name><name><surname>Brabham</surname><given-names>CE</given-names></name><name><surname>Guo</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Breast conservation therapy versus mastectomy in the surgical management of invasive lobular carcinoma measuring 4&#x2009;cm or greater.</article-title>
+<source>Am J Surg</source>. <year>2021</year>;<volume>221</volume>:<fpage>32</fpage>&#x2013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">32622509</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mazor</surname><given-names>AM</given-names></name><name><surname>Mateo</surname><given-names>AM</given-names></name><name><surname>Demora</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Breast conservation versus mastectomy in patients with T3 breast cancers (&gt;5&#x2009;cm): an analysis of 37,268 patients from the National Cancer Database.</article-title>
+<source>Breast Cancer Res Treat</source>. <year>2019</year>;<volume>173</volume>:<fpage>301</fpage>&#x2013;<lpage>311</lpage>.<pub-id pub-id-type="pmid">30343456</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bleicher</surname><given-names>RJ</given-names></name><name><surname>Ruth</surname><given-names>K</given-names></name><name><surname>Sigurdson</surname><given-names>ER</given-names></name><etal/></person-group>. <article-title>Breast conservation versus mastectomy for patients with T3 primary tumors (&gt;5&#x2009;cm): a review of 5685 medicare patients.</article-title>
+<source>Cancer</source>. <year>2016</year>;<volume>122</volume>:<fpage>42</fpage>&#x2013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">26479066</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Simmons</surname><given-names>RM</given-names></name><name><surname>Brennan</surname><given-names>MB</given-names></name><name><surname>Christos</surname><given-names>P</given-names></name><etal/></person-group>. <article-title>Recurrence rates in patients with central or retroareolar breast cancers treated with mastectomy or lumpectomy.</article-title>
+<source>Am J Surg</source>. <year>2001</year>;<volume>182</volume>:<fpage>325</fpage>&#x2013;<lpage>329</lpage>.<pub-id pub-id-type="pmid">11720664</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ren</surname><given-names>ZJ</given-names></name><name><surname>Li</surname><given-names>XJ</given-names></name><name><surname>Xu</surname><given-names>XY</given-names></name><etal/></person-group>. <article-title>Oncoplastic breast conserving surgery with nipple-areolar preservation for centrally located breast cancer: a retrospective cohort study.</article-title>
+<source>Asian Pac J Cancer Prev</source>. <year>2014</year>;<volume>15</volume>:<fpage>4847</fpage>&#x2013;<lpage>4849</lpage>.<pub-id pub-id-type="pmid">24998551</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Grisotti</surname><given-names>A</given-names></name></person-group>. <article-title>Immediate reconstruction after partial mastectomy.</article-title>
+<source>Operative Techn Plast Reconstr Surg</source>. <year>1994</year>;<volume>1</volume>:<fpage>1</fpage>&#x2013;<lpage>12</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ribeiro</surname><given-names>L</given-names></name></person-group>. <article-title>A new technique for reduction mammaplasty.</article-title>
+<source>Plast Reconstr Surg</source>. <year>1975</year>;<volume>55</volume>:<fpage>330</fpage>&#x2013;<lpage>334</lpage>.<pub-id pub-id-type="pmid">1118493</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zucali</surname><given-names>R</given-names></name><name><surname>Mariani</surname><given-names>L</given-names></name><name><surname>Marubini</surname><given-names>E</given-names></name><etal/></person-group>. <article-title>Early breast cancer: evaluation of the prognostic role of the site of the primary tumor.</article-title>
+<source>J Clin Oncol</source>. <year>1998</year>;<volume>16</volume>:<fpage>1363</fpage>&#x2013;<lpage>1366</lpage>.<pub-id pub-id-type="pmid">9552038</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lohrisch</surname><given-names>C</given-names></name><name><surname>Jackson</surname><given-names>J</given-names></name><name><surname>Jones</surname><given-names>A</given-names></name><etal/></person-group>. <article-title>Relationship between tumor location and relapse in 6,781 women with early invasive breast cancer.</article-title>
+<source>J Clin Oncol</source>. <year>2000</year>;<volume>18</volume>:<fpage>2828</fpage>&#x2013;<lpage>2835</lpage>.<pub-id pub-id-type="pmid">10920130</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gill</surname><given-names>PG</given-names></name><name><surname>Birrell</surname><given-names>SN</given-names></name><name><surname>Luke</surname><given-names>CG</given-names></name><etal/></person-group>. <article-title>Tumour location and prognostic characteristics as determinants of survival of women with invasive breast cancer: south Australian hospital-based cancer registries, 1987</article-title>&#x2013;<article-title>1998.</article-title>
+<source>Breast</source>. <year>2002</year>;<volume>11</volume>:<fpage>221</fpage>&#x2013;<lpage>227</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kroman</surname><given-names>N</given-names></name><name><surname>Wohlfahrt</surname><given-names>J</given-names></name><name><surname>Mouridsen</surname><given-names>HT</given-names></name><etal/></person-group>. <article-title>Influence of tumor location on breast cancer prognosis.</article-title>
+<source>Int J Cancer</source>. <year>2003</year>;<volume>105</volume>:<fpage>542</fpage>&#x2013;<lpage>545</lpage>.<pub-id pub-id-type="pmid">12712447</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gaffney</surname><given-names>DK</given-names></name><name><surname>Tsodikov</surname><given-names>A</given-names></name><name><surname>Wiggins</surname><given-names>CL</given-names></name></person-group>. <article-title>Diminished survival in patients with inner versus outer quadrant breast cancers.</article-title>
+<source>J Clin Oncol</source>. <year>2003</year>;<volume>21</volume>:<fpage>467</fpage>&#x2013;<lpage>472</lpage>.<pub-id pub-id-type="pmid">12560437</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sohn</surname><given-names>VY</given-names></name><name><surname>Arthurs</surname><given-names>ZM</given-names></name><name><surname>Sebesta</surname><given-names>JA</given-names></name><etal/></person-group>. <article-title>Primary tumor location impacts breast cancer survival.</article-title>
+<source>Am J f Surg</source>. <year>2008</year>;<volume>195</volume>:<fpage>641</fpage>&#x2013;<lpage>644</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hwang</surname><given-names>K-T</given-names></name><name><surname>Kim</surname><given-names>J</given-names></name><name><surname>Kim</surname><given-names>E-K</given-names></name><etal/></person-group>. <article-title>Poor prognosis of lower inner quadrant in lymph node negative breast cancer patients who received no chemotherapy: a study based on nationwide korean breast cancer registry database.</article-title>
+<source>Clin Breast Cancer</source>. <year>2017</year>;<volume>17</volume>:<fpage>e169</fpage>&#x2013;<lpage>184</lpage>.<pub-id pub-id-type="pmid">28169145</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ji</surname><given-names>F</given-names></name><name><surname>Xiao</surname><given-names>WK</given-names></name><name><surname>Yang</surname><given-names>CQ</given-names></name><etal/></person-group>. <article-title>Tumor location of the central and nipple portion is associated with impaired survival for women with breast cancer.</article-title>
+<source>Cancer Manag Res</source>. <year>2019</year>;<volume>11</volume>:<fpage>2915</fpage>&#x2013;<lpage>2925</lpage>.<pub-id pub-id-type="pmid">31040717</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rummel</surname><given-names>S</given-names></name><name><surname>Hueman</surname><given-names>MT</given-names></name><name><surname>Costantino</surname><given-names>N</given-names></name><etal/></person-group>. <article-title>Tumour location within the breast: does tumour site have prognostic ability?</article-title>
+<source>Ecancermedicalscience</source>. <year>2015</year>;<volume>9</volume>:<fpage>552</fpage>.<pub-id pub-id-type="pmid">26284116</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>X</given-names></name><name><surname>Ma</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>H</given-names></name><etal/></person-group>. <article-title>Prognostic significance of the primary tumor site and immune indexes in patients with estrogen receptor-positive, human epidermal growth factor receptor-2-negative breast cancer.</article-title>
+<source>Gland Surg</source>. <year>2020</year>;<volume>9</volume>:<fpage>1450</fpage>&#x2013;<lpage>1468</lpage>.<pub-id pub-id-type="pmid">33224820</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fowble</surname><given-names>B</given-names></name><name><surname>Solin</surname><given-names>LJ</given-names></name><name><surname>Schultz</surname><given-names>DJ</given-names></name><etal/></person-group>. <article-title>Breast recurrence and survival related to primary tumor location in patients undergoing conservative surgery and radiation for early-stage breast cancer.</article-title>
+<source>Intern J Radiation Oncol Biol Phy</source>. <year>1992</year>;<volume>23</volume>:<fpage>933</fpage>&#x2013;<lpage>939</lpage>.</mixed-citation>
+      </ref>
+      <ref id="R28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tanis</surname><given-names>PJ</given-names></name><name><surname>Nieweg</surname><given-names>OE</given-names></name><name><surname>Vald&#xE9;s Olmos</surname><given-names>RA</given-names></name><etal/></person-group>. <article-title>Anatomy and physiology of lymphatic drainage of the breast from the perspective of sentinel node biopsy.</article-title>
+<source>J Am Coll Surg</source>. <year>2001</year>;<volume>192</volume>:<fpage>399</fpage>&#x2013;<lpage>409</lpage>.<pub-id pub-id-type="pmid">11245383</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Suami</surname><given-names>H</given-names></name><name><surname>Pan</surname><given-names>WR</given-names></name><name><surname>Mann</surname><given-names>GB</given-names></name><etal/></person-group>. <article-title>The lymphatic anatomy of the breast and its implications for sentinel lymph node biopsy: a human cadaver study.</article-title>
+<source>Ann Surg Oncol</source>. <year>2008</year>;<volume>15</volume>:<fpage>863</fpage>&#x2013;<lpage>871</lpage>.<pub-id pub-id-type="pmid">18043970</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pan</surname><given-names>WR</given-names></name><name><surname>Rozen</surname><given-names>WM</given-names></name><name><surname>Stella</surname><given-names>DL</given-names></name><etal/></person-group>. <article-title>A three-dimensional analysis of the lymphatics of a bilateral breast specimen: a human cadaveric study.</article-title>
+<source>Clin Breast Cancer</source>. <year>2009</year>;<volume>9</volume>:<fpage>86</fpage>&#x2013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">19433388</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>RC</given-names></name><name><surname>Lin</surname><given-names>NU</given-names></name><name><surname>Golshan</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Internal mammary nodes in breast cancer: diagnosis and implications for patient management&#x2014;a systematic review.</article-title>
+<source>J Clin Oncol</source>. <year>2008</year>;<volume>26</volume>:<fpage>4981</fpage>&#x2013;<lpage>4989</lpage>.<pub-id pub-id-type="pmid">18711171</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cong</surname><given-names>B</given-names></name><name><surname>Cao</surname><given-names>X</given-names></name><name><surname>Cao</surname><given-names>L</given-names></name><etal/></person-group>. <article-title>Internal mammary lymph nodes radiotherapy of breast cancer in the era of individualized medicine.</article-title>
+<source>Oncotarget</source>. <year>2017</year>;<volume>8</volume>:<fpage>81583</fpage>&#x2013;<lpage>81590</lpage>.<pub-id pub-id-type="pmid">29113416</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jia</surname><given-names>S</given-names></name><name><surname>Liu</surname><given-names>Z</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><etal/></person-group>. <article-title>Can internal mammary lymph nodes irradiation bring survival benefits for breast cancer patients? A systematic review and meta-analysis of 12,705 patients in 12 studies.</article-title>
+<source>Radiat Oncol</source>. <year>2021</year>;<volume>16</volume>:<fpage>42</fpage>.<pub-id pub-id-type="pmid">33622345</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Haffty</surname><given-names>BG</given-names></name><name><surname>Wilson</surname><given-names>LD</given-names></name><name><surname>Smith</surname><given-names>R</given-names></name><etal/></person-group>. <article-title>Subareolar breast cancer: long-term results with conservative surgery and radiation therapy.</article-title>
+<source>Int J Radiat Oncol Biol Phys</source>. <year>1995</year>;<volume>33</volume>:<fpage>53</fpage>&#x2013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">7642431</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wagner</surname><given-names>E</given-names></name><name><surname>Schrenk</surname><given-names>P</given-names></name><name><surname>Huemer</surname><given-names>GM</given-names></name><etal/></person-group>. <article-title>Central quadrantectomy with resection of the nipple-areola complex compared with mastectomy in patients with retroareolar breast cancer.</article-title>
+<source>Breast J</source>. <year>2007</year>;<volume>13</volume>:<fpage>557</fpage>&#x2013;<lpage>563</lpage>.<pub-id pub-id-type="pmid">17983395</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Zhong</surname><given-names>Z</given-names></name><etal/></person-group>. <article-title>Breast-conserving therapy has better prognosis for tumors in the central and nipple portion of breast cancer compared with mastectomy: a SEER data-based study.</article-title>
+<source>Front Oncol</source>. <year>2021</year>;<volume>11</volume>:<fpage>642571</fpage>.<pub-id pub-id-type="pmid">34458132</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shen</surname><given-names>YF</given-names></name><name><surname>Huang</surname><given-names>J</given-names></name><name><surname>Zhou</surname><given-names>WB</given-names></name><name><surname>et al.</surname></name></person-group>
+<article-title>Breast-conserving in centrally located breast cancer patients confirmed safe by SEER based study</article-title>, <source>Gland Surg</source>
+<year>2022</year>;<volume>11</volume>:<fpage>226</fpage>&#x2013;<lpage>235</lpage>.<pub-id pub-id-type="pmid">35242684</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fitoussi</surname><given-names>AD</given-names></name><name><surname>Berry</surname><given-names>MG</given-names></name><name><surname>Fam&#xE0;</surname><given-names>F</given-names></name><etal/></person-group>. <article-title>Oncoplastic breast surgery for cancer: analysis of 540 consecutive cases [outcomes article].</article-title>
+<source>Plast Reconstr Surg</source>. <year>2010</year>;<volume>125</volume>:<fpage>454</fpage>&#x2013;<lpage>462</lpage>.<pub-id pub-id-type="pmid">20124831</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhygulin</surname><given-names>A</given-names></name><name><surname>Fedosov</surname><given-names>A</given-names></name><name><surname>Palytsia</surname><given-names>V</given-names></name></person-group>. <article-title>Invisible surgery concept and scenario strategy: how to get the best aesthetic results in oncoplastic breast-conserving surgery.</article-title>
+<source>Plast Reconstr Surg</source>. <year>2021</year>;<volume>148</volume>:<fpage>1209</fpage>&#x2013;<lpage>1213</lpage>.<pub-id pub-id-type="pmid">34847109</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wuringer</surname><given-names>E</given-names></name><name><surname>Mader</surname><given-names>N</given-names></name><name><surname>Posch</surname><given-names>E</given-names></name><etal/></person-group>. <article-title>Nerve and vessel supplying ligamentous suspension of the mammary gland.</article-title>
+<source>Plast Reconstr Surg</source>. <year>1998</year>;<volume>101</volume>:<fpage>1486</fpage>&#x2013;<lpage>1493</lpage>.<pub-id pub-id-type="pmid">9583477</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chung</surname><given-names>TL</given-names></name><name><surname>Schnaper</surname><given-names>L</given-names></name><name><surname>Silverman</surname><given-names>RP</given-names></name><etal/></person-group>. <article-title>A novel reconstructive technique following central lumpectomy.</article-title>
+<source>Plast Reconstr Surg</source>. <year>2006</year>;<volume>118</volume>:<fpage>23</fpage>&#x2013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">16816670</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clough</surname><given-names>KB</given-names></name><name><surname>Kaufman</surname><given-names>GJ</given-names></name><name><surname>Nos</surname><given-names>C</given-names></name><etal/></person-group>. <article-title>Improving breast cancer surgery: a classification and quadrant per quadrant atlas for oncoplastic surgery.</article-title>
+<source>Ann Surg Oncol</source>. <year>2010</year>;<volume>17</volume>:<fpage>1375</fpage>&#x2013;<lpage>1391</lpage>.<pub-id pub-id-type="pmid">20140531</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Benelli</surname><given-names>L</given-names></name></person-group>. <article-title>A new periareolar mammaplasty: the &#x201C;round block&#x201D; technique.</article-title>
+<source>Aesthetic Plast Surg</source>. <year>1990</year>;<volume>14</volume>:<fpage>93</fpage>&#x2013;<lpage>100</lpage>.<pub-id pub-id-type="pmid">2185619</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>M&#xE1;trai</surname><given-names>Z</given-names></name><name><surname>&#xDA;jhelyi</surname><given-names>M</given-names></name><name><surname>Kov&#xE1;cs</surname><given-names>T</given-names></name><etal/></person-group>. <article-title>Evaluation of a retroglandular oncoplastic technique as a standard level i oncoplastic breast-conserving surgery: a retrospective clinico-pathologic study of 102 patients with breast cancer.</article-title>
+<source>Clin Breast Cancer</source>. <year>2019</year>;<volume>19</volume>:<fpage>e459</fpage>&#x2013;<lpage>e467</lpage>.<pub-id pub-id-type="pmid">30992191</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ogawa</surname><given-names>T</given-names></name><name><surname>Hanamura</surname><given-names>N</given-names></name><name><surname>Yamashita</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Oncoplastic technique combining an adipofascial flap with an extended glandular flap for the breast-conserving reconstruction of small dense breasts.</article-title>
+<source>J Breast Cancer</source>. <year>2012</year>;<volume>15</volume>:<fpage>468</fpage>&#x2013;<lpage>473</lpage>.<pub-id pub-id-type="pmid">23346178</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Franceschini</surname><given-names>G</given-names></name><name><surname>Terribile</surname><given-names>D</given-names></name><name><surname>Magno</surname><given-names>S</given-names></name><etal/></person-group>. <article-title>Conservative treatment of the central breast cancer with nipple-areolar resection: an alternative oncoplastic technique.</article-title>
+<source>G Chir</source>. <year>2008</year>;<volume>29</volume>:<fpage>23</fpage>&#x2013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">18252144</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McCulley</surname><given-names>SJ</given-names></name><name><surname>Durani</surname><given-names>P</given-names></name><name><surname>Macmillan</surname><given-names>RD</given-names></name></person-group>. <article-title>Therapeutic mammaplasty for centrally located breast tumors.</article-title>
+<source>Plast Reconstr Surg</source>. <year>2006</year>;<volume>117</volume>:<fpage>366</fpage>&#x2013;<lpage>373</lpage>.<pub-id pub-id-type="pmid">16462314</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nigam</surname><given-names>S</given-names></name><name><surname>Eichholz</surname><given-names>A</given-names></name><name><surname>Bhattacharyya</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Extreme oncoplasty for centrally located breast cancer in small non-ptotic breasts: extending the indications of chest wall perforator flaps with areolar reconstruction.</article-title>
+<source>Ecancermedicalscience</source>. <year>2021</year>;<volume>15</volume>:<fpage>1311</fpage>.<pub-id pub-id-type="pmid">35047062</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="R49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhygulin</surname><given-names>A</given-names></name><name><surname>Fedosov</surname><given-names>A</given-names></name><name><surname>Palytsia</surname><given-names>V</given-names></name></person-group>. <article-title>Modifications of the LICAP/LTAP flap technique in partial breast reconstruction for difficult tumor locations.</article-title>
+<source>Plast Reconstr Surg</source>. <year>2022</year>;<volume>150</volume>:<fpage>1219</fpage>&#x2013;<lpage>1222</lpage>.<pub-id pub-id-type="pmid">36103658</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

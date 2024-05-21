@@ -1,0 +1,760 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">JAC Antimicrob Resist</journal-id><journal-id journal-id-type="iso-abbrev">JAC Antimicrob Resist</journal-id><journal-id journal-id-type="publisher-id">jacamr</journal-id><journal-title-group><journal-title>JAC-Antimicrobial Resistance</journal-title></journal-title-group><issn pub-type="epub">2632-1823</issn><publisher><publisher-name>Oxford University Press</publisher-name><publisher-loc>UK</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">11073747</article-id><article-id pub-id-type="doi">10.1093/jacamr/dlae071</article-id><article-id pub-id-type="publisher-id">dlae071</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group><subj-group subj-group-type="category-taxonomy-collection"><subject>AcademicSubjects/MED00740</subject><subject>AcademicSubjects/SCI01150</subject></subj-group></article-categories><title-group><article-title>Intravenous cefuroxime as a first-line treatment for women hospitalized for pyelonephritis</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Everard</surname><given-names>C&#xE9;line</given-names></name><aff>
+<institution>Service of Internal Medicine, Clinique Saint-Pierre</institution>, <addr-line>Ottignies</addr-line>, <country country="BE">Belgium</country></aff></contrib><contrib contrib-type="author"><name><surname>Schampaert</surname><given-names>Axelle</given-names></name><aff>
+<institution>Service of Internal Medicine, Clinique Saint-Pierre</institution>, <addr-line>Ottignies</addr-line>, <country country="BE">Belgium</country></aff></contrib><contrib contrib-type="author"><name><surname>Doyen</surname><given-names>Louise</given-names></name><aff>
+<institution>Service of Internal Medicine, Clinique Saint-Pierre</institution>, <addr-line>Ottignies</addr-line>, <country country="BE">Belgium</country></aff></contrib><contrib contrib-type="author"><name><surname>Verbelen</surname><given-names>Val&#xE9;rie</given-names></name><aff>
+<institution>Service of Microbiology, Clinique Saint Pierre</institution>, <addr-line>Ottignies</addr-line>, <country country="BE">Belgium</country></aff></contrib><contrib contrib-type="author"><name><surname>Marot</surname><given-names>Jean-Christophe</given-names></name><aff>
+<institution>Service of Internal Medicine, Clinique Saint-Pierre</institution>, <addr-line>Ottignies</addr-line>, <country country="BE">Belgium</country></aff></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7540-8068</contrib-id><name><surname>Wie&#xEB;rs</surname><given-names>Gr&#xE9;goire</given-names></name><aff>
+<institution>Service of Internal Medicine, Clinique Saint-Pierre</institution>, <addr-line>Ottignies</addr-line>, <country country="BE">Belgium</country></aff><aff>
+<institution>Faculty of Medicine, Department of Medicine, URPC, Namur Research Institute for Life Sciences (NARILIS), University of Namur</institution>, <addr-line>Namur</addr-line>, <country country="BE">Belgium</country></aff><xref rid="dlae071-cor1" ref-type="corresp"/><!--gregoire.wieers@unamur.be--></contrib></contrib-group><author-notes><corresp id="dlae071-cor1">Corresponding author. E-mail: <email>gregoire.wieers@unamur.be</email></corresp></author-notes><pub-date pub-type="collection"><month>6</month><year>2024</year></pub-date><pub-date pub-type="epub" iso-8601-date="2024-05-06"><day>06</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="pmc-release"><day>06</day><month>5</month><year>2024</year></pub-date><volume>6</volume><issue>3</issue><elocation-id>dlae071</elocation-id><history><date date-type="received"><day>29</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>15</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; The Author(s) 2024. Published by Oxford University Press on behalf of British Society for Antimicrobial Chemotherapy.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact reprints@oup.com for reprints and translation rights for reprints. All other permissions can be obtained through our RightsLink service via the Permissions link on the article page on our site&#x2014;for further information please contact journals.permissions@oup.com.</license-p></license></permissions><self-uri xlink:href="dlae071.pdf"/><abstract><title>Abstract</title><sec id="s1"><title>Background</title><p>Empirical treatment of pyelonephritis in the emergency ward includes broad-spectrum antibiotics. Such a strategy favours broad-spectrum antibiotic overuse. Local antibiotic stewardship teams can propose local recommendations to adapt empirical antibiotic treatment devoted to spare precious molecules that remain active on MDR bacteria, such as fluoroquinolones or other broad-spectrum antibiotics.</p></sec><sec id="s2"><title>Objectives</title><p>We aimed to evaluate the incidence of urinary tract infection recurrence within 3&#x2005;months after hospital discharge following empirical antibiotic therapy with cefuroxime in women with pyelonephritis in the emergency room.</p></sec><sec id="s3"><title>Patients and methods</title><p>We conducted a retrospective, single-centre study. We identified 109 women treated for pyelonephritis, 95 with cefuroxime at any time, and 14 with only other antibiotics, and divided them into subgroups based on antibiotic switch to other molecules. We compared the incidence of urinary tract infection recurrence in the subgroups.</p></sec><sec id="s4"><title>Results</title><p>In the group of patients treated with cefuroxime only, we identified five cases of recurrence (9.4%) in a total of 53 patients, but only 1 (1.9%) case of recurrence associated with the same uropathogen. No significant difference in clinical outcome, length of antibiotic treatment, or urinary tract infection recurrence was observed between the subgroups.</p></sec><sec id="s5"><title>Conclusions</title><p>Our study supports that a strategy elaborated by an antibiotic stewardship team based on local ecology and aimed at proposing the narrowest-spectrum antibiotic upon treatment initiation in the emergency room is safe.</p></sec></abstract><counts><page-count count="6"/></counts></article-meta></front>
+  <body>
+    <sec sec-type="intro" id="dlae071-s0">
+      <title>Introduction</title>
+      <p>The IDSA and the ESCMID guidelines recommend oral fluoroquinolones or trimethoprim/sulfamethoxazole as a first-line antibiotic treatment for uncomplicated pyelonephritis.<sup><xref rid="dlae071-B1" ref-type="bibr">1</xref>,<xref rid="dlae071-B2" ref-type="bibr">2</xref></sup> IDSA recommends caution in the use of oral &#x3B2;-lactams due to concerns about potentially inferior efficacy compared with fluoroquinolones and trimethoprim/sulfamethoxazole. Fluoroquinolones are therefore used preferentially as an empirical antibiotic choice with no consideration of the local epidemiology of antibiotic resistance in uropathogens. Moreover, the fear of missing bacteria producing an antibiotic resistance factor such as ESBL drives clinicians to prescribe broad-spectrum antibiotics.<sup><xref rid="dlae071-B3" ref-type="bibr">3</xref></sup> Such conditions favour broad-spectrum antibiotic overuse.</p>
+      <p>Second-generation cephalosporins (C2Gs) such as cefuroxime are antibiotics that concentrate in the urine. With its focused spectrum, cefuroxime minimizes microbiota disruption. In contrast to quinolones, it avoids potential hazards such as cardiac arrythmia, tendon damage, aortic aneurysm formation, confusion or seizures. C2Gs are bactericidal against common uropathogens such as <italic toggle="yes">Escherichia coli</italic> and <italic toggle="yes">Proteus mirabilis.</italic><sup><xref rid="dlae071-B4" ref-type="bibr">4</xref></sup> Cefuroxime was widely used in the 1980s. However, the emergence of resistance and variable bioavailability after oral administration led to a gradual decline in demand.<sup><xref rid="dlae071-B5" ref-type="bibr">5</xref></sup> In line with our local ecology, where 13% of <italic toggle="yes">E. coli</italic> are resistant to C2Gs, we chose to maintain IV cefuroxime at high dosage as first-line treatment for pyelonephritis in the emergency department to spare fluoroquinolones or broad-spectrum antibiotics.</p>
+      <p>Recent clinical trials comparing C2Gs with fluoroquinolone demonstrated that oral cephalosporins appear to be as safe and effective as fluoroquinolones in the treatment of pyelonephritis.<sup><xref rid="dlae071-B6" ref-type="bibr">6</xref></sup> Fewer treatment failures have been observed with C2Gs compared with first- and third-generation cephalosporins.<sup><xref rid="dlae071-B7" ref-type="bibr">7</xref></sup></p>
+      <p>The extensive use of fluoroquinolones in human and veterinary medicine has been associated with the acquisition of antimicrobial resistance in the population.<sup><xref rid="dlae071-B8" ref-type="bibr">8</xref>,<xref rid="dlae071-B9" ref-type="bibr">9</xref></sup> Increasing rates of resistance and adverse events associated with first-line antibiotics warrant the reconsideration of cephalosporins for the treatment of pyelonephritis. A single-centre trial over a 30&#x2005;month period compared the recurrence rates of pyelonephritis between oral cephalosporins and first-line antibiotics in the treatment of acute pyelonephritis; it showed no significant difference in urinary tract infection (UTI) recurrence rates between oral cephalosporins and first-line antibiotics.<sup><xref rid="dlae071-B10" ref-type="bibr">10</xref></sup></p>
+      <p>Oral therapies are not recommended in hospitalized patients with signs of sepsis. IV cefuroxime has been identified as an alternative for treating community-onset pyelonephritis. A study comparing C2Gs and third-generation cephalosporins as initial therapy for women with community-onset uncomplicated pyelonephritis showed a clinical cure rate of over 95% and a microbiological cure rate of over 89%. Only 5% of patients had to be treated with another IV antibiotic.<sup><xref rid="dlae071-B11" ref-type="bibr">11</xref></sup></p>
+      <p>We have purposely focused on an exclusively female population as UTIs in women are among the most common causes of hospitalization for bacterial infections. In 2000, the hospitalization rate for pyelonephritis was 11.7 per 10&#x200A;000 women in the USA. Moreover, the physiopathology of UTI in women is associated with the shortness of the urethra compared with men, favouring ascending infection due to colonization with common uropathogens equipped with adhesive pili. According to the European Association of Urology (EAU), uncomplicated UTIs are considered in the limited context of non-pregnant women with no known relevant anatomical and functional abnormalities within the urinary tract or comorbidities. UTI in a patient with an increased chance of a complicated course is considered complicated; these affect pregnant women, patients with relevant anatomical or functional abnormalities of the urinary tract, indwelling urinary catheters, renal diseases and/or with other concomitant immunocompromising diseases such as diabetes. In men, all UTIs are considered complicated.<sup><xref rid="dlae071-B2" ref-type="bibr">2</xref></sup></p>
+      <p>Complicated UTI, and also uncomplicated UTI with high fever, inability to take oral treatment and social conditions that do not allow a safe stay at home, are criteria for hospitalization from the emergency department. Most of these patients are treated with IV antibiotics.<sup><xref rid="dlae071-B12" ref-type="bibr">12</xref></sup></p>
+      <p>Pyelonephritis manifests itself as a UTI with paralumbar pain and fever or chills. However, there is a lack of consensus on the diagnostic criteria for pyelonephritis. Up to 20% of women with pyelonephritis do not show the classic symptoms of a UTI, fever or biological signs of sepsis.<sup><xref rid="dlae071-B13" ref-type="bibr">13</xref></sup></p>
+    </sec>
+    <sec sec-type="methods" id="dlae071-s1">
+      <title>Patients and methods</title>
+      <p>We conducted a retrospective, single-centre study to evaluate the real risk of treatment failure or recurrent UTI following antibiotic treatment with high-dose cefuroxime, corresponding to IV administration of 1.5&#x2005;g three times a day with oral switch to 500&#x2005;mg three times a day, 20&#x2005;min after meals. Transition to oral therapy was after receipt of the uropathogen antibiogram, within 3&#x2005;days of admission.</p>
+      <p>Pyelonephritis was defined as a combination of clinical symptoms and biological abnormalities compatible with upper UTI: acute paralumbar pain or micturition and biological signs of bacterial infection (fever defined as body temperature &gt;38&#xB0;C, leukocyturia &gt;20&#x2005;cells/mm<sup>3</sup>, and urinary culture with bacterial growth as defined in the EAU definition of pyelonephritis.<sup><xref rid="dlae071-B2" ref-type="bibr">2</xref></sup></p>
+      <p>The International Statistical Classification of Diseases and Related Health Problems (ICD) coding department was used to identify women with a diagnosis of pyelonephritis, from 1 January 2019 to 31 December 2019. ICD-10 code N10, referring to acute pyelonephritis, was selected in women. The sample of patients treated in 2019 was chosen because it is a standard year, particularly compared with the two following years affected by COVID-19, because it allows us to provide sufficient follow-up. At the end of this observation period, an empirical treatment strategy with cefuroxime continued to be our standard of care. Of the 129 patients identified, we excluded 20 due to other diagnoses or the absence of clinical and biological signs consistent with the definition of pyelonephritis. Of these 109 patients, 14 women had pyelonephritis but were not receiving cefuroxime treatment. We included these patients in a control group (No C2) (Table <xref rid="dlae071-T1" ref-type="table">1</xref>). We divided the patients into three groups according to treatment: 53 patients received cefuroxime 1.5&#x2005;g three times a day IV, then switched to cefuroxime 500&#x2005;mg three times a day orally (C2iv&#x200A;&gt;&#x200A;C2o); 14 patients received another antibiotic, then switched to cefuroxime 500&#x2005;mg three times a day orally (O&#x200A;&gt;&#x200A;C2); 28 patients received cefuroxime 1.5&#x2005;g three times a day IV, then switched to another antibiotic (C2&#x200A;&gt;&#x200A;O) (Figure <xref rid="dlae071-F1" ref-type="fig">1</xref>). The first group of 53 patients, treated with cefuroxime all along, was compared with the other three groups considered as internal controls. Other IV antibiotics were piperacillin/tazobactam, amikacin, vancomycin or temocillin; orally administered antibiotics were amoxicillin, amoxicillin/clavulanate, ciprofloxacin and linezolid.</p>
+      <fig position="float" id="dlae071-F1" fig-type="figure">
+        <label>Figure 1.</label>
+        <caption>
+          <p>Flow chart of the female patients included in the study.</p>
+        </caption>
+        <graphic xlink:href="dlae071f1" position="float"/>
+      </fig>
+      <table-wrap position="float" id="dlae071-T1">
+        <label>Table 1.</label>
+        <caption>
+          <p>Demographics</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <colgroup span="1">
+            <col align="left" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+            <col align="center" span="1"/>
+          </colgroup>
+          <thead>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th align="center" rowspan="1" colspan="1">C2iv&#x200A;&gt;&#x200A;C2o</th>
+              <th align="center" rowspan="1" colspan="1">O&#x200A;&gt;&#x200A;C2</th>
+              <th align="center" rowspan="1" colspan="1">C2&#x200A;&gt;&#x200A;O</th>
+              <th align="center" rowspan="1" colspan="1">No C2</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="1" colspan="1">Patients, <italic toggle="yes">n</italic></td>
+              <td rowspan="1" colspan="1">53</td>
+              <td rowspan="1" colspan="1">14</td>
+              <td rowspan="1" colspan="1">28</td>
+              <td rowspan="1" colspan="1">14</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Age, years (mean&#x200A;&#xB1;&#x200A;SD)</td>
+              <td rowspan="1" colspan="1">55&#x200A;&#xB1;&#x200A;25</td>
+              <td rowspan="1" colspan="1">61&#x200A;&#xB1;&#x200A;18</td>
+              <td rowspan="1" colspan="1">56&#x200A;&#xB1;&#x200A;25</td>
+              <td rowspan="1" colspan="1">69&#x200A;&#xB1;&#x200A;17</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Paralumbar pain, <italic toggle="yes">n</italic> (%)</td>
+              <td rowspan="1" colspan="1">29 (55)</td>
+              <td rowspan="1" colspan="1">8 (57)</td>
+              <td rowspan="1" colspan="1">16 (57)</td>
+              <td rowspan="1" colspan="1">9 (64)</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Temperature&#x200A;&gt;&#x200A;38&#xB0;C, <italic toggle="yes">n</italic> (%)</td>
+              <td rowspan="1" colspan="1">39 (74)</td>
+              <td rowspan="1" colspan="1">10 (71)</td>
+              <td rowspan="1" colspan="1">20 (71)</td>
+              <td rowspan="1" colspan="1">11 (79)</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">CRP, mg/L (mean&#x200A;&#xB1;&#x200A;SD)</td>
+              <td rowspan="1" colspan="1">160&#x200A;&#xB1;&#x200A;90</td>
+              <td rowspan="1" colspan="1">197&#x200A;&#xB1;&#x200A;138</td>
+              <td rowspan="1" colspan="1">213&#x200A;&#xB1;&#x200A;106</td>
+              <td rowspan="1" colspan="1">172&#x200A;&#xB1;&#x200A;119</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Neutrophils, cells/mm<sup>3</sup> (mean&#x200A;&#xB1;&#x200A;SD)</td>
+              <td rowspan="1" colspan="1">11&#x200A;303&#x200A;&#xB1;&#x200A;5251</td>
+              <td rowspan="1" colspan="1">10&#x200A;004&#x200A;&#xB1;&#x200A;4503</td>
+              <td rowspan="1" colspan="1">12&#x200A;377&#x200A;&#xB1;&#x200A;5519</td>
+              <td rowspan="1" colspan="1">12&#x200A;631&#x200A;&#xB1;&#x200A;5897</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Serum creatinine, mg/dL (mean&#x200A;&#xB1;&#x200A;SD)</td>
+              <td rowspan="1" colspan="1">0.95&#x200A;&#xB1;&#x200A;0.37<xref rid="tblfn1" ref-type="table-fn">*</xref></td>
+              <td rowspan="1" colspan="1">1.61&#x200A;&#xB1;&#x200A;1.52</td>
+              <td rowspan="1" colspan="1">1.37&#x200A;&#xB1;&#x200A;0.99</td>
+              <td rowspan="1" colspan="1">1.74&#x200A;&#xB1;&#x200A;1.60<xref rid="tblfn1" ref-type="table-fn">*</xref></td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Renal failure, <italic toggle="yes">n</italic> (%)</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Acute</td>
+              <td rowspan="1" colspan="1">11 (21)</td>
+              <td rowspan="1" colspan="1">6 (43)</td>
+              <td rowspan="1" colspan="1">10 (36)</td>
+              <td rowspan="1" colspan="1">3 (21)</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Chronic</td>
+              <td rowspan="1" colspan="1">4 (7)</td>
+              <td rowspan="1" colspan="1">2 (14)</td>
+              <td rowspan="1" colspan="1">6 (21)</td>
+              <td rowspan="1" colspan="1">7 (50)</td>
+            </tr>
+            <tr>
+              <td colspan="2" rowspan="1">Iconography with signs of pyelonephritis, <italic toggle="yes">n</italic> (%)</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Ultrasound</td>
+              <td rowspan="1" colspan="1">10/39 (26)</td>
+              <td rowspan="1" colspan="1">4/8 (50)</td>
+              <td rowspan="1" colspan="1">8/18 (44)</td>
+              <td rowspan="1" colspan="1">2/9 (22)</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;CT without contrast</td>
+              <td rowspan="1" colspan="1">2/7 (29)</td>
+              <td rowspan="1" colspan="1">1/2 (50)</td>
+              <td rowspan="1" colspan="1">4/7 (57)</td>
+              <td rowspan="1" colspan="1">3/5 (60)</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;CT with contrast</td>
+              <td rowspan="1" colspan="1">6/9 (67)</td>
+              <td rowspan="1" colspan="1">7/7 (100)</td>
+              <td rowspan="1" colspan="1">4/4 (100)</td>
+              <td rowspan="1" colspan="1">5/8 (71)</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Obstructive pyelonephritis</td>
+              <td rowspan="1" colspan="1">2</td>
+              <td rowspan="1" colspan="1">2</td>
+              <td rowspan="1" colspan="1">3</td>
+              <td rowspan="1" colspan="1">0</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Leucocytes in urine, cells/mm<sup>3</sup> (mean&#x200A;&#xB1;&#x200A;SD)</td>
+              <td rowspan="1" colspan="1">2811&#x200A;&#xB1;&#x200A;5907</td>
+              <td rowspan="1" colspan="1">2108&#x200A;&#xB1;&#x200A;3484</td>
+              <td rowspan="1" colspan="1">4781&#x200A;&#xB1;&#x200A;9955</td>
+              <td rowspan="1" colspan="1">2193&#x200A;&#xB1;&#x200A;3280</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Comorbidities</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;All causes, <italic toggle="yes">n</italic> (%)</td>
+              <td rowspan="1" colspan="1">16 (30)</td>
+              <td rowspan="1" colspan="1">3 (21)</td>
+              <td rowspan="1" colspan="1">10 (36)</td>
+              <td rowspan="1" colspan="1">10 (71)</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Urological, <italic toggle="yes">n</italic></td>
+              <td rowspan="1" colspan="1">6<sup><xref rid="tblfn2" ref-type="table-fn">a</xref></sup></td>
+              <td rowspan="1" colspan="1">2<sup><xref rid="tblfn3" ref-type="table-fn">b</xref></sup></td>
+              <td rowspan="1" colspan="1">5<sup><xref rid="tblfn4" ref-type="table-fn">c</xref></sup></td>
+              <td rowspan="1" colspan="1">7<sup><xref rid="tblfn5" ref-type="table-fn">d</xref></sup></td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Incontinence, <italic toggle="yes">n</italic></td>
+              <td rowspan="1" colspan="1">2</td>
+              <td rowspan="1" colspan="1">0</td>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1">0</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Diabetes mellitus, <italic toggle="yes">n</italic></td>
+              <td rowspan="1" colspan="1">3</td>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1">3</td>
+              <td rowspan="1" colspan="1">4</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Pregnancy, <italic toggle="yes">n</italic></td>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1">0</td>
+              <td rowspan="1" colspan="1">0</td>
+              <td rowspan="1" colspan="1">0</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Relapsing UTI, <italic toggle="yes">n</italic></td>
+              <td rowspan="1" colspan="1">6</td>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1">3</td>
+              <td rowspan="1" colspan="1">2</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Dementia, <italic toggle="yes">n</italic></td>
+              <td rowspan="1" colspan="1">5</td>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1">2</td>
+              <td rowspan="1" colspan="1">0</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Antibiotic treatment, days (mean&#x200A;&#xB1;&#x200A;SD)</td>
+              <td rowspan="1" colspan="1">12.4&#x200A;&#xB1;&#x200A;2.4</td>
+              <td rowspan="1" colspan="1">13.2&#x200A;&#xB1;&#x200A;2.7</td>
+              <td rowspan="1" colspan="1">12.1&#x200A;&#xB1;&#x200A;3</td>
+              <td rowspan="1" colspan="1">15.7&#x200A;&#xB1;&#x200A;7.7</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Cefuroxime shift to/from</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Amoxicillin</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">14</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Amoxicillin/clavulanic acid</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1">2</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Piperacillin/tazobactam</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Ceftriaxone</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">3</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Temocillin</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">5</td>
+              <td rowspan="1" colspan="1">2</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Ciprofloxacin</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">4</td>
+              <td rowspan="1" colspan="1">8</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Aztreonam</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Linezolid</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">1</td>
+              <td rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">&#x2003;Trimethoprim/sulfamethoxazole</td>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1"/>
+              <td rowspan="1" colspan="1">1</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="tblfn1">
+            <p>
+<sup>*</sup>ANOVA <italic toggle="yes">P</italic>&#x200A;=&#x200A;0044 between C2iv&#x200A;&gt;&#x200A;C2o and No C2. Other antibiotics were amoxicillin, amoxicillin/clavulanate, piperacillin/tazobactam, ciprofloxacin, amikacin, or a bacteriology-based antibiotic selection such as vancomycin, linezolid or temocillin.</p>
+          </fn>
+          <fn id="tblfn2">
+            <p>
+<sup>a</sup>Urological comorbidities were one unique kidney, two neurological bladder, one ureteropelvic junction obstruction, one partial nephrectomy, one vesicoureteral reflux.</p>
+          </fn>
+          <fn id="tblfn3">
+            <p>
+<sup>b</sup>Urological comorbidities were urostomy, urethral catheter.</p>
+          </fn>
+          <fn id="tblfn4">
+            <p>
+<sup>c</sup>Urological comorbidities were one ureteropelvic junction obstruction, one renal cell cancer, one pyelolithotomy, one vesicoureteral reflux, one urethral catheter.</p>
+          </fn>
+          <fn id="tblfn5">
+            <p>
+<sup>d</sup>Urological comorbidities were three unique kidney, two ureteral catheter, one pyelolithotomy, one urostomy.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>A diagnosis of UTI recurrence was defined as any new episode of symptomatic cystitis or pyelonephritis as defined by the EAU within 3&#x2005;months of hospital discharge, requiring medical intervention and with microbiological analysis of urine showing bacterial growth. To collect cases of UTI recurrence, we screened the electronic medical record database of our hospital and the R&#xE9;seau Sant&#xE9; Wallon, a regional health data hub.</p>
+      <sec id="dlae071-s1.1">
+        <title>Bacteriology</title>
+        <p>Microorganisms growing in urinary culture or blood culture were isolated and tested for antibiotic susceptibility. Uropathogens were identified by MALDI-TOF MS (Bruker Biotyper, Bruker Daltonics, Germany). Antimicrobial susceptibility testing was performed on the VITEK 2 platform for Enterobacteriaceae (AST-N366 card) and <italic toggle="yes">Enterococcus</italic> spp. (AST-P586 card) and on Mueller&#x2013;Hinton agar plates by disc diffusion for non-fermenting Gram-negative bacteria. The breakpoints recommended by EUCAST were used to assign the following clinical susceptibility categories: susceptible or resistant.<sup><xref rid="dlae071-B14" ref-type="bibr">14</xref>,<xref rid="dlae071-B15" ref-type="bibr">15</xref></sup> Phenotypic confirmation of ESBL production was performed using the combination disc test recommended by EUCAST. Phenotypic AmpC confirmation tests were performed with the inhibition of AmpC by cloxacillin with cefotaxime&#x200A;+&#x200A;cloxacillin Rosco tablets. Carbapenemase production was confirmed by the immunochromatographic lateral flow test RESIST-3 O.K.N. (Coris BioConcept, Belgium).</p>
+      </sec>
+      <sec id="dlae071-s1.2">
+        <title>Statistics</title>
+        <p>For each treatment group, the incidence of relapse was compared using the exact Fisher&#x2019;s test for small groups. The groups described in this study were compared with a historical group of patients described by Bleidorn <italic toggle="yes">et al</italic>.<sup><xref rid="dlae071-B16" ref-type="bibr">16</xref></sup> using the chi-squared test. In a cohort of 386 women aged 18 to 65&#x2005;years who suffered uncomplicated cystitis, Bleidorn <italic toggle="yes">et al</italic>.<sup><xref rid="dlae071-B16" ref-type="bibr">16</xref></sup> documented 80 patients who suffered a UTI recurrence within 6&#x2005;months of the first episode.<sup><xref rid="dlae071-B16" ref-type="bibr">16</xref></sup> The definition of recurrence corresponds to a new episode of cystitis, pyelonephritis or hospitalization. The incidence of 20.7% described by Bleidorn <italic toggle="yes">et al</italic>.<sup><xref rid="dlae071-B16" ref-type="bibr">16</xref></sup> was considered to be the incidence of recurrent UTI after effective treatment due to host or pathogen characteristics.<sup><xref rid="dlae071-B17" ref-type="bibr">17</xref></sup> This observation is consistent with the incidence of 19% to 24% reported in the literature.<sup><xref rid="dlae071-B18" ref-type="bibr">18</xref></sup></p>
+        <p>One-way ANOVA was used to compare continuous data such as biological parameters and time to recurrence. Survival curves were plotted using the Kaplan&#x2013;Meier method. Statistics were generated with GraphPad Prism 10.1.</p>
+      </sec>
+      <sec id="dlae071-s1.3">
+        <title>Ethics</title>
+        <p>The protocol of this retrospective, non-interventional study was accepted by the ethical committee of the Clinique Saint-Pierre in Ottignies on 13 December 2023.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="dlae071-s2">
+      <title>Results</title>
+      <sec id="dlae071-s2.1">
+        <title>Observations on demographics and choice of antibiotics</title>
+        <p>The women included in this study were between 17 and 93&#x2005;years old. No significant differences were observed between groups, except for serum creatinine, which was higher in the control group &#x2018;No C2&#x2019; (mean creatinine 1.74&#x200A;&#xB1;&#x200A;1.60&#x2005;mg/dL) compared with group C2iv&#x200A;&gt;&#x200A;C2o (mean creatinine 0.95&#x200A;&#xB1;&#x200A;0.37&#x2005;mg/dL, <italic toggle="yes">P</italic>&#x200A;=&#x200A;0.044). Elevated creatinine in the No C2 group is associated with an internal protocol recommendation to consider temocillin in urinary obstruction or sepsis with signs of shock, two conditions that may be associated with elevated creatinine. The mean duration of the antibiotic treatment was 13.5&#x2005;days.</p>
+        <p>Recurrent UTI, defined as a new episode of cystitis or pyelonephritis with the demonstration of bacterial growth in the urine within 3&#x2005;months, was noted in 10 of the 95 patients treated with cefuroxime. Recurrent UTIs did not influence the preference for broad-spectrum antibiotic therapy over cefuroxime treatment on arrival at the emergency department. However, antibiotics that cover ESBLs, such as piperacillin/tazobactam, ciprofloxacin, amikacin and temocillin, or previous bacteriology-based antibiotic selection such as vancomycin or linezolid was the first empirical choice in complicated scenarios such as patients with urological comorbidities (Table <xref rid="dlae071-T1" ref-type="table">1</xref>). Urinary cultures showed 81 <italic toggle="yes">E. coli</italic>, 8 <italic toggle="yes">Klebsiella pneumoniae</italic>, 6 <italic toggle="yes">P. mirabilis</italic>, 2 <italic toggle="yes">Streptococcus dysgalactiae</italic>, 3 <italic toggle="yes">Enterococcus faecali</italic>s, 1 <italic toggle="yes">Enterococcus faecium</italic>, 2 <italic toggle="yes">Enterococcus hirae</italic>, 2 <italic toggle="yes">Aerococcus urinae</italic> and 1 <italic toggle="yes">Citrobacter freundii</italic>. Antibiograms showed resistance to cefuroxime in 3 <italic toggle="yes">E. coli</italic> (3.8%), 5 <italic toggle="yes">K. pneumoniae</italic> (62.5%) and 1 <italic toggle="yes">P. mirabilis</italic> (16.7%). Patients suffering from urological comorbidities harboured five out of the eight (62.5%) uropathogens resistant to C2Gs.</p>
+        <p>Blood cultures were obtained from 94 patients. Bacteraemia was detected in 23 patients (24.4%). Twenty-one isolates were <italic toggle="yes">E. coli</italic>, of which 2 had an ESBL phenotype, 1 was <italic toggle="yes">K. pneumoniae</italic> and 1 was <italic toggle="yes">E. faecalis</italic>. In three blood cultures, the antibiogram showed resistance to cefuroxime: two <italic toggle="yes">E. coli</italic> and the <italic toggle="yes">E. faecalis</italic>. Two of these three patients were suffering from comorbidities: diabetes mellitus and nephrolithiasis (Table <xref rid="dlae071-T2" ref-type="table">2</xref>).</p>
+        <table-wrap position="float" id="dlae071-T2">
+          <label>Table 2.</label>
+          <caption>
+            <p>Microbiology of upper UTI at inclusion</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th align="center" rowspan="1" colspan="1">C2iv&#x200A;&gt;&#x200A;C2o</th>
+                <th align="center" rowspan="1" colspan="1">O&#x200A;&gt;&#x200A;C2</th>
+                <th align="center" rowspan="1" colspan="1">C2&#x200A;&gt;&#x200A;O</th>
+                <th align="center" rowspan="1" colspan="1">No C2</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">E. coli</italic> C2S</td>
+                <td rowspan="1" colspan="1">42/42</td>
+                <td rowspan="1" colspan="1">8/9</td>
+                <td rowspan="1" colspan="1">19/23</td>
+                <td rowspan="1" colspan="1">6/7</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">K. pneumoniae</italic> C2S</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">1/2</td>
+                <td rowspan="1" colspan="1">1/2</td>
+                <td rowspan="1" colspan="1">1/3</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">P. mirabilis</italic> C2S</td>
+                <td rowspan="1" colspan="1">4/4</td>
+                <td rowspan="1" colspan="1">1/1</td>
+                <td rowspan="1" colspan="1">0/1</td>
+                <td rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">S. dysgalactiae</italic>
+</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">A. urinae</italic>
+</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">0</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">C. freundii</italic>
+</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">E. faecalis</italic>
+</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">E. faecium</italic>
+</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<italic toggle="yes">E. hirae</italic>
+</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Positive blood culture</td>
+                <td rowspan="1" colspan="1">4/43</td>
+                <td rowspan="1" colspan="1">8/14</td>
+                <td rowspan="1" colspan="1">8/25</td>
+                <td rowspan="1" colspan="1">3/12</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">&#x2003;<italic toggle="yes">E. coli</italic> C2S</td>
+                <td rowspan="1" colspan="1">4/4</td>
+                <td rowspan="1" colspan="1">7/7</td>
+                <td rowspan="1" colspan="1">7/8</td>
+                <td rowspan="1" colspan="1">1/2</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">&#x2003;<italic toggle="yes">K. pneumoniae</italic> C2S</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1/1</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">&#x2003;<italic toggle="yes">E. faecalis</italic></td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1/1</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="tblfn6">
+              <p>Results of microbiology analysis of urine and blood collected upon from patients with upper UTI at the time of admission in the emergency room. C2S, antibiogram demonstrating C2G susceptibility of <italic toggle="yes">S. dysgalactiae</italic>, <italic toggle="yes">A. urinae</italic>, <italic toggle="yes">C. freundii</italic>. <italic toggle="yes">Enterococcus</italic> spp. were considered resistant to C2G.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec id="dlae071-s2.2">
+        <title>Adaptation of the cefuroxime treatment following bacteriology</title>
+        <p>We considered as failure the proportion of patients initially treated with cefuroxime, in whom microbiological analysis justified broadening the antibiotic spectrum. Failure of the cefuroxime-based antibacterial therapy occurred in 4 out of 81 patients (4.9%). The clinical outcome for these patients was similar to others.</p>
+        <p>The proportion of patients initially treated with cefuroxime for whom microbiological analysis justified a narrowing of the antibiotic spectrum to amoxicillin was 14 out of 81 (17%). The percentage of patients who were initially prescribed cefuroxime and who were later switched to ciprofloxacin was 8 out of 81 (9.8%). This decision was not influenced by microbiological evidence of cefuroxime resistance, but by considerations of allergy, patient comfort, presence of abscesses, and severity of the initial clinical condition.</p>
+      </sec>
+      <sec id="dlae071-s2.3">
+        <title>Recurrence after the antibiotic treatment</title>
+        <p>We identified 15 cases of recurrence (13.8%), as defined before, out of a total of 109 patients (Table <xref rid="dlae071-T3" ref-type="table">3</xref>). Of these patients, 5 out of 53 (9%) were treated with cefuroxime (C2iv&#x200A;&gt;&#x200A;C2o), 4 out of 14 (28%) received an initial antibiotic regimen that was later changed to cefuroxime (O&#x200A;&gt;&#x200A;C2), 3 out of 28 (11%) started with cefuroxime as primary treatment and later changed to another antibiotic (C2&#x200A;&gt;&#x200A;O), and 3 out of 14 (21%) in the control group received an antibiotic regimen other than cephalosporins (no C2). Of these 15 recurrences, 10 (66%) occurred within 33&#x2005;days of discharge from the hospital. No significant differences were observed between these incidences, even when compared with the 80/386 (20.7%) recurrence after a first episode of cystitis described in the Bleidorn <italic toggle="yes">et al.</italic> cohort,<sup><xref rid="dlae071-B16" ref-type="bibr">16</xref></sup> or the time elapsed to recurrence (Figure <xref rid="dlae071-F2" ref-type="fig">2</xref>). It was also possible to superimpose the survival curves for recurrence (Figure <xref rid="dlae071-F3" ref-type="fig">3</xref>).</p>
+        <fig position="float" id="dlae071-F2" fig-type="figure">
+          <label>Figure 2.</label>
+          <caption>
+            <p>Timelapse to recurrence in number of days since release from hospital for pyelonephritis. The bars represent medians; ANOVA <italic toggle="yes">P</italic>&#x200A;=&#x200A;not significant.</p>
+          </caption>
+          <graphic xlink:href="dlae071f2" position="float"/>
+        </fig>
+        <fig position="float" id="dlae071-F3" fig-type="figure">
+          <label>Figure 3.</label>
+          <caption>
+            <p>UTI recurrence after pyelonephritis. Kaplan&#x2013;Meier <italic toggle="yes">P</italic>&#x200A;=&#x200A;0.2.</p>
+          </caption>
+          <graphic xlink:href="dlae071f3" position="float"/>
+        </fig>
+        <table-wrap position="float" id="dlae071-T3">
+          <label>Table 3.</label>
+          <caption>
+            <p>UTI recurrences</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup span="1">
+              <col align="left" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+              <col align="center" span="1"/>
+            </colgroup>
+            <thead>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th align="center" rowspan="1" colspan="1">C2iv&#x200A;&gt;&#x200A;C2o</th>
+                <th align="center" rowspan="1" colspan="1">O&#x200A;&gt;&#x200A;C2</th>
+                <th align="center" rowspan="1" colspan="1">C2&#x200A;&gt;&#x200A;O</th>
+                <th align="center" rowspan="1" colspan="1">No C2</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="1" colspan="1">Number of patients relapsing</td>
+                <td rowspan="1" colspan="1">5/53</td>
+                <td rowspan="1" colspan="1">4/14</td>
+                <td rowspan="1" colspan="1">3/28</td>
+                <td rowspan="1" colspan="1">3/14</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Same bacteria</td>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1">3 (2)</td>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">1 (1)</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Acquisition of antibiotic resistance</td>
+                <td rowspan="1" colspan="1">2 (1)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Other bacterial species</td>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">1 (1)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">2 (2)</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="tblfn7">
+              <p>Recurrences of UTI following a first event treated with antibiotics in hospital. The numbers in brackets represent the number of patients with a history of urological ailments. None of these patients showed more than one recurrence within 3&#x2005;months following the first event.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Predisposing factors contributing to recurrent infection were identified in 7 of the 15 UTI recurrences (47%). These factors included four patients with a ureteral catheter, one patient with a urostomy, one patient with lithiasis and one patient who was in the post-partum period. Of these recurrences, 10 were associated with the same bacteria as in the initial UTI. All were <italic toggle="yes">E. coli</italic>, and one of these showed an ESBL phenotype. Three <italic toggle="yes">E. coli</italic> acquired resistance to amoxicillin, amoxicillin/clavulanate or trimethoprim/sulfamethoxazole; two of them had an ESBL phenotype. The other five recurrences were associated with bacteria different from during the first occurrence. Two cultures showed growth of more than two bacteria and the others showed <italic toggle="yes">Pseudomonas aeruginosa</italic> or <italic toggle="yes">K. pneumoniae</italic>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="dlae071-s3">
+      <title>Discussion</title>
+      <p>Urological comorbidities, local epidemiology and recommendations determine the choice of empirical antibiotics for pyelonephritis in women in the emergency department. For uncomplicated pyelonephritis, our internal guidelines suggest cefuroxime as first-line empirical treatment. In the absence of signs of sepsis, this empirical treatment with cefuroxime has not been associated with adverse outcomes, even among the 4.9% of patients who were infected with C2G-resistant bacteria.</p>
+      <p>We considered a recurrent infection to be any UTI occurring within 3&#x2005;months after discharge from the hospital. Ten of the 15 recurrent UTI were associated with the same bacteria as in the first episode. All were <italic toggle="yes">E. coli</italic>. Recurrence caused by the same inadequately treated bacteria cannot be distinguished from recurrence due to pathological events favouring ascending infection or uropathogen pathogenicity. Nevertheless, we can assume that a relapse should occur in the few days following discontinuation of antibiotic treatment. This was not observed.</p>
+      <p>Our observation supports the safety and efficiency of empirical cefuroxime treatment for pyelonephritis in hospitalized women. Most patients infected with a uropathogen resistant to cefuroxime showed a urological history or previous hospitalization, as reported in a global prevalence of infections in urology, as high as 44%.<sup><xref rid="dlae071-B19" ref-type="bibr">19</xref></sup> For these patients, antibiotic adjustments were performed subsequent to the identification of the uropathogen and antibiogram. None of them progressed to an adverse event.</p>
+      <p>This study suffers limitations. Data collection spanned from 1 March 2023 to 1 July 2023, 4&#x2005;years following the studied UTI episode. This time gap could induce bias due to incomplete information, particularly in 27 cases out of 109 where the &#x2018;R&#xE9;seau Sant&#xE9; Wallon&#x2019; database was inaccessible due to death or lack of network affiliation. For these patients, we could only refer to internal records. This cohort exclusively comprised a female population, limiting result generalizability. Evaluating the risk of UTI recurrence in men treated with C2Gs would be insightful. Additionally, given the study&#x2019;s restricted patient count, further analyses through prospective randomized studies with a larger sample size are mandatory.</p>
+      <sec sec-type="conclusions" id="dlae071-s3.1">
+        <title>Conclusions</title>
+        <p>Pyelonephritis in women is a major cause of antibiotic prescription worldwide. A reduction in the consumption of antibiotics that remain effective against &#x3B2;-lactam resistant bacteria, such as fluoroquinolones or other broad-spectrum antibiotics, would offer multiple individual and collective advantages: reduction of side effects associated with gut microbiota disturbances such as diarrhoea or diseases associated with gut microbiota dysbiosis; extended hospital stay due to side effects of fluoroquinolones such as confusion in the elderly; or selection of bacteria resistant to antibiotics. Our study supports that a strategy elaborated by an antibiotic stewardship team based on local ecology and aimed at proposing the narrowest-spectrum antibiotic as quickly as at treatment initiation in the emergency room is safe.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec id="dlae071-s4">
+      <title>Funding</title>
+      <p>This work was only supported by internal charity funding to cover costs relating to correction of the English language and publication costs. Biological data have been generated as part of the routine work of an organization.</p>
+    </sec>
+    <sec id="dlae071-s5">
+      <title>Transparency declarations</title>
+      <p>All other authors: none to declare.</p>
+      <sec id="dlae071-s5.1">
+        <title>Author contributions</title>
+        <p>
+<sc>C.e.</sc> and A.S. collaborated in data collection and played a significant role in the writing process. V.V. conducted sample analyses within the microbiology laboratory. L.D. and J.C.M. were responsible for patient care and contributed substantially to the study&#x2019;s design. Lastly, G.W. authored the article, overseeing both the data collection and analysis phases.</p>
+      </sec>
+    </sec>
+    <ref-list id="ref1">
+      <title>References</title>
+      <ref id="dlae071-B1">
+        <label>1</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gupta</surname> &#xA0;<given-names>K</given-names></string-name>, <string-name><surname>Hooton</surname> &#xA0;<given-names>TM</given-names></string-name>, <string-name><surname>Naber</surname> &#xA0;<given-names>KG</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>International Clinical Practice Guidelines for the Treatment of Acute Uncomplicated Cystitis and Pyelonephritis in Women: a 2010 update by the Infectious Diseases Society of America and the European Society for Microbiology and Infectious Diseases</article-title>. <source>Clin Infect Dis</source> &#xA0;<year>2011</year>; <volume>52</volume>: <fpage>e103</fpage>&#x2013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1093/cid/ciq257</pub-id><pub-id pub-id-type="pmid">21292654</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B2">
+        <label>2</label>
+        <mixed-citation publication-type="other">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bonkat</surname> &#xA0;<given-names>G</given-names></string-name>, <string-name><surname>Bartolleti</surname> &#xA0;<given-names>F</given-names></string-name>, <string-name><surname>Bruy&#xE8;re</surname> &#xA0;<given-names>T</given-names></string-name> &#xA0;<etal>et al</etal></person-group> EAU Guidelines. 2022. <ext-link xlink:href="http://uroweb.org/guidelines/compilations-of-all-guidelines/" ext-link-type="uri">http://uroweb.org/guidelines/compilations-of-all-guidelines/</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="dlae071-B3">
+        <label>3</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Johnson</surname> &#xA0;<given-names>JR</given-names></string-name>, <string-name><surname>Russo</surname> &#xA0;<given-names>TA</given-names></string-name></person-group>. <article-title>Acute pyelonephritis in adults</article-title>. <source>N Engl J Med</source> &#xA0;<year>2018</year>; <volume>378</volume>: <fpage>48</fpage>&#x2013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMcp1702758</pub-id><pub-id pub-id-type="pmid">29298155</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B4">
+        <label>4</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bedenic</surname> &#xA0;<given-names>B</given-names></string-name>, <string-name><surname>Topic</surname> &#xA0;<given-names>M</given-names></string-name>, <string-name><surname>Budimir</surname> &#xA0;<given-names>A</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Urinary bactericidal activity of oral antibiotics against common urinary tract pathogens in an ex vivo model</article-title>. <source>Chemotherapy</source> &#xA0;<year>2006</year>; <volume>52</volume>: <fpage>293</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1159/000095969</pub-id><pub-id pub-id-type="pmid">17008781</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B5">
+        <label>5</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Finn</surname> &#xA0;<given-names>A</given-names></string-name>, <string-name><surname>Straughn</surname> &#xA0;<given-names>A</given-names></string-name>, <string-name><surname>Meyer</surname> &#xA0;<given-names>M</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Effect of dose and food on the bioavailability of cefuroxime axetil</article-title>. <source>Biopharm Drug Dispos</source> &#xA0;<year>1987</year>; <volume>8</volume>: <fpage>519</fpage>&#x2013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1002/bdd.2510080604</pub-id><pub-id pub-id-type="pmid">3427209</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B6">
+        <label>6</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zimmerman</surname> &#xA0;<given-names>DE</given-names></string-name>, <string-name><surname>Tomas</surname> &#xA0;<given-names>M</given-names></string-name>, <string-name><surname>Miller</surname> &#xA0;<given-names>D</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Cephalosporins for the treatment of uncomplicated pyelonephritis: a systematic review</article-title>. <source>J Am Pharm Assoc (2003)</source> &#xA0;<year>2023</year>; <volume>63</volume>: <fpage>1461</fpage>&#x2013;<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1016/j.japh.2023.06.028</pub-id><pub-id pub-id-type="pmid">37414282</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B7">
+        <label>7</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lin</surname> &#xA0;<given-names>K</given-names></string-name>, <string-name><surname>Zahlanie</surname> &#xA0;<given-names>Y</given-names></string-name>, <string-name><surname>Ortwine</surname> &#xA0;<given-names>JK</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>A retrospective review of oral cephalosporins versus fluoroquinolones for the treatment of pyelonephritis</article-title>. <source>PLoS One</source> &#xA0;<year>2022</year>; <volume>17</volume>: <fpage>e0274194</fpage>. <pub-id pub-id-type="doi">10.1371/journal.pone.0274194</pub-id><pub-id pub-id-type="pmid">36084051</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B8">
+        <label>8</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bush</surname> &#xA0;<given-names>NG</given-names></string-name>, <string-name><surname>Diez-Santos</surname> &#xA0;<given-names>I</given-names></string-name>, <string-name><surname>Abbott</surname> &#xA0;<given-names>LR</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Quinolones: mechanism, lethality and their contributions to antibiotic resistance</article-title>. <source>Molecules</source> &#xA0;<year>2020</year>; <volume>25</volume>: <fpage>5662</fpage>. <pub-id pub-id-type="doi">10.3390/molecules25235662</pub-id><pub-id pub-id-type="pmid">33271787</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B9">
+        <label>9</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tang</surname> &#xA0;<given-names>K</given-names></string-name>, <string-name><surname>Zhao</surname> &#xA0;<given-names>H</given-names></string-name></person-group>. <article-title>Quinolone antibiotics: resistance and therapy</article-title>. <source>IDR</source> &#xA0;<year>2023</year>; <volume>16</volume>: <fpage>811</fpage>&#x2013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.2147/IDR.S401663</pub-id></mixed-citation>
+      </ref>
+      <ref id="dlae071-B10">
+        <label>10</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fosse</surname> &#xA0;<given-names>PE</given-names></string-name>, <string-name><surname>Brinkman</surname> &#xA0;<given-names>KM</given-names></string-name>, <string-name><surname>Brink</surname> &#xA0;<given-names>HM</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Comparing outcomes among outpatients treated for pyelonephritis with oral cephalosporins versus first-line agents</article-title>. <source>Int J Antimicrob Agents</source> &#xA0;<year>2022</year>; <volume>59</volume>: <fpage>106560</fpage>. <pub-id pub-id-type="doi">10.1016/j.ijantimicag.2022.106560</pub-id><pub-id pub-id-type="pmid">35259485</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B11">
+        <label>11</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chang</surname> &#xA0;<given-names>U-I</given-names></string-name>, <string-name><surname>Kim</surname> &#xA0;<given-names>HW</given-names></string-name>, <string-name><surname>Wie</surname> &#xA0;<given-names>S-H</given-names></string-name></person-group>. <article-title>Comparison of second- and third-generation cephalosporin as initial therapy for women with community-onset uncomplicated acute pyelonephritis</article-title>. <source>Yonsei Med J</source> &#xA0;<year>2015</year>; <volume>56</volume>: <fpage>1266</fpage>. <pub-id pub-id-type="doi">10.3349/ymj.2015.56.5.1266</pub-id><pub-id pub-id-type="pmid">26256969</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B12">
+        <label>12</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rubin</surname> &#xA0;<given-names>RH</given-names></string-name>, <string-name><surname>Shapiro</surname> &#xA0;<given-names>ED</given-names></string-name>, <string-name><surname>Andriole</surname> &#xA0;<given-names>VT</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Evaluation of new anti-infective drugs for the treatment of urinary tract infection</article-title>. <source>Clin Infect Dis</source> &#xA0;<year>1992</year>; <volume>15</volume>: <fpage>S216</fpage>&#x2013;<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1093/clind/15.Supplement_1.S216</pub-id><pub-id pub-id-type="pmid">1477233</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B13">
+        <label>13</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Piccoli</surname> &#xA0;<given-names>GB</given-names></string-name>, <string-name><surname>Consiglio</surname> &#xA0;<given-names>V</given-names></string-name>, <string-name><surname>Colla</surname> &#xA0;<given-names>L</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Antibiotic treatment for acute &#x2018;uncomplicated&#x2019; or &#x2018;primary&#x2019; pyelonephritis: a systematic, &#x2018;semantic revision&#x2019;</article-title>. <source>Int J Antimicrob Agents</source> &#xA0;<year>2006</year>; <volume>28</volume>: <fpage>49</fpage>&#x2013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijantimicag.2006.05.017</pub-id><pub-id pub-id-type="pmid">16769203</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B14">
+        <label>14</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Malmros</surname> &#xA0;<given-names>K</given-names></string-name>, <string-name><surname>Huttner</surname> &#xA0;<given-names>BD</given-names></string-name>, <string-name><surname>McNulty</surname> &#xA0;<given-names>C</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Comparison of antibiotic treatment guidelines for urinary tract infections in 15 European countries: results of an online survey</article-title>. <source>Int J Antimicrob Agents</source> &#xA0;<year>2019</year>; <volume>54</volume>: <fpage>478</fpage>&#x2013;<lpage>86</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijantimicag.2019.06.015</pub-id><pub-id pub-id-type="pmid">31229671</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B15">
+        <label>15</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kahlmeter</surname> &#xA0;<given-names>G</given-names></string-name>
+</person-group>. <article-title>Breakpoints for intravenously used cephalosporins in Enterobacteriaceae&#x2014;EUCAST and CLSI breakpoints</article-title>. <source>Clin Microbiol Infect</source> &#xA0;<year>2008</year>; <volume>14</volume>: <fpage>169</fpage>&#x2013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1111/j.1469-0691.2007.01856.x</pub-id><pub-id pub-id-type="pmid">18154542</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B16">
+        <label>16</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bleidorn</surname> &#xA0;<given-names>J</given-names></string-name>, <string-name><surname>Hummers-Pradier</surname> &#xA0;<given-names>E</given-names></string-name>, <string-name><surname>Schmiemann</surname> &#xA0;<given-names>G</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Recurrent urinary tract infections and complications after symptomatic versus antibiotic treatment: follow-up of a randomised controlled trial</article-title>. <source>Ger Med Sci</source> &#xA0;<year>2016</year>; <volume>14</volume>: <fpage>Doc01</fpage>. <pub-id pub-id-type="doi">10.3205/000228</pub-id><pub-id pub-id-type="pmid">26909012</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B17">
+        <label>17</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wagenlehner</surname> &#xA0;<given-names>FME</given-names></string-name>, <string-name><surname>Bjerklund Johansen</surname> &#xA0;<given-names>TE</given-names></string-name>, <string-name><surname>Cai</surname> &#xA0;<given-names>T</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Epidemiology, definition and treatment of complicated urinary tract infections</article-title>. <source>Nat Rev Urol</source> &#xA0;<year>2020</year>; <volume>17</volume>: <fpage>586</fpage>&#x2013;<lpage>600</lpage>. <pub-id pub-id-type="doi">10.1038/s41585-020-0362-4</pub-id><pub-id pub-id-type="pmid">32843751</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B18">
+        <label>18</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Foxman</surname> &#xA0;<given-names>B</given-names></string-name>
+</person-group>. <article-title>Urinary tract infection syndromes: occurrence, recurrence, bacteriology, risk factors, and disease burden</article-title>. <source>Infect Dis Clin North Am</source> &#xA0;<year>2014</year>; <volume>28</volume>: <fpage>1</fpage>&#x2013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1016/j.idc.2013.09.003</pub-id><pub-id pub-id-type="pmid">24484571</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="dlae071-B19">
+        <label>19</label>
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tandogdu</surname> &#xA0;<given-names>Z</given-names></string-name>, <string-name><surname>Koves</surname> &#xA0;<given-names>B</given-names></string-name>, <string-name><surname>Cai</surname> &#xA0;<given-names>T</given-names></string-name> &#xA0;<etal>et al</etal></person-group> &#xA0;<article-title>Condition-specific surveillance in health care-associated urinary tract infections as a strategy to improve empirical antibiotic treatment: an epidemiological modelling study</article-title>. <source>World J Urol</source> &#xA0;<year>2020</year>; <volume>38</volume>: <fpage>27</fpage>&#x2013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1007/s00345-019-02963-9</pub-id><pub-id pub-id-type="pmid">31555835</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

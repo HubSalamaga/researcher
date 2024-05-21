@@ -1,0 +1,667 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS One</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709750</article-id><article-id pub-id-type="pmc">11073698</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0300769</article-id><article-id pub-id-type="publisher-id">PONE-D-23-34488</article-id><article-categories><subj-group subj-group-type="heading"><subject>Study Protocol</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Complementary and Alternative Medicine</subject><subj-group><subject>Acupuncture</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Mental Health and Psychiatry</subject><subj-group><subject>Mood Disorders</subject><subj-group><subject>Depression</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>Medical Risk Factors</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Medical Conditions</subject><subj-group><subject>Cerebrovascular Diseases</subject><subj-group><subject>Stroke</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Neurology</subject><subj-group><subject>Cerebrovascular Diseases</subject><subj-group><subject>Stroke</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Vascular Medicine</subject><subj-group><subject>Stroke</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Database and Informatics Methods</subject><subj-group><subject>Database Searching</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Research Assessment</subject><subj-group><subject>Systematic Reviews</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Mathematical and Statistical Techniques</subject><subj-group><subject>Statistical Methods</subject><subj-group><subject>Metaanalysis</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Mathematics</subject><subj-group><subject>Statistics</subject><subj-group><subject>Statistical Methods</subject><subj-group><subject>Metaanalysis</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pharmaceutics</subject><subj-group><subject>Drug Therapy</subject><subj-group><subject>Neurological Drug Therapy</subject><subj-group><subject>Antidepressant Drug Therapy</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Efficacy and safety of acupuncture treatment for post-stroke depression: A protocol for systematic review and meta-analysis</article-title><alt-title alt-title-type="running-head">Efficacy and safety of acupuncture treatment for post-stroke depression</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kong</surname><given-names>Demin</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="http://credit.niso.org/contributor-roles/software/">Software</role><role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="econtrib001" ref-type="author-notes">
+<sup>&#x2021;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Li</surname><given-names>Yangyang</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="http://credit.niso.org/contributor-roles/software/">Software</role><role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="econtrib001" ref-type="author-notes">
+<sup>&#x2021;</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0009-0004-0305-292X</contrib-id><name><surname>Zou</surname><given-names>Wei</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role><role content-type="http://credit.niso.org/contributor-roles/visualization/">Visualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Heilongjiang University of Chinese Medicine, Harbin, China</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>First Affiliated Hospital Heilongjiang University of Chinese Medicine, Harbin, China</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Chen</surname><given-names>Yung-Hsiang</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>China Medical University, TAIWAN</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="other" id="econtrib001"><p>&#x2021; DK and YL are contributed equally to this work and are co-first authors.</p></fn><corresp id="cor001">* E-mail: <email>kuangzou1965@163.com</email></corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>19</volume><issue>5</issue><elocation-id>e0300769</elocation-id><history><date date-type="received"><day>20</day><month>10</month><year>2023</year></date><date date-type="accepted"><day>28</day><month>2</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Kong et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Kong et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pone.0300769.pdf"/><abstract><sec id="sec001"><title>Background</title><p>Post-stroke depression is a common complication of stroke, with a high incidence rate and low recognition rate. Many patients do not receive effective intervention at the onset, which affects subsequent treatment outcomes. Post-stroke depression not only impacts the patient&#x2019;s mental well-being but also increases the risk of stroke recurrence and poor prognosis. Therefore, it has become a significant public health concern. Acupuncture has gained significant popularity in the treatment of post-stroke depression. However, there are inconsistent clinical research results regarding its efficacy and safety. This systematic review aims to gather and critically assess all available evidence regarding the effectiveness and safety of acupuncture in the treatment of post-stroke depression in patients.</p></sec><sec id="sec002"><title>Methods</title><p>We will conduct thorough searches for relevant studies in multiple electronic databases (PubMed, Embase, Cochrane Library, China National Knowledge Infrastructure, VIP Database, Wan-fang Data and China Biomedical Database). Our search scope will encompass studies published from the inception of each database until September 2023. To evaluate the potential bias in all the included studies, we will adhere to the guidelines offered in the Cochrane Handbook. The total effective rate will be the primary outcome. To conduct a systematic review, we will employ RevMan 5.4 software.</p></sec><sec id="sec003"><title>Results</title><p>This study will obtain efficacy and safety of acupuncture for the treatment of post-stroke depression.</p></sec><sec id="sec004"><title>Conclusions</title><p>The conclusions of this study will provide evidence-based perspectives that can guide clinical decision-making regarding the practicality and recommended timing of using acupuncture to treat post-stroke depression. Furthermore, this study will help advance the clinical application of acupuncture treatment for post-stroke depression and enhance its efficacy while ensuring patient safety.</p></sec></abstract><funding-group><funding-statement>The author(s) received no specific funding for this work.</funding-statement></funding-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="8"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>No datasets were generated or analysed during the current study. All relevant data from this study will be made available upon study completion.</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>No datasets were generated or analysed during the current study. All relevant data from this study will be made available upon study completion.</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec005">
+      <title>Introduction</title>
+      <sec id="sec006">
+        <title>Description of the condition</title>
+        <p>Post-stroke depression (PSD) is a post-stroke syndrome characterized by mood disorders, loss of interest, anorexia, insomnia, and slowness of thinking in addition to the symptoms of stroke, and is usually accompanied by corresponding physical symptoms, and in severe cases, it may lead to fantasies, misanthropy, and suicidality [<xref rid="pone.0300769.ref001" ref-type="bibr">1</xref>, <xref rid="pone.0300769.ref002" ref-type="bibr">2</xref>]. More than one-third of stroke survivors have been reported to suffer from the disease, with a cumulative incidence of 39%-52% within 5 years of stroke attack, and approximately 57% of patients recovering from PSD within one year [<xref rid="pone.0300769.ref003" ref-type="bibr">3</xref>, <xref rid="pone.0300769.ref004" ref-type="bibr">4</xref>]. The psychosocial vulnerability model suggests that depressive symptoms in stroke survivors are mainly attributed to decreased engagement in daily activities during the recovery process [<xref rid="pone.0300769.ref005" ref-type="bibr">5</xref>]. Previous studies have indicated that PSD may stem from psychological stress responses triggered by post-stroke cognitive dysfunction, physical disability, or social isolation [<xref rid="pone.0300769.ref006" ref-type="bibr">6</xref>]. These patients face the risks of poor recovery of neurological function, increased disability and mortality rates, slow recovery and decreased quality of life, which seriously affects their recovery and quality of life, and creates additional burdens on their families and society [<xref rid="pone.0300769.ref007" ref-type="bibr">7</xref>]. The treatment of PSD remains extremely challenging due to its complex pathogenesis. Therefore, targeted interventions for PSD should be implemented in order to improve the progression of the patient&#x2019;s condition.</p>
+      </sec>
+      <sec id="sec007">
+        <title>Description and function of intervention</title>
+        <p>Currently, oral antidepressants such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), and norepinephrine and dopamine reuptake inhibitors (NDRIs) are commonly used clinically for the treatment of PSD, and their efficacy and safety remain controversial, with consideration of the patient&#x2019;s underlying medical condition, compliance, and adverse reactions to antidepressant medications, and the effectiveness of the clinical treatments is often more difficult to assess. In contrast, acupuncture, known as a &#x2019;green therapy,&#x2019; has been proven effective and safe in treating PSD [<xref rid="pone.0300769.ref008" ref-type="bibr">8</xref>].</p>
+        <p>Acupuncture (AC), which is a being a minimally invasive technique, has been widely used in China and worldwide to improve the clinical symptoms and progression of various diseases, such as trigeminal neuralgia [<xref rid="pone.0300769.ref009" ref-type="bibr">9</xref>], migraine [<xref rid="pone.0300769.ref010" ref-type="bibr">10</xref>], essential hypertension [<xref rid="pone.0300769.ref011" ref-type="bibr">11</xref>], endometriosis-related pain [<xref rid="pone.0300769.ref012" ref-type="bibr">12</xref>], and male infertility [<xref rid="pone.0300769.ref013" ref-type="bibr">13</xref>]. In recent years, numerous studies have demonstrated the definite curative effect of acupuncture on PSD [<xref rid="pone.0300769.ref014" ref-type="bibr">14</xref>, <xref rid="pone.0300769.ref015" ref-type="bibr">15</xref>]. Acupuncture can exchange information between immune-neurological-endocrine-microbial metabolism through the brain-intestinal axis, further balancing the structure of intestinal flora, maintaining intestinal homeostasis, improving the dysfunction of the hypothalamus-pituitary-adrenal axis, and inhibiting inflammatory responses, thus improving the symptoms of PSD patients [<xref rid="pone.0300769.ref016" ref-type="bibr">16</xref>].</p>
+      </sec>
+      <sec id="sec008">
+        <title>Why it is important to do this review</title>
+        <p>Acupuncture utilizes the advantages of Traditional Chinese Medicine (TCM) syndrome differentiation and treatment, while also reducing the side effects of Western medicine. It can improve patients&#x2019; negative mood, alleviate somatic symptoms, and promote neurological function recovery. Numerous randomized controlled trials and meta-analyses have consistently demonstrated the specific benefits of acupuncture treatment for patients with PSD [<xref rid="pone.0300769.ref017" ref-type="bibr">17</xref>, <xref rid="pone.0300769.ref018" ref-type="bibr">18</xref>]. Despite the increasing use of acupuncture in PSD, there is still an absence of rigorously designed systematic reviews and meta-analyses to assess its efficacy and potential harms [<xref rid="pone.0300769.ref017" ref-type="bibr">17</xref>]. Hence, our objective is to conduct a comprehensive systematic review and meta-analysis of the existing literature to investigate the role of acupuncture in treating PSD and its potential benefits or risks for patients. The findings of this study aim to address the ongoing controversy surrounding the benefits or harms of acupuncture in patients with PSD and provide conclusive evidence for clinical decision-making.</p>
+      </sec>
+    </sec>
+    <sec sec-type="materials|methods" id="sec009">
+      <title>Methods</title>
+      <sec id="sec010">
+        <title>Study registration</title>
+        <p>The current research project has been duly recorded in the PROSPERO (registration number CRD42023469165) of the International Prospective Register of Systematic Reviews. The study will strictly abide by the guidelines outlined in the Preferred Reporting Items for Systematic Reviews and Meta-Analysis Protocols (PRISMA-P) statement [<xref rid="pone.0300769.ref019" ref-type="bibr">19</xref>]. The detailed PRISMA-P checklist can be found in the <xref rid="pone.0300769.s001" ref-type="supplementary-material">S1 Checklist</xref>.</p>
+      </sec>
+      <sec id="sec011">
+        <title>Inclusion and exclusion criteria</title>
+        <sec id="sec012">
+          <title>Type of study</title>
+          <p>We will include all Clinical RCTs without any restrictions on country; however, the studies must be in either English or Chinese. We will exclude reviews, animal experiments, theory discussions, case reports, conference articles, and other non-RCT studies.</p>
+        </sec>
+        <sec id="sec013">
+          <title>Type of participants</title>
+          <p>This study will only include participants who have post-stroke depression. Participants of any gender, age, occupation, education level, or severity will be considered. Nevertheless, patients with a psychiatric disorder or a history of taking psychotropic medications before their stroke will be excluded.</p>
+        </sec>
+        <sec id="sec014">
+          <title>Type of intervention</title>
+          <p>In the experimental group, AC should be administered while in the control group, non-AC should be utilized. Drug treatment was deemed suitable across all the groups.</p>
+        </sec>
+        <sec id="sec015">
+          <title>Type of outcome measures</title>
+          <p>The total effective rate of AC to treat PSD will be the primary outcome. The total effective rate refers to the proportion of effective treatment in all subjects.The total effective rate = remove invalid subjects/all subjects. Additionally, the secondary outcomes will encompass various dimensions such as the cure rate, Hamilton depression rating scale, adverse events incidence. The cure rate = cure subjects/all subjects.</p>
+        </sec>
+        <sec id="sec016">
+          <title>Search strategy</title>
+          <p>In order to conduct a comprehensive check, we will systematically explore 7 different databases including PubMed, Embase, Cochrane Library, Chinese National Knowledge Infrastructure (CNKI), VIP Database, Wan-fang Data, and Chinese Biomedical Database (CBM). The search will cover the entire timeline of each electronic database, from their establishment date to September 2023. To ensure an effective search, a combination of medical subject words and free words will be utilized, and tailored retrieval patterns will be applied to each database. For detailed information on the search strategy, please refer to the <xref rid="pone.0300769.t001" ref-type="table">Table 1</xref>.</p>
+          <table-wrap position="float" id="pone.0300769.t001">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0300769.t001</object-id>
+            <label>Table 1</label>
+            <caption>
+              <title>The search strategy for PubMed.</title>
+            </caption>
+            <alternatives>
+              <graphic xlink:href="pone.0300769.t001" id="pone.0300769.t001g" position="float"/>
+              <table frame="hsides" rules="groups" cellspacing="0" style="border-collapse:collapse">
+                <colgroup span="1">
+                  <col align="left" valign="middle" span="1"/>
+                  <col align="left" valign="middle" span="1"/>
+                </colgroup>
+                <thead>
+                  <tr>
+                    <th align="center" style="border-top-width:thick" rowspan="1" colspan="1">ORDER</th>
+                    <th align="center" style="border-top-width:thick" rowspan="1" colspan="1">STRATEGY</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="center" rowspan="1" colspan="1">#1</td>
+                    <td align="left" rowspan="1" colspan="1">Search: &#x201C;Post-stroke depression&#x201D;[Mesh]</td>
+                  </tr>
+                  <tr>
+                    <td align="center" rowspan="1" colspan="1">#2</td>
+                    <td align="left" rowspan="1" colspan="1">Search: &#x201C;PSD&#x201D;[Title/Abstract] OR &#x201C;Post-stroke, Depression&#x201D;<break/>[Title/Abstract]</td>
+                  </tr>
+                  <tr>
+                    <td align="center" rowspan="1" colspan="1">#3</td>
+                    <td align="left" rowspan="1" colspan="1">#1 OR #2</td>
+                  </tr>
+                  <tr>
+                    <td align="center" rowspan="1" colspan="1">#4</td>
+                    <td align="left" rowspan="1" colspan="1">Search:&#xA0;&#x201C;Acupuncture&#x201D;[Title/Abstract] OR &#x201C;AC, Acupuncture&#x201D; [Title/Abstract] OR &#x201C;Needle&#x201D;[Title/Abstract] OR &#x201C;Filiform needle&#x201D; [Title/Abstract]</td>
+                  </tr>
+                  <tr>
+                    <td align="center" rowspan="1" colspan="1">#5</td>
+                    <td align="left" rowspan="1" colspan="1">Search:&#xA0;&#x201C;randomized controlled trial&#x201D;[Publication Type] OR &#x201C;RCT randomized controlled&#x201D;[Publication Type] OR &#x201C;random allocation&#x201D;<break/>[Title/Abstract] OR &#x201C;allocation, random&#x201D;[Title/Abstract] OR &#x201C;randomized, controlled&#x201D;[Title/Abstract] OR &#x201C;clinical trial&#x201D; [Title/Abstract]</td>
+                  </tr>
+                  <tr>
+                    <td align="center" rowspan="1" colspan="1">#6</td>
+                    <td align="left" rowspan="1" colspan="1">Search: &#x201C;humans&#x201D;[MeSH Terms] NOT &#x201C;animals&#x201D;[MeSH Terms]</td>
+                  </tr>
+                  <tr>
+                    <td align="center" rowspan="1" colspan="1">#7</td>
+                    <td align="left" rowspan="1" colspan="1">#5 AND #6</td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="border-bottom-width:thick" rowspan="1" colspan="1">#8</td>
+                    <td align="left" style="border-bottom-width:thick" rowspan="1" colspan="1">#3 AND #4 AND #7</td>
+                  </tr>
+                </tbody>
+              </table>
+            </alternatives>
+            <table-wrap-foot>
+              <fn id="t001fn001">
+                <p>PSD, post-stroke depression; AC, acupuncture; RCT, randomized controlled trial.</p>
+              </fn>
+            </table-wrap-foot>
+          </table-wrap>
+        </sec>
+      </sec>
+      <sec id="sec017">
+        <title>Data collection</title>
+        <sec id="sec018">
+          <title>Study selection</title>
+          <p>The process of selecting studies, encompassing screening of literature, extraction and management of data, as well as examination, will be carried out by two researchers. They will independently assess the titles, abstracts, and keywords of all retrieved studies, identifying the trials that fulfill the inclusion criteria. For further evaluation, the complete texts of all potentially relevant studies will be acquired. In case of any disagreements, the two researchers will engage in discussion with the involvement of the third author. The <xref rid="pone.0300769.g001" ref-type="fig">Fig 1</xref> illustrates the workflow for the study selection process.</p>
+          <fig position="float" id="pone.0300769.g001">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0300769.g001</object-id>
+            <label>Fig 1</label>
+            <caption>
+              <title>The PRISMA flow diagram of the study selection process.</title>
+            </caption>
+            <graphic xlink:href="pone.0300769.g001" position="float"/>
+          </fig>
+        </sec>
+        <sec id="sec019">
+          <title>Assessment of risk of bias in included studies</title>
+          <p>The risk of bias in all the studies included will be assessed using the Cochrane Handbook. The evaluation and description of risks will be based on the following 6 items: generation of random sequences, allocation concealment, blinding, incomplete outcome data, selective reporting, and other biases. Risk levels will be categorized into three: "low risk of bias", "high risk of bias", and "unclear risk of bias".</p>
+        </sec>
+        <sec id="sec020">
+          <title>Dealing with missing data</title>
+          <p>In the event of inadequate or absent trial data, the corresponding author will receive an email notification for further information. If the required data is still not obtainable or if the author cannot be reached, these studies will be excluded from our analysis. We will perform a restricted analysis utilizing the accessible data and deliberate on the possible ramifications of any missing information.</p>
+        </sec>
+      </sec>
+      <sec id="sec021">
+        <title>Data synthesis</title>
+        <p>We will utilize RevMan 5.4 statistical software for data integration and Meta analysis. Funnel plots and EGGER tests will be created using the R language. Dichotomous variables will be expressed using relative risk (RR), while continuous variables will be expressed using mean difference (MD). If different measurement tools are used for the same variable, standardized mean difference (SMD) will be used for analysis. The interval estimate will be expressed as a 95% confidence interval (CI). The fixed effect model (FEM) will be used when the homogeneity between studies is good (P &#x2265; 0.1, I<sup>2</sup> &#x2264; 50%). In cases where there is significant heterogeneity between studies, we will analyze the reasons and conduct subgroup analysis or sensitivity analysis by eliminating literature and using other methods. If the heterogeneity remains high (P&lt;0.1, I<sup>2</sup>&gt;50%), the random effects model (REM) will be selected. For studies that are not suitable for meta-analysis, qualitative analysis will be used. P&lt;0.05 means the difference is statistically significant.</p>
+      </sec>
+      <sec id="sec022">
+        <title>Subgroup analysis</title>
+        <p>To determine heterogeneity, subgroup analyses are performed when a large number of subgroup studies exist. This analysis includes different acupuncture techniques, point selection, and consideration of factors such as disease duration and severity.</p>
+      </sec>
+      <sec id="sec023">
+        <title>Sensitivity analysis</title>
+        <p>In order to validate the stability of the initial findings in the context of high heterogeneity, sensitivity analyses will be performed on the following different items: type of study, age difference, gender difference, study quality, treatment duration, treatment frequency and quality of heterogeneity. Reassessment of other relevant factors such as potential risk of bias, methodological quality and missing data will also be included.</p>
+      </sec>
+      <sec id="sec024">
+        <title>Publication bias</title>
+        <p>In case the meta-analysis incorporates over 10 studies, we will assess the presence of publication bias using the EGGER regression test. The assessment outcomes will then be exhibited through the utilization of funnel plots.</p>
+      </sec>
+      <sec id="sec025">
+        <title>Grading the quality of evidence</title>
+        <p>The quality of evidence will be assessed based on the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) [<xref rid="pone.0300769.ref020" ref-type="bibr">20</xref>]. The evaluation scale encompasses four levels, namely high, moderate, low, and very low. Classification criteria: high (no evidence of downgrade), moderate (1 evidence of downgrade), low (2 evidence of downgrade), very low (more than 2 evidence of downgrade). The total clinical effective rate can be categorized into two levels, namely level 3 and level 4, based on the efficacy evaluation standards. Level 3 includes cure/markedly effective, effective, and ineffective outcomes, while level 4 includes cure, markedly effective, effective, and ineffective outcomes.</p>
+      </sec>
+      <sec id="sec026">
+        <title>Ethics and dissemination</title>
+        <p>Ethical approval is not necessary because our study is not linked to individual patient data. In addition, the study findings will be published by peer reviewed journals.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec027">
+      <title>Discussion</title>
+      <p>PSD, defined as post-stroke depressive condition, is the most common psychiatric problem following stroke, which reduces patients&#x2019; quality of life and ability to recover [<xref rid="pone.0300769.ref021" ref-type="bibr">21</xref>]. TCM believes that PSD is an emotional disease that occurs on the basis of stroke due to a variety of reasons that lead to emotional disorders, which always belongs to the category of &#x2019;depression due to illness&#x2019;. After a stroke, patients&#x2019; motor function of the limbs, language and thinking ability and cognitive function will be damaged to varying degrees, which results in the gradual decline of the patients&#x2019; ability to take care of themselves in their daily life and their ability to socialize, as well as the marginalization of society. As a result, the patient&#x2019;s self-care ability in daily life, social ability and social marginalization are gradually reduced, leading to symptoms such as being sentimental, having a bad mood, being depressed, and being lazy and less active. The American Heart Association recommends that antidepressants be administered to PSD patients and continued for at least 6 months after recovery [<xref rid="pone.0300769.ref022" ref-type="bibr">22</xref>]. However, studies have indicated that long-term use of SSRI antidepressants may increase the risk of stroke and myocardial infarction and is associated with increased all-cause mortality [<xref rid="pone.0300769.ref023" ref-type="bibr">23</xref>]. Therefore, there is an urgent need for a &#x2019;green treatment&#x2019; to help patients reduce the adverse effects of antidepressants and improve neurological dysfunction, thereby alleviating medical stress.</p>
+      <p>Acupuncture as a uniquely holistic approach to treatment, with the ability to tailor the acupoint protocol to the patient&#x2019;s specific symptoms, may make acupuncture a uniquely supportive therapy for many stroke patients and may influence clinical decision-making regarding the use of acupuncture in post-stroke patients [<xref rid="pone.0300769.ref015" ref-type="bibr">15</xref>]. In recent years, acupuncture has been increasingly used in post-stroke care, with wrist-ankle acupuncture (WAA) improving the antidepressant effect of fluoxetine and reducing neurologic and gastrointestinal adverse drug reactions, and the combination of which is more effective in treating PSD [<xref rid="pone.0300769.ref024" ref-type="bibr">24</xref>]. Shao-Hua Zhang and colleagues have also demonstrated the effectiveness of acupuncture in treating PSD and alleviating patient symptoms [<xref rid="pone.0300769.ref025" ref-type="bibr">25</xref>]. However, due to insufficient evidence to support these claims, results of clinical studies on the effectiveness and safety of acupuncture in treating patients with PSD have been inconsistent. This leads to the question of whether acupuncture can be used to treat PSD, and when and how to make it more effective. Therefore, the aim of this study was to evaluate the efficacy and safety of acupuncture for the treatment of patients with PSD through systematic reviews and meta-analysis, in order to provide a basis for clinical evidence-based medical decision-making.</p>
+    </sec>
+    <sec id="sec028" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0300769.s001" position="float" content-type="local-data">
+        <label>S1 Checklist</label>
+        <caption>
+          <title>The PRISMA-P checklist.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pone.0300769.s001.docx"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors would like to thank those who provided comments on the revision of this review.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0300769.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="journal"><name><surname>Oni</surname><given-names>OD</given-names></name>, <name><surname>Olagunju</surname><given-names>AT</given-names></name>, <name><surname>Olisah</surname><given-names>VO</given-names></name>, <name><surname>Aina</surname><given-names>OF</given-names></name>, <name><surname>Ojini</surname><given-names>FI</given-names></name>. <article-title>Post-stroke depression: Prevalence, associated factors and impact on quality of life among outpatients in a Nigerian hospital</article-title>. <source>S Afr J Psychiatr</source>. <year>2018</year>;<volume>24</volume>:<fpage>1058</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.4102/sajpsychiatry.v24i0.1058</pub-id> .<pub-id pub-id-type="pmid">30263206</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Cai</surname><given-names>W</given-names></name>, <name><surname>Mueller</surname><given-names>C</given-names></name>, <name><surname>Li</surname><given-names>YJ</given-names></name>, <name><surname>Shen</surname><given-names>WD</given-names></name>, <name><surname>Stewart</surname><given-names>R</given-names></name>. <article-title>Post stroke depression and risk of stroke recurrence and mortality: A systematic review and meta-analysis</article-title>. <source>Ageing Res Rev</source>. <year>2019</year>;<volume>50</volume>:<fpage>102</fpage>&#x2013;<lpage>109</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.arr.2019.01.013</pub-id> .<pub-id pub-id-type="pmid">30711712</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Frank</surname><given-names>D</given-names></name>, <name><surname>Gruenbaum</surname><given-names>BF</given-names></name>, <name><surname>Zlotnik</surname><given-names>A</given-names></name>, <name><surname>Semyonov</surname><given-names>M</given-names></name>, <name><surname>Frenkel</surname><given-names>A</given-names></name>, <name><surname>Boyko</surname><given-names>M</given-names></name>. <article-title>Pathophysiology and Current Drug Treatments for Post-Stroke Depression: A Review</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>23</volume>(<issue>23</issue>):<fpage>15114</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3390/ijms232315114</pub-id> .<pub-id pub-id-type="pmid">36499434</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Ayerbe</surname><given-names>L</given-names></name>, <name><surname>Ayis</surname><given-names>S</given-names></name>, <name><surname>Wolfe</surname><given-names>CD</given-names></name>, <name><surname>Rudd</surname><given-names>AG</given-names></name>. <article-title>Natural history, predictors and outcomes of depression after stroke: systematic review and meta-analysis</article-title>. <source>Br J Psychiatry</source>. <year>2013</year>;<volume>202</volume>(<issue>1</issue>):<fpage>14</fpage>&#x2013;<lpage>21</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1192/bjp.bp.111.107664</pub-id> .<pub-id pub-id-type="pmid">23284148</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Esp&#xE1;rrago Llorca</surname><given-names>G</given-names></name>, <name><surname>Castilla-Guerra</surname><given-names>L</given-names></name>, <name><surname>Fern&#xE1;ndez Moreno</surname><given-names>MC</given-names></name>, <name><surname>Ruiz Doblado</surname><given-names>S</given-names></name>, <name><surname>Jim&#xE9;nez Hern&#xE1;ndez</surname><given-names>MD</given-names></name>. <article-title>Post-stroke depression: an update</article-title>. <source>Neurologia</source>. <year>2015</year>;<volume>30</volume>(<issue>1</issue>):<fpage>23</fpage>&#x2013;<lpage>31</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.nrl.2012.06.008</pub-id> .<pub-id pub-id-type="pmid">22901370</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Wu</surname><given-names>D</given-names></name>, <name><surname>Zhang</surname><given-names>G</given-names></name>, <name><surname>Zhao</surname><given-names>C</given-names></name>, <name><surname>Yang</surname><given-names>Y</given-names></name>, <name><surname>Miao</surname><given-names>Z</given-names></name>, <name><surname>Xu</surname><given-names>X</given-names></name>. <article-title>Interleukin-18 from neurons and microglia mediates depressive behaviors in mice with post-stroke depression</article-title>. <source>Brain Behav Immun</source>. <year>2020</year>;<volume>88</volume>:<fpage>411</fpage>&#x2013;<lpage>420</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.bbi.2020.04.004</pub-id> .<pub-id pub-id-type="pmid">32272223</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Chen</surname><given-names>H</given-names></name>, <name><surname>Liu</surname><given-names>F</given-names></name>, <name><surname>Sun</surname><given-names>D</given-names></name>, <name><surname>Zhang</surname><given-names>J</given-names></name>, <name><surname>Luo</surname><given-names>S</given-names></name>, <name><surname>Liao</surname><given-names>Q</given-names></name>, <etal>et al</etal>. <article-title>The potential risk factors of early-onset post-stroke depression from immuno-inflammatory perspective</article-title>. <source>Front Immunol</source>. <year>2022</year>;<volume>13</volume>:<fpage>1000631</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fimmu.2022.1000631</pub-id> .<pub-id pub-id-type="pmid">36225923</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Lam Ching</surname><given-names>W</given-names></name>, <name><surname>Li</surname><given-names>HJ</given-names></name>, <name><surname>Guo</surname><given-names>J</given-names></name>, <name><surname>Yao</surname><given-names>L</given-names></name>, <name><surname>Chau</surname><given-names>J</given-names></name>, <name><surname>Lo</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Acupuncture for post-stroke depression: a systematic review and network meta-analysis</article-title>. <source>BMC Psychiatry</source>. <year>2023</year>;<volume>23</volume>(<issue>1</issue>):<fpage>314</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12888-023-04749-1</pub-id> .<pub-id pub-id-type="pmid">37143014</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Ang</surname><given-names>L</given-names></name>, <name><surname>Kim</surname><given-names>HJ</given-names></name>, <name><surname>Heo</surname><given-names>JW</given-names></name>, <name><surname>Choi</surname><given-names>TY</given-names></name>, <name><surname>Lee</surname><given-names>HW</given-names></name>, <name><surname>Kim</surname><given-names>JI</given-names></name>, <etal>et al</etal>. <article-title>Acupuncture for the treatment of trigeminal neuralgia: A systematic review and meta-analysis</article-title>. <source>Complement Ther Clin Pract</source>. <year>2023</year>;<volume>52</volume>:<fpage>101763</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.ctcp.2023.101763</pub-id> .<pub-id pub-id-type="pmid">37159979</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Guo</surname><given-names>W</given-names></name>, <name><surname>Cui</surname><given-names>H</given-names></name>, <name><surname>Zhang</surname><given-names>L</given-names></name>, <name><surname>Du</surname><given-names>R</given-names></name>, <name><surname>Yuan</surname><given-names>H</given-names></name>, <name><surname>Zheng</surname><given-names>S</given-names></name>. <article-title>Acupuncture for the Treatment of Migraine: An Overview of Systematic Reviews</article-title>. <source>Curr Pain Headache Rep</source>. <year>2023</year>;<volume>27</volume>(<issue>8</issue>):<fpage>239</fpage>&#x2013;<lpage>257</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s11916-023-01120-7</pub-id> .<pub-id pub-id-type="pmid">37329483</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Fan</surname><given-names>M</given-names></name>, <name><surname>Dai</surname><given-names>G</given-names></name>, <name><surname>Li</surname><given-names>R</given-names></name>, <name><surname>Wu</surname><given-names>X</given-names></name>. <article-title>Efficacy of Acupuncture in the Treatment of Essential Hypertension: An Overview of Systematic Reviews and Meta-Analyses</article-title>. <source>Cardiovasc Ther</source>. <year>2023</year>;<volume>2023</volume>:<fpage>2722727</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1155/2023/2722727</pub-id> .<pub-id pub-id-type="pmid">37113506</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>PS</given-names></name>, <name><surname>Peng</surname><given-names>XM</given-names></name>, <name><surname>Niu</surname><given-names>XX</given-names></name>, <name><surname>Xu</surname><given-names>L</given-names></name>, <name><surname>Hung Yu Ng</surname><given-names>E</given-names></name>, <name><surname>Wang</surname><given-names>CC</given-names></name>, <etal>et al</etal>. <article-title>Efficacy of acupuncture for endometriosis-associated pain: a multicenter randomized single-blind placebo-controlled trial</article-title>. <source>Fertil Steril</source>. <year>2023</year>;<volume>119</volume>(<issue>5</issue>):<fpage>815</fpage>&#x2013;<lpage>823</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.fertnstert.2023.01.034</pub-id> .<pub-id pub-id-type="pmid">36716811</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>Feng</surname><given-names>J</given-names></name>, <name><surname>He</surname><given-names>H</given-names></name>, <name><surname>Wang</surname><given-names>Y</given-names></name>, <name><surname>Zhang</surname><given-names>X</given-names></name>, <name><surname>Zhang</surname><given-names>X</given-names></name>, <name><surname>Zhang</surname><given-names>T</given-names></name>, <etal>et al</etal>. <article-title>The efficacy and mechanism of acupuncture in the treatment of male infertility: A literature review</article-title>. <source>Front Endocrinol (Lausanne)</source>. <year>2022</year>;<volume>13</volume>:<fpage>1009537</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fendo.2022.1009537</pub-id> .<pub-id pub-id-type="pmid">36329891</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Hang</surname><given-names>X</given-names></name>, <name><surname>Li</surname><given-names>J</given-names></name>, <name><surname>Zhang</surname><given-names>Y</given-names></name>, <name><surname>Li</surname><given-names>Z</given-names></name>, <name><surname>Zhang</surname><given-names>Y</given-names></name>, <name><surname>Ye</surname><given-names>X</given-names></name>, <etal>et al</etal>. <article-title>Efficacy of frequently-used acupuncture methods for specific parts and conventional pharmaceutical interventions in treating post-stroke depression patients: A network meta-analysis</article-title>. <source>Complement Ther Clin Pract</source>. <year>2021</year>;<volume>45</volume>:<fpage>101471</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.ctcp.2021.101471</pub-id> .<pub-id pub-id-type="pmid">34371213</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Birch</surname><given-names>S</given-names></name>, <name><surname>Robinson</surname><given-names>N</given-names></name>. <article-title>Acupuncture as a post-stroke treatment option: A narrative review of clinical guideline recommendations</article-title>. <source>Phytomedicine</source>. <year>2022</year>;<volume>104</volume>:<fpage>154297</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.phymed.2022.154297</pub-id> .<pub-id pub-id-type="pmid">35816994</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Jiang</surname><given-names>H</given-names></name>, <name><surname>Deng</surname><given-names>S</given-names></name>, <name><surname>Zhang</surname><given-names>J</given-names></name>, <name><surname>Chen</surname><given-names>J</given-names></name>, <name><surname>Li</surname><given-names>B</given-names></name>, <name><surname>Zhu</surname><given-names>W</given-names></name>, <etal>et al</etal>. <article-title>Acupuncture treatment for post-stroke depression: Intestinal microbiota and its role</article-title>. <source>Front Neurosci</source>. <year>2023</year>;<volume>17</volume>:<fpage>1146946</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fnins.2023.1146946</pub-id> .<pub-id pub-id-type="pmid">37025378</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Liu</surname><given-names>R</given-names></name>, <name><surname>Zhang</surname><given-names>K</given-names></name>, <name><surname>Tong</surname><given-names>QY</given-names></name>, <name><surname>Cui</surname><given-names>GW</given-names></name>, <name><surname>Ma</surname><given-names>W</given-names></name>, <name><surname>Shen</surname><given-names>WD</given-names></name>. <article-title>Acupuncture for post-stroke depression: a systematic review and meta-analysis</article-title>. <source>BMC Complement Med Ther</source>. <year>2021</year>;<volume>21</volume>(<issue>1</issue>):<fpage>109</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12906-021-03277-3</pub-id> .<pub-id pub-id-type="pmid">33794857</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Xu</surname><given-names>CW</given-names></name>, <name><surname>Wang</surname><given-names>TT</given-names></name>, <name><surname>Chen</surname><given-names>LP</given-names></name>, <name><surname>Liu</surname><given-names>XL</given-names></name>, <name><surname>Yang</surname><given-names>Z</given-names></name>, <name><surname>Chen</surname><given-names>DR</given-names></name>, <etal>et al</etal>. <article-title>Observation on the short-term efficacy of inverse moxibustion at the Baihui point and Dazhui point in preventing post-stroke depression</article-title>. <source>Explore (NY)</source>. <year>2023</year>;<volume>19</volume>(<issue>4</issue>):<fpage>607</fpage>&#x2013;<lpage>610</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.explore.2023.01.006</pub-id> .<pub-id pub-id-type="pmid">36797083</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Shamseer</surname><given-names>L</given-names></name>, <name><surname>Moher</surname><given-names>D</given-names></name>, <name><surname>Clarke</surname><given-names>M</given-names></name>, <name><surname>Ghersi</surname><given-names>D</given-names></name>, <name><surname>Liberati</surname><given-names>A</given-names></name>, <name><surname>Petticrew</surname><given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation</article-title>. <source>BMJ</source>. <year>2015</year>;<volume>350</volume>:<fpage>g7647</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1136/bmj.g7647</pub-id> .<pub-id pub-id-type="pmid">25555855</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Balshem</surname><given-names>H</given-names></name>, <name><surname>Helfand</surname><given-names>M</given-names></name>, <name><surname>Sch&#xFC;nemann</surname><given-names>HJ</given-names></name>, <name><surname>Oxman</surname><given-names>AD</given-names></name>, <name><surname>Kunz</surname><given-names>R</given-names></name>, <name><surname>Brozek</surname><given-names>J</given-names></name>, <etal>et al</etal>. <article-title>GRADE guidelines: 3. Rating the quality of evidence</article-title>. <source>J Clin Epidemiol</source>. <year>2011</year>;<volume>64</volume>(<issue>4</issue>):<fpage>401</fpage>&#x2013;<lpage>406</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.jclinepi.2010.07.015</pub-id> .<pub-id pub-id-type="pmid">21208779</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Villa</surname><given-names>RF</given-names></name>, <name><surname>Ferrari</surname><given-names>F</given-names></name>, <name><surname>Moretti</surname><given-names>A</given-names></name>. <article-title>Post-stroke depression: Mechanisms and pharmacological treatment</article-title>. <source>Pharmacol Ther</source>. <year>2018</year>;<volume>184</volume>:<fpage>131</fpage>&#x2013;<lpage>144</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.pharmthera.2017.11.005</pub-id> .<pub-id pub-id-type="pmid">29128343</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Hackett</surname><given-names>ML</given-names></name>, <name><surname>K&#xF6;hler</surname><given-names>S</given-names></name>, <name><surname>O&#x2019;Brien</surname><given-names>JT</given-names></name>, <name><surname>Mead</surname><given-names>GE</given-names></name>. <article-title>Neuropsychiatric outcomes of stroke</article-title>. <source>Lancet Neurol</source>. <year>2014</year>;<volume>13</volume>(<issue>5</issue>):<fpage>525</fpage>&#x2013;<lpage>534</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S1474-4422(14)70016-X</pub-id> .<pub-id pub-id-type="pmid">24685278</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Robinson</surname><given-names>RG</given-names></name>, <name><surname>Jorge</surname><given-names>RE</given-names></name>. <article-title>Post-Stroke Depression: A Review</article-title>. <source>Am J Psychiatry</source>. <year>2016</year>;<volume>173</volume>(<issue>3</issue>):<fpage>221</fpage>&#x2013;<lpage>231</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1176/appi.ajp.2015.15030363</pub-id> .<pub-id pub-id-type="pmid">26684921</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>You</surname><given-names>Y</given-names></name>, <name><surname>Zhang</surname><given-names>T</given-names></name>, <name><surname>Shu</surname><given-names>S</given-names></name>, <name><surname>Qian</surname><given-names>X</given-names></name>, <name><surname>Zhou</surname><given-names>S</given-names></name>, <name><surname>Yao</surname><given-names>F</given-names></name>. <article-title>Wrist-ankle acupuncture and Fluoxetine in the treatment of post-stroke depression: a randomized controlled clinical trial</article-title>. <source>J Tradit Chin Med</source>. <year>2020</year>;<volume>40</volume>(<issue>3</issue>):<fpage>455</fpage>&#x2013;<lpage>460</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.19852/j.cnki.jtcm.2020.03.014</pub-id> .<pub-id pub-id-type="pmid">32506860</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0300769.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>SH</given-names></name>, <name><surname>Wang</surname><given-names>YL</given-names></name>, <name><surname>Zhang</surname><given-names>CX</given-names></name>, <name><surname>Zhang</surname><given-names>CP</given-names></name>, <name><surname>Xiao</surname><given-names>P</given-names></name>, <name><surname>Li</surname><given-names>QF</given-names></name>, <etal>et al</etal>. <article-title>Effect of Interactive Dynamic Scalp Acupuncture on Post-Stroke Cognitive Function, Depression, and Anxiety: A Multicenter, Randomized, Controlled Trial</article-title>. <source>Chin J Integr Med</source>. <year>2022</year>;<volume>28</volume>(<issue>2</issue>):<fpage>106</fpage>&#x2013;<lpage>115</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s11655-021-3338-1</pub-id> .<pub-id pub-id-type="pmid">34874523</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <sub-article article-type="aggregated-review-documents" id="pone.0300769.r001" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0300769.r001</article-id>
+      <title-group>
+        <article-title>Decision Letter 0</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yung-Hsiang</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Yung-Hsiang Chen</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Yung-Hsiang Chen</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0300769" id="rel-obj001" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>0</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">3 Jan 2024</named-content>
+</p>
+      <p><!-- <div> -->PONE-D-23-34488<!-- </div> --><!-- <div> -->Efficacy and safety of acupuncture treatment for post-stroke&#xA0;depression:A protocol for systematic review and meta-analysis<!-- </div> --><!-- <div> -->PLOS ONE</p>
+      <p>Dear Dr. Zou,</p>
+      <p>Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE&#x2019;s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.</p>
+      <p>==============================<!-- </div> --><!-- <div> -->Thank you for submitting the following manuscript to PLOS ONE.Please revise the manuscript according to the reviewers' comments and upload the revised file.<!-- </div> --><!-- <div> -->==============================</p>
+      <p>Please submit your revised manuscript by Feb 17 2024 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at&#xA0;<email>plosone@plos.org</email>. When you're ready to submit your revision, log on to <ext-link xlink:href="https://www.editorialmanager.com/pone/" ext-link-type="uri">https://www.editorialmanager.com/pone/</ext-link> and select the 'Submissions Needing Revision' folder to locate your manuscript file.</p>
+      <p>Please include the following items when submitting your revised manuscript:<!-- </div> --><list list-type="bullet"><list-item><p>A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.</p></list-item><list-item><p>A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.</p></list-item><list-item><p>An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.</p></list-item></list></p>
+      <p>If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.</p>
+      <p>If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: <ext-link xlink:href="https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols" ext-link-type="uri">https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols</ext-link>. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at <ext-link xlink:href="https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols" ext-link-type="uri">https://plos.org/protocols?utm_medium=editorial-email&amp;utm_source=authorletters&amp;utm_campaign=protocols</ext-link>.</p>
+      <p>We look forward to receiving your revised manuscript.</p>
+      <p>Kind regards,</p>
+      <p>Yung-Hsiang Chen, Ph.D.</p>
+      <p>Academic Editor</p>
+      <p>PLOS ONE</p>
+      <p>Journal Requirements:</p>
+      <p>When submitting your revision, we need you to address these additional requirements.</p>
+      <p>1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at&#xA0;</p>
+      <p><ext-link xlink:href="https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf" ext-link-type="uri">https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf</ext-link> and&#xA0;</p>
+      <p>
+<ext-link xlink:href="https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf" ext-link-type="uri">https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf</ext-link>
+</p>
+      <p>2. Please clarify the search dates, as your manuscript states both 'until September 2023' and 'to September 20, 2024</p>
+      <p>3. Please provide a complete Data Availability Statement in the submission form, ensuring you include all necessary access information or a reason for why you are unable to make your data freely accessible. If your research concerns only data provided within your submission, please write "All data are in the manuscript and/or supporting information files" as your Data Availability Statement.</p>
+      <p>4. PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to &#x2018;Update my Information&#x2019; (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: <ext-link xlink:href="https://www.youtube.com/watch?v=_xcclfuvtxQ" ext-link-type="uri">https://www.youtube.com/watch?v=_xcclfuvtxQ</ext-link></p>
+      <p>5. We notice that your supplementary figures are uploaded with the file type 'Figure'. Please amend the file type to 'Supporting Information'. Please ensure that each Supporting Information file has a legend listed in the manuscript after the references list.</p>
+      <p>Additional Editor Comments:</p>
+      <p>Thank you for submitting the following manuscript to PLOS ONE.</p>
+      <p>Please revise the manuscript according to the reviewers' comments and upload the revised file.</p>
+      <p>[Note: HTML markup is below. Please do not edit.]</p>
+      <p>Reviewers' comments:</p>
+      <p>Reviewer's Responses to Questions</p>
+      <p>
+<!-- <font color="black"> -->
+<bold>Comments to the Author</bold>
+</p>
+      <p>1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?</p>
+      <p>The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;Partly</p>
+      <p>Reviewer #2:&#xA0;Partly</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?</p>
+      <p>The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;No</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?</p>
+      <p>Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;Yes</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->4. Have the authors described where all data underlying the findings will be made available when the study is complete?</p>
+      <p>The <ext-link xlink:href="https://journals.plos.org/plosone/s/materials-and-software-sharing" ext-link-type="uri">PLOS Data policy</ext-link> requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception, at the time of publication. The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data&#x2014;e.g. participant privacy or use of data from a third party&#x2014;those must be specified.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;Yes</p>
+      <p>Reviewer #2:&#xA0;No</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->5. Is the manuscript presented in an intelligible fashion and written in standard English?</p>
+      <p>PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;No</p>
+      <p>Reviewer #2:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->6. Review Comments to the Author</p>
+      <p>Please use the space provided to explain your answers to the questions above and, if applicable, provide comments about issues authors must address before this protocol can be accepted for publication. You may also include additional comments for the author, including concerns about research or publication ethics.</p>
+      <p>You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.</p>
+      <p>(Please upload your review as an attachment if it exceeds 20,000 characters)<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;1. This study failed to state why it is important to do this review. Several meta-analyses/protocols of meta-analysis have been published in recent years. However, there is no effective comparison between the previous meta-analysis and this one in the background or discussion.</p>
+      <p>2. The author needs to improve the English expression and grammar of the full text.</p>
+      <p>3. The total effective rate of AC to treat PSD was selected as the primary outcome in this study, but the author failed to state the definition of effective.</p>
+      <p>4. The protocol of data synthesis and Sensitivity analysis needs to be more detailed.</p>
+      <p>Reviewer #2:&#xA0;The manuscript, presenting a research protocol for a meta-analysis on the effectiveness and safety of acupuncture therapy in treating post-stroke depression, appears to be of good quality. The topic chosen is of considerable clinical significance. Although the initial quality of the manuscript is commendable, there are areas where further refinement could enhance its scientific rigor and clarity. Detailed observations and suggestions are provided below to assist in these potential improvements.</p>
+      <p>1. Innovativeness</p>
+      <p>Your manuscript mentions previous similar meta-analyses and describes their limitations. This is a good starting point. To strengthen the innovativeness of your manuscript, it is suggested to more elaborately detail how this study makes innovative contributions on this basis, and the importance of these innovations in the current field of research.</p>
+      <p>2. Structure of the Abstract</p>
+      <p>The abstract is a crucial part of the paper, aiming to concisely and clearly highlight the main points of the research. Regarding the background section, it is advised to streamline the current expression, retaining only information directly relevant to the research, to enhance the clarity and efficiency of the abstract.</p>
+      <p>3. Tense Issues</p>
+      <p>In lines 173 to 175, you refer to the characteristics of this study as a protocol. Regarding the use of tense, it is recommended to review and adjust to ensure consistency and accuracy in the text when describing the research design, methods, and expected outcomes.</p>
+      <p>4. Choice of SMD</p>
+      <p>When choosing the Standardized Mean Difference (SMD) as the measure of effect size, please provide a more detailed explanation as to why the Mean Difference (MD) is not applicable in this study.</p>
+      <p>5. Introduction to GRADE</p>
+      <p>In lines 188 to 190, the introduction to the GRADE assessment method seems overly brief. To better help readers understand how you have applied this method and its role in your research, please provide a more detailed explanation, including its assessment criteria and how it is applied in this study.</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->7. PLOS authors have the option to publish the peer review history of their article (<ext-link xlink:href="https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history" ext-link-type="uri">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+      <p>If you choose &#x201C;no&#x201D;, your identity will remain anonymous but your review may still be made public.</p>
+      <p><bold>Do you want your identity to be public for this peer review?</bold> For information about this choice, including consent withdrawal, please see our <ext-link xlink:href="https://www.plos.org/privacy-policy" ext-link-type="uri">Privacy Policy</ext-link>.<!-- </font> --></p>
+      <p>Reviewer #1:&#xA0;No</p>
+      <p>Reviewer #2:&#xA0;No</p>
+      <p>**********</p>
+      <p>[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]</p>
+      <p>While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool,&#xA0;<ext-link xlink:href="https://pacev2.apexcovantage.com/" ext-link-type="uri">https://pacev2.apexcovantage.com/</ext-link>. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at&#xA0;<email>figures@plos.org</email>. Please note that Supporting Information files do not need this step.</p>
+    </body>
+  </sub-article>
+  <sub-article article-type="author-comment" id="pone.0300769.r002">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0300769.r002</article-id>
+      <title-group>
+        <article-title>Author response to Decision Letter 0</article-title>
+      </title-group>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0300769" id="rel-obj002" related-article-type="editor-report"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="author-response-date">1 Feb 2024</named-content>
+</p>
+      <p>Dear Editors and Reviewers:</p>
+      <p>Thank you for your letter and for the reviewers' comments concerning our manuscript entitled &#x201C;Efficacy and safety of acupuncture treatment for post-stroke depression: A protocol for systematic review and meta-analysis&#x201D; (PONE-D-23-34488). Those comments are all valuable and very helpful for revising and improving our paper. We have studied comments carefully and have made correction which we hope meet with approval. And All changes made in the revised manuscript have been marked in red text. Major corrections in the paper and responses to editorial and reviewer comments follow:</p>
+      <p>Journal Requirements:</p>
+      <p>1)Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at</p>
+      <p><ext-link xlink:href="https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf" ext-link-type="uri">https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf</ext-link> and </p>
+      <p>
+<ext-link xlink:href="https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf" ext-link-type="uri">https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf</ext-link>
+</p>
+      <p>Reply: The paper has been modified according to the journal format requirements.</p>
+      <p>2)Please clarify the search dates, as your manuscript states both 'until September 2023' and 'to September 20, 2024'.</p>
+      <p>Reply: Thank you for pointing out the issue. After careful consideration of the entire text, we have removed the section 'to September 20, 2024' for greater clarity.</p>
+      <p>3)Please provide a complete Data Availability Statement in the submission form, ensuring you include all necessary access information or a reason for why you are unable to make your data freely accessible. If your research concerns only data provided within your submission, please write "All data are in the manuscript and/or supporting information files" as your Data Availability Statement.</p>
+      <p>Reply: Provided .</p>
+      <p>4)PLOS requires an ORCID iD for the corresponding author in Editorial Manager on papers submitted after December 6th, 2016. Please ensure that you have an ORCID iD and that it is validated in Editorial Manager. To do this, go to &#x2018;Update my Information&#x2019; (in the upper left-hand corner of the main menu), and click on the Fetch/Validate link next to the ORCID field. This will take you to the ORCID site and allow you to create a new iD or authenticate a pre-existing iD in Editorial Manager. Please see the following video for instructions on linking an ORCID iD to your Editorial Manager account: <ext-link xlink:href="https://www.youtube.com/watch?v=_xcclfuvtxQ" ext-link-type="uri">https://www.youtube.com/watch?v=_xcclfuvtxQ</ext-link></p>
+      <p>Reply: The ORCID iD of the corresponding author has been added to 'Update my Information'.</p>
+      <p>5)We notice that your supplementary figures are uploaded with the file type 'Figure'. Please amend the file type to 'Supporting Information'. Please ensure that each Supporting Information file has a legend listed in the manuscript after the references list.</p>
+      <p>Reply: Changes have been made.</p>
+      <p>Reviewer #1:&#xA0;</p>
+      <p>1)This study failed to state why it is important to do this review. Several meta-analyses/protocols of meta-analysis have been published in recent years. However, there is no effective comparison between the previous meta-analysis and this one in the background or discussion.</p>
+      <p>Reply: Currently, oral antidepressants such as selective serotonin reuptake inhibitors (SSRIs), norepinephrine reuptake inhibitors (SNRIs), and norepinephrine and dopamine reuptake inhibitors (NDRIs) are commonly used in clinical practice. However, the effectiveness and safety of treating post-stroke depression (PSD) using these antidepressants are still controversial. It is important to consider the patient's underlying condition, compliance, and potential adverse reactions to antidepressant drugs. Evaluating the clinical treatment effect can be challenging. Long-term use of SSRI antidepressants has been associated with an increased risk of stroke, myocardial infarction, and all-cause mortality. In contrast, acupuncture, known as a 'green therapy,' has been proven effective and safe in treating PSD. Acupuncture utilizes the advantages of Traditional Chinese Medicine (TCM) syndrome differentiation and treatment, while also reducing the side effects of Western medicine. It can improve patients' negative mood, alleviate somatic symptoms, and promote neurological function recovery. Therefore, studying the effectiveness of acupuncture treatment for PSD is of great significance, and the significance of the study is explained in the revised manuscript.</p>
+      <p>2)The author needs to improve the English expression and grammar of the full text.</p>
+      <p>Reply: Thanks for your suggestion. We have tried our best to polish the language in the revised manuscript. These changes will not influence the content and framework of the paper.</p>
+      <p>3)The total effective rate of AC to treat PSD was selected as the primary outcome in this study, but the author failed to state the definition of effective.</p>
+      <p>Reply: As suggested by the reviewer, we have added a definition of total effective rate in the Type of outcome measures section and highlighted it in red text.</p>
+      <p>4)The protocol of data synthesis and Sensitivity analysis needs to be more detailed.</p>
+      <p>Reply: Thanks for your suggestion. Data synthesis and Sensitivity analysis have been described in more detail.</p>
+      <p>Reviewer #2:&#xA0;The manuscript, presenting a research protocol for a meta-analysis on the effectiveness and safety of acupuncture therapy in treating post-stroke depression, appears to be of good quality. The topic chosen is of considerable clinical significance. Although the initial quality of the manuscript is commendable, there are areas where further refinement could enhance its scientific rigor and clarity. Detailed observations and suggestions are provided below to assist in these potential improvements.</p>
+      <p>1) Innovativeness</p>
+      <p>Your manuscript mentions previous similar meta-analyses and describes their limitations. This is a good starting point. To strengthen the innovativeness of your manuscript, it is suggested to more elaborately detail how this study makes innovative contributions on this basis, and the importance of these innovations in the current field of research.</p>
+      <p>Reply: TCM believes that PSD is an emotional disease that occurs on the basis of stroke due to a variety of reasons that lead to emotional disorders, which always belongs to the category of "depression due to illness". After a stroke, patients' motor function of the limbs, language and thinking ability and cognitive function will be damaged to varying degrees, which results in the gradual decline of the patients' ability to take care of themselves in their daily life and their ability to socialize, as well as the marginalization of society. As a result, the patient's self-care ability in daily life, social ability and social marginalization are gradually reduced, leading to symptoms such as being sentimental, having a bad mood, being depressed, and being lazy and less active. Acupuncture utilizes the advantages of TCM syndrome differentiation and treatment, while also reducing the side effects of Western medicine. It can improve patients' negative mood, alleviate somatic symptoms, and promote neurological function recovery. Therefore, studying the effectiveness of acupuncture treatment for PSD is of great significance, and the significance of the study is explained in the revised manuscript.</p>
+      <p>2) Structure of the Abstract</p>
+      <p>The abstract is a crucial part of the paper, aiming to concisely and clearly highlight the main points of the research. Regarding the background section, it is advised to streamline the current expression, retaining only information directly relevant to the research, to enhance the clarity and efficiency of the abstract.</p>
+      <p>Reply: Thanks for your suggestion. Abstracts have been streamlined to better highlight the main points of the paper's research.</p>
+      <p>3) Tense Issues</p>
+      <p>In lines 173 to 175, you refer to the characteristics of this study as a protocol. Regarding the use of tense, it is recommended to review and adjust to ensure consistency and accuracy in the text when describing the research design, methods, and expected outcomes.</p>
+      <p>Reply: We feel sorry for our carelessness. In our resubmitted manuscript, the tense issues in the subgroup analysis section has been revised. Thanks for your correction.</p>
+      <p>4) Choice of SMD</p>
+      <p>When choosing the Standardized Mean Difference (SMD) as the measure of effect size, please provide a more detailed explanation as to why the Mean Difference (MD) is not applicable in this study.</p>
+      <p>Reply: After gaining an in-depth understanding of the definitions of SMD and MD, we believe that this study should use MD as a measure of effect size. At the same time, it is stated in the revised manuscript that if different measurement tools are used for the same variables, SMD will be used for analysis. Thank you for your correction, which allowed us to make timely adjustments to the statistical methods of the protocol.</p>
+      <p>5) Introduction to GRADE</p>
+      <p>In lines 188 to 190, the introduction to the GRADE assessment method seems overly brief. To better help readers understand how you have applied this method and its role in your research, please provide a more detailed explanation, including its assessment criteria and how it is applied in this study.</p>
+      <p>Reply: Thank you for your suggestion. We have provided a more detailed explanation of the GRADE evaluation method, evaluation criteria, and its application in this study in the revised manuscript.</p>
+      <p>We tried our best to improve the manuscript and made some changes in the manuscript.</p>
+      <p>We appreciate for Editors and Reviewers' warm work earnestly, and hope that the correction will meet with approval. Once again thank you very much for your comments and suggestions.</p>
+      <p>Yours sincerely,</p>
+      <p>Wei Zou</p>
+      <supplementary-material id="pone.0300769.s002" position="float" content-type="local-data">
+        <label>Attachment</label>
+        <caption>
+          <p>Submitted filename: <named-content content-type="submitted-filename">Response to Reviewers.docx</named-content></p>
+        </caption>
+        <media xlink:href="pone.0300769.s002.docx"/>
+      </supplementary-material>
+    </body>
+  </sub-article>
+  <sub-article article-type="aggregated-review-documents" id="pone.0300769.r003" specific-use="decision-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0300769.r003</article-id>
+      <title-group>
+        <article-title>Decision Letter 1</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yung-Hsiang</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Yung-Hsiang Chen</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Yung-Hsiang Chen</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0300769" id="rel-obj003" related-article-type="reviewed-article"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>Submission Version</meta-name>
+          <meta-value>1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">5 Mar 2024</named-content>
+</p>
+      <p>Efficacy and safety of acupuncture treatment for post-stroke&#xA0;depression:A protocol for systematic review and meta-analysis</p>
+      <p>PONE-D-23-34488R1</p>
+      <p>Dear Dr. Zou,</p>
+      <p>We&#x2019;re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.</p>
+      <p>Within one week, you&#x2019;ll receive an e-mail detailing the required amendments. When these have been addressed, you&#x2019;ll receive a formal acceptance letter and your manuscript will be scheduled for publication.</p>
+      <p>An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at <ext-link xlink:href="http://www.editorialmanager.com/pone/" ext-link-type="uri">http://www.editorialmanager.com/pone/</ext-link>, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at <email>authorbilling@plos.org</email>.</p>
+      <p>If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they&#x2019;ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact <email>onepress@plos.org</email>.</p>
+      <p>Kind regards,</p>
+      <p>Yung-Hsiang Chen, Ph.D.</p>
+      <p>Academic Editor</p>
+      <p>PLOS ONE</p>
+      <p>Additional Editor Comments (optional):</p>
+      <p>Your manuscript has been evaluated by external reviewers and members of the editorial board.</p>
+      <p>Congratulations on the acceptance of your manuscript, and thank you for your interest in submitting your work to PLOS ONE.</p>
+      <p>Reviewers' comments:</p>
+      <p>Reviewer's Responses to Questions</p>
+      <p>
+<!-- <font color="black"> -->
+<bold>Comments to the Author</bold>
+</p>
+      <p>1. Does the manuscript provide a valid rationale for the proposed study, with clearly identified and justified research questions?</p>
+      <p>The research question outlined is expected to address a valid academic problem or topic and contribute to the base of knowledge in the field.<!-- </font> --></p>
+      <p>Reviewer #3:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->2. Is the protocol technically sound and planned in a manner that will lead to a meaningful outcome and allow testing the stated hypotheses?</p>
+      <p>The manuscript should describe the methods in sufficient detail to prevent undisclosed flexibility in the experimental procedure or analysis pipeline, including sufficient outcome-neutral conditions (e.g. necessary controls, absence of floor or ceiling effects) to test the proposed hypotheses and a statistical power analysis where applicable. As there may be aspects of the methodology and analysis which can only be refined once the work is undertaken, authors should outline potential assumptions and explicitly describe what aspects of the proposed analyses, if any, are exploratory.<!-- </font> --></p>
+      <p>Reviewer #3:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->3. Is the methodology feasible and described in sufficient detail to allow the work to be replicable?</p>
+      <p>Descriptions of methods and materials in the protocol should be reported in sufficient detail for another researcher to reproduce all experiments and analyses. The protocol should describe the appropriate controls, sample size calculations, and replication needed to ensure that the data are robust and reproducible.<!-- </font> --></p>
+      <p>Reviewer #3:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->4. Have the authors described where all data underlying the findings will be made available when the study is complete?</p>
+      <p>The <ext-link xlink:href="https://journals.plos.org/plosone/s/materials-and-software-sharing" ext-link-type="uri">PLOS Data policy</ext-link> requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception, at the time of publication. The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data&#x2014;e.g. participant privacy or use of data from a third party&#x2014;those must be specified.<!-- </font> --></p>
+      <p>Reviewer #3:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->5. Is the manuscript presented in an intelligible fashion and written in standard English?</p>
+      <p>PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.<!-- </font> --></p>
+      <p>Reviewer #3:&#xA0;Yes</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->6. Review Comments to the Author</p>
+      <p>Please use the space provided to explain your answers to the questions above and, if applicable, provide comments about issues authors must address before this protocol can be accepted for publication. You may also include additional comments for the author, including concerns about research or publication ethics.</p>
+      <p>You may also provide optional suggestions and comments to authors that they might find helpful in planning their study.</p>
+      <p>(Please upload your review as an attachment if it exceeds 20,000 characters)<!-- </font> --></p>
+      <p>Reviewer #3:&#xA0;The paper discusses the high incidence and low recognition rate of post-stroke depression (PSD), emphasizing its impact on patients&#x2019; mental well-being and the increased risk of stroke recurrence and poor prognosis. It highlights the public health concern posed by PSD. It examines the popularity and inconsistent clinical research results regarding the efficacy and safety of acupuncture as a treatment for PSD. The systematic review aims to gather and critically assess all available evidence on the effectiveness and safety of acupuncture in treating patients with PSD. The authors address the journal&#x2019;s requirements and reviewers&#x2019; comments, making corrections and providing clarifications to improve the manuscript. They emphasize the significance of studying acupuncture for PSD and detail their responses to the editorial and reviewer comments. This section serves as an introduction to the study protocol for a systematic review and meta-analysis on acupuncture treatment for PSD. It sets the stage for the detailed methodology and expected outcomes of the review. The manuscript has undergone a thorough review, and the revisions have been commendably executed. I advocate considering this manuscript for publication.</p>
+      <p>**********</p>
+      <p><!-- <font color="black"> -->7. PLOS authors have the option to publish the peer review history of their article (<ext-link xlink:href="https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history" ext-link-type="uri">what does this mean?</ext-link>). If published, this will include your full peer review and any attached files.</p>
+      <p>If you choose &#x201C;no&#x201D;, your identity will remain anonymous but your review may still be made public.</p>
+      <p><bold>Do you want your identity to be public for this peer review?</bold> For information about this choice, including consent withdrawal, please see our <ext-link xlink:href="https://www.plos.org/privacy-policy" ext-link-type="uri">Privacy Policy</ext-link>.<!-- </font> --></p>
+      <p>Reviewer #3:&#xA0;No</p>
+      <p>**********</p>
+    </body>
+  </sub-article>
+  <sub-article article-type="editor-report" id="pone.0300769.r004" specific-use="acceptance-letter">
+    <front-stub>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0300769.r004</article-id>
+      <title-group>
+        <article-title>Acceptance letter</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yung-Hsiang</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <permissions>
+        <copyright-statement>&#xA9; 2024 Yung-Hsiang Chen</copyright-statement>
+        <copyright-year>2024</copyright-year>
+        <copyright-holder>Yung-Hsiang Chen</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <related-article ext-link-type="doi" xlink:href="10.1371/journal.pone.0300769" id="rel-obj004" related-article-type="reviewed-article"/>
+    </front-stub>
+    <body>
+      <p>
+<named-content content-type="letter-date">24 Apr 2024</named-content>
+</p>
+      <p>PONE-D-23-34488R1 </p>
+      <p>PLOS ONE</p>
+      <p>Dear Dr. Zou, </p>
+      <p>I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now being handed over to our production team.</p>
+      <p>At this stage, our production department will prepare your paper for publication. This includes ensuring the following:</p>
+      <p>* All references, tables, and figures are properly cited</p>
+      <p>* All relevant supporting information is included in the manuscript submission,</p>
+      <p>* There are no issues that prevent the paper from being properly typeset</p>
+      <p>If revisions are needed, the production department will contact you directly to resolve them. If no revisions are needed, you will receive an email when the publication date has been set. At this time, we do not offer pre-publication proofs to authors during production of the accepted work. Please keep in mind that we are working through a large volume of accepted articles, so please give us a few weeks to review your paper and let you know the next and final steps. </p>
+      <p>Lastly, if your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact <email>onepress@plos.org</email>.</p>
+      <p>If we can help with anything else, please email us at <email>customercare@plos.org</email>.</p>
+      <p>Thank you for submitting your work to PLOS ONE and supporting open access. </p>
+      <p>Kind regards, </p>
+      <p>PLOS ONE Editorial Office Staff</p>
+      <p>on behalf of</p>
+      <p>Dr. Yung-Hsiang Chen </p>
+      <p>Academic Editor</p>
+      <p>PLOS ONE</p>
+    </body>
+  </sub-article>
+</article>
+</pmc-articleset>

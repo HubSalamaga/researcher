@@ -1,0 +1,462 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Acta Ortop Bras</journal-id><journal-id journal-id-type="iso-abbrev">Acta Ortop Bras</journal-id><journal-id journal-id-type="publisher-id">aob</journal-id><journal-title-group><journal-title>Acta Ortopedica Brasileira</journal-title></journal-title-group><issn pub-type="ppub">1413-7852</issn><issn pub-type="epub">1809-4406</issn><publisher><publisher-name>ATHA EDITORA</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">11073522</article-id><article-id pub-id-type="other">01700</article-id><article-id pub-id-type="doi">10.1590/1413-785220243201e277229</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article/Wrist And Hand</subject></subj-group></article-categories><title-group><article-title>WHAT IS THE EPIDEMIOLOGICAL PROFILE OF ACUTE HAND INFECTIONS AT A HOSPITAL IN SAO PAULO?</article-title><trans-title-group xml:lang="pt"><trans-title>QUAL O PERFIL EPIDEMIOL&#xD3;GICO DE INFEC&#xC7;&#xD5;ES AGUDAS NA M&#xC3;O NUM HOSPITAL FILANTR&#xD3;PICO DE S&#xC3;O PAULO?</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9491-7802</contrib-id><name><surname>Lee</surname><given-names>Thomas Yi Teh</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role>bibliographic research</role><role>analysis or interpretation of the data</role><role>writing</role><role>content and adequacy review</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0176-6265</contrib-id><name><surname>Nemer</surname><given-names>Lucas Alves</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role>design of the work</role><role>bibliographic research</role><role>analysis or interpretation of the data</role><role>writing</role><role>content and adequacy review</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0854-0509</contrib-id><name><surname>Vianna</surname><given-names>Alessandro Ayres</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role>indication of bibliography and databases for research</role><role>writing</role><role>content and adequacy review</role><role>indication of journal for submission</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0752-5128</contrib-id><name><surname>Abdouni</surname><given-names>Yussef Ali</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role>indication of bibliography and databases for research</role><role>content review of the manuscript to be published</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9507-4170</contrib-id><name><surname>Cardoso</surname><given-names>Fabr&#xED;cio Luz</given-names></name><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref><role>indication of bibliography and databases for research</role><role>writing</role><role>content and suitability review</role><role>indication of journal for submission</role><role>statistical tests</role><role>final approval of the manuscript to be published</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4980-562X</contrib-id><name><surname>da Costa</surname><given-names>Antonio Carlos</given-names></name><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref><role>idealization of the work</role><role>indication of bibliography and databases for research</role><role>content and suitability review</role><role>indication of journal for submission</role><role>final approval of the manuscript to be published</role></contrib></contrib-group><aff id="aff1">
+<label>1.</label>Irmandade Santa Casa de Misericordia de Sao Paulo, Department of Orthopedics e Traumatology &#x201C;Pavilhao Fernandinho Simonsen,&#x201D; Sao Paulo, SP, Brazil.</aff><aff id="aff2">
+<label>2.</label>Irmandade Santa Casa de Misericordia de Sao Paulo, Department of Orthopedics e Traumatology &#x201C;Pavilhao Fernandinho Simonsen,&#x201D; Hand and Microsurgery Group, Sao Paulo, SP, Brazil.</aff><author-notes><fn fn-type="COI-statement"><p>All authors declare no potential conflict of interest related to this article.</p></fn><fn fn-type="presented-at"><p>
+<bold>
+<italic>The study was conducted at the Irmandade Santa Casa de Misericordia de Sao Paulo, Department of Orthopedics e Traumatology &#x201C;Pavilhao Fernandinho Simonsen,&#x201D; Hand and Microsurgery Group.</italic>
+</bold>
+</p></fn><corresp>
+<bold>
+<italic>Correspondence: Fabr&#xED;cio Luz Cardoso. Rua Santa Isabel, 272, apt. 910, S&#xE3;o Paulo, SP, Brazil, 01221010. <email>fabricioramalhense@gmail.com</email>
+</italic>
+</bold>
+</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>06</day><month>5</month><year>2024</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2024</year></pub-date><volume>32</volume><issue>spe1</issue><elocation-id>e277229</elocation-id><history><date date-type="received"><day>02</day><month>8</month><year>2023</year></date><date date-type="accepted"><day>09</day><month>10</month><year>2023</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p> This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons License</ext-link>
+</license-p></license></permissions><abstract><title>ABSTRACT</title><sec><title>Objective:</title><p>To determine the epidemiological profile of patients treated at a philanthropic hospital specialized in Orthopedics and Traumatology, located in a significant urban center, and evaluate the efficacy of initial empirical antibiotic treatment.</p></sec><sec sec-type="methods"><title>Methods:</title><p> Patients diagnosed with hand infections from September 2020 to September 2022 were included, excluding cases related to open fractures or post-surgical infections and those with incomplete medical records. The chi-square test was performed using STATISTICA <sup>&#xAE;</sup> software to correlate various variables. </p></sec><sec sec-type="results"><title>Results:</title><p>A total of 34 patients participated, including 24 men and 10 women, with an average age of 41.9 years. Most male patients had Diabetes Mellitus, HIV, and drug addiction, and they resided in urban areas. Half of the patients did not report any apparent trauma. The most common infectious agent was Staphylococcus aureus*. Nearly 62% of patients required a change in the initial antibiotic regimen, with Penicillin being the most frequently substituted medication. Beta-lactam antibiotics and Quinolones were the most effective.</p></sec><sec sec-type="conclusions"><title>Conclusion:</title><p> These results suggest the importance of carefully evaluating the epidemiological profile of patients with acute hand infections and improving initial empirical treatment to ensure appropriate and effective therapy. <bold>
+<italic>Level of Evidence IV, Cross-Sectional Observational Study.</italic>
+</bold>
+</p></sec></abstract><trans-abstract xml:lang="pt"><title>RESUMO</title><sec><title>Objetivo:</title><p>
+<italic>Determinar o perfil epidemiol&#xF3;gico de pacientes atendidos em um hospital filantr&#xF3;pico refer&#xEA;ncia em Ortopedia e Traumatologia localizado em um centro urbano importante, e avaliar a efic&#xE1;cia do tratamento antibi&#xF3;tico emp&#xED;rico inicial.</italic>
+</p></sec><sec sec-type="methods"><title>M&#xE9;todos:</title><p>
+<italic>Foram inclu&#xED;dos pacientes com diagn&#xF3;stico de infec&#xE7;&#xE3;o na m&#xE3;o, atendidos no per&#xED;odo de setembro de 2020 a setembro de 2022, excluindo-se casos relacionados a fraturas expostas ou p&#xF3;s-cir&#xFA;rgicas e aqueles com prontu&#xE1;rios incompletos. Realizou-se o teste do qui-quadrado, utilizando o software STATISTICA</italic>
+<sup>&#xAE;</sup>
+<italic>para correlacionar diversas vari&#xE1;veis.</italic>
+</p></sec><sec sec-type="results"><title>Resultados:</title><p>
+<italic>Participaram do estudo 34 pacientes, sendo 24 homens e 10 mulheres, com m&#xE9;dia de idade de 41,9 anos. A maioria era de homens, com alta incid&#xEA;ncia de diabetes mellitus, HIV e drogadi&#xE7;&#xE3;o, que residiam em &#xE1;reas livres. Metade n&#xE3;o relatou trauma evidente. O agente infeccioso mais comum foi o Staphylococcus aureus. Aproximadamente 62% dos pacientes precisaram de troca do esquema inicial de antibi&#xF3;ticos, sendo a penicilina o medicamento mais frequentemente substitu&#xED;do. Os antibi&#xF3;ticos beta-lact&#xE2;micos e quinolonas foram os mais eficientes.</italic>
+</p></sec><sec sec-type="conclusions"><title>Conclus&#xE3;o:</title><p>
+<italic>Esses resultados sugerem a import&#xE2;ncia de avaliar cuidadosamente o perfil epidemiol&#xF3;gico dos pacientes com infec&#xE7;&#xF5;es agudas na m&#xE3;o e aprimorar o tratamento emp&#xED;rico inicial para garantir uma terapia adequada e eficaz.</italic>
+<bold>
+<italic>N&#xED;vel de Evid&#xEA;ncia IV, Estudo Observacional Transversal.</italic>
+</bold>
+</p></sec></trans-abstract><kwd-group><title>Keywords:</title><kwd>Bacterial Infections</kwd><kwd>Hands</kwd><kwd>Epidemiology</kwd><kwd>Anti-Bacterial Agents</kwd><kwd>Orthopedics</kwd></kwd-group><kwd-group xml:lang="pt"><title>Descritores:</title><kwd>Infec&#xE7;&#xF5;es Bacterianas</kwd><kwd>M&#xE3;os</kwd><kwd>Epidemiologia</kwd><kwd>Antibacterianos</kwd><kwd>Ortopedia</kwd></kwd-group><counts><fig-count count="2"/><table-count count="2"/><ref-count count="20"/></counts></article-meta></front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUCTION</title>
+      <p> Hand infections are common diagnoses in orthopedic clinical practice. <sup>
+<xref rid="B1" ref-type="bibr" alt="1">1</xref>
+</sup> They represent 1/3 of the patients admitted to hand surgery services, and it is estimated that 60% of hand infections are posterior to trauma, of which 30% result from human or animal bites and 10% from other causes, such as drug injection. <sup>
+<xref rid="B2" ref-type="bibr" alt="2">2</xref>
+</sup> Most patients seek the health services due to pain, which is commonly associated with redness, edema, heat, and erythema. <sup>
+<xref rid="B3" ref-type="bibr" alt="3">3</xref>
+</sup> Pain is most often the initial symptom, followed by edema, redness and local warmth. <sup>
+<xref rid="B3" ref-type="bibr" alt="3">3</xref>
+</sup>
+</p>
+      <p> Acute hand infections usually begin due to a breach of the skin integrity as result of an unnoticed injury. Diabetes mellitus, immunosuppression, malnutrition, alcoholism, and drug abuse are risk factors for the emergence of hand infection. <sup>
+<xref rid="B4" ref-type="bibr" alt="4">4</xref>
+</sup> The patient&#x2019;s age is also an important risk factor for hand conditions. <sup>
+<xref rid="B4" ref-type="bibr" alt="4">4</xref>
+</sup> Most infections result from injuries in the home or workplace and involve Gram-positive bacteria. <italic>Staphylococcus aureus</italic> is the most frequently isolated microorganism found in hand infections; it is identified in 44&#x2013;80% of cases in other studies. <sup>
+<xref rid="B5" ref-type="bibr" alt="5">5</xref>
+</sup>
+<sup>-</sup>
+<sup>
+<xref rid="B7" ref-type="bibr" alt="7">7</xref>
+</sup> There has been an increase in the incidence of methicillin-resistant <italic>Staphylococcus aureus</italic> (MRSA) in the last 15 years, with its incidence estimated at about 65%. <sup>
+<xref rid="B8" ref-type="bibr" alt="8">8</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B9" ref-type="bibr" alt="9">9</xref>
+</sup>
+</p>
+      <p>It is believed that the distribution of different infections is related to the epidemiological profile of the population cared for in a specific service. This study seeks to establish the epidemiological profile of patients with acute hand infections who are treated in a reference philanthropic hospital of Orthopedics and Traumatology located in a major urban center. The other purpose of this research is to evaluate the effectiveness of initial empirical antibiotic treatment.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>METHODOLOGY</title>
+      <p> This is a cross-sectional observational study of epidemiological data of patients with acute hand infections, who attended the previously described service, from September 2020 to September 2022. The study was approved by the Research Ethics Committee under opinion No. 5,818,523 and all patients signed an informed consent form. The data were collected via medical records, with relevant information being transferred to an Excel <sup>&#xAE;</sup> file. </p>
+      <p>The inclusion criteria were: hand infection diagnoses. Infections after an open or post-surgical fracture were excluded, as were patients with incomplete or inaccurate medical records.</p>
+      <p>Regarding epidemiological data of the patients, gender, occupation, comorbidities, history of alcoholism or drug use, housing conditions (public area or not) and trauma mechanisms were evaluated; when applicable, age was also evaluated. For age, patients were allocated into three groups: three to 34 years (nine subjects), 35 to 47 years (12 subjects) and 50 to 68 years (13 subjects). Infections were classified according to the affected tissue and site. Type of trauma, when present, was also a criterion of investigation.</p>
+      <p>For infection characterization, the following data were retrieved: infectious agent, exam results of C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), as well as the antibiotic applied at the entrance, and failures that led to medication change.</p>
+      <p> Lastly, the chi-square test was carried out using the STATISTICA <sup>&#xAE;</sup> software for the following correlations: drug use <italic>versus</italic> mechanism of trauma; alcohol use <italic>versus</italic> mechanism of trauma; age <italic>versus</italic> microorganisms isolation; living and working conditions <italic>versus</italic> microorganisms isolation; drug use <italic>versus</italic> isolation of microorganisms; diabetes mellitus <italic>versus</italic> microorganisms isolation; alcohol use <italic>versus</italic> microorganisms isolation; mechanism of trauma <italic>versus</italic> microorganisms isolation; age <italic>versus</italic> effectiveness of the initial antibiotic; living conditions <italic>versus</italic> effectiveness of the initial antibiotic; drug use <italic>versus</italic> effectiveness of the initial antibiotic; diabetes mellitus <italic>versus</italic> effectiveness of the initial antibiotic; alcohol use <italic>versus</italic> effectiveness of the initial antibiotic; mechanism of trauma <italic>versus</italic> effectiveness of the initial antibiotic; microorganisms isolation <italic>versus</italic> effectiveness of the initial antibiotic and initial antibiotic <italic>versus</italic> effectiveness of the initial antibiotic. </p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTS</title>
+      <p> A total of 34 patients met the inclusion criteria, 24 men (70.6%) and 10 women (29.4%). No individuals were excluded. The mean age of these patients was 41.9 years, ranging from three to 68 years (standard deviation = 11.1). As for housing, 10 patients (29.4%) were residents of public areas (including four recyclers and six unemployed individuals). We also observed the presence of three retirees (8.9%), three students (8.9%) and two individuals with unspecified profession (5.8%) ( <xref rid="t1" ref-type="table" alt="Table 1">Table 1</xref> ). </p>
+      <p>
+<table-wrap position="float" id="t1"><label>Table 1.</label><caption><title>Occupational and housing conditions of the individuals evaluated by the study.</title></caption><table frame="hsides" rules="groups" border="1" style="border-collapse:collapse" width="100%"><colgroup span="1"><col style="border-left:hidden" width="84%" span="1"/><col style="border-right:hidden" width="16%" span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">
+<bold>Profession</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Total</bold>
+</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">Health worker</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Retiree</td><td align="center" rowspan="1" colspan="1">3</td></tr><tr><td align="center" rowspan="1" colspan="1">Kitchen assistant</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Business owner</td><td align="center" rowspan="1" colspan="1">3</td></tr><tr><td align="center" rowspan="1" colspan="1">Caretaker</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Unemployed (public area resident)</td><td align="center" rowspan="1" colspan="1">6</td></tr><tr><td align="center" rowspan="1" colspan="1">Homemaker</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Electrician</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Student</td><td align="center" rowspan="1" colspan="1">3</td></tr><tr><td align="center" rowspan="1" colspan="1">Vendor of farm products</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Plasterer</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Valet</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Unspecified</td><td align="center" rowspan="1" colspan="1">2</td></tr><tr><td align="center" rowspan="1" colspan="1">Construction worker</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Painter</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Door attendant</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Recycler (public area resident)</td><td align="center" rowspan="1" colspan="1">4</td></tr><tr><td align="center" rowspan="1" colspan="1">Security guard</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">Computer technician</td><td align="center" rowspan="1" colspan="1">1</td></tr><tr><td align="center" rowspan="1" colspan="1">
+<bold>Overall Total</bold>
+</td><td align="center" rowspan="1" colspan="1">
+<bold>34</bold>
+</td></tr></tbody></table></table-wrap>
+</p>
+      <p>
+<xref rid="f1" ref-type="fig" alt="Figure 1">Figure 1</xref> lists the comorbidities presented by these patients. The most common comorbidity was diabetes mellitus, affecting nine patients (26.5%); HIV was the second most prevalent, in three patients (8.9%). Regarding habits, 17 patients reported drug use (50%) and 11 patients reported being alcohol users (32.4%). </p>
+      <p> Among the 34 evaluated patients, 47% reported no previous trauma, 14.7% reported blunt trauma and 14.7% had perforating trauma. Human and cat bites accounted for 9% of cases each, totaling three cases. The other mechanisms of trauma are shown in <xref rid="f2" ref-type="fig" alt="Figure 2">Figure 2</xref> . </p>
+      <p> The most frequent hand infections according to <xref rid="t2" ref-type="table" alt="Table 2">Table 2</xref> were: 12 cases of flexor tenosynovitis (32.4%) and four cases of extensor tenosynovitis (10.8%). <xref rid="t2" ref-type="table" alt="Table 2">Table 2</xref> also show the other diagnoses. </p>
+      <p>
+<fig position="float" id="f1"><label>Figure 1.</label><caption><title>Comorbidities presented in order of prevalence.</title></caption><graphic xlink:href="1809-4406-aob-32-spe1-e277229-f1" position="float"/></fig>
+</p>
+      <p>
+<fig position="float" id="f2"><label>Figure 2.</label><caption><title>Mechanism of trauma in order of prevalence.</title></caption><graphic xlink:href="1809-4406-aob-32-spe1-e277229-f2" position="float"/></fig>
+</p>
+      <p>
+<table-wrap position="float" id="t2"><label>Table 2.</label><caption><title>Description of the diagnosis and site of infection of the evaluated patients.</title></caption><table frame="hsides" rules="groups" border="1" style="border-collapse:collapse" width="100%"><colgroup span="1"><col style="border-left:hidden" width="68%" span="1"/><col width="13%" span="1"/><col style="border-right:hidden" width="18%" span="1"/></colgroup><thead><tr><th align="center" rowspan="1" colspan="1">
+<bold>Diagnosis</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Number</bold>
+</th><th align="center" rowspan="1" colspan="1">
+<bold>Percentage</bold>
+</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">Abscess on the distal phalanx</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Abscess on the intermediate phalanx</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">5.4%</td></tr><tr><td align="center" rowspan="1" colspan="1">Abscess on the proximal phalanx</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">5.4%</td></tr><tr><td align="center" rowspan="1" colspan="1">Abscess in the first commissure</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Abscess in the dorsal wrist</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Abscess in the dorsal metacarpophalangeal region</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Abscess in the thenar region</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">5.4%</td></tr><tr><td align="center" rowspan="1" colspan="1">Abscess on the volar zone of the thumb</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">5.4%</td></tr><tr><td align="center" rowspan="1" colspan="1">Metacarpophalangeal cellulitis</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Subungual abscess</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Distal phalanx necrosis</td><td align="center" rowspan="1" colspan="1">2</td><td align="center" rowspan="1" colspan="1">5.4%</td></tr><tr><td align="center" rowspan="1" colspan="1">Distal phalanx necrosis + ink-machinery-related accident/foreign-body</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Distal phalanx osteomyelitis /paronychia</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Distal interphalangeal pyoarthritis &#x2013; human bite</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Proximal interphalangeal pyoarthritis &#x2013; cat bite</td><td align="center" rowspan="1" colspan="1">1</td><td align="center" rowspan="1" colspan="1">2.7%</td></tr><tr><td align="center" rowspan="1" colspan="1">Extensor tenosynovitis</td><td align="center" rowspan="1" colspan="1">4</td><td align="center" rowspan="1" colspan="1">10.8%</td></tr><tr><td align="center" rowspan="1" colspan="1">Flexor tenosynovitis</td><td align="center" rowspan="1" colspan="1">12</td><td align="center" rowspan="1" colspan="1">32.4%</td></tr></tbody></table></table-wrap>
+</p>
+      <p>
+<italic>Staphylococci</italic> species were the most prevalent, with <italic>S. aureus</italic> occurring in 26.5% of cases and coagulase-negative in one (3%). Cultures were negative in 53% of cases. </p>
+      <p>In laboratory analysis, it was observed that 28 patients (82.4%) presented changes in CRP, with values &#x2265; 1, ranging from 1 to 36.7 (standard deviation = 13.82), while 24 (70.6%) demonstrated changes in ESR, with values above 13 for men and 20 for women, ranging from 4 to 120 (standard deviation = 36.26). Exam collection was not possible for two patients (5.9%).</p>
+      <p>The following significant relationships were obtained: (1) drug use versus the need for change in antibiotic; (2) infectious agent versus need for change in antibiotic; and (3) initial antibiotic class versus need for change in antibiotic. The results revealed significant associations between the variables analyzed and the need to change antibiotic. In the case of drug use, the total chi-square (39.20) was higher than the critical value (3.841), indicating a relevant association between this variable and the need to change antibiotics in the studied group. Similarly, for the infectious agent, the total chi-square (9.5152) was higher than the critical value (7.815), demonstrating a significant association between the type of infectious agent and the need for change in antibiotic. Furthermore, in relation to the initial antibiotic class, the total chi-square (100.5273) was higher than the critical value (12.592), indicating a strong association between this variable and the need to change antibiotics in the analyzed group.</p>
+      <p>For the other associations, no statistical significance was found; the age group that most needed change in antibiotic was those aged 50 to 68 years (61.5%), with eight patients who needed such change (standard deviation = 3.96), while in the age group from three to 34 years there was a need for change in 44.4% of patients (standard deviation = 8.81) and in the age group from 35 to 47 years in 25% of patients (standard deviation = 4.29).</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSION</title>
+      <p> Hand infections, when not properly identified and treated, can result in tissue damage, loss of function, and even permanent disability, leading to significant morbidity and mortality rates. <sup>
+<xref rid="B10" ref-type="bibr" alt="10">10</xref>
+</sup>
+</p>
+      <p> In this study, we found a predominance of infections in male patients (70.6%), agreeing with what has been described in the literature in the past 20 years. <sup>
+<xref rid="B4" ref-type="bibr" alt="4">4</xref>
+</sup>
+</p>
+      <p> Patient&#x2019;s age is a key factor in hand infections. In our study, the ages ranged from the first decade of life to the sixth decade. According to Flevas et al. <sup>
+<xref rid="B11" ref-type="bibr" alt="11">11</xref>
+</sup> older patients with degenerated vessels, poor perfusion, and weakened skin barrier are more likely to attend health services with infected upper limb conditions. To Gafur et al. <sup>
+<xref rid="B12" ref-type="bibr" alt="12">12</xref>
+</sup> newborns are also prone to hand infections due to immature immune systems and sharp nails that can hurt their fingertips. </p>
+      <p> Patients with hand infections are often individuals who engage in handwork, such as farmers, animal breeders, bricklayers, fishers, and water sports athletes. <sup>
+<xref rid="B10" ref-type="bibr" alt="10">10</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B11" ref-type="bibr" alt="11">11</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B13" ref-type="bibr" alt="13">13</xref>
+</sup> In addition, medical professionals such as dentists and surgeons are also susceptible to hand infections. <sup>
+<xref rid="B10" ref-type="bibr" alt="10">10</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B11" ref-type="bibr" alt="11">11</xref>
+</sup> It is important to highlight that manual workers who do not have adequate hand protection&#x2014;often due to financial condition&#x2014;also face risks of infection due to poor-quality equipment. </p>
+      <p>The health service where this study was conducted is in the central region of the city, close to areas with high population density and poor living conditions. Therefore, the studied sample corresponds to a socioeconomically vulnerable population.</p>
+      <p> Malnutrition and poor hygiene were observed in a considerable proportion of patients, including those living on the streets. Moreover, we observed a high percentage of patients who were drug users (50%), surpassing the statistics found in the literature. <sup>
+<xref rid="B5" ref-type="bibr" alt="5">5</xref>
+</sup> Notably, unlike the more common report of injectable drug use, such as that of Houshian, Seyedipour and Wedderkopp, <sup>
+<xref rid="B5" ref-type="bibr" alt="5">5</xref>
+</sup> the main drug used by the population in this study was crack cocaine. The use of this substance is intricately linked to the manipulation of sharp objects during its consumption, increasing the risk of hand trauma. </p>
+      <p> In our study, we found that 47% of patients had no identified traumatic event, while bites represented only 9% of cases. Note that, there is a possibility of bias due to improper filling of medical records and the accuracy of information obtained from patients. However, in 14 cases (41.1%), an additional risk factor was identified, such as diabetes, HIV, or living in extremely poor areas, suggesting a possible protein-related malnutrition. Several studies report the adverse effects of malnutrition on wound healing and infection progression. <sup>
+<xref rid="B14" ref-type="bibr" alt="14">14</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B15" ref-type="bibr" alt="15">15</xref>
+</sup>
+</p>
+      <p> According to previous studies, <sup>
+<xref rid="B2" ref-type="bibr" alt="2">2</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B5" ref-type="bibr" alt="5">5</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B6" ref-type="bibr" alt="6">6</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B16" ref-type="bibr" alt="16">16</xref>
+</sup> the most common pathogens in hand infections are the <italic>Staphylococcus aureus</italic> and the coagulase-negative <italic>Streptococci</italic> . In our sample, we observed that <italic>Staphylococci</italic> were the most prevalent, with <italic>S. aureus</italic> present in 26.5% of cases, and only one case of coagulase-negative <italic>Staphylococcus</italic> (2,9%). We also found a high rate of negative cultures (53%), whilst the literature reports a range of 10&#x2013;30%. <sup>
+<xref rid="B2" ref-type="bibr" alt="2">2</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B5" ref-type="bibr" alt="5">5</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B6" ref-type="bibr" alt="6">6</xref>
+</sup>
+<sup>,</sup>
+<sup>
+<xref rid="B16" ref-type="bibr" alt="16">16</xref>
+</sup>
+</p>
+      <p> The number of insufficient samples and inadequate culture methods, such as the use of agar-agar medium without investigating other agents that require specific means or insufficient evaluation time, may explain the high rate of missing results in this study, which might be a diagnostic bias, as previously indicated. <sup>
+<xref rid="B17" ref-type="bibr" alt="17">17</xref>
+</sup> Due to our sample including a significant number of immunocompromised patients, there is a higher chance of atypical pathogens or the involvement of multiple agents, which require targeted investigation methods. This is highlighted by the fact that there was more than one case of associated infection with <italic>Streptococcus viridans</italic> and <italic>Morganella morganii</italic> . </p>
+      <p> Among the positive cultures of drug users, five had infections caused by <italic>Staphylococcus aureus</italic> (83.3%), while only one was caused by beta hemolytic <italic>Streptococci</italic> (16.7%). These findings are in accordance with Dastagir et al. <sup>
+<xref rid="B16" ref-type="bibr" alt="16">16</xref>
+</sup> As aforementioned, this association is related to the type of drug used. In the literature, <sup>
+<xref rid="B5" ref-type="bibr" alt="5">5</xref>
+</sup> injectable drugs have a greater association with the development of infections. In our sample, however, we observed a different pattern, as crack cocaine was the most reported drug. </p>
+      <p> A surprising finding in this study was a significant percentage of patients who required a change in the initially used antibiotics. The hospital protocol regarding the Infectious Diseases service recommends the intravenous administration of ciprofloxacin associated with oxacillin as empirical antibiotic therapy, immediately after culture collection. This protocol seeks to provide broad antibacterial coverage for both Gram-positive and Gram-negative germs. In 21 cases (61.8%), it was necessary to change antibiotic therapy based on the results of the cultures. As described by Intravia, Osterman and Tosti, <sup>
+<xref rid="B17" ref-type="bibr" alt="17">17</xref>
+</sup> 12 patients (35.2%) who started treatment with ciprofloxacin and oxacillin, according to the recommended schedule, needed to change antibiotic therapy. It is relevant to discuss whether the high rate of negative cultures&#x2014;with possible atypical agents&#x2014;influenced this change, considering that the sample of the our study differs from the literature. </p>
+      <p> There is a positive correlation between CRP levels and the severity of the infection, as well as the extent of the affected areas, according to Rasnake and Dooley. <sup>
+<xref rid="B18" ref-type="bibr" alt="18">18</xref>
+</sup> In our study, despite some patients&#x2019; malnourishment, most showed an initial increase in CRP and ESR values. However, due to the significant loss of follow-up, it was not possible to establish a correlation between clinical evolution and laboratory parameters. </p>
+      <p>The statistical results revealed valuable information about the association between different categories of antibiotics and the need for changing the medicine. Penicillin, first generation cephalosporin, sulfonamide and diaminopyrimidines required more changes than other categories. Notably, among these four categories, penicillin was the least efficient. Also, in Gram-negative infections, followed by fungus and negative cultures were more associated with change in antibiotic.</p>
+      <p>On the other hand, beta-lactam and quinolone were the most effective, and we did not find a microorganism that needed fewer changes in antibiotic. However, it is essential to consider other clinical and individual factors in the choice of treatment, and the decision should be taken by a health professional based on all the particularities and needs of each patient.</p>
+      <p> Finally, the age group that most needed a change in antibiotic was the 50 to 68 years old group. Although there was no significant relevance, there was a greater tendency to change antibiotics in this age group. To obtain more robust conclusions, it would be essential to have a larger sample. In Stromberg&#x2019;s seminal work, <sup>
+<xref rid="B19" ref-type="bibr" alt="19">19</xref>
+</sup> from 1989, it was suggested that, compared to younger populations, antibiotic sensitivity is consistently lower in older adults. This study was later corroborated by Heppner et al. <sup>
+<xref rid="B20" ref-type="bibr" alt="20">20</xref>
+</sup> &#x2014;some 20 years later&#x2014;when they found that the prevalent microbiology of infection changes with aging, leading to differences in optimal antimicrobic protocol for severe infections. </p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>CONCLUSION</title>
+      <p> Patients with hand infections were mostly men, with a high incidence of diabetes mellitus, HIV and drug addiction, living in public areas. Almost half individuals did not report evident trauma. <italic>Staphylococcus aureus</italic> was the most common agent. In 61.8% of cases, change in the initial antibiotic regimen was necessary. Penicillin was the least efficient, while beta-lactam and quinolone were the most. Gram-negative patients needed more changes in antibiotics. </p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="other">
+        <p>
+<bold>Citation:</bold> Lee TYT, Nemer LA, Vianna AA, Abdouni YA, Cardoso FL, Costa AC. What is the epidemiological profile of acute hand infections at a hospital in S&#xE3;o Paulo? Acta Ortop Bras. [online]. 2024;32(Spe.1): Page 1 of 5. Available from URL: <ext-link xlink:href="http://www.scielo.br/aob" ext-link-type="uri">http://www.scielo.br/aob</ext-link> . </p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="B1">
+        <label>1.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chong</surname><given-names>C. W.</given-names></name>
+<name><surname>Ormston</surname><given-names>V. E.</given-names></name>
+<name><surname>Tan</surname><given-names>A. B. H.</given-names></name>
+</person-group><article-title>Epidemiology of hand infection &#x2014; a comparative study between year 2000 and 2009</article-title><source>Hand Surg</source><year iso-8601-date="2013">2013</year><volume>18</volume><issue>3</issue><fpage>307</fpage><lpage>12</lpage><pub-id pub-id-type="pmid">24156570</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ong</surname><given-names>Y. S.</given-names></name>
+<name><surname>Levin</surname><given-names>L. S.</given-names></name>
+</person-group>
+          <article-title>Hand infections</article-title>
+          <source>Plast Reconstr Surg</source>
+          <year iso-8601-date="2009">2009</year>
+          <volume>124</volume>
+          <issue>4</issue>
+          <fpage>225e</fpage>
+          <lpage>233e</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Silva</surname><given-names>J. B.</given-names></name>
+</person-group>
+          <source>Cirurgia da M&#xE3;o: trauma</source>
+          <publisher-name>Thieme Revinter</publisher-name>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <year iso-8601-date="2003">2003</year>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stevenson</surname><given-names>J.</given-names></name>
+<name><surname>Anderson</surname><given-names>I. W.</given-names></name>
+</person-group><article-title>Hand infections: an audit of 160 infections treated in an accident and emergency department</article-title><source>J Hand Surg Br</source><year iso-8601-date="1993">1993</year><volume>18</volume><issue>1</issue><fpage>115</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">8436846</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Houshian</surname><given-names>S.</given-names></name>
+<name><surname>Seyedipour</surname><given-names>S.</given-names></name>
+<name><surname>Wedderkopp</surname><given-names>N.</given-names></name>
+</person-group><article-title>Epidemiology of bacterial hand infections</article-title><source>Int J Infect Dis</source><year iso-8601-date="2006">2006</year><volume>10</volume><issue>4</issue><fpage>315</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">16483816</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Fuchsj&#xE4;ger</surname><given-names>N.</given-names></name>
+<name><surname>Winterleitner</surname><given-names>H.</given-names></name>
+<name><surname>Krause</surname><given-names>R.</given-names></name>
+<name><surname>Feierl</surname><given-names>G.</given-names></name>
+<name><surname>Koch</surname><given-names>H.</given-names></name>
+</person-group><article-title>Susceptibility of microorganisms causing acute hand infections</article-title><source>PLoS One</source><year iso-8601-date="2019">2019</year><volume>14</volume><issue>8</issue><elocation-id>e0220555</elocation-id><pub-id pub-id-type="pmid">31437151</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hausman</surname><given-names>M. R.</given-names></name>
+<name><surname>Lisser</surname><given-names>S. P.</given-names></name>
+</person-group><article-title>Hand infections</article-title><source>Orthop Clin North Am</source><year iso-8601-date="1992">1992</year><volume>23</volume><issue>1</issue><fpage>171</fpage><lpage>85</lpage><pub-id pub-id-type="pmid">1729665</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Goldstein</surname><given-names>E. J.</given-names></name>
+<name><surname>Citron</surname><given-names>D. M.</given-names></name>
+<name><surname>Wield</surname><given-names>B.</given-names></name>
+<name><surname>Blachman</surname><given-names>U.</given-names></name>
+<name><surname>Sutter</surname><given-names>V. L.</given-names></name>
+<name><surname>Miller</surname><given-names>T. A.</given-names></name>
+<name><surname>Finegold</surname><given-names>S. M.</given-names></name>
+</person-group><article-title>Bacteriology of human and animal bite wounds</article-title><source>J Clin Microbiol</source><year iso-8601-date="1978">1978</year><volume>8</volume><issue>6</issue><fpage>667</fpage><lpage>72</lpage><pub-id pub-id-type="pmid">744798</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>T&#xFC;rker</surname><given-names>T.</given-names></name>
+<name><surname>Capdarest-Arest</surname><given-names>N.</given-names></name>
+<name><surname>Bertoch</surname><given-names>S. T.</given-names></name>
+<name><surname>Bakken</surname><given-names>E. C.</given-names></name>
+<name><surname>Hoover</surname><given-names>S. E.</given-names></name>
+<name><surname>Zou</surname><given-names>J.</given-names></name>
+</person-group><article-title>Hand infections: a retrospective analysis</article-title><source>PeerJ</source><year iso-8601-date="2014">2014</year><volume>2</volume><elocation-id>e513</elocation-id><pub-id pub-id-type="pmid">25210653</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>McDonald</surname><given-names>L. S.</given-names></name>
+<name><surname>Bavaro</surname><given-names>M. F.</given-names></name>
+<name><surname>Hofmeister</surname><given-names>E. P.</given-names></name>
+<name><surname>Kroonen</surname><given-names>L. T.</given-names></name>
+</person-group><article-title>Hand infections</article-title><source>J Hand Surg Am</source><year iso-8601-date="2011">2011</year><volume>36</volume><issue>8</issue><fpage>1403</fpage><lpage>12</lpage><pub-id pub-id-type="pmid">21816297</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Flevas</surname><given-names>D. A.</given-names></name>
+<name><surname>Syngouna</surname><given-names>S.</given-names></name>
+<name><surname>Fandridis</surname><given-names>E.</given-names></name>
+<name><surname>Tsiodras</surname><given-names>S.</given-names></name>
+<name><surname>Mavrogenis</surname><given-names>A. F.</given-names></name>
+</person-group><article-title>Infections of the hand: an overview</article-title><source>EFORT Open Rev</source><year iso-8601-date="2019">2019</year><volume>4</volume><issue>5</issue><fpage>183</fpage><lpage>93</lpage><pub-id pub-id-type="pmid">31191986</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gafur</surname><given-names>O. A.</given-names></name>
+<name><surname>Copley</surname><given-names>L. A. B.</given-names></name>
+<name><surname>Hollmig</surname><given-names>S. T.</given-names></name>
+<name><surname>Browne</surname><given-names>R. H.</given-names></name>
+<name><surname>Thornton</surname><given-names>L. A.</given-names></name>
+<name><surname>Crawford</surname><given-names>S. E.</given-names></name>
+</person-group><article-title>The impact of the current epidemiology of pediatric musculoskeletal infection on evaluation and treatment guidelines</article-title><source>J Pediatr Orthop</source><year iso-8601-date="2008">2008</year><volume>28</volume><issue>7</issue><fpage>777</fpage><lpage>85</lpage><pub-id pub-id-type="pmid">18812907</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Young-Afat</surname><given-names>D. A.</given-names></name>
+<name><surname>Dayicioglu</surname><given-names>D.</given-names></name>
+<name><surname>Oeltjen</surname><given-names>J. C.</given-names></name>
+<name><surname>Garrison</surname><given-names>A. P.</given-names></name>
+</person-group><article-title>Fishing-injury-related flexor tenosynovitis of the hand: a case report and review</article-title><source>Case Rep Orthop</source><year iso-8601-date="2013">2013</year><volume>2013</volume><elocation-id>587176</elocation-id><pub-id pub-id-type="pmid">23401823</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Martins</surname><given-names>D. R.</given-names></name>
+<name><surname>Andrade</surname><given-names>F. R.</given-names></name>
+<name><surname>Alves Rezende</surname><given-names>L. G.</given-names></name>
+<name><surname>Cagnolati</surname><given-names>A. F.</given-names></name>
+<name><surname>Mandarano</surname><given-names>L. G.</given-names><suffix>Filho</suffix></name>
+<name><surname>Mazzer</surname><given-names>N.</given-names></name>
+</person-group>
+          <article-title>Perfil das tenossinovites infecciosas em hospital terci&#xE1;rio no Brasil</article-title>
+          <source>Arch Health Invest</source>
+          <year iso-8601-date="2021">2021</year>
+          <volume>10</volume>
+          <issue>4</issue>
+          <fpage>554</fpage>
+          <lpage>8</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D.</given-names></name>
+<name><surname>Zhang</surname><given-names>X.</given-names></name>
+</person-group><article-title>Effect of serologic malnutrition on postoperative wound infection problems after total joint arthroplasty: a meta-analysis</article-title><source>Int Wound J</source><year iso-8601-date="2023">2023</year><volume>20</volume><issue>2</issue><fpage>261</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">35833263</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Dastagir</surname><given-names>K.</given-names></name>
+<name><surname>Vehling</surname><given-names>M.</given-names></name>
+<name><surname>K&#xF6;nneker</surname><given-names>S.</given-names></name>
+<name><surname>Bingoel</surname><given-names>A. S.</given-names></name>
+<name><surname>Kaltenborn</surname><given-names>A.</given-names></name>
+<name><surname>Jokuszies</surname><given-names>A.</given-names></name>
+<name><surname>Vogt</surname><given-names>P. M.</given-names></name>
+</person-group><article-title>Spread of hand infection according to the site of entry and its impact on treatment decisions</article-title><source>Surg Infect (Larchmt)</source><year iso-8601-date="2021">2021</year><volume>22</volume><issue>3</issue><fpage>318</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">32735480</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Intravia</surname><given-names>J. M.</given-names></name>
+<name><surname>Osterman</surname><given-names>M. N.</given-names></name>
+<name><surname>Tosti</surname><given-names>R.</given-names></name>
+</person-group><article-title>Antibiotic management and antibiotic resistance in hand infections</article-title><source>Hand Clin</source><year iso-8601-date="2020">2020</year><volume>36</volume><issue>3</issue><fpage>301</fpage><lpage>5</lpage><pub-id pub-id-type="pmid">32586455</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rasnake</surname><given-names>M. S.</given-names></name>
+<name><surname>Dooley</surname><given-names>D. P.</given-names></name>
+</person-group><article-title>Culture-negative surgical site infections</article-title><source>Surg Infect (Larchmt)</source><year iso-8601-date="2006">2006</year><volume>7</volume><issue>6</issue><fpage>555</fpage><lpage>65</lpage><pub-id pub-id-type="pmid">17233574</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Stromberg</surname><given-names>B. V.</given-names></name>
+</person-group><article-title>Hand infections in the elderly</article-title><source>South Med J</source><year iso-8601-date="1985">1985</year><volume>78</volume><issue>2</issue><fpage>157</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">3975710</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Heppner</surname><given-names>H. J.</given-names></name>
+<name><surname>Sieber</surname><given-names>C.</given-names></name>
+<name><surname>Walger</surname><given-names>P.</given-names></name>
+<name><surname>Bahrmann</surname><given-names>P.</given-names></name>
+<name><surname>Singler</surname><given-names>K.</given-names></name>
+</person-group><article-title>Infections in the elderly</article-title><source>Crit Care Clin</source><comment>Erratum in: Crit Care Clin. 2014; 30(3):xiii</comment><year iso-8601-date="2013">2013</year><volume>29</volume><issue>3</issue><fpage>757</fpage><lpage>74</lpage><pub-id pub-id-type="pmid">23830661</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

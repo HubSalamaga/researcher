@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS One</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38709732</article-id><article-id pub-id-type="pmc">11073670</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0298692</article-id><article-id pub-id-type="publisher-id">PONE-D-23-29377</article-id><article-categories><subj-group subj-group-type="heading"><subject>Study Protocol</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Critical Care and Emergency Medicine</subject><subj-group><subject>Trauma Medicine</subject><subj-group><subject>Traumatic Injury</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Research Assessment</subject><subj-group><subject>Systematic Reviews</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Surgical and Invasive Medical Procedures</subject><subj-group><subject>Trauma Surgery</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Critical Care and Emergency Medicine</subject><subj-group><subject>Trauma Medicine</subject><subj-group><subject>Trauma Surgery</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Critical Care and Emergency Medicine</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Diagnostic Medicine</subject><subj-group><subject>Clinical Laboratory Sciences</subject><subj-group><subject>Forensics</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Physical Sciences</subject><subj-group><subject>Mathematics</subject><subj-group><subject>Applied Mathematics</subject><subj-group><subject>Algorithms</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Simulation and Modeling</subject><subj-group><subject>Algorithms</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Research and Analysis Methods</subject><subj-group><subject>Research Design</subject><subj-group><subject>Survey Research</subject><subj-group><subject>Surveys</subject></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Classification of trauma-related preventable death; protocol of a Delphi procedure</article-title><alt-title alt-title-type="running-head">Protocol of a Delphi procedure on trauma-related preventable death</alt-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-3781-8298</contrib-id><name><surname>Hakkenbrak</surname><given-names>Nadia A. G.</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Harmsen</surname><given-names>Annelieke M. K.</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Zuidema</surname><given-names>Wietse P.</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Reijnders</surname><given-names>Udo J. L.</given-names></name><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Schober</surname><given-names>Patrick</given-names></name><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bloemers</surname><given-names>Frank W.</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>Trauma Unit, Department of Surgery, Amsterdam University Medical Centre, Amsterdam, The Netherlands</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Trauma Unit, Department of Surgery, Northwest Clinics, Alkmaar, The Netherlands</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>Department of Forensic Medicine, Public Health Service of Amsterdam, Amsterdam, The Netherlands</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>Department of Anesthesiology, Amsterdam University Medical Centre, Amsterdam, The Netherlands</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Huijsman</surname><given-names>Robbert</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>Erasmus University Rotterdam, NETHERLANDS</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>n.hakkenbrak@amsterdamumc.nl</email></corresp></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>19</volume><issue>5</issue><elocation-id>e0298692</elocation-id><history><date date-type="received"><day>17</day><month>9</month><year>2023</year></date><date date-type="accepted"><day>29</day><month>1</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Hakkenbrak et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Hakkenbrak et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pone.0298692.pdf"/><abstract><sec id="sec001"><title>Background</title><p>Trauma-related (preventable) death is used to evaluate the management and quality of trauma care worldwide. Therefore, it is necessary to identify fatalities in the trauma care population and assess them on preventability. However, the definition on trauma-related preventable death lacks validity due to differences in terminology and classifications. This study aims to reach consensus on the definition of trauma-related preventable death by performing a Delphi procedure, thereby, improving the assessment of trauma-related preventable death and thereby enhancing the quality of trauma care.</p></sec><sec id="sec002"><title>Methods</title><p>Based on the results of a recently performed systematic review Hakkenbrak (2021). The definitions used to describe trauma-related preventable death could be divided into four categories: 1) Clinical definition based on panel review or expert opinion, 2) Trauma prediction algorithm, 3) Clinical definition with an additional trauma prediction algorithm and 4) Others (e.g., errors in care or detailed clinical definition). A three round, electronic Delphi study will be performed in the Netherlands to reach consensus. Experts from the department of Trauma surgery, Neurosurgery, Forensic medicine, Anaesthesiology and Emergency medicine, of the designated Level 1 trauma centres in the Netherlands, will be invited to participate. In the first round the panel will comment on the composed categories and trauma prediction algorithms. In the second and third round a feedback report will be presented and the questions with disagreement will be retested.</p></sec><sec id="sec003"><title>Discussion</title><p>The identification and assessment of trauma-related preventable death is necessary to evaluate and improve trauma care. Therefore, a valid, fair, and applicable definition of trauma-related preventable death is required. The Delphi technique is utilized to reach group consensus to obtain a scientifically valid definition of trauma-related preventable death.</p></sec></abstract><funding-group><funding-statement>The author(s) received no specific funding for this work.</funding-statement></funding-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="6"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>No pilot data are reported</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>No pilot data are reported</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec004">
+      <title>Background</title>
+      <p>Annually, trauma-related death accounts for over 140.000 fatalities within the European Union [<xref rid="pone.0298692.ref001" ref-type="bibr">1</xref>]. Trauma-related death is used to evaluate the management and quality of trauma care [<xref rid="pone.0298692.ref002" ref-type="bibr">2</xref>]. Therefore, data are collected and assessed on the preventability of trauma-related deaths [<xref rid="pone.0298692.ref002" ref-type="bibr">2</xref>]. Unfortunately, the definition of trauma-related preventable death (TRPD) lacks validity due to differences in the usage of terminology in literature. Definitions based on clinical evaluation, trauma prediction algorithms, errors in care or a combination of these are used randomly.</p>
+      <p>In order to facilitate the assessment of TRPD, aiming to improve quality of trauma care, a validated definition on TRPD should be constituted. Hence, a systematic review was performed to identify the most frequently used definitions of TRPD [<xref rid="pone.0298692.ref003" ref-type="bibr">3</xref>]. This review described four categories:</p>
+      <list list-type="simple">
+        <list-item>
+          <p>I) Clinical definition based on panel review or expert opinion.</p>
+        </list-item>
+        <list-item>
+          <p>II) Trauma prediction algorithm.</p>
+        </list-item>
+        <list-item>
+          <p>III) Clinical definition based on panel review or expert opinion with an additional trauma prediction algorithm.</p>
+        </list-item>
+        <list-item>
+          <p>IV) Others (e.g., errors in care or extended clinical definition)</p>
+        </list-item>
+      </list>
+      <p>The first category, clinical definition, contains three groups [<xref rid="pone.0298692.ref003" ref-type="bibr">3</xref>]:</p>
+      <list list-type="simple">
+        <list-item>
+          <p>1) TRPD describes fatalities where death could have been avoided or was caused directly by an avoidable error, delayed or suboptimal care.</p>
+        </list-item>
+        <list-item>
+          <p>2) Trauma-related potentially preventable death (TRPPD) describes fatalities in which death could have been avoided under optimal care conditions.</p>
+        </list-item>
+        <list-item>
+          <p>3) Trauma-related non-preventable death (TRNPD) describes fatalities where death was unavoidable due to the severity of the injuries or co-morbid factors despite optimal care conditions.</p>
+        </list-item>
+      </list>
+      <p>The second category identifies TRPD based on a trauma prediction algorithm. The most frequently used algorithms are the Injury Severity Score (ISS), Probability of survival (Ps) and Trauma Injury Severity Score (TRISS). Depending on the algorithm, the score is based on the mechanism of trauma, severity of the injuries, affected body region and clinical parameters such as the systolic blood pressure, Glasgow Coma Scale, and respiratory rate.</p>
+      <p>The third category combines both previously described categories [<xref rid="pone.0298692.ref002" ref-type="bibr">2</xref>]:</p>
+      <list list-type="simple">
+        <list-item>
+          <p>1) TRPD: injuries were considered survivable under optimal care, Ps &gt;50% or ISS &lt;20.</p>
+        </list-item>
+        <list-item>
+          <p>2) TRPPD: severe injuries but survivable under optimal care, Ps 25&#x2013;50% or ISS 20&#x2013;50.</p>
+        </list-item>
+        <list-item>
+          <p>3) TRNPD: non-survivable injuries, Ps &lt;50% or ISS&gt;50; 4) non-preventable death, but with care that could have been improved.</p>
+        </list-item>
+      </list>
+      <p>The final category (IV) includes the less frequently used classifications, such as errors in care or a clinical definition with a very detailed description of the injuries (Supplement 1 in <xref rid="pone.0298692.s002" ref-type="supplementary-material">S1 File</xref>).</p>
+      <p>Nearly 85% of the articles used a clinical definition (Category I, III, IV). In 41% an additional algorithm or extended clinical definition was used.</p>
+      <p>Consensus methods such as the Delphi and nominal group technique, also known as the expert panel, are commonly used in health care to create agreement amongst health care providers [<xref rid="pone.0298692.ref004" ref-type="bibr">4</xref>&#x2013;<xref rid="pone.0298692.ref006" ref-type="bibr">6</xref>]. The Delphi procedure anonymously questions a group of experts about a subject during several rounds of enquiry [<xref rid="pone.0298692.ref007" ref-type="bibr">7</xref>]. Hereby, minimizing social pressure, enabling experts with different backgrounds and geographic locations to participate, whilst adjusting the design of the rounds of enquiry to the requirements of the research subject [<xref rid="pone.0298692.ref007" ref-type="bibr">7</xref>]. Based on the results of the previously elucidated systematic review the Delphi procedure was judged as most suitable to seek agreement and form consensus on the definition of TRPD by a multidisciplinary expert panel [<xref rid="pone.0298692.ref003" ref-type="bibr">3</xref>, <xref rid="pone.0298692.ref007" ref-type="bibr">7</xref>]. The aim of this study is to present the design of the Delphi procedure on TRPD.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec005">
+      <title>Methods</title>
+      <p>The Delphi technique, initially developed in the 1950&#x2019;s, is designed to assess complex dilemma&#x2019;s that need to be addressed by a group of experts [<xref rid="pone.0298692.ref005" ref-type="bibr">5</xref>&#x2013;<xref rid="pone.0298692.ref008" ref-type="bibr">8</xref>]. A structured approach is used to guide an anonymous dialogue to generate discussion and converge toward group consensus by iteration and controlled feedback [<xref rid="pone.0298692.ref009" ref-type="bibr">9</xref>, <xref rid="pone.0298692.ref010" ref-type="bibr">10</xref>]. This technique is most suitable to create a validated, multidisciplinary supported definition of TRPD.</p>
+      <p>This protocol will provide information on the Delphi procedure including selection of the panel members, anonymity of the panelists, structure (controlled feedback, iterative rounds), consensus- and closing criteria, and analysis of the results [<xref rid="pone.0298692.ref007" ref-type="bibr">7</xref>, <xref rid="pone.0298692.ref010" ref-type="bibr">10</xref>, <xref rid="pone.0298692.ref011" ref-type="bibr">11</xref>]. This Delphi procedure will be conducted in accordance with the Conducting and Reporting Delphi Studies (CREDES) recommendations [<xref rid="pone.0298692.ref007" ref-type="bibr">7</xref>].</p>
+      <sec id="sec006">
+        <title>Steering committee</title>
+        <p>The steering committee is composed of six individuals working in the field of critical care and forensic medicine. The committee, consisting of the authors, has prior experience in performing a Delphi procedure and will decide on the format of the questionnaires, data analysis, feedback documents and management of the Delphi process.</p>
+      </sec>
+      <sec id="sec007">
+        <title>Selection of the panel members</title>
+        <p>Based on the previously mentioned systematic review the following medical disciplines will be invited to participate in the panel [<xref rid="pone.0298692.ref003" ref-type="bibr">3</xref>]: 1) Trauma surgery, 2) Neurosurgery, 3) Forensic medicine, 4) Anesthesiology and 5) Emergency Medicine. The Netherlands encounters eleven Level 1 trauma centers [<xref rid="pone.0298692.ref012" ref-type="bibr">12</xref>]. A Level 1 trauma center, as described by the American College of Surgeons Committee on Trauma (ACSCOT), must have at least 1,200 trauma patient admissions or 240 admissions with an ISS of more than 15 per year, maintain a surgically directed critical care service including an attending trauma surgeon (present at the emergency department within 15 minutes upon request), participate in the training of residents, education and outreach activities and conduct trauma research [<xref rid="pone.0298692.ref013" ref-type="bibr">13</xref>]. The following assigned Level 1 and affiliated trauma centers will be contacted to participate: Amsterdam University Medical Center, Northwest Clinics, Elisabeth TweeSteden Hospital, Erasmus Medical Center, Haaglanden Medical Center, Haga Hospital, Isala, Leiden University Medical Center, Medical Spectrum Twente, Maastricht University Medical Center, Radboud University Medical Center, University Medical Center Groningen and University Medical Center Utrecht.</p>
+        <p>All medical secretaries of the eligible disciplines of the assigned hospitals will be contacted via phone to provide background information on the study and verify the email addresses. An invitation e-mail will be sent containing information on the aim of the study and a request to participate.</p>
+        <p>The literature remains unambiguous with regard to the standard size of the panel [<xref rid="pone.0298692.ref006" ref-type="bibr">6</xref>, <xref rid="pone.0298692.ref007" ref-type="bibr">7</xref>]. A number close to 30&#x2013;50 is considered adequate depending on the complexity of the problem, heterogeneity of the panel and resources [<xref rid="pone.0298692.ref010" ref-type="bibr">10</xref>]. In order to obtain a widely supported consensus amongst physicians the aim is for ten experts per discipline to complete the survey, resulting in at least 50 panelists. Additionally, it is preferred that one expert per discipline of each Level 1 trauma center participates. Whilst taking a response rate of up to 70&#x2013;80% and a loss of 50% during the study period into account all practicing medical specialists of the eligible disciplines and centers were invited to participate [<xref rid="pone.0298692.ref004" ref-type="bibr">4</xref>]. If the number of 50 panelists is reached, with 10 experts per discipline, but not all Level 1 trauma centers are represented the missing centers will be reminded twice. If the number of experts is not met all centers will be reminded twice to participate, until the number of 50 panelists, with 10 experts per discipline, is reached. Overall, there will not be sought for parity in gender, ethnicity, or seniority levels amongst the panelists as they are all considered experts on the research subject.</p>
+      </sec>
+      <sec id="sec008">
+        <title>Anonymity of the panelists</title>
+        <p>A study number will be assigned to the panelist to ensure anonymity throughout the procedure. After finishing the study, the panelists will co-publish as collaborator group. Nevertheless, the collected data will not be traceable to the individual panelist. Information on the three rounds, the electronic character of the procedure and publishing as collaborator will be described in the invitation email. Participating is entirely voluntary. Informed consent is implied by participating in the study and panelists are free to withdraw at any time without providing a reason. Hence, given the voluntary and non-invasive character of the study the Human Research Committee was not consulted.</p>
+      </sec>
+      <sec id="sec009">
+        <title>The Delphi structure</title>
+        <p>A digital three round Delphi procedure will be performed among the participating experts (<xref rid="pone.0298692.g001" ref-type="fig">Fig 1</xref>). The most recent literature, including a systematic review, suggests combining a clinical definition and trauma prediction algorithm to form a validated definition of TRPD [<xref rid="pone.0298692.ref003" ref-type="bibr">3</xref>]. However, in the literature there is no consensus amongst experts on the most suitable trauma prediction algorithm [<xref rid="pone.0298692.ref003" ref-type="bibr">3</xref>]. The first round of the Delphi procedure will be used to test the conclusions of the systematic review amongst the panelists. Therefore, the steering committee formed three research objectives:</p>
+        <list list-type="simple">
+          <list-item>
+            <p>1) Reaching consensus on the most suitable category out of the four presented categories from the systematic review [<xref rid="pone.0298692.ref003" ref-type="bibr">3</xref>]: I) clinical definition, II) trauma prediction algorithm, III) clinical definition with an additional trauma prediction algorithm and IV) others (e.g., errors in care or extended clinical definition). Ranking most&#x2013;least suitable.</p>
+          </list-item>
+          <list-item>
+            <p>2) In depth evaluation on the content of the most suitable category.</p>
+          </list-item>
+          <list-item>
+            <p>3) Assessment of the additional benefit of a trauma prediction algorithm. Ranking most&#x2013;least suitable; Injury Severity Score (ISS), Abbreviated Injury Scale (AIS), Probability of survival (Ps), Revised Trauma Score (RTS), Trauma Injury Severity Score (TRISS).</p>
+          </list-item>
+        </list>
+        <fig position="float" id="pone.0298692.g001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0298692.g001</object-id>
+          <label>Fig 1</label>
+          <caption>
+            <title>The Delphi procedure on trauma-related preventable death.</title>
+          </caption>
+          <graphic xlink:href="pone.0298692.g001" position="float"/>
+        </fig>
+      </sec>
+      <sec id="sec010">
+        <title>Consensus criteria</title>
+        <p>While consensus is the primary aim of the study, the definition of consensus varies in literature, reporting percentage on agreement between 50&#x2013;100% [<xref rid="pone.0298692.ref010" ref-type="bibr">10</xref>]. For this study consensus is met in case of 70% or more agreement amongst the panelist [<xref rid="pone.0298692.ref002" ref-type="bibr">2</xref>, <xref rid="pone.0298692.ref014" ref-type="bibr">14</xref>].</p>
+      </sec>
+      <sec id="sec011">
+        <title>Closing criteria</title>
+        <p>For the design of this study a three round electronic survey is decided as a closing criteria by the steering committee. The committee will review the results after each round and provide feedback to the panelists prior to the following questionnaire, to maintain the iterative and controlled feedback character of the procedure.</p>
+      </sec>
+      <sec id="sec012">
+        <title>Analysis</title>
+        <p>The questionnaires developed by the steering committee will be distributed using an online survey program Castor EDC (Supplement 2 in <xref rid="pone.0298692.s002" ref-type="supplementary-material">S1 File</xref>). Data will be collected and managed in Castor EDC, and analyzed using the Statistical Package for the Social Sciences (SPSS) version 25 (SPSS&#xAE;, Chicago, III, USA).</p>
+        <p>The collected data will be analyzed by the committee on consensus regarding the four categories and algorithms. Additional argumentation on the multiple-choice questions by the panel members is requested for the in dept discussion and continue with the following round (<xref rid="pone.0298692.g001" ref-type="fig">Fig 1</xref>). Hereafter, a feedback report with the results, percentage on agreement and argumentation on the most and least applicable classification and algorithm will be presented to the panelists. This will form the introduction of the second round, where the questions without agreement or with disagreement from the first round will be retested. In addition, new subjects derived from the discussion during the procedure will be addressed and taken into consideration during the following round. This process will be repeated for the third and final round. The collected data and a summary of the argumentation will be published. The remaining data are available upon reasonable request.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec013">
+      <title>Conclusion</title>
+      <p>Evaluation of quality of trauma care is of great importance. Hence, the identification and assessment of trauma-related preventable death is essential. Though, the evaluation of quality of trauma care remains suboptimal. As the definition of trauma-related preventable death lacks validity, due to differences in terminology and classification. A Delphi procedure is the assigned technique to reach consensus amongst experts on this subject, in order to establish a widely supported definition on trauma-related preventable death.</p>
+    </sec>
+    <sec id="sec014" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0298692.s001" position="float" content-type="local-data">
+        <label>S1 Checklist</label>
+        <caption>
+          <title>PRISMA-P 2015 checklist.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pone.0298692.s001.docx"/>
+      </supplementary-material>
+      <supplementary-material id="pone.0298692.s002" position="float" content-type="local-data">
+        <label>S1 File</label>
+        <caption>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pone.0298692.s002.docx"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0298692.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="other">Eurostat.<ext-link xlink:href="https://ec.europa.eu/eurostat/statisticsexplained/index.php/Accidents_and_injuries_statistics" ext-link-type="uri">https://ec.europa.eu/eurostat/statisticsexplained/index.php/Accidents_and_injuries_statistics</ext-link>. Accessed February 28th, 2022.</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="other">Guidelines for Trauma Quality Improvement Programmes World Health Organization International Society of Surgery Soci&#xE9;t&#xE9; Internationale de Chirurgie.</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Hakkenbrak</surname><given-names>NAG</given-names></name>, <name><surname>Mikdad</surname><given-names>SY</given-names></name>, <name><surname>Zuidema</surname><given-names>WP</given-names></name>, <name><surname>Halm</surname><given-names>JA</given-names></name>, <name><surname>Schoonmade</surname><given-names>LJ</given-names></name>, <name><surname>Reijnders</surname><given-names>UJL</given-names></name>
+<etal>et al</etal>. <article-title>Preventable death in trauma: A systematic review on definition and classification</article-title>. <source>Injury</source>. <year>2021</year>;<volume>52</volume>(<issue>10</issue>):<fpage>2768</fpage>&#x2013;<lpage>2777</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.injury.2021.07.040</pub-id>
+<pub-id pub-id-type="pmid">34389167</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Harmsen</surname><given-names>AMK</given-names></name>, <name><surname>Geeraedts</surname><given-names>LMG</given-names></name>, <name><surname>Giannakopoulos</surname><given-names>GF</given-names></name>, <name><surname>Terra</surname><given-names>M</given-names></name>, <name><surname>Christiaans</surname><given-names>HMT</given-names></name>, <name><surname>Mokkink</surname></name>
+<etal>et al</etal>. <article-title>Protocol of the DENIM study: a Delphi-procedure on the identification of trauma patients in need of care by physician-staffed Mobile Medical Teams in the Netherlands</article-title>. <source>Scand J Trauma Resusc Emerg Med</source>
+<volume>23</volume>, <fpage>15</fpage> (<year>2015</year>). <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s13049-015-0089-z</pub-id>
+<pub-id pub-id-type="pmid">25882308</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="journal"><name><surname>Jones</surname><given-names>J</given-names></name>, <name><surname>Hunter</surname><given-names>D</given-names></name>. <source>Qualitative Research: Consensus methods for medical and health services research BMJ</source>
+<year>1995</year>; <volume>311</volume>:<fpage>376</fpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Gaakeer</surname><given-names>MI</given-names></name>, <name><surname>Veugelers</surname><given-names>R</given-names></name>, <name><surname>Patka</surname><given-names>P</given-names></name>, <name><surname>Huijsman</surname><given-names>R</given-names></name>, <year>2019</year>, <article-title>Minimum operational standards for 24/7 available emergency department in the Netherlands: a first step taken buy emergency physicians using a Delphi approach</article-title>. <source>European Journal of Emergency Medicine</source>, <volume>26</volume>(<issue>2</issue>):<fpage>88</fpage>&#x2013;<lpage>93</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>J&#xFC;nger</surname><given-names>S</given-names></name>, <name><surname>Payne</surname><given-names>SA</given-names></name>, <name><surname>Brine</surname><given-names>J</given-names></name>, <name><surname>Radbruch</surname><given-names>L</given-names></name>, <name><surname>Brearley</surname><given-names>SG</given-names></name>. <article-title>Guidance on Conducting and REporting DElphi Studies (CREDES) in palliative care: Recommendations based on a methodological systematic review</article-title>. <source>Palliat Med</source>. <year>2017</year>;<volume>31</volume>(<issue>8</issue>):<fpage>684</fpage>&#x2013;<lpage>706</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/0269216317690685</pub-id>
+<pub-id pub-id-type="pmid">28190381</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Williams</surname><given-names>PL</given-names></name>, <name><surname>Webb</surname><given-names>C</given-names></name>. <article-title>The Delphi technique: a methodological discussion</article-title>. <source>Journal of Advanced Nursing</source>. <year>1994</year>; <volume>19</volume>:<fpage>180</fpage>&#x2013;<lpage>6</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/j.1365-2648.1994.tb01066.x</pub-id>
+<pub-id pub-id-type="pmid">8138622</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Boulkedid</surname><given-names>R</given-names></name>, <name><surname>Abdoul</surname><given-names>H</given-names></name>, <name><surname>Loustau</surname><given-names>M</given-names></name>, <name><surname>Sibony</surname><given-names>O</given-names></name>, <name><surname>Alberti</surname><given-names>C</given-names></name>. <article-title>Using and reporting the Delphi method for selecting healthcare quality indicators: a systematic review</article-title>. <source>PLoS One</source>. <year>2011</year>;<volume>6</volume>(<issue>6</issue>): <fpage>e20476</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0020476</pub-id>
+<pub-id pub-id-type="pmid">21694759</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><name><surname>Nasa</surname><given-names>P</given-names></name>, <name><surname>Jain</surname><given-names>R</given-names></name>, <name><surname>Juneja</surname><given-names>D</given-names></name>. <article-title>Delphi methodology in healthcare research: How to decide its appropriateness</article-title>. <source>World J Methodol</source>. <year>2021</year>;<volume>11</volume>(<issue>4</issue>):<fpage>116</fpage>&#x2013;<lpage>29</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.5662/wjm.v11.i4.116</pub-id>
+<pub-id pub-id-type="pmid">34322364</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Hasson</surname><given-names>F</given-names></name>, <name><surname>Keeney</surname><given-names>S</given-names></name>, <name><surname>McKenna</surname><given-names>H</given-names></name>. <article-title>Research guidelines for the Delphi survey technique</article-title>. <source>J Adv Nurs</source>. <year>2000</year>;<volume>32</volume>(<issue>4</issue>):<fpage>1008</fpage>&#x2013;<lpage>15</lpage>. <pub-id pub-id-type="pmid">11095242</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="other">Dutch trauma registry. Landelijk network acute zorg. Trauma (lnaz.nl). Accessed August 29th, 2022.</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="other">American College of Surgeons Committee on Trauma. Resources for the optimal care of the injured patient. 2014. American College of Surgeons, Chicago, IL.</mixed-citation>
+      </ref>
+      <ref id="pone.0298692.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Gaakeer</surname><given-names>MI</given-names></name>, <name><surname>Veugelers</surname><given-names>R</given-names></name>, <name><surname>Patka</surname><given-names>P</given-names></name>, <name><surname>Huijsman</surname><given-names>R</given-names></name>, 2019, <article-title>Minimum operational standards for 24/7 available emergency department in the Netherlands: a first step taken buy emergency physicians using a Delphi approach</article-title>. <source>European Journal of Emergency Medicine</source>, <year>2019</year>, <volume>26</volume>(<issue>2</issue>):<fpage>88</fpage>&#x2013;<lpage>93</lpage>.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

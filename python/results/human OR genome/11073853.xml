@@ -1,0 +1,1026 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Evid Based Complement Alternat Med</journal-id><journal-id journal-id-type="iso-abbrev">Evid Based Complement Alternat Med</journal-id><journal-id journal-id-type="publisher-id">ECAM</journal-id><journal-title-group><journal-title>Evidence-based Complementary and Alternative Medicine : eCAM</journal-title></journal-title-group><issn pub-type="ppub">1741-427X</issn><issn pub-type="epub">1741-4288</issn><publisher><publisher-name>Hindawi</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38711438</article-id><article-id pub-id-type="pmc">11073853</article-id>
+<article-id pub-id-type="doi">10.1155/2024/9958258</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Homotherapy for Heteropathy: A Molecular Mechanism of Poria Sini Decoction for Treatment of Liver Cancer and Chronic Heart Failure</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4116-4840</contrib-id><name><surname>Zhao</surname><given-names>Zhe</given-names></name><xref rid="I1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4625-0393</contrib-id><name><surname>Yue</surname><given-names>Huiying</given-names></name><xref rid="I2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">https://orcid.org/0009-0004-7691-3014</contrib-id><name><surname>Cui</surname><given-names>Xiaohua</given-names></name><email>cuixiaohua@sxmu.edu.cn</email><xref rid="I3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="I1">
+<sup>1</sup>Department of Second Clinical Medicine, Shanxi Medical University, Taiyuan 030001, China</aff><aff id="I2">
+<sup>2</sup>College of Basic Medical Sciences, Shanxi University of Chinese Medicine, Taiyuan 030001, China</aff><aff id="I3">
+<sup>3</sup>Department Cellar Biology and Genetics, Basic Medical College, Shanxi Medical University, Taiyuan 030001, China</aff><author-notes><fn fn-type="other"><p>Academic Editor: Zipora Tietel</p></fn></author-notes><pub-date pub-type="collection"><year>2024</year></pub-date><pub-date pub-type="epub"><day>29</day><month>4</month><year>2024</year></pub-date><pub-date pub-type="pmc-release"><day>29</day><month>4</month><year>2024</year></pub-date><volume>2024</volume><elocation-id>9958258</elocation-id><history><date date-type="received"><day>14</day><month>7</month><year>2023</year></date><date date-type="rev-recd"><day>23</day><month>3</month><year>2024</year></date><date date-type="accepted"><day>17</day><month>4</month><year>2024</year></date></history><permissions><copyright-statement>Copyright &#xA9; 2024 Zhe Zhao et al.</copyright-statement><copyright-year>2024</copyright-year><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Poria sini decoction (PSD), a significant traditional Chinese herbal formula, is effective in liver cancer (LC) and chronic heart failure (CHF); however, little is known about its concurrent targeting mechanism. <italic>Methods</italic>. This study analyzed the potential molecular mechanism of PSD against the two distinct diseases using network pharmacology approaches, including multidatabase search, pharmacokinetic screening, network construction analysis, Gene Ontology (GO) enrichment analysis, Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis, and molecular docking to elaborate the active components, signaling pathways, and potential mechanisms of PSD in the treatment of both LC and CHF. <italic>Results</italic>. A total of 155 active components and 193 potential targets in PSD were identified. Bioinformatics analysis revealed that quercetin, isorhamnetin, and naringenin, etc. may be potential candidate agents. TNF, AKT1, and IL6, etc. could become potential therapeutic targets. TNF-<italic>&#x3B1;</italic>, NF-<italic>&#x3BA;</italic>B, PI3K-AKT, and TRP signaling pathways might play an important role in PSD against LC and CHF. Molecular docking results showed that most screened active compounds could embed itself into target proteins with a high binding affinity, and the hydrogen bonds number &#x2265;3 indicated a more stable conformation of the compounds and target proteins. Overall, quercetin and isorhamnetin were the main active components, and TNF and AKT1 were the primary targets for PSD treatment of LC and CHF. <italic>Conclusions</italic>. This study illustrated that quercetin contained in PSD played an important role in the treatment of LC and CHF by acting on the key gene of TP53 and downregulating the PI3K-AKT signaling pathway.</p></abstract><funding-group><award-group><funding-source xlink:href="http://dx.doi.org/10.13039/501100004480">Natural Science Foundation of Shanxi Province</funding-source><award-id>202203021212345</award-id></award-group><award-group><funding-source>Technological Innovation Ability Cultivation Plan of Shanxi University of Chinese Medicine</funding-source><award-id>2020PY-JC-04</award-id></award-group><award-group><funding-source>Science and Technology Innovation Project of Shanxi Colleges and Universities</funding-source><award-id>2020L0414</award-id></award-group><award-group><funding-source>Scientific Research Project of Shanxi Provincial Administration of Traditional Chinese Medicine</funding-source><award-id>2020ZYYC008</award-id></award-group></funding-group></article-meta></front>
+  <body>
+    <sec id="sec1">
+      <title>1. Introduction</title>
+      <p>Chronic heart failure (CHF) and liver cancer (LC) are serious threats to human health. CHF is a complex clinical syndrome that results from any structural or functional impairment of ventricular filling. The high mortality and readmission rates of CHF are increasing due to ageing population [<xref rid="B1" ref-type="bibr">1</xref>]. LC is an extraordinarily heterogeneous malignant disease. According to a report published by the International Agency for Research on Cancer, the survival rate of LC is only 20% at present, and its mortality rate has increased to 70%. LC is not easy to be detected for the hidden onset and rapid progression, and once confirmed, it is usually at an advanced stage and difficult to cure [<xref rid="B2" ref-type="bibr">2</xref>]. Generally, these two diseases have the common characteristics of complicated aetiology, diverse syndromes, and long course. So, it is urgent to take effective prevention and treatment measures to reduce the incidence of CHF and LC. Modern medicine displays short-term clinical efficacy; however, different degrees of side effects occur with the prolongation of the treatment, which will bring certain economic burden and psychological impact to patients. Traditional Chinese medicine has the unique advantages of overall regulation and less adverse reactions in the treatment of LC and CHF [<xref rid="B3" ref-type="bibr">3</xref>, <xref rid="B4" ref-type="bibr">4</xref>].</p>
+      <p>Poria sini decoction (PSD) originated from treatise on exogenous febrile diseases, and it comprised the following 5 kinds of traditional Chinese medicines: <italic>Poria cocos</italic> (Fuling), Panax Ginseng C. A. Mey. (Renshen), <italic>Zingiberis rhizoma</italic> (Ganjiang), liquorice (Gancao), and Aconiti Lateralis Radix Praeparata (Fuzi). It is found that PSD has a clear effect on the treatment of LC or CHF, respectively, through sorting out a large number of previous relevant literature and experimental verification. Urotensin II is one of the most potent vasoconstriction peptides, and it takes part in the pathological process of CHF. It is reported that PSD could downregulate the plasma urotensin II, thus improving the clinical symptoms of CHF [<xref rid="B5" ref-type="bibr">5</xref>]. Clinical experimental studies have proved that PSD effectively improved the clinical left ventricular ejection fraction, cardiac systolic function, and blood circulation function [<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B7" ref-type="bibr">7</xref>], whereas greatly reduced the occurrence of arrhythmia, nausea, and vomiting and other adverse reactions during the treatment of CHF [<xref rid="B8" ref-type="bibr">8</xref>]. It is also reported that PSD improved liver function and immunologic function of LC patients; therefore, the patient's life is improved and survival time is significantly prolonged [<xref rid="B9" ref-type="bibr">9</xref>]. Studies have shown that PSD can regulate the immune system by upregulating the expression of P53 protein in hepatocellular carcinoma tissue, thereby inducing apoptosis of LC cells [<xref rid="B10" ref-type="bibr">10</xref>, <xref rid="B11" ref-type="bibr">11</xref>]. Tuckahoe in PSD is shown to be quite effective for LC by inhibiting the expression of NLRP3/caspase-1/GSDMD in the classical pyroptosis pathway [<xref rid="B12" ref-type="bibr">12</xref>].</p>
+      <p>There is a complex relationship between liver disease and heart failure in the clinic, thus LC and CHF are often coexisting. That is, LC often causes increased blood pressure in patients and increases the risk of a series of cardiovascular diseases [<xref rid="B13" ref-type="bibr">13</xref>]. Besides, CHF results in congestive liver damage and ischemic liver disease and even lead to a vicious cycle of aggravating LC-related damage [<xref rid="B14" ref-type="bibr">14</xref>]. Consequently, when treating CHF, if have LC, must treat it at the same time, otherwise ineradicable. Even without LC, it is especially important to prevent and limit LC. As mentioned above, PSD can effectively treat LC and CHF, respectively, through the efficacy coordination among various herbs. However, there are rare reports on the biological mechanism of PSD in the simultaneous treatment of both LC and CHF, and the &#x201C;homotherapy for heteropathy&#x201D; molecular mechanism of PSD is still obscure. This study aims to explore the mechanism of PSD in the simultaneous treatment of both LC and CHF through network pharmacology. The study will inspire more innovative studies and reference for further experimental research and clinical application on the modern research of TCM formulas.</p>
+    </sec>
+    <sec id="sec2">
+      <title>2. Materials and Methods</title>
+      <sec id="sec2.1">
+        <title>2.1. Screening Compounds and Targets of PSD</title>
+        <p>The active compounds of PSD were obtained from TCMSP (Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform) and the compounds were screened out under the conditions of the components' oral bioavailability (OB) &#x2265;30% and drug likeness (DL) &#x2265;0.18. The targets of active ingredients were obtained from the TCMSP and Swiss Target Prediction databases. Then, all these obtained active compounds were synthesized to remove duplications. Finally, the targets were standardized in the UniProt database with status set as &#x201C;reviewed&#x201D; and species set as &#x201C;human,&#x201D; which were all standardized and normalized to ensure accuracy.</p>
+      </sec>
+      <sec id="sec2.2">
+        <title>2.2. Screening Targets of LC and CHF</title>
+        <p>The potential targets of LC and CHF were obtained from OMIM, GeneCards, and DrugBank databases using the keyword &#x201C;liver cancer&#x201D; or &#x201C;chronic cardiac failure.&#x201D; The obtained data were combined separately, and the duplications were removed, which were also all standardized and normalized to ensure accuracy.</p>
+      </sec>
+      <sec id="sec2.3">
+        <title>2.3. Common Target Protein-Protein-Interaction Network Construction</title>
+        <p>The related targets of LC, CHF, and PSD were matched and a Venn diagram was drawn to obtain the common targets of the active compounds of PSD for treating LC and CHF. To further identify the core regulatory targets, protein-protein-interaction (PPI) analysis was performed by submitting overlapping targets to the STRING database. The species was limited to &#x201C;Homo sapiens,&#x201D; the medium required interaction score was set to 0.4, and the independent target protein nodes were hidden. In the end, the PPI results were exported from STRING and imported into Cytoscape 3.9.0 for PPI network construction and visualization.</p>
+      </sec>
+      <sec id="sec2.4">
+        <title>2.4. &#x201C;P-C-T-D&#x201D; Network Construction</title>
+        <p>Intersections of PSD targets and disease-related targets were regarded as potential targets of PSD for the treatment of LC and CHF. The corresponding chemical compounds of the intersecting targets were thought to be possible therapeutic components that affected LC and CHF. The &#x201C;PSD-compounds-targets-diseases&#x201D; (P-C-T-D) network was constructed to clarify the relationship between active compounds from PSD and potential targets. This network was constructed and visualized using Cytoscape 3.9.0 software.</p>
+      </sec>
+      <sec id="sec2.5">
+        <title>2.5. GO and KEGG Enrichment Analysis</title>
+        <p>Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis of drug-disease common targets were conducted through Metascape platform. The GO analysis included biological progress (BP), cellular component (CC), and molecular functions (MF) and then the top 20 results were visualized according to the ranking of <italic>P</italic> values.</p>
+      </sec>
+      <sec id="sec2.6">
+        <title>2.6. Molecular Docking Verification</title>
+        <p>Molecular docking was performed between the active ingredients and the core targets obtained from PPI network topology analysis. The PDB formats of proteins were derived from the RCSB Protein Data Bank database (PDB), and SDF formats of ligands were obtained from the PubChem database. The 3D structure transformation of compounds and the format transformation of compounds and target proteins were completed by AutoDock Tools and OpenBabel software, respectively. Finally, Autodock 4.2 software was used for molecular docking and PyMOL was used for visualization.</p>
+      </sec>
+    </sec>
+    <sec id="sec3">
+      <title>3. Results</title>
+      <sec id="sec3.1">
+        <title>3.1. Active Compounds of PSD</title>
+        <p>A total of 155 candidate active ingredients were screened through TCMSP database, including 15 from <italic>Poria cocos</italic>, 22 from Panax Ginseng C. A. Mey., 5 from <italic>Zingiberis rhizoma</italic>, 92 from liquorice, and 21 from Aconiti Lateralis Radix Praeparata, respectively (the data were not shown). Among them, some active ingredients were shared by different drugs, for example, kaempferol was shared by Panax Ginseng C. A. Mey. and <italic>liquorice</italic>, <italic>&#x3B2;</italic>-sitosterol was shared by Panax Ginseng C. A. Mey. and <italic>Zingiberis rhizoma</italic>, and sitosterol was shared by <italic>Zingiberis rhizoma</italic>, liquorice, and Aconiti Lateralis Radix Praeparata. It is reported that kaempferol inhibited the proliferation, migration, and invasion of liver cancer HepG2 cells by the downregulation of microRNA-21 [<xref rid="B15" ref-type="bibr">15</xref>]. Sitosterol and <italic>&#x3B2;</italic>-sitosterol both belong to sitosterols, and they exert an anticancer effect in liver cancer cells by activating the caspase-3 pathway associated with apoptosis cell death [<xref rid="B16" ref-type="bibr">16</xref>].</p>
+      </sec>
+      <sec id="sec3.2">
+        <title>3.2. Target Prediction of PSD in the Treatment of CHF and LC</title>
+        <p>After combining the three databases and deleting repeated targets, a total of 1641 targets for LC and 1499 targets for CHF were collected. Meanwhile, 906 active ingredient targets of PSD were obtained by integrating the targets obtained from the SWISS database and TCMSP database. Potential targets of PSD were matched with those of LC and CHF; then, a Venn diagram was constructed to visualize the data (as shown in <xref rid="fig1" ref-type="fig">Figure 1</xref>). The result showed that the intersections composing of 193 targets might be the potential drug target for the treatment of LC and CHF.</p>
+      </sec>
+      <sec id="sec3.3">
+        <title>3.3. PPI Network and Analysis</title>
+        <p>To explore the mechanism of PSD in the treatment of LC and CHF, the 193 target proteins of PSD against LC and CHF were imported into the STRING database for PPI analysis. As shown in <xref rid="fig2" ref-type="fig">Figure 2(a)</xref>, each node represents relevant targets and edges stand for protein-protein associations. The network comprises 187 protein targets (nodes); they then interact with each other closely via 5316 edges. The PPI network was visualized by Cytoscape software to screen out the core targets, and median degree centrality (DC) values of the whole network was calculated to be 50. The targets with degree centrality (DC) values greater than 1 times the median or 2 times the median were extracted. As was shown in <xref rid="fig2" ref-type="fig">Figure 2(b)</xref>, the outermost circle is all the 187 targets, the middle circle is the target whose DC value is more than 1 median, and the innermost circle is the target whose DC value is more than 2 median, which is the core targets of this study. Finally, aiming to analyze the relationship between the core targets (from the innermost circle of <xref rid="fig2" ref-type="fig">Figure 2(b)</xref>), the core targets were sorted in descending order according to its degree values by Cytohubba plugin (<xref rid="fig2" ref-type="fig">Figure 2(c)</xref>). The results suggested that IL6, AKT1, and TNF, etc. were the most effective core targets, and they interacted with each other.</p>
+      </sec>
+      <sec id="sec3.4">
+        <title>3.4. &#x201C;P-C-T-D&#x201D; Network and Analysis</title>
+        <p>The &#x201C;drug-component-target-disease&#x201D; network is shown in <xref rid="fig3" ref-type="fig">Figure 3</xref>, which contained a total of 344 nodes (193 intersection target genes, 155 active components, 2 diseases, and 5 active ingredients) and 1060 interacting edges. Each edge represented the relationship between the drug, the active ingredient and the disease. Among the 5 components of PSD, liquorice had the largest proportion of active ingredients and the most connected drug genes, indicating that liquorice had the strongest effect in the treatment of both of LC and CHF. In the order of connectivity value, quercetin, kaempferol, and chrysanthemaxanthin were the most active ingredients, suggesting that these ingredients might have better therapeutic effect. Among the 193 intersecting genes, IL6 had the highest degree of connection with the active ingredient, followed by AKT1, ALB, TNF, and TP53, etc. The higher the degree of connection, the stronger the target effect. The top 10 key active ingredients of PSD in the treatment of both LC and CHF ordered according to degree value is shown in <xref rid="fig4" ref-type="fig">Figure 4</xref>. It was seen from <xref rid="fig4" ref-type="fig">Figure 4</xref> that the value of quercetin was the highest, followed by kaempferol. The higher the degree value, the larger the proportion, indicating that its activity was the strongest.</p>
+      </sec>
+      <sec id="sec3.5">
+        <title>3.5. GO and KEGG Pathway Enrichment Analysis</title>
+        <p>The biological functional processes and molecular pathways of the crucial targets from PSD for treating LC and CHF were enriched and characterized, respectively. A total of 220 biological processes (BPs) were obtained, 188 cellular component (CC), and 188 molecular function (MF). The top items were selected based on the <italic>P</italic> value for visual analysis (Figures <xref rid="fig5" ref-type="fig">5(a)</xref>&#x2013;<xref rid="fig5" ref-type="fig">5(c)</xref>). Results showed that PSD treatment of LC and CHF mainly involves cell migration such as positive regulation of protein phosphorylation, regulation of cell adhesion, and kinase binding, etc. 207 signal pathways were obtained by enrichment analysis of the KEGG signal pathway. According to the <italic>P</italic> value, the top 20 items were screened out for visual analysis (Figures <xref rid="fig6" ref-type="fig">6(a)</xref> and <xref rid="fig6" ref-type="fig">6(b)</xref>). Moreover, <xref rid="fig6" ref-type="fig">Figure 6</xref> showed that PSD treatment of LC and CHF might be mainly related to AGE-RAGE, PI3K-Akt, JAK-STAT, and other signaling pathways.</p>
+      </sec>
+      <sec id="sec3.6">
+        <title>3.6. Molecular Docking Verification</title>
+        <p>According to <xref rid="fig7" ref-type="fig">Figure 7</xref>, the results showed that the binding energies of most compounds and ligands were less than &#x2212;5.0&#x2009;kcal&#xB7;mol<sup>&#x2212;1</sup>, indicating a good binding activity between them. The PDB protein database numbers of protein receptors are shown in <xref rid="tab1" ref-type="table">Table 1</xref>. Among them, the binding energies of quercetin and kaempferol with STAT3, CASP3, IL6, and TNF were less than &#x2212;7.0&#x2009;kcal&#xB7;mol<sup>&#x2212;1</sup>, showing a strong binding activity. The ligand and receptor conjugates with stronger binding activity were visualized by PyMOL software, and the binding conformation with hydrogen bond number &#x2265;3 was selected for display. As shown in <xref rid="fig8" ref-type="fig">Figure 8</xref>, quercetin forms 4 hydrogen bonds with AKT1 through amino acid residues LYS-64, LEU-62, and GLN-104 and forms 4 hydrogen bonds with TNF through amino acid residues LEU-26 and ASN-137. A higher number of hydrogen bonds indicate a more stable conformation of the ligand and acceptor. Furthermore, the abovementioned ligand compounds could be well embedded in the active pocket of the receptor target protein, suggesting that TP53 and JUN were the primary targets for PSD treatment of LC and CHF.</p>
+      </sec>
+    </sec>
+    <sec id="sec4">
+      <title>4. Discussion</title>
+      <sec id="sec4.1">
+        <title>4.1. Theoretical Explanation of &#x201C;Homotherapy for Heteropathy&#x201D; in PSD</title>
+        <p>As the essence of syndrome differentiation and treatment in traditional Chinese medicine, the theory of &#x201C;homotherapy for heteropathy&#x201D; also plays an important guiding role in the clinical diagnosis and treatment of traditional Chinese medicine [<xref rid="B17" ref-type="bibr">17</xref>]. The interpretation of &#x201C;homotherapy for heteropathy&#x201D; generally means that the same methods are adopted to cure different diseases showing similar symptoms during the development process, which fully reflects the advantages of traditional Chinese medicine in holistic and comprehensive treatment [<xref rid="B18" ref-type="bibr">18</xref>, <xref rid="B19" ref-type="bibr">19</xref>]. Traditional Chinese medicine can treat different diseases simultaneously and prevent the occurrence of diseases by enhancing the body's defense and adaptability. Previous clinical studies have shown that PSD can treat a variety of diseases by regulating cardiac function, enhancing human immunity, and improving tumor microenvironment. Therefore, from the perspective of &#x201C;homotherapy for heteropathy&#x201D; as the starting point, the study combined network pharmacology and molecular docking technology to explore the common mechanism of PSD on LC and CHF and provided a basis for further clinical applications.</p>
+      </sec>
+      <sec id="sec4.2">
+        <title>4.2. Main Active Components of PSD in the Treatment of LC and CHF</title>
+        <p>The &#x201C;drug-component-target-disease&#x201D; network of PSD in the treatment of LC and CHF obtained in the study showed that 10 compounds including quercetin, kaempferol, and isorhamnetin had high connectivity and degree values. These components might be important components of PSD in the treatment of LC and CHF, and most of them have been verified by clinical trials and related animal experiments. For example, (1) quercetin can not only reduce the incidence of CHF by protecting cardiomyocytes under inflammatory conditions but also enhance inhibitory effect on the growth of LC cells by binding 5-FU [<xref rid="B20" ref-type="bibr">20</xref>, <xref rid="B21" ref-type="bibr">21</xref>]. (2) Kaempferol can not only inhibit the proliferation, migration, and invasion of liver cancer HepG2 cells by the downregulation of microRNA-21 but also decrease inflammation in Ang II-stimulated cardiac fibroblasts by modulating NF-kB pathways [<xref rid="B15" ref-type="bibr">15</xref>, <xref rid="B22" ref-type="bibr">22</xref>]. Other research results are summarized in <xref rid="tab2" ref-type="table">Table 2</xref>. These studies have confirmed that the active components of PSD play an important role in the treatment of LC and CHF.</p>
+      </sec>
+      <sec id="sec4.3">
+        <title>4.3. Key Targets of PSD in the Treatment of LC and CHF</title>
+        <p>The results from PPI network and molecular docking showed that PSD had therapeutic effects on the abovementioned diseases through core targets such as STAT3, CASP3, IL6, TNF, and AKT1. Previous studies have shown that STAT3 inhibits LC cells migration and growth by controlling the progression of continuous hepatocyte death, inflammatory cell infiltration, and compensatory liver regeneration [<xref rid="B29" ref-type="bibr">29</xref>]. The IL-6-stat3 signaling pathway is blocked by the IL-6 monoclonal antibody and regulated by IL-6 miRNAs through multiple targets. These results suggested that abnormally proliferating IL-6 can inhibit the occurrence and development of LC by interfering tumor cell proliferation, migration, invasion, angiogenesis, and apoptosis [<xref rid="B30" ref-type="bibr">30</xref>]. TNF-<italic>&#x3B1;</italic> can effectively improve inflammatory factors or oxidative stress indicators, promote cardiomyocyte contraction, and decrease tumor activity indicators [<xref rid="B31" ref-type="bibr">31</xref>]. It is reported that TNF-<italic>&#x3B1;</italic> had a strong target benefit in LC as well as CHF when healing the CHF with l-carnitine combined with telmisartan [<xref rid="B32" ref-type="bibr">32</xref>]. Loss of function or death of AKT1 cardiomyocyte is one of the main factors in the development of CHF. Western blot phosphorylation assay ultimately proves that cytoplasmic Hsp60 is involved in the regulation of AKT1 activity in the progression of CHF [<xref rid="B33" ref-type="bibr">33</xref>]. TP53 mutation is the most common mutation in LC, and it affects the progression and prognosis of LC [<xref rid="B34" ref-type="bibr">34</xref>]. On the other hand, TP53 is involved in the pathogenesis of dilated cardiomyopathy [<xref rid="B35" ref-type="bibr">35</xref>]. It has been reported that dilated cardiomyopathy can progress to CHF [<xref rid="B36" ref-type="bibr">36</xref>].</p>
+        <p>Results of molecular docking further verified that the core targets such as STAT3, TP53, JUN, VEGFA, CASP3, IL6, and TNF had good binding ability with the key active components. The binding energy was frequently calculated to evaluate the affinity degree of ingredients with protein targets. The lower the binding energy, the more hydrogen bonds are formed, indicating a higher affinity of the ligand for the receptor. According to <xref rid="fig7" ref-type="fig">Figure 7</xref>, the binding energies of quercetin and kaempferol with STAT3, CASP3, IL6, and TNF were all less than &#x2212;7.0&#x2009;kcal&#xB7;mol<sup>&#x2212;1</sup>. Among them, in AKT1-quercetin interaction, the binding energy of quercetin and AKT1 was &#x2212;9.4&#x2009;kcal&#xB7;mol<sup>&#x2212;1</sup>; meanwhile, quercetin formed four hydrogen bonds with residues LYS-64, LEU-62, and GLN-104. Quercetin and AKT1 formed the largest number of hydrogen bonds and the lowest binding energy, indicating that these molecular docking results were the most stable structure. It is preliminarily verified that the binding of the main active components such as quercetin and isorhamnetin in PSD to the core target such as AKTI and TNF may be the key to its action. These results confirmed that PSD had a good therapeutic effect on LC and CHF.</p>
+      </sec>
+      <sec id="sec4.4">
+        <title>4.4. Signaling Pathways of PSD in the Treatment of LC and CHF</title>
+        <p>The analysis of GO biological process and KEGG pathway of common targets showed that PSD treatment of LC and CHF mainly involved NF-<italic>&#x3BA;</italic>B, PI3K-Akt, JAK-STAT, TRP signaling pathways and the biological process of protein phosphorylation. Studies have shown that PSD can activate the NF-<italic>&#x3BA;</italic>B pathway by upregulating the expression of IL-6 and TNF-<italic>&#x3B1;</italic>. Meanwhile, PSD inhibits the inflammatory response through negative feedback, thereby alleviating myocardial depression in CHF patients [<xref rid="B37" ref-type="bibr">37</xref>]. PSD upregulates the expression of the proliferation inhibitory proteins P21 and P27 by regulating the expression of key molecules in the PI3K-Akt signaling pathway. This process can produce a significant tumor suppressor effect on H22&#x2009;cells and enhance the anti-LC effect [<xref rid="B38" ref-type="bibr">38</xref>]. Animal experimental studies have shown that the JAK-STAT signaling pathway is activated by the reducing of Mir-195-5p or the upregulating of CXCR4, in turn, alleviated the damage of cardiac function in CHF. Besides, JAK-STAT signaling pathway participated in reducing the inflammatory factors contents, oxidative stress, and myocardial enzyme index [<xref rid="B39" ref-type="bibr">39</xref>]. It has also been reported that the JAK-STAT signaling pathway can use the high expression of microRNA-409 to delay the progression of LC [<xref rid="B40" ref-type="bibr">40</xref>]. For patients with CHF, sustained neurohumoral activation, pressure overload, or myocardial injury can cause cardiac pathological hypertrophic growth. TRP ion channels are critical for activation of cellular signaling pathways involved in adverse cardiac remodeling and CHF, which can also treat pain syndrome associated with LC. Therefore, TRP channels play a crucial role in the treatment of CHF and LC [<xref rid="B41" ref-type="bibr">41</xref>, <xref rid="B42" ref-type="bibr">42</xref>]. Tyrosine phosphorylated proteins are mainly associated with biological processes such as adherens junctions, focal adhesions, endocytosis, and tight junctions. A variety of tyrosine phosphorylated proteins provide new therapeutic targets for the LC metastasis [<xref rid="B43" ref-type="bibr">43</xref>]. Clinical experiments show that the cardiac pathological changes and fibrosis are improved after Cap treatment, which significantly inhibits cardiac cell apoptosis in the process of CHF. Meanwhile, the expressions of phosphorylated Jak2 and Stat3 are significantly reduced, and the expression of Bcl-2 is increased [<xref rid="B44" ref-type="bibr">44</xref>]. A novel plaque-binding kinase inhibitor (CT-707) has therapeutic effects on LC. CT-707 can inhibit the proliferation of hepatoma cells and promote cell apoptosis. It is reported that focal adhesion can reduce the viability of hepatoma cells [<xref rid="B45" ref-type="bibr">45</xref>]. Therefore, it can be speculated that the main components of PSD plays a role in the treatment of LC and CHF.</p>
+      </sec>
+    </sec>
+    <sec id="sec5">
+      <title>5. Conclusion</title>
+      <p>In conclusion, the study performed network pharmacology and molecular docking analysis to elucidate that in the anti-LC and CHF effects of PSD, the most important bioactive compound was quercetin, TP53 was the most important target, and the PI3K-AKT signaling pathway was the most critical pathway. Although the network pharmacology research of TCM theory of &#x201C;homotherapy for heteropathy&#x201D; is still in the preliminary stage, with the continuous improvement of database information, future research will deepen people's understanding of TCM treatment of complex diseases. PSD can effectively treat LC and CHF through the efficacy coordination among various herbs. The idea of &#x201C;homotherapy for heteropathy&#x201D; is conducive to the timely discovery of new drugs and brings new hope for the treatment of LC and CHF.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>This work was supported by the Natural Science Foundation of Shanxi Province (202203021212345), the Technological Innovation Ability Cultivation Plan of Shanxi University of Chinese Medicine (2020PY-JC-04), the Science and Technology Innovation Project of Shanxi Colleges and Universities (2020L0414), and the Scientific Research Project of Shanxi Provincial Administration of Traditional Chinese Medicine (2020ZYYC008).</p>
+    </ack>
+    <sec sec-type="data-availability">
+      <title>Data Availability</title>
+      <p>The data used to support the findings of this study are included within the article.</p>
+    </sec>
+    <sec sec-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare that they have no conflicts of interest.</p>
+    </sec>
+    <ref-list>
+      <ref id="B1" content-type="article">
+        <label>1</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ambrosy</surname><given-names>A. P.</given-names></name>
+<name><surname>Fonarow</surname><given-names>G. C.</given-names></name>
+<name><surname>Butler</surname><given-names>J.</given-names></name>
+<etal/>
+</person-group><article-title>The global health and economic burden of hospitalizations for heart failure: lessons learned from hospitalized heart failure registries</article-title><source>
+<italic>Journal of the American College of Cardiology</italic>
+</source><year>2014</year><volume>63</volume><issue>12</issue><fpage>1123</fpage><lpage>1133</lpage><pub-id pub-id-type="doi">10.1016/j.jacc.2013.11.053</pub-id><pub-id pub-id-type="other">2-s2.0-84896961871</pub-id><pub-id pub-id-type="pmid">24491689</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B2" content-type="article">
+        <label>2</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Siegel</surname><given-names>R. L.</given-names></name>
+<name><surname>Miller</surname><given-names>K. D.</given-names></name>
+<name><surname>Fuchs</surname><given-names>H. E.</given-names></name>
+<name><surname>Jemal</surname><given-names>A.</given-names></name>
+</person-group><article-title>Cancer statistics, 2022</article-title><source>
+<italic>CA: A Cancer Journal for Clinicians</italic>
+</source><year>2022</year><volume>72</volume><issue>1</issue><fpage>7</fpage><lpage>33</lpage><pub-id pub-id-type="doi">10.3322/caac.21708</pub-id><pub-id pub-id-type="pmid">35020204</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B3" content-type="article">
+        <label>3</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luk</surname><given-names>J. M.</given-names></name>
+<name><surname>Wang</surname><given-names>X.</given-names></name>
+<name><surname>Liu</surname><given-names>P.</given-names></name>
+<etal/>
+</person-group><article-title>Traditional Chinese herbal medicines for treatment of liver fibrosis and cancer: from laboratory discovery to clinical evaluation</article-title><source>
+<italic>Liver International</italic>
+</source><year>2007</year><volume>27</volume><issue>7</issue><fpage>879</fpage><lpage>890</lpage><pub-id pub-id-type="doi">10.1111/j.1478-3231.2007.01527.x</pub-id><pub-id pub-id-type="other">2-s2.0-34547908170</pub-id><pub-id pub-id-type="pmid">17696925</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B4" content-type="article">
+        <label>4</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>Y.</given-names></name>
+<name><surname>Wang</surname><given-names>Q. Y.</given-names></name>
+<name><surname>Li</surname><given-names>C.</given-names></name>
+<etal/>
+</person-group><article-title>A review of Chinese herbal medicine for the treatment of chronic heart failure</article-title><source>
+<italic>Current Pharmaceutical Design</italic>
+</source><year>2017</year><volume>23</volume><issue>34</issue><fpage>5115</fpage><lpage>5124</lpage><pub-id pub-id-type="doi">10.2174/1381612823666170925163427</pub-id><pub-id pub-id-type="other">2-s2.0-85042772427</pub-id><pub-id pub-id-type="pmid">28950815</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B5" content-type="article">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>P.</given-names></name>
+<name><surname>Xia</surname><given-names>Y.</given-names></name>
+<name><surname>Zheng</surname><given-names>B. W.</given-names></name>
+</person-group>
+          <article-title>Trtent of chronic heart failure with fuling Sini decoction and its effect on plasma urotensin II</article-title>
+          <source>
+<italic>Traditional Chinese medicine Information</italic>
+</source>
+          <year>2013</year>
+          <volume>30</volume>
+          <issue>6</issue>
+          <fpage>58</fpage>
+          <lpage>60</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6" content-type="article">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Huang</surname><given-names>L. J.</given-names></name>
+<name><surname>Cai</surname><given-names>H. R.</given-names></name>
+<name><surname>Zhuang</surname><given-names>J. Q.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Fuling Sini decoction for patients with chronic heart failure: a protocol for a systematic review and meta-analysis</article-title>
+          <source>
+<italic>Medicine (Baltimore)</italic>
+</source>
+          <year>2018</year>
+          <volume>97</volume>
+          <issue>51</issue>
+          <fpage>p. e13692</fpage>
+          <pub-id pub-id-type="doi">10.1097/md.0000000000013692</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85058920787</pub-id>
+          <pub-id pub-id-type="publisher-id">e13692</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7" content-type="article">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Pan</surname><given-names>X. L.</given-names></name>
+<name><surname>Huang</surname><given-names>C. H.</given-names></name>
+</person-group>
+          <article-title>Clinical study of Fuling Sini Decoction in the treatment of chronic pulmonary heart disease and heart failure</article-title>
+          <source>
+<italic>Chinese Medicine Modern Distance Education of China</italic>
+</source>
+          <year>2021</year>
+          <volume>19</volume>
+          <fpage>99</fpage>
+          <lpage>101</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B8" content-type="article">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Hautaniemi</surname><given-names>E. J.</given-names></name>
+<name><surname>Tahvanainen</surname><given-names>A. M.</given-names></name>
+<name><surname>Koskela</surname><given-names>J. K.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Voluntary liquorice ingestion increases blood pressure via increased volume load, elevated peripheral arterial resistance, and decreased aortic compliance</article-title>
+          <source>
+<italic>Scientific Reports</italic>
+</source>
+          <year>2017</year>
+          <volume>7</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="publisher-id">10947</pub-id>
+          <pub-id pub-id-type="doi">10.1038/s41598-017-11468-7</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85028966597</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9" content-type="article">
+        <label>9</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Cheng</surname><given-names>H. J.</given-names></name>
+<name><surname>Sun</surname><given-names>G. D.</given-names></name>
+<name><surname>Chen</surname><given-names>H.</given-names></name>
+<etal/>
+</person-group><article-title>Trends in the treatment of advanced hepatocellular carcinoma: immune checkpoint blockade immunotherapy and related combination therapies</article-title><source>
+<italic>American Journal of Cancer Research</italic>
+</source><year>2019</year><volume>9</volume><issue>8</issue><fpage>1536</fpage><lpage>1545</lpage><pub-id pub-id-type="pmid">31497341</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B10" content-type="article">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Qin</surname><given-names>L.</given-names></name>
+<name><surname>Huang</surname><given-names>D. N.</given-names></name>
+<name><surname>Huang</surname><given-names>J.</given-names></name>
+<name><surname>Qin</surname><given-names>F. H.</given-names></name>
+<name><surname>Huang</surname><given-names>H. X.</given-names></name>
+</person-group>
+          <article-title>Integrated analysis and finding reveal anti-liver cancer targets and mechanisms of pachyman (Poria cocos polysaccharides)</article-title>
+          <source>
+<italic>Frontiers in Pharmacology</italic>
+</source>
+          <year>2021</year>
+          <volume>12</volume>
+          <pub-id pub-id-type="publisher-id">742349</pub-id>
+          <pub-id pub-id-type="doi">10.3389/fphar.2021.742349</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11" content-type="article">
+        <label>11</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>E. X.</given-names></name>
+<name><surname>Yin</surname><given-names>S. T.</given-names></name>
+<name><surname>Zhao</surname><given-names>S.</given-names></name>
+<etal/>
+</person-group><article-title>Protective effects of glycycoumarin on liver diseases</article-title><source>
+<italic>Phytotherapy Research</italic>
+</source><year>2020</year><volume>34</volume><issue>6</issue><fpage>1191</fpage><lpage>1197</lpage><pub-id pub-id-type="doi">10.1002/ptr.6598</pub-id><pub-id pub-id-type="pmid">31840883</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B12" content-type="article">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+<name><surname>Song</surname><given-names>N.</given-names></name>
+<name><surname>Guo</surname><given-names>J. F.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Inhibitory effect and its mechanism of pachymaran on HepG2 hepatoma cells by regulating NLRP3/pyrogen pathway</article-title>
+          <source>
+<italic>Chinese Archives of Traditional Chinese Medicine</italic>
+</source>
+          <year>2022</year>
+          <volume>40</volume>
+          <fpage>171</fpage>
+          <lpage>175</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B13" content-type="article">
+        <label>13</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Springer</surname><given-names>J.</given-names></name>
+<name><surname>Tschirner</surname><given-names>A.</given-names></name>
+<name><surname>Haghikia</surname><given-names>A.</given-names></name>
+<etal/>
+</person-group><article-title>Prevention of liver cancer cachexia-induced cardiac wasting and heart failure</article-title><source>
+<italic>European Heart Journal</italic>
+</source><year>2014</year><volume>35</volume><issue>14</issue><fpage>932</fpage><lpage>941</lpage><pub-id pub-id-type="doi">10.1093/eurheartj/eht302</pub-id><pub-id pub-id-type="other">2-s2.0-84889079190</pub-id><pub-id pub-id-type="pmid">23990596</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B14" content-type="article">
+        <label>14</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Correale</surname><given-names>M.</given-names></name>
+<name><surname>Tarantino</surname><given-names>N.</given-names></name>
+<name><surname>Petrucci</surname><given-names>R.</given-names></name>
+<etal/>
+</person-group><article-title>Liver disease and heart failure: back and forth</article-title><source>
+<italic>European Journal of Internal Medicine</italic>
+</source><year>2018</year><volume>48</volume><fpage>25</fpage><lpage>34</lpage><pub-id pub-id-type="doi">10.1016/j.ejim.2017.10.016</pub-id><pub-id pub-id-type="other">2-s2.0-85033717691</pub-id><pub-id pub-id-type="pmid">29100896</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B15" content-type="article">
+        <label>15</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Du</surname><given-names>Y.</given-names></name>
+<name><surname>Han</surname><given-names>J. B.</given-names></name>
+<name><surname>Zhang</surname><given-names>H. X.</given-names></name>
+<name><surname>Xu</surname><given-names>J. J.</given-names></name>
+<name><surname>Jiang</surname><given-names>L. Q.</given-names></name>
+<name><surname>Ge</surname><given-names>W. H.</given-names></name>
+</person-group><article-title>Kaempferol prevents against Ang II-induced cardiac remodeling through attenuating Ang II-induced inflammation and oxidative stress</article-title><source>
+<italic>Journal of Cardiovascular Pharmacology</italic>
+</source><year>2019</year><volume>74</volume><issue>4</issue><fpage>326</fpage><lpage>335</lpage><pub-id pub-id-type="doi">10.1097/fjc.0000000000000713</pub-id><pub-id pub-id-type="other">2-s2.0-85072943573</pub-id><pub-id pub-id-type="pmid">31356553</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B16" content-type="article">
+        <label>16</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Vo</surname><given-names>T. K.</given-names></name>
+<name><surname>Ta</surname><given-names>Q. T. H.</given-names></name>
+<name><surname>Chu</surname><given-names>Q. T.</given-names></name>
+<name><surname>Nguyen</surname><given-names>T. T.</given-names></name>
+<name><surname>Vo</surname><given-names>V. G.</given-names></name>
+</person-group><article-title>Anti-hepatocellular-cancer activity exerted by <italic>&#x3B2;</italic>-sitosterol and <italic>&#x3B2;</italic>-sitosterol-glucoside from Indigofera zollingeriana miq</article-title><source>
+<italic>Molecules</italic>
+</source><year>2020</year><volume>25</volume><issue>13</issue><fpage>p. 3021</fpage><pub-id pub-id-type="doi">10.3390/molecules25133021</pub-id><pub-id pub-id-type="pmid">32630623</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B17" content-type="article">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ni</surname><given-names>L. L.</given-names></name>
+<name><surname>Kong</surname><given-names>L. Z.</given-names></name>
+<name><surname>Tang</surname><given-names>Y. J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>The experimental exploration of TCM theory treating the same disease with different approaches on an ulcerative colitis model</article-title>
+          <source>
+<italic>Evidence-based Complementary and Alternative Medicine</italic>
+</source>
+          <year>2022</year>
+          <volume>2022</volume>
+          <fpage>11</fpage>
+          <pub-id pub-id-type="doi">10.1155/2022/4916540</pub-id>
+          <pub-id pub-id-type="publisher-id">4916540</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18" content-type="article">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Shi</surname><given-names>Y. Y.</given-names></name>
+<name><surname>Li</surname><given-names>Y. Q.</given-names></name>
+<name><surname>Xie</surname><given-names>X.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Homotherapy for heteropathy active components and mechanisms of Qiang-Huo-Sheng-Shi decoction for treatment of rheumatoid arthritis and osteoarthritis</article-title>
+          <source>
+<italic>Computational Biology and Chemistry</italic>
+</source>
+          <year>2020</year>
+          <volume>89</volume>
+          <pub-id pub-id-type="publisher-id">107397</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.compbiolchem.2020.107397</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19" content-type="article">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>L.</given-names></name>
+<name><surname>Zhang</surname><given-names>J. Q.</given-names></name>
+<name><surname>Wang</surname><given-names>Y. F.</given-names></name>
+<name><surname>Zhang</surname><given-names>Z. D.</given-names></name>
+<name><surname>Wang</surname><given-names>F. Y.</given-names></name>
+<name><surname>Tang</surname><given-names>X. D.</given-names></name>
+</person-group>
+          <article-title>Uncovering the mechanism of Ge-Gen-Qin-Lian decoction for treating ulcerative colitis based on network pharmacology and molecular docking verification</article-title>
+          <source>
+<italic>Bioscience Reports</italic>
+</source>
+          <year>2021</year>
+          <volume>41</volume>
+          <issue>2</issue>
+          <pub-id pub-id-type="doi">10.1042/bsr20203565</pub-id>
+          <pub-id pub-id-type="publisher-id">BSR20203565</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20" content-type="article">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chang</surname><given-names>X.</given-names></name>
+<name><surname>Zhang</surname><given-names>T.</given-names></name>
+<name><surname>Wang</surname><given-names>J. Y.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>SIRT5-Related desuccinylation modification contributes to quercetin-induced protection against heart failure and high-glucose-prompted cardiomyocytes injured through regulation of mitochondrial quality surveillance</article-title>
+          <source>
+<italic>Oxidative Medicine and Cellular Longevity</italic>
+</source>
+          <year>2021</year>
+          <volume>2021</volume>
+          <fpage>17</fpage>
+          <pub-id pub-id-type="doi">10.1155/2021/5876841</pub-id>
+          <pub-id pub-id-type="publisher-id">5876841</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21" content-type="article">
+        <label>21</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hisaka</surname><given-names>T.</given-names></name>
+<name><surname>Sakai</surname><given-names>H.</given-names></name>
+<name><surname>Sato</surname><given-names>T.</given-names></name>
+<etal/>
+</person-group><article-title>Quercetin suppresses proliferation of liver cancer cell lines in vitro</article-title><source>
+<italic>Anticancer Research</italic>
+</source><year>2020</year><volume>40</volume><issue>8</issue><fpage>4695</fpage><lpage>4700</lpage><pub-id pub-id-type="doi">10.21873/anticanres.14469</pub-id><pub-id pub-id-type="pmid">32727794</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B22" content-type="article">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhu</surname><given-names>G. L.</given-names></name>
+<name><surname>Liu</surname><given-names>X. L.</given-names></name>
+<name><surname>Li</surname><given-names>H. J.</given-names></name>
+<name><surname>Yan</surname><given-names>Y.</given-names></name>
+<name><surname>Hong</surname><given-names>X. P.</given-names></name>
+<name><surname>Lin</surname><given-names>Z. D.</given-names></name>
+</person-group>
+          <article-title>RETRACTED: kaempferol inhibits proliferation, migration, and invasion of liver cancer HepG2 cells by down-regulation of microRNA-21</article-title>
+          <source>
+<italic>International Journal of Immunopathology &amp; Pharmacology</italic>
+</source>
+          <year>2018</year>
+          <volume>32</volume>
+          <pub-id pub-id-type="doi">10.1177/2058738418814341</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85057203897</pub-id>
+          <pub-id pub-id-type="publisher-id">2058738418814341</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23" content-type="article">
+        <label>23</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Arul</surname><given-names>D.</given-names></name>
+<name><surname>Subramanian</surname><given-names>P.</given-names></name>
+</person-group><article-title>Naringenin (citrus flavonone) induces growth inhibition, cell cycle arrest and apoptosis in human hepatocellular carcinoma cells</article-title><source>
+<italic>Pathology and Oncology Research</italic>
+</source><year>2013</year><volume>19</volume><issue>4</issue><fpage>763</fpage><lpage>770</lpage><pub-id pub-id-type="doi">10.1007/s12253-013-9641-1</pub-id><pub-id pub-id-type="other">2-s2.0-84885191227</pub-id><pub-id pub-id-type="pmid">23661153</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B24" content-type="article">
+        <label>24</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>N.</given-names></name>
+<name><surname>Yang</surname><given-names>Z.</given-names></name>
+<name><surname>Yuan</surname><given-names>Y.</given-names></name>
+<etal/>
+</person-group><article-title>Naringenin attenuates pressure overload-induced cardiac hypertrophy</article-title><source>
+<italic>Experimental and Therapeutic Medicine</italic>
+</source><year>2015</year><volume>10</volume><issue>6</issue><fpage>2206</fpage><lpage>2212</lpage><pub-id pub-id-type="doi">10.3892/etm.2015.2816</pub-id><pub-id pub-id-type="other">2-s2.0-84946549517</pub-id><pub-id pub-id-type="pmid">26668617</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B25" content-type="article">
+        <label>25</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Choi</surname><given-names>Y. H.</given-names></name>
+</person-group><article-title>Isorhamnetin induces ROS-dependent cycle arrest at G2/M phase and apoptosis in human hepatocarcinoma Hep3B cells</article-title><source>
+<italic>General Physiology and Biophysics</italic>
+</source><year>2019</year><volume>38</volume><issue>06</issue><fpage>473</fpage><lpage>484</lpage><pub-id pub-id-type="doi">10.4149/gpb_2019038</pub-id><pub-id pub-id-type="pmid">31588915</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B26" content-type="article">
+        <label>26</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+<name><surname>Tang</surname><given-names>C.</given-names></name>
+<name><surname>Tan</surname><given-names>S. Y.</given-names></name>
+<name><surname>Duan</surname><given-names>J.</given-names></name>
+<name><surname>Tian</surname><given-names>H. M.</given-names></name>
+<name><surname>Yang</surname><given-names>Y.</given-names></name>
+</person-group><article-title>Cardioprotective effect of isorhamnetin against myocardial ischemia reperfusion (I/R) injury in isolated rat heart through attenuation of apoptosis</article-title><source>
+<italic>Journal of Cellular and Molecular Medicine</italic>
+</source><year>2020</year><volume>24</volume><issue>11</issue><fpage>6253</fpage><lpage>6262</lpage><pub-id pub-id-type="doi">10.1111/jcmm.15267</pub-id><pub-id pub-id-type="pmid">32307912</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B27" content-type="article">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>D. Q.</given-names></name>
+<name><surname>Wang</surname><given-names>S. F.</given-names></name>
+<name><surname>Zhu</surname><given-names>L. G.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Profiling of hepatocellular carcinoma cell cycle regulating genes targeted by calycosin</article-title>
+          <source>
+<italic>BioMed Research International</italic>
+</source>
+          <year>2013</year>
+          <volume>2013</volume>
+          <fpage>7</fpage>
+          <pub-id pub-id-type="doi">10.1155/2013/317926</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-84896075410</pub-id>
+          <pub-id pub-id-type="publisher-id">317926</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28" content-type="article">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>X. P.</given-names></name>
+<name><surname>Li</surname><given-names>W. L.</given-names></name>
+<name><surname>Zhang</surname><given-names>Y. W.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Calycosin as a novel PI3K activator reduces inflammation and fibrosis in heart failure through AKT-IKK/STAT3 Axis</article-title>
+          <source>
+<italic>Frontiers in Pharmacology</italic>
+</source>
+          <year>2022</year>
+          <volume>13</volume>
+          <pub-id pub-id-type="publisher-id">828061</pub-id>
+          <pub-id pub-id-type="doi">10.3389/fphar.2022.828061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29" content-type="article">
+        <label>29</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>He</surname><given-names>G.</given-names></name>
+<name><surname>Karin</surname><given-names>M.</given-names></name>
+</person-group><article-title>NF-<italic>&#x3BA;</italic>B and STAT3 key players in liver inflammation and cancer</article-title><source>
+<italic>Cell Research</italic>
+</source><year>2011</year><volume>21</volume><issue>1</issue><fpage>159</fpage><lpage>168</lpage><pub-id pub-id-type="doi">10.1038/cr.2010.183</pub-id><pub-id pub-id-type="other">2-s2.0-78650859531</pub-id><pub-id pub-id-type="pmid">21187858</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B30" content-type="article">
+        <label>30</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Servais</surname><given-names>F. A.</given-names></name>
+<name><surname>Kirchmeyer</surname><given-names>M.</given-names></name>
+<name><surname>Hamdorf</surname><given-names>M.</given-names></name>
+<etal/>
+</person-group><article-title>Modulation of the IL-6-signaling pathway in liver cells by miRNAs targeting gp130, JAK1, and/or STAT3</article-title><source>
+<italic>Molecular Therapy Nucleic Acids</italic>
+</source><year>2019</year><volume>16</volume><fpage>419</fpage><lpage>433</lpage><pub-id pub-id-type="doi">10.1016/j.omtn.2019.03.007</pub-id><pub-id pub-id-type="other">2-s2.0-85064540503</pub-id><pub-id pub-id-type="pmid">31026677</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B31" content-type="article">
+        <label>31</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hedayat</surname><given-names>M.</given-names></name>
+<name><surname>Mahmoudi</surname><given-names>M. J.</given-names></name>
+<name><surname>Rose</surname><given-names>N. R.</given-names></name>
+<name><surname>Rezaei</surname><given-names>N.</given-names></name>
+</person-group><article-title>Proinflammatory cytokines in heart failure: double-edged swords</article-title><source>
+<italic>Heart Failure Reviews</italic>
+</source><year>2010</year><volume>15</volume><issue>6</issue><fpage>543</fpage><lpage>562</lpage><pub-id pub-id-type="doi">10.1007/s10741-010-9168-4</pub-id><pub-id pub-id-type="other">2-s2.0-78149361376</pub-id><pub-id pub-id-type="pmid">20405319</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B32" content-type="article">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Qing</surname><given-names>J. N.</given-names></name>
+<name><surname>Ding</surname><given-names>H.</given-names></name>
+</person-group>
+          <article-title>Effect of l-carnitine combined with telmisartan on plasma NT-probNP in patients with heart failure and serum levels of TNF-<italic>&#x3B1;</italic> and IL-6</article-title>
+          <source>
+<italic>Clinics in Laboratory Medicine</italic>
+</source>
+          <year>2020</year>
+          <volume>17</volume>
+          <fpage>560</fpage>
+          <lpage>563</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B33" content-type="article">
+        <label>33</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Kapustian</surname><given-names>L.</given-names></name>
+<name><surname>Kroupskaya</surname><given-names>I.</given-names></name>
+<name><surname>Rozhko</surname><given-names>O.</given-names></name>
+<name><surname>Bobyk</surname><given-names>V.</given-names></name>
+<name><surname>Ryabenko</surname><given-names>D.</given-names></name>
+<name><surname>Sidorik</surname><given-names>L.</given-names></name>
+</person-group><article-title>Akt1 expression and activity at different stages in experimental heart failure</article-title><source>
+<italic>Pathophysiology</italic>
+</source><year>2014</year><volume>21</volume><issue>2</issue><fpage>147</fpage><lpage>151</lpage><pub-id pub-id-type="doi">10.1016/j.pathophys.2013.11.005</pub-id><pub-id pub-id-type="other">2-s2.0-84903185356</pub-id><pub-id pub-id-type="pmid">24332918</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B34" content-type="article">
+        <label>34</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Long</surname><given-names>J. Y.</given-names></name>
+<name><surname>Wang</surname><given-names>A. Q.</given-names></name>
+<name><surname>Bai</surname><given-names>Y.</given-names></name>
+<etal/>
+</person-group><article-title>Development and validation of a TP53-associated immune prognostic model for hepatocellular carcinoma</article-title><source>
+<italic>EBioMedicine</italic>
+</source><year>2019</year><volume>42</volume><fpage>363</fpage><lpage>374</lpage><pub-id pub-id-type="doi">10.1016/j.ebiom.2019.03.022</pub-id><pub-id pub-id-type="other">2-s2.0-85062994266</pub-id><pub-id pub-id-type="pmid">30885723</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B35" content-type="article">
+        <label>35</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Rouhi</surname><given-names>L.</given-names></name>
+<name><surname>Fan</surname><given-names>S.</given-names></name>
+<name><surname>Cheedipudi</surname><given-names>S. M.</given-names></name>
+<etal/>
+</person-group><article-title>The EP300/TP53 pathway, a suppressor of the Hippo and canonical WNT pathways, is activated in human hearts with arrhythmogenic cardiomyopathy in the absence of overt heart failure</article-title><source>
+<italic>Cardiovascular Research</italic>
+</source><year>2022</year><volume>118</volume><issue>6</issue><fpage>1466</fpage><lpage>1478</lpage><pub-id pub-id-type="doi">10.1093/cvr/cvab197</pub-id><pub-id pub-id-type="pmid">34132777</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B36" content-type="article">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Jefferies</surname><given-names>J. L.</given-names></name>
+<name><surname>Towbin</surname><given-names>J. A.</given-names></name>
+</person-group>
+          <article-title>Dilated cardiomyopathy</article-title>
+          <source>
+<italic>The Lancet</italic>
+</source>
+          <year>2010</year>
+          <volume>375</volume>
+          <issue>9716</issue>
+          <fpage>752</fpage>
+          <lpage>762</lpage>
+          <pub-id pub-id-type="doi">10.1016/s0140-6736(09)62023-7</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-77249109399</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37" content-type="article">
+        <label>37</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Gordon</surname><given-names>J. W.</given-names></name>
+<name><surname>Shaw</surname><given-names>J. A.</given-names></name>
+<name><surname>Kirshenbaum</surname><given-names>L. A.</given-names></name>
+</person-group><article-title>Multiple facets of NF-<italic>&#x3BA;</italic>B in the heart: to be or not to NF-<italic>&#x3BA;</italic>B</article-title><source>
+<italic>Circulation Research</italic>
+</source><year>2011</year><volume>108</volume><issue>9</issue><fpage>1122</fpage><lpage>1132</lpage><pub-id pub-id-type="doi">10.1161/circresaha.110.226928</pub-id><pub-id pub-id-type="other">2-s2.0-79955605472</pub-id><pub-id pub-id-type="pmid">21527742</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B38" content-type="article">
+        <label>38</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Liu</surname><given-names>L.</given-names></name>
+<name><surname>Xu</surname><given-names>J. L.</given-names></name>
+<name><surname>Zhai</surname><given-names>Z. Y.</given-names></name>
+<etal/>
+</person-group><article-title>O2-(2,4-dinitrophenyl) diazeniumdiolate derivative induces G2/M arrest via PTEN-mediated inhibition of PI3K/Akt pathway in hepatocellular carcinoma cells</article-title><source>
+<italic>Journal of Pharmacy and Pharmacology</italic>
+</source><year>2021</year><volume>73</volume><issue>10</issue><fpage>1330</fpage><lpage>1339</lpage><pub-id pub-id-type="doi">10.1093/jpp/rgab092</pub-id><pub-id pub-id-type="pmid">34190329</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B39" content-type="article">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Shen</surname><given-names>Y. H.</given-names></name>
+<name><surname>Zhang</surname><given-names>W.</given-names></name>
+<name><surname>Lee</surname><given-names>L. J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>RETRACTED: down-regulated microRNA-195-5p and up-regulated CXCR4 attenuates the heart function injury of heart failure mice via inactivating JAK/STAT pathway</article-title>
+          <source>
+<italic>International Immunopharmacology</italic>
+</source>
+          <year>2020</year>
+          <volume>82</volume>
+          <pub-id pub-id-type="publisher-id">106225</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.intimp.2020.106225</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40" content-type="article">
+        <label>40</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>C. S.</given-names></name>
+<name><surname>Lin</surname><given-names>Y.</given-names></name>
+<name><surname>Sun</surname><given-names>F. B.</given-names></name>
+<name><surname>Gao</surname><given-names>J.</given-names></name>
+<name><surname>Han</surname><given-names>B.</given-names></name>
+<name><surname>Li</surname><given-names>S. J.</given-names></name>
+</person-group><article-title>miR-409 down-regulates Jak-Stat pathway to inhibit progression of liver cancer</article-title><source>
+<italic>European Review for Medical and Pharmacological Sciences</italic>
+</source><year>2019</year><volume>23</volume><issue>1</issue><fpage>146</fpage><lpage>154</lpage><pub-id pub-id-type="doi">10.26355/eurrev_201901_16758</pub-id><pub-id pub-id-type="other">2-s2.0-85060170748</pub-id><pub-id pub-id-type="pmid">30657556</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B41" content-type="article">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>de Almeida</surname><given-names>A. S.</given-names></name>
+<name><surname>Bernardes</surname><given-names>L. d B.</given-names></name>
+<name><surname>Trevisan</surname><given-names>G.</given-names></name>
+</person-group>
+          <article-title>TRP channels in cancer pain</article-title>
+          <source>
+<italic>European Journal of Pharmacology</italic>
+</source>
+          <year>2021</year>
+          <volume>904</volume>
+          <pub-id pub-id-type="publisher-id">174185</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.ejphar.2021.174185</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B42" content-type="article">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Falc&#xF3;n</surname><given-names>D.</given-names></name>
+<name><surname>Galeano-Otero</surname><given-names>I.</given-names></name>
+<name><surname>Calder&#xF3;n-S&#xE1;nchez</surname><given-names>E.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>TRP channels: current perspectives in the adverse cardiac remodeling</article-title>
+          <source>
+<italic>Frontiers in Physiology</italic>
+</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>p. 159</fpage>
+          <pub-id pub-id-type="doi">10.3389/fphys.2019.00159</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85066496073</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43" content-type="article">
+        <label>43</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Bejjani</surname><given-names>A. C.</given-names></name>
+<name><surname>Finn</surname><given-names>R. S.</given-names></name>
+</person-group><article-title>Hepatocellular carcinoma: pick the winner-tyrosine kinase inhibitor versus immuno-oncology agent-based combinations</article-title><source>
+<italic>Journal of Clinical Oncology</italic>
+</source><year>2022</year><volume>40</volume><issue>24</issue><fpage>2763</fpage><lpage>2773</lpage><pub-id pub-id-type="doi">10.1200/jco.21.02605</pub-id><pub-id pub-id-type="pmid">35649192</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B44" content-type="article">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Zhang</surname><given-names>Y.</given-names></name>
+<name><surname>Zhang</surname><given-names>L.</given-names></name>
+<name><surname>Fan</surname><given-names>X. X.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Captopril attenuates TAC-induced heart failure via inhibiting Wnt3a/<italic>&#x3B2;</italic>-catenin and Jak2/Stat3 pathways</article-title>
+          <source>
+<italic>Biomedicine &amp; Pharmacotherapy</italic>
+</source>
+          <year>2019</year>
+          <volume>113</volume>
+          <pub-id pub-id-type="publisher-id">108780</pub-id>
+          <pub-id pub-id-type="doi">10.1016/j.biopha.2019.108780</pub-id>
+          <pub-id pub-id-type="other">2-s2.0-85063690182</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45" content-type="article">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z. B.</given-names></name>
+<name><surname>Yuan</surname><given-names>T.</given-names></name>
+<name><surname>Yan</surname><given-names>F. J.</given-names></name>
+<etal/>
+</person-group>
+          <article-title>CT-707 overcomes hypoxia-mediated sorafenib resistance in Hepatocellular carcinoma by inhibiting YAP signaling</article-title>
+          <source>
+<italic>BMC Cancer</italic>
+</source>
+          <year>2022</year>
+          <volume>22</volume>
+          <issue>1</issue>
+          <fpage>p. 425</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12885-022-09520-5</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig position="float" id="fig1">
+      <label>Figure 1</label>
+      <caption>
+        <p>Targets matching among PSD (poria sini decoction), LC (liver cancer), and CHF (chronic heart failure).</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.001" position="float"/>
+    </fig>
+    <fig position="float" id="fig2">
+      <label>Figure 2</label>
+      <caption>
+        <p>Protein-protein-interaction (PPI) network of core targets. (a) PPI networks of components of PSD (poria sini decoction) for the treatment of LC (liver cancer) and CHF (chronic heart failure) (each node represents the relevant targets, and edges stand for protein-protein associations). (b) PPI network imported from STRING database to Cytoscape 3.8.0. (c) Core targets of overlapping targets (red indicates a higher degree and pink represents a lower degree).</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.002" position="float"/>
+    </fig>
+    <fig position="float" id="fig3">
+      <label>Figure 3</label>
+      <caption>
+        <p>&#x201C;Drug-component-target-disease (P-C-T-D)&#x201D; network of PSD (poria sini decoction) against LC (liver cancer) and CHF (chronic heart failure) (inverted triangles are for traditional Chinese medicine; hexagons are different compound; rhombus are target; ellipses are names of disease. T: <italic>Poria cocos</italic>; G: Panax Ginseng <italic>C</italic>. A. Mey; RZ: <italic>Zingiberis rhizoma</italic>; L: liquorice; R: Aconiti Lateralis Radix Praeparata; A1: common components of Panax Ginseng C. A. Mey and liquorice; A2: common components of Panax Ginseng C. A. Mey and <italic>Zingiberis rhizoma</italic>; B: common components of <italic>Zingiberis rhizoma</italic>, liquorice, and Aconiti Lateralis Radix Praeparata.</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.003" position="float"/>
+    </fig>
+    <fig position="float" id="fig4">
+      <label>Figure 4</label>
+      <caption>
+        <p>Degree values of key active ingredients.</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.004" position="float"/>
+    </fig>
+    <fig position="float" id="fig5">
+      <label>Figure 5</label>
+      <caption>
+        <p>Gene Ontology (GO)-based enrichment analysis, as shown in bar chart (a), circle diagram (b), and bubble graph (c).</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.005" position="float"/>
+    </fig>
+    <fig position="float" id="fig6">
+      <label>Figure 6</label>
+      <caption>
+        <p>Kyoto Encyclopedia of Genes and Genomes (KEGG)-based enrichment analysis as shown circle diagram (a) and bubble graph (b).</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.006" position="float"/>
+    </fig>
+    <fig position="float" id="fig7">
+      <label>Figure 7</label>
+      <caption>
+        <p>Docking results of target protein and active compound.</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.007" position="float"/>
+    </fig>
+    <fig position="float" id="fig8">
+      <label>Figure 8</label>
+      <caption>
+        <p>Molecular docking diagram of chemical composition to target: (a) AKT1-quercetin; (b) TNF-quercetin; (c) AKT1-formononetin; and (d) TNF-isorhamnetin.</p>
+      </caption>
+      <graphic xlink:href="ECAM2024-9958258.008" position="float"/>
+    </fig>
+    <table-wrap position="float" id="tab1">
+      <label>Table 1</label>
+      <caption>
+        <p>Details of protein receptor's PDB ID for molecular docking.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="1" colspan="1">Target protein</th>
+            <th align="center" rowspan="1" colspan="1">PDB ID</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">STAT3</td>
+            <td align="center" rowspan="1" colspan="1">3CWG</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">TP53</td>
+            <td align="center" rowspan="1" colspan="1">1KZY</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">JUN</td>
+            <td align="center" rowspan="1" colspan="1">5T01</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">VEGFA</td>
+            <td align="center" rowspan="1" colspan="1">4KZN</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">CASP3</td>
+            <td align="center" rowspan="1" colspan="1">2CJX</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">IL6</td>
+            <td align="center" rowspan="1" colspan="1">1ALU</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">TNF</td>
+            <td align="center" rowspan="1" colspan="1">5M2J</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">AKT1</td>
+            <td align="center" rowspan="1" colspan="1">2UZS</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">MYC</td>
+            <td align="center" rowspan="1" colspan="1">5I4Z</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">ESR1</td>
+            <td align="center" rowspan="1" colspan="1">1SJ0</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="tab2">
+      <label>Table 2</label>
+      <caption>
+        <p>Experimental verification results of main chemical constituents.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="1" colspan="1">Active ingredient</th>
+            <th align="center" rowspan="1" colspan="1">Disease</th>
+            <th align="center" rowspan="1" colspan="1">Treatment mechanism</th>
+            <th align="center" rowspan="1" colspan="1">Experiment model</th>
+            <th align="center" rowspan="1" colspan="1">Literature</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Naringenin</td>
+            <td align="center" rowspan="1" colspan="1">LC</td>
+            <td align="center" rowspan="1" colspan="1">Naringenin induces growth inhibition, cell cycle arrest, and apoptosis in human hepatocellular carcinoma cells</td>
+            <td align="center" rowspan="1" colspan="1">Cell culture</td>
+            <td align="center" rowspan="1" colspan="1">[<xref rid="B23" ref-type="bibr">23</xref>]</td>
+          </tr>
+          <tr>
+            <td align="left" colspan="5" rowspan="1">
+<hr/>
+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Naringenin</td>
+            <td align="center" rowspan="1" colspan="1">CHF</td>
+            <td align="center" rowspan="1" colspan="1">Naringenin attenuates pressure overload-induced cardiac hypertrophy</td>
+            <td align="center" rowspan="1" colspan="1">Mice</td>
+            <td align="center" rowspan="1" colspan="1">[<xref rid="B24" ref-type="bibr">24</xref>]</td>
+          </tr>
+          <tr>
+            <td align="left" colspan="5" rowspan="1">
+<hr/>
+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Isorhamnetin</td>
+            <td align="center" rowspan="1" colspan="1">LC</td>
+            <td align="center" rowspan="1" colspan="1">Isorhamnetin induces ROS-dependent cycle arrest at G2/M phase and apoptosis in human hepatocarcinoma Hep3B cells</td>
+            <td align="center" rowspan="1" colspan="1">Cell experiment</td>
+            <td align="center" rowspan="1" colspan="1">[<xref rid="B25" ref-type="bibr">25</xref>]</td>
+          </tr>
+          <tr>
+            <td align="left" colspan="5" rowspan="1">
+<hr/>
+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="2" colspan="1">Isorhamnetin</td>
+            <td rowspan="2" align="center" colspan="1">CHF</td>
+            <td rowspan="2" align="center" colspan="1">Isorhamnetin exerts a protective effect against myocardial injury through the attenuation of apoptosis</td>
+            <td align="center" rowspan="1" colspan="1">Cell culture</td>
+            <td rowspan="2" align="center" colspan="1">[<xref rid="B26" ref-type="bibr">26</xref>]</td>
+          </tr>
+          <tr>
+            <td align="center" rowspan="1" colspan="1">Living organisms</td>
+          </tr>
+          <tr>
+            <td align="left" colspan="5" rowspan="1">
+<hr/>
+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Calycosin</td>
+            <td align="center" rowspan="1" colspan="1">LC</td>
+            <td align="center" rowspan="1" colspan="1">Calycosin has a potential effect in inhibiting oncogene expression and increasing anticancer genes expression</td>
+            <td align="center" rowspan="1" colspan="1">Cell culture</td>
+            <td align="center" rowspan="1" colspan="1">[<xref rid="B27" ref-type="bibr">27</xref>]</td>
+          </tr>
+          <tr>
+            <td align="left" colspan="5" rowspan="1">
+<hr/>
+</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Calycosin</td>
+            <td align="center" rowspan="1" colspan="1">CHF</td>
+            <td align="center" rowspan="1" colspan="1">Calycosin inhibited inflammation and fibrosis via activation of the PI3K-AKT pathway in postacute myocardial infarction rats</td>
+            <td align="center" rowspan="1" colspan="1">The rat</td>
+            <td align="center" rowspan="1" colspan="1">[<xref rid="B28" ref-type="bibr">28</xref>]</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn>
+          <p>
+<italic>Note</italic>. LC: liver cancer; CHF: chronic heart failure.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>
