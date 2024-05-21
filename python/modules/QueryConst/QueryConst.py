@@ -243,3 +243,40 @@ class Const:
                     else:
                         print(f"No body tag found")
         return body_contents
+    @staticmethod
+    def extract_abstract_from_html_files(*folder_paths):
+    """Extracts abstracts from XML files in given folder paths and saves them as HTML files."""
+    
+    abstract_contents = {}
+    
+    for folder_path in folder_paths:
+        if not os.path.isdir(folder_path):
+            print(f"Skipping {folder_path}: Not a valid directory")
+            continue
+        
+        for filename in os.listdir(folder_path):
+            if filename.endswith('.xml'):
+                file_path = os.path.join(folder_path, filename)
+                
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as file:
+                        soup = BeautifulSoup(file, 'html.parser')
+                        abstract = soup.find('abstract')
+                        
+                        if abstract:
+                            abstract_path = os.path.join(folder_path, "html_bodies")
+                            if not os.path.exists(abstract_path):
+                                os.makedirs(abstract_path)
+                                
+                            output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.html")
+                            with open(output_file_path, 'w', encoding='utf-8') as output_file:
+                                output_file.write(str(abstract))
+                                
+                            abstract_contents[file_path] = str(abstract)
+                        else:
+                            print(f"No abstract tag found in file: {file_path}")
+                            
+                except Exception as e:
+                    print(f"Error processing file {file_path}: {e}")
+                    
+    return abstract_contents
