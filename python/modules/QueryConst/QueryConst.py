@@ -3,6 +3,7 @@ import os
 import time
 import datetime
 from bs4 import BeautifulSoup
+import re
 
 class Const:
     @staticmethod
@@ -17,7 +18,8 @@ class Const:
         """
         current_date = datetime.datetime.now().date()
         cwd = os.getcwd()
-        dir_path_date = os.path.join(cwd,"date")
+        data_path = os.path.join(cwd,"data")
+        dir_path_date = os.path.join(data_path,"date")
         date_file_path = os.path.join(dir_path_date,"current_date.txt")
         if not os.path.exists(dir_path_date): 
             os.makedirs(dir_path_date)
@@ -122,24 +124,28 @@ class Const:
         to_format = "%Y/%m/%d"
         current_date = str(current_date)
         previous_date = str(previous_date)
+        #Można wprowadzić taką zmienną która umożliwia manipulację zakresem wyszukiwania
         current_date = Const.convert_date_format(current_date,from_format,to_format)  # Remove any leading/trailing whitespace
         previous_date = Const.convert_date_format(previous_date,from_format,to_format)
         #("2024/04/15"[PubDate] : "2024/04/22"[PubDate])
         with open(file_path, 'r') as file:
             for query in file:
                 query = query.strip()
-                folder_query = query
+                folder_query = "test"
                 if current_date != previous_date:
-                query = str(query + " AND " "(" + previous_date + "[PubDate]" + " :"  + " " + current_date + "[PubDate]" + ")") # jeśli odpalamy po raz pierwszy to co się dzieje 
-                folder_name_components = [download_dir, folder_query ] 
-                folder_name = "/".join(folder_name_components)
-                if not os.path.exists(folder_name):  # Checks whether destination directory hasn't been yet created
-                    if query:  # Ensure the query is not empty
-                        print(f"Processing query: {query}")
-                        destination_dir = os.path.join(download_dir, folder_query)
-                        print(f"Creating new folder: {destination_dir}")
-                        os.makedirs(destination_dir)
-                        Const.download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33)
+                    query = str(query + " AND " "(" + previous_date + "[PubDate]" + " :"  + " " + current_date + "[PubDate]" + ")") # jeśli odpalamy po raz pierwszy to co się dzieje 
+                    folder_name_components = [download_dir, folder_query ] 
+                    folder_name = "/".join(folder_name_components)
+                    if not os.path.exists(folder_name):  # Checks whether destination directory hasn't been yet created
+                        if query:  # Ensure the query is not empty
+                            print(f"Processing query: {query}")
+                            destination_dir = os.path.join(download_dir, folder_query)
+                            print(f"Creating new folder: {destination_dir}")
+                            if os.path.exists(destination_dir):
+                                Const.download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33)
+                            else:
+                                os.makedirs(destination_dir)
+                                Const.download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33)
     @staticmethod
     def download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33):
         """
@@ -160,31 +166,36 @@ class Const:
         pmc_ids = Const.fetch_pmc_ids(query)
 
         # Iterate over each PMC ID to download the article
-        for pmc_id in pmc_ids:
-            retries = 0
-            success = False
-            while retries < max_retries and not success:
-                try:
-                    # Use Entrez.efetch to fetch the article content
-                    handle = Entrez.efetch(db="pmc", id=pmc_id, rettype="xml")
-                    article_content = handle.read()
-                    handle.close()
+        try:
+            for pmc_id in pmc_ids:
+                retries = 0
+                success = False
+                while retries < max_retries and not success:
+                    try:
+                        # Use Entrez.efetch to fetch the article content
+                        handle = Entrez.efetch(db="pmc", id=pmc_id, rettype="xml")
+                        article_content = handle.read()
+                        handle.close()
 
-                    # Define the path for saving the article
-                    article_path = os.path.join(destination_dir, f"{pmc_id}.xml")
+                        # Define the path for saving the article
+                        article_path = os.path.join(destination_dir, f"{pmc_id}.xml")
 
-                    # Save the article content to a file
-                    with open(article_path, 'wb') as article_file:
-                        article_file.write(article_content)
+                        # Save the article content to a file
+                        with open(article_path, 'wb') as article_file:
+                            article_file.write(article_content)
+                            print(f"Article {pmc_id} downloaded.")
 
-                    success = True  # Mark as successful to exit the loop
-                except Exception as e:
-                    print(f"Error downloading article {pmc_id}: {e}. Retrying...")
-                    retries += 1
-                    time.sleep(rate_limit)  # Wait before retrying
-                finally:
-                    if not success:  # Ensure rate limiting even in case of success
-                        time.sleep(rate_limit)
+                        success = True  # Mark as successful to exit the loop
+                    except Exception as e:
+                        print(f"Error downloading article {pmc_id}: {e}. Retrying...")
+                        retries += 1
+                        time.sleep(rate_limit)  # Wait before retrying
+                    finally:
+                        if not success and retries >= max_retries:  # Ensure rate limiting even in case of success
+                            time.sleep(rate_limit)
+        except Exception as e:
+            print(f"Error while downloading articles: {e} ")
+            
 
         print(f"Downloaded {len(pmc_ids)} articles to {destination_dir}")
     @staticmethod
@@ -193,17 +204,19 @@ class Const:
         current_date = datetime.datetime.strptime(current_date,"%Y-%m-%d").date()
         previous_date = datetime.datetime.strptime(previous_date,"%Y-%m-%d").date()
         date_difference = abs((current_date - previous_date).days)
-        download_dir = ""
+        cwd = os.getcwd()
+        results_directory = os.path.join(cwd,"results")
+        download_dir = results_directory
         try:
             if is_first_run:
-                file_path = "./cos.txt"
+                file_path = r"C:\Users\Hubert\Documents\GitHub\researcher\python\data\query_list\cos.txt" # to jest głupie napraw
                 Const.read_queries_and_fetch_articles(file_path, download_dir,current_date,previous_date)
-                print(f"First")
+                print(f"First run success")
             elif date_difference == 0:
                 # Handle the case where the program is run on the same day
                 print("Program run on the same day")
             elif date_difference >= threshold:
-                file_path = "./cos.txt"
+                file_path =  r"C:\Users\Hubert\Documents\GitHub\researcher\python\data\query_list\cos.txt"
                 Const.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
                 print(f"More than {threshold} days passed")
             else:
@@ -243,40 +256,82 @@ class Const:
                     else:
                         print(f"No body tag found")
         return body_contents
+    
     @staticmethod
-    def extract_abstract_from_html_files(*folder_paths):
-        """Extracts abstracts from XML files in given folder paths and saves them as HTML files."""
+    def extract_abstract_from_html_files(folder_path):
+        """Extracts abstracts from XML files in the given folder path and saves them as HTML files."""
         
         abstract_contents = {}
         
-        for folder_path in folder_paths:
-            if not os.path.isdir(folder_path):
-                print(f"Skipping {folder_path}: Not a valid directory")
-                continue
-            
-            for filename in os.listdir(folder_path):
-                if filename.endswith('.xml'):
-                    file_path = os.path.join(folder_path, filename)
-                    
-                    try:
-                        with open(file_path, 'r', encoding='utf-8') as file:
-                            soup = BeautifulSoup(file, 'html.parser')
-                            abstract = soup.find('abstract')
-                            
-                            if abstract:
-                                abstract_path = os.path.join(folder_path, "html_bodies")
-                                if not os.path.exists(abstract_path):
-                                    os.makedirs(abstract_path)
-                                    
-                                output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.html")
-                                with open(output_file_path, 'w', encoding='utf-8') as output_file:
-                                    output_file.write(str(abstract))
-                                    
-                                abstract_contents[file_path] = str(abstract)
-                            else:
-                                print(f"No abstract tag found in file: {file_path}")
-                                
-                    except Exception as e:
-                        print(f"Error processing file {file_path}: {e}")
+        if not os.path.isdir(folder_path):
+            print(f"Skipping {folder_path}: Not a valid directory")
+            return abstract_contents
+        
+        for filename in os.listdir(folder_path):
+            if filename.endswith('.xml'):
+                file_path = os.path.join(folder_path, filename)
+                
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as file:
+                        soup = BeautifulSoup(file, 'html.parser')
+                        abstract = soup.find('abstract')
                         
+                        if abstract:
+                            print(f"Abstract tag found in file {file_path}")
+                            abstract_path = os.path.join(folder_path, "html_bodies")
+                            if not os.path.exists(abstract_path):
+                                os.makedirs(abstract_path)
+                                
+                            output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.html")
+                            with open(output_file_path, 'w', encoding='utf-8') as output_file:
+                                output_file.write(str(abstract))
+                                
+                            abstract_contents[file_path] = str(abstract)
+                        else:
+                            print(f"No abstract tag found in file: {file_path}")
+                            
+                except Exception as e:
+                    print(f"Error processing file {file_path}: {e}")
+
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as file:
+                        soup = BeautifulSoup(file, 'html.parser')
+                        abstract = soup.find('summary')
+                        
+                        if abstract:
+                            print(f"Summary tag found in file {file_path}")
+                            abstract_path = os.path.join(folder_path, "html_bodies")
+                            if not os.path.exists(abstract_path):
+                                os.makedirs(abstract_path)
+                                
+                            output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.html")
+                            with open(output_file_path, 'w', encoding='utf-8') as output_file:
+                                output_file.write(str(abstract))
+                                
+                            abstract_contents[file_path] = str(abstract)
+                        else:
+                            print(f"No summary tag found in file: {file_path}")
+                            
+                except Exception as e:
+                    print(f"Error processing file {file_path}: {e}")
+                    
         return abstract_contents
+    @staticmethod
+    def sanitize_for_windows_folder_name(query):
+        # Remove content within parentheses and square brackets, including the parentheses and brackets themselves
+        cleaned_query = re.sub(r'\[.*?\]|\(.*?\)', '', query)
+        
+        # Replace spaces with underscores
+        cleaned_query = cleaned_query.replace(' ', '_')
+        
+        # Remove any remaining characters that are invalid in Windows folder names
+        invalid_chars = r'[<>:"/\\|?*]'
+        sanitized_query = re.sub(invalid_chars, '', cleaned_query)
+        
+        # Remove multiple underscores
+        sanitized_query = re.sub(r'_+', '_', sanitized_query)
+        
+        # Trim leading and trailing underscores
+        sanitized_query = sanitized_query.strip('_')
+        
+        return sanitized_query
