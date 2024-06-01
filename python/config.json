@@ -1,0 +1,7 @@
+{
+    "email": "kacper.pietrzyk@stud.umed.lodz.pl",
+    "data_directory": "data",
+    "query_file_path": "data\\query_list\\cos.txt",
+    "results_directory": "results",
+    "threshold_days": 7
+}
