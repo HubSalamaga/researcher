@@ -38,13 +38,13 @@ class FileManager:
         download_dir = results_directory
         try:
             if is_first_run:
-                file_path = r"C:\Users\Hubert\Documents\GitHub\researcher\python\data\query_list\cos.txt"
+                file_path = os.path.join(cwd, "data", "query_list", "cos.txt")
                 NCBIManager.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
                 print(f"First run success")
             elif date_difference == 0:
                 print("Program run on the same day")
             elif date_difference >= threshold:
-                file_path = r"C:\Users\Hubert\Documents\GitHub\researcher\python\data\query_list\cos.txt"
+                file_path = os.path.join(cwd, "data", "query_list", "cos.txt")
                 NCBIManager.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
                 print(f"More than {threshold} days passed")
             else:
