@@ -29,13 +29,14 @@ class FileManager:
         return None
 
     @staticmethod
-    def overwrite_date(date_file_path, previous_date, current_date, is_first_run=True, threshold=7):
+    def overwrite_date(date_file_path, previous_date, current_date, file_path, download_dir, is_first_run=True, threshold=7):
         current_date = datetime.datetime.strptime(str(current_date), "%Y-%m-%d").date()
         previous_date = datetime.datetime.strptime(str(previous_date), "%Y-%m-%d").date()
         date_difference = abs((current_date - previous_date).days)
         cwd = os.getcwd()
         results_directory = os.path.join(cwd, "results")
         download_dir = results_directory
+
         try:
             if is_first_run:
                 file_path = os.path.join(cwd, "data", "query_list", "cos.txt")
@@ -45,7 +46,9 @@ class FileManager:
                 print("Program run on the same day")
             elif date_difference >= threshold:
                 file_path = os.path.join(cwd, "data", "query_list", "cos.txt")
-                NCBIManager.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
+                NCBIManager.read_queries_and_fetch_articles(date_file_path, file_path, download_dir, current_date, previous_date)
+                with open(date_file_path, 'w') as file:
+                    file.write(str(current_date))
                 print(f"More than {threshold} days passed")
             else:
                 print(f"Less than {threshold} days passed")
@@ -115,7 +118,7 @@ class NCBIManager:
             return None
 
     @staticmethod
-    def read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date):
+    def read_queries_and_fetch_articles(date_file_path, file_path, download_dir, current_date, previous_date):
         from_format = "%Y-%m-%d"
         to_format = "%Y/%m/%d"
 
@@ -126,7 +129,7 @@ class NCBIManager:
                 query = query.strip()
                 query_folder, is_new_folder = NCBIManager.create_query_folder(query, download_dir)
 
-                # Check if the folder already exists and get the last modification date
+                Check if the folder already exists and get the last modification date
                 if not is_new_folder:
                     last_modification_date = NCBIManager.get_last_modification_date(query_folder)
                     if last_modification_date:

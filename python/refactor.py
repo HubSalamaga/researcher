@@ -52,13 +52,17 @@ def main():
                     previous_date = current_date
                 else:
                     raise ValueError("Previous date not found and not the first run. Please check the date file.")
-            
-            ncbi_manager.read_queries_and_fetch_articles(
-                file_path=config.get('query_file_path'),
-                download_dir=config.get('results_directory'),
+
+            FileManager.overwrite_date(
+                date_file_path=date_file_path,
+                previous_date=previous_date,
                 current_date=current_date,
-                previous_date=previous_date
+                is_first_run=first_run, 
+                threshold=threshold,
+                file_path=config.get('query_file_path'),
+                download_dir=config.get('results_directory')
             )
+
         except Exception as e:
             print(f"An error occurred while handling dates and threshold: {e}")
 
