@@ -129,7 +129,7 @@ class NCBIManager:
                 query = query.strip()
                 query_folder, is_new_folder = NCBIManager.create_query_folder(query, download_dir)
 
-                Check if the folder already exists and get the last modification date
+                #Check if the folder already exists and get the last modification date
                 if not is_new_folder:
                     last_modification_date = NCBIManager.get_last_modification_date(query_folder)
                     if last_modification_date:
@@ -146,11 +146,13 @@ class NCBIManager:
                         NCBIManager.download_pmc_articles(constructed_query, query_folder)
 
     @staticmethod
-    def download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33):
+    def download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33, timeout=30):
         pmc_ids = NCBIManager.fetch_pmc_ids(query)
         if not pmc_ids:
-            print(f"No articles found for query: {query}")  # Debug statement
+            print(f"No articles found for query: {query}")
             return
+
+        start_time = time.time()
         for pmc_id in pmc_ids:
             retries = 0
             success = False
@@ -164,6 +166,7 @@ class NCBIManager:
                         article_file.write(article_content)
                         print(f"Article {pmc_id} downloaded.")
                     success = True
+                    start_time = time.time()  # Reset the timer after a successful download
                 except Exception as e:
                     print(f"Error downloading article {pmc_id}: {e}. Retrying...")
                     retries += 1
@@ -171,6 +174,14 @@ class NCBIManager:
                 finally:
                     if not success and retries >= max_retries:
                         time.sleep(rate_limit)
+            
+            # Check if timeout has been exceeded
+            elapsed_time = time.time() - start_time
+            if elapsed_time > timeout:
+                print(f"Timeout exceeded. Restarting from article {pmc_id}.")
+                download_pmc_articles(query, destination_dir, max_retries, rate_limit, timeout)
+                return
+
         print(f"Downloaded {len(pmc_ids)} articles to {destination_dir}")
 
     @staticmethod
