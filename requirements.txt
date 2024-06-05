@@ -1,0 +1,8 @@
+argparse
+subprocess
+Bio
+bs4
+re
+hashlib
+datetime
+time
