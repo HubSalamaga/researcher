@@ -39,13 +39,13 @@ class FileManager:
 
         try:
             if is_first_run:
-                file_path = os.path.join(cwd, "data", "query_list", "cos.txt")
+                file_path = os.path.join(cwd, "data", "query_list", "queries.txt")
                 NCBIManager.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
                 print(f"First run success")
             elif date_difference == 0:
                 print("Program run on the same day")
             elif date_difference >= threshold:
-                file_path = os.path.join(cwd, "data", "query_list", "cos.txt")
+                file_path = os.path.join(cwd, "data", "query_list", "queries.txt")
                 NCBIManager.read_queries_and_fetch_articles(date_file_path, file_path, download_dir, current_date, previous_date)
                 with open(date_file_path, 'w') as file:
                     file.write(str(current_date))
