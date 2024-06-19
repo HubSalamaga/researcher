@@ -195,6 +195,7 @@ class NCBIManager:
 
 from bs4 import BeautifulSoup
 import os
+import csv
 
 class HTMLProcessor:
     @staticmethod
@@ -232,12 +233,17 @@ class HTMLProcessor:
                         soup = BeautifulSoup(file, 'html.parser')
                         abstract = soup.find('abstract')
                         if abstract:
-                            abstract_path = os.path.join(folder_path, "html_bodies")
+                            p_tags = abstract.find_all('p')
+                            abstract_text = ' '.join(p.get_text() for p in p_tags)
+                                
+                            abstract_path = os.path.join(folder_path, "txt_abstracts")
                             if not os.path.exists(abstract_path):
                                 os.makedirs(abstract_path)
-                            output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.html")
+                                print(f"Created directory: {abstract_path}")
+                            output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.txt")
                             with open(output_file_path, 'w', encoding='utf-8') as output_file:
-                                output_file.write(str(abstract))
+                                output_file.write(str(abstract_text))
+                                print(f"Written abstract to: {output_file_path}")
                             abstract_contents[file_path] = str(abstract)
                         else:
                             print(f"No abstract tag found in file: {file_path}")
@@ -245,6 +251,44 @@ class HTMLProcessor:
                     print(f"Error processing file {file_path}: {e}")
 
         return abstract_contents
+    
+    @staticmethod
+    
+    def append_abstracts_to_csv(folder_path):
+        txt_folder = os.path.join(folder_path, "txt_abstracts")
+        cwd = os.getcwd()
+        parent_dir = os.path.dirname(cwd)
+        abstracts_dataset_path = os.path.join(parent_dir, r"Model\data\initial_training_data")
+        # Ensure the CSV folder exists
+        if not os.path.exists(abstracts_dataset_path):
+            os.makedirs(abstracts_dataset_path)
+        
+        csv_file_path = os.path.join(abstracts_dataset_path, 'abstract_dataset.csv')
+        
+        # Check if the CSV file exists, create it if it doesn't
+        file_exists = os.path.isfile(csv_file_path)
+        
+        with open(csv_file_path, mode='a', newline='', encoding='utf-8') as csv_file:
+            writer = csv.writer(csv_file)
+            
+            # Write header if the file is being created
+            if not file_exists:
+                writer.writerow(['Abstract', 'ID'])
+            
+            for filename in os.listdir(txt_folder):
+                if filename.endswith('_abstract.txt'):
+                    file_id = filename.split('_')[0]
+                    file_path = os.path.join(txt_folder, filename)
+                    
+                    with open(file_path, 'r', encoding='utf-8') as file:
+                        lines = file.readlines()
+                        # Ignore empty lines at the beginning
+                        abstract_lines = [line.strip() for line in lines if line.strip()]
+                        abstract_text = ' '.join(abstract_lines)
+                        
+                        if abstract_text:  # Ensure we don't write empty abstracts
+                            writer.writerow([abstract_text, file_id])
+                            print(f"Appended abstract from file {filename} to CSV.")
 
 import json
 import os
@@ -263,4 +307,3 @@ class ConfigManager:
 
     def get(self, key, default=None):
         return self.config.get(key, default)
-
