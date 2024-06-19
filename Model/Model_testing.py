@@ -14,7 +14,7 @@ def load_data_from_csv(file_path):
 
 # Define paths
 cwd = os.getcwd()
-file_path = os.path.join(cwd, r"data/initial_training_data/test.csv")
+file_path = os.path.join(cwd, r'data\initial_training_data\abstract_dataset.csv')
 dataset = load_data_from_csv(file_path)
 
 # Define the BERT regression model
@@ -34,7 +34,7 @@ class BertForRegression(nn.Module):
 # Function to prepare DataLoader
 def prepare_dataloader(data, batch_size=6, test=False):
     tokenizer = BertTokenizer.from_pretrained("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
-    inputs = tokenizer(data["text"].tolist(), padding=True, truncation=True, max_length=512, return_tensors="pt")
+    inputs = tokenizer(data["Abstract"].tolist(), padding=True, truncation=True, max_length=512, return_tensors="pt")
     dataset = TensorDataset(inputs['input_ids'], inputs['attention_mask'])
     dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=not test)
     return dataloader
@@ -68,8 +68,8 @@ def filter_and_save_ids(input_file_path, output_file_path):
         predicted_data = pd.read_csv(input_file_path)
         
         # Filter rows based on the conditions
-        filtered_data = predicted_data[(predicted_data['AwT score'] >= 0.7) & 
-                                    (predicted_data['AwT score'] * predicted_data['SoE score'] >= 0.4)]
+        filtered_data = predicted_data[(predicted_data['Predicted AwT score'] >= 0.7) & 
+                                    (predicted_data['Predicted AwT score'] * predicted_data['Predicted SoE score'] >= 0.4)]
         
         # Extract only the 'ID' column
         filtered_ids = filtered_data['ID']
@@ -81,7 +81,7 @@ def filter_and_save_ids(input_file_path, output_file_path):
 
 # Load the model
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-model_path = 'path_to_your_trained_model.pt'  # Replace with the actual path to your trained model
+model_path = 'trained_model_0.pt'  # Replace with the actual path to your trained model
 model = load_model(model_path, device)
 
 # Prepare dataloader for the new data
@@ -92,7 +92,7 @@ dataloader = prepare_dataloader(dataset, batch_size=batch_size, test=True)
 predictions = predict(model, dataloader, device)
 
 # Add predictions to the dataset
-predictions_df = pd.DataFrame(predictions, columns=["AwT score", "SoE score"])
+predictions_df = pd.DataFrame(predictions, columns=["Predicted AwT score", "Predicted SoE score"])
 dataset[["Predicted AwT score", "Predicted SoE score"]] = predictions_df
 
 # Save the predictions to a new CSV file

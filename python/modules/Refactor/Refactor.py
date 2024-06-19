@@ -1,5 +1,6 @@
 import os
 import datetime
+import pandas as pd
 
 class FileManager:
     def __init__(self, data_directory):
@@ -289,6 +290,18 @@ class HTMLProcessor:
                         if abstract_text:  # Ensure we don't write empty abstracts
                             writer.writerow([abstract_text, file_id])
                             print(f"Appended abstract from file {filename} to CSV.")
+    @staticmethod
+    def make_abstracts_unique():
+        cwd = os.getcwd()
+        parent_dir = os.path.dirname(cwd)
+        abstracts_dataset_path = os.path.join(parent_dir, r"Model\data\initial_training_data")
+        csv_file_path = os.path.join(abstracts_dataset_path, 'abstract_dataset.csv')
+        df = pd.read_csv(csv_file_path)
+        df = df.drop_duplicates(subset='ID')
+        df = df.reset_index(drop=True)
+
+        df.to_csv(csv_file_path, mode='w', index=False, encoding='utf-8')
+
 
 import json
 import os

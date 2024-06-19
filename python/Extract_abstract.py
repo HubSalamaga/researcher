@@ -3,7 +3,7 @@ import os
 import argparse
 import subprocess
 from bs4 import BeautifulSoup
-from modules.Refactor import HTMLProcessor
+from modules.Refactor import NCBIManager, HTMLProcessor, ConfigManager, FileManager
 
 def main():
     parser = argparse.ArgumentParser(description='Extract <abstract> content from HTML files in a folder.')
@@ -12,6 +12,7 @@ def main():
     folder_path = args.folder_path
     HTMLProcessor.extract_abstract_from_html_files(folder_path)
     HTMLProcessor.append_abstracts_to_csv(folder_path)
+    HTMLProcessor.make_abstracts_unique()
 
 if __name__ == "__main__":
     main()

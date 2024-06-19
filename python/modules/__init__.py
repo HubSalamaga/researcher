@@ -1,1 +1,1 @@
-from Refactor import NCBIManager, HTMLProcessor, ConfigManager, FileManager
+from .Refactor import NCBIManager, HTMLProcessor, ConfigManager, FileManager
