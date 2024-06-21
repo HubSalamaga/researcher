@@ -1,1 +1,1 @@
-from .Refactor import NCBIManager, HTMLProcessor, ConfigManager, FileManager
+from .Downloader import NCBIManager, HTMLProcessor, ConfigManager, FileManager

@@ -1,9 +1,9 @@
 import argparse
 import subprocess
-from modules.Refactor import FileManager
-from modules.Refactor import NCBIManager
-from modules.Refactor import HTMLProcessor
-from modules.Refactor import ConfigManager
+from modules.Downloader import FileManager
+from modules.Downloader import NCBIManager
+from modules.Downloader import HTMLProcessor
+from modules.Downloader import ConfigManager
 
 def main():
     parser = argparse.ArgumentParser(description='Extract <body> content from HTML files in a folder.')
@@ -33,12 +33,12 @@ def main():
             subprocess.run(['python', './Extract_html_body.py', folder_path], check=True)
         except subprocess.CalledProcessError as e:
             print(f"An error occurred while running Extract_html_body.py: {e}")
-    # If abstract_source is provided, run the Extract_abstract_body.py script
+    # If abstract_source is provided, run the Extract_abstract.py script
     elif abstract_source:
         try:
-            subprocess.run(['python', './Extract_abstract_body.py', abstract_source], check=True)
+            subprocess.run(['python', './Extract_abstract.py', abstract_source], check=True)
         except subprocess.CalledProcessError as e:
-            print(f"An error occurred while running Extract_abstract_body.py: {e}")
+            print(f"An error occurred while running Extract_abstract.py: {e}")
     # If neither folder_path nor abstract_source is provided, handle date and threshold logic
     else:
         try:

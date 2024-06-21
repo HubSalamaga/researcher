@@ -3,7 +3,7 @@ import unittest
 from unittest.mock import patch, MagicMock
 from Bio import Entrez
 import time
-from modules import Refactor
+from modules import Downloader
 
 class TestDownloadPmcArticles(unittest.TestCase):
     @patch('Refactor.NCBIManager.fetch_pmc_ids')

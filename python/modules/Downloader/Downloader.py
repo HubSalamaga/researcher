@@ -119,7 +119,7 @@ class NCBIManager:
             return None
 
     @staticmethod
-    def read_queries_and_fetch_articles(date_file_path, file_path, download_dir, current_date, previous_date):
+    def read_queries_and_fetch_articles(date_file_path, file_path, download_dir, current_date, previous_date=None):
         from_format = "%Y-%m-%d"
         to_format = "%Y/%m/%d"
 
