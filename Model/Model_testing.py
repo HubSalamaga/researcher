@@ -32,14 +32,14 @@ class BertForRegression(nn.Module):
         return self.regressor(pooled_output)
 
 # Function to prepare DataLoader
-def prepare_dataloader(data, batch_size=6, test=False):
+def prepare_dataloader_inference(data, batch_size=6, test=False):
     tokenizer = BertTokenizer.from_pretrained("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
     inputs = tokenizer(data["Abstract"].tolist(), padding=True, truncation=True, max_length=512, return_tensors="pt")
     dataset = TensorDataset(inputs['input_ids'], inputs['attention_mask'])
     dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=not test)
     return dataloader
 
-# Function to load the model
+# Function to load a single model
 def load_model(model_path, device):
     model = BertForRegression("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
     model.load_state_dict(torch.load(model_path, map_location=device))
@@ -47,53 +47,53 @@ def load_model(model_path, device):
     model.eval()
     return model
 
-# Function to predict using the model
-def predict(model, dataloader, device):
-    predictions = []
-    with torch.no_grad():
-        for batch in dataloader:
-            b_input_ids, b_input_mask = [item.to(device) for item in batch]
-            outputs = model(b_input_ids, b_input_mask)
-            predictions.extend(outputs.cpu().numpy())
-    return predictions
+# Function to load all ensemble models
+def load_models(model_paths, device):
+    models = [load_model(path, device) for path in model_paths]
+    return models
+
+# Function to predict using ensemble models
+def predict(models, dataloader, device):
+    all_predictions = []
+    for model in models:
+        predictions = []
+        with torch.no_grad():
+            for batch in dataloader:
+                b_input_ids, b_input_mask = [item.to(device) for item in batch]
+                outputs = model(b_input_ids, b_input_mask)
+                predictions.extend(outputs.cpu().numpy())
+        all_predictions.append(predictions)
+    avg_predictions = np.mean(all_predictions, axis=0)
+    return avg_predictions
 
 def filter_and_save_ids(input_file_path, output_file_path):
-    # Check if the output file already exists
     with open(output_file_path, mode='a', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
         if not os.path.isfile(output_file_path):
-            writer.writerow(['ID'])
+            writer.writerow(['ID', 'Predicted_AwT_score', 'Predicted_SoE_score'])
 
-        # Load the predicted_test.csv
         predicted_data = pd.read_csv(input_file_path)
+        filtered_data = predicted_data[(predicted_data['Predicted_AwT_score'] >= 0.7) & 
+                                       (predicted_data['Predicted_AwT_score'] * predicted_data['Predicted_SoE_score'] >= 0.4)]
         
-        # Filter rows based on the conditions
-        filtered_data = predicted_data[(predicted_data['Predicted AwT score'] >= 0.7) & 
-                                    (predicted_data['Predicted AwT score'] * predicted_data['Predicted SoE score'] >= 0.4)]
-        
-        # Extract only the 'ID' column
-        filtered_ids = filtered_data['ID']
-        
-        # Save the filtered IDs to articles_related_to_infertility.csv
-        filtered_ids.to_csv(output_file_path, index=False)
-        
+        filtered_data[['ID', 'Predicted_AwT_score', 'Predicted_SoE_score']].to_csv(output_file_path, index=False)
         print(f"Filtered IDs saved to {output_file_path}")
 
-# Load the model
+# Load the ensemble models
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-model_path = 'trained_model_0.pt'  # Replace with the actual path to your trained model
-model = load_model(model_path, device)
+model_paths = ['trained_model_0.pt', 'trained_model_1.pt']  # Replace with actual paths to your trained models
+models = load_models(model_paths, device)
 
 # Prepare dataloader for the new data
 batch_size = 15
-dataloader = prepare_dataloader(dataset, batch_size=batch_size, test=True)
+dataloader = prepare_dataloader_inference(dataset, batch_size=batch_size, test=True)
 
-# Predict
-predictions = predict(model, dataloader, device)
+# Predict using the ensemble models
+predictions = predict(models, dataloader, device)
 
 # Add predictions to the dataset
-predictions_df = pd.DataFrame(predictions, columns=["Predicted AwT score", "Predicted SoE score"])
-dataset[["Predicted AwT score", "Predicted SoE score"]] = predictions_df
+predictions_df = pd.DataFrame(predictions, columns=["Predicted_AwT_score", "Predicted_SoE_score"])
+dataset[["Predicted_AwT_score", "Predicted_SoE_score"]] = predictions_df
 
 # Save the predictions to a new CSV file
 output_file_path = os.path.join(cwd, r"data/initial_training_data/predicted_test.csv")
@@ -101,7 +101,7 @@ dataset.to_csv(output_file_path, index=False)
 
 print(f"Predictions saved to {output_file_path}")
 
-# Example usage:
+# Filter the articles
 input_file_path = output_file_path
 output_file_path = os.path.join(cwd, r"data/initial_training_data/filtered_articles.csv")
 filter_and_save_ids(input_file_path, output_file_path)
