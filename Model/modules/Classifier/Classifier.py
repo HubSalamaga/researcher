@@ -52,7 +52,7 @@ class ModelTrainer:
     def save_model(model, path):
         torch.save(model.state_dict(), path)
 
-    def train_model(train_dataloader, device, epochs = 4, model_index = 0):
+    def train_model(train_dataloader, device, epochs = 16, model_index = 0):
         model = BertForRegression("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
         model.to(device)
         optimizer = AdamW(model.parameters(), lr=2e-5) # test value  # torch.optim.AdamW

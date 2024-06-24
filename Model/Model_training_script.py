@@ -24,7 +24,7 @@ def main():
     scores_to_randomize = dataset[["AwT_score", "SoE_score"]].values
     randomized_scores = DataPreparator.randomize_scores(scores_to_randomize)
     dataset[["AwT_score", "SoE_score"]] = randomized_scores
-    train_data, test_data = train_test_split(dataset, test_size=0.4, random_state=42)
+    train_data, test_data = train_test_split(dataset, test_size=0.2, random_state=42)
 
     tokenizer = BertTokenizer.from_pretrained("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
 
@@ -32,7 +32,7 @@ def main():
     test_dataloader = DataPreparator.prepare_dataloader(test_data, batch_size=15, test=True)
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    num_models = 2
+    num_models = 5
     models = [ModelTrainer.train_model(train_dataloader, device, model_index=i) for i in range(num_models)]
 
     avg_predictions, all_predictions, true_scores = ModelTrainer.evaluate_models(models, test_dataloader, device)

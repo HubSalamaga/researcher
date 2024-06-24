@@ -94,7 +94,7 @@ class NCBIManager:
     @staticmethod
     def fetch_pmc_ids(query):
         print(f"Fetching PMC IDs for query: {query}")  # Debug statement
-        handle = Entrez.esearch(db="pmc", term=query, retmax=50)
+        handle = Entrez.esearch(db="pmc", term=query, retmax=200)
         record = Entrez.read(handle)
         handle.close()
         print(f"Fetched IDs: {record['IdList']}")  # Debug statement
@@ -224,39 +224,46 @@ class HTMLProcessor:
     def extract_abstract_from_html_files(folder_path):
         if not os.path.isdir(folder_path):
             raise ValueError("The provided path is not a valid directory")
-        
         abstract_contents = {}
-        for filename in os.listdir(folder_path):
-            if filename.endswith('.xml'):
-                file_path = os.path.join(folder_path, filename)
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as file:
-                        soup = BeautifulSoup(file, 'html.parser')
-                        abstract = soup.find('abstract')
-                        if abstract:
-                            p_tags = abstract.find_all('p')
-                            abstract_text = ' '.join(p.get_text() for p in p_tags)
-                                
-                            abstract_path = os.path.join(folder_path, "txt_abstracts")
-                            if not os.path.exists(abstract_path):
-                                os.makedirs(abstract_path)
-                                print(f"Created directory: {abstract_path}")
-                            output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.txt")
-                            with open(output_file_path, 'w', encoding='utf-8') as output_file:
-                                output_file.write(str(abstract_text))
-                                print(f"Written abstract to: {output_file_path}")
-                            abstract_contents[file_path] = str(abstract)
-                        else:
-                            print(f"No abstract tag found in file: {file_path}")
-                except Exception as e:
-                    print(f"Error processing file {file_path}: {e}")
-
+        for query_result_folder in os.listdir(folder_path):
+            query_full_path = os.path.join(folder_path, query_result_folder)
+            if os.path.isdir(query_full_path):
+                
+                for filename in os.listdir(query_full_path):
+                    if filename.endswith('.xml'):
+                        file_path = os.path.join(query_full_path, filename)
+                        try:
+                            with open(file_path, 'r', encoding='utf-8') as file:
+                                soup = BeautifulSoup(file, 'html.parser')
+                                abstract = soup.find('abstract')
+                                if abstract:
+                                    p_tags = abstract.find_all('p')
+                                    abstract_text = ' '.join(p.get_text() for p in p_tags)
+                                        
+                                    abstract_path = os.path.join(query_full_path, "txt_abstracts")
+                                    if not os.path.exists(abstract_path):
+                                        os.makedirs(abstract_path)
+                                        print(f"Created directory: {abstract_path}")
+                                    output_file_path = os.path.join(abstract_path, f"{os.path.splitext(filename)[0]}_abstract.txt")
+                                    with open(output_file_path, 'w', encoding='utf-8') as output_file:
+                                        output_file.write(str(abstract_text))
+                                        print(f"Written abstract to: {output_file_path}")
+                                    abstract_contents[file_path] = str(abstract)
+                                else:
+                                    print(f"No abstract tag found in file: {file_path}")
+                        except Exception as e:
+                            print(f"Error processing file {file_path}: {e}")
+            
+            else:
+                print(f"Skipped non-directory item: {query_result_folder}")
         return abstract_contents
+
+            
     
     @staticmethod
     
     def append_abstracts_to_csv(folder_path):
-        txt_folder = os.path.join(folder_path, "txt_abstracts")
+        
         cwd = os.getcwd()
         parent_dir = os.path.dirname(cwd)
         abstracts_dataset_path = os.path.join(parent_dir, r"Model\data\initial_training_data")
@@ -266,30 +273,37 @@ class HTMLProcessor:
         
         csv_file_path = os.path.join(abstracts_dataset_path, 'abstract_dataset.csv')
         
-        # Check if the CSV file exists, create it if it doesn't
         file_exists = os.path.isfile(csv_file_path)
-        
+
         with open(csv_file_path, mode='a', newline='', encoding='utf-8') as csv_file:
             writer = csv.writer(csv_file)
             
             # Write header if the file is being created
             if not file_exists:
                 writer.writerow(['Abstract', 'ID'])
-            
-            for filename in os.listdir(txt_folder):
-                if filename.endswith('_abstract.txt'):
-                    file_id = filename.split('_')[0]
-                    file_path = os.path.join(txt_folder, filename)
-                    
-                    with open(file_path, 'r', encoding='utf-8') as file:
-                        lines = file.readlines()
-                        # Ignore empty lines at the beginning
-                        abstract_lines = [line.strip() for line in lines if line.strip()]
-                        abstract_text = ' '.join(abstract_lines)
-                        
-                        if abstract_text:  # Ensure we don't write empty abstracts
-                            writer.writerow([abstract_text, file_id])
-                            print(f"Appended abstract from file {filename} to CSV.")
+
+            for query_result_folder in os.listdir(folder_path):
+                full_query_result_folder_path = os.path.join(folder_path, query_result_folder)
+                if os.path.isdir(full_query_result_folder_path):
+                    txt_folder = os.path.join(full_query_result_folder_path, "txt_abstracts")
+                
+                    # Check if the txt_abstracts directory exists
+                    if os.path.exists(txt_folder) and os.path.isdir(txt_folder):
+                        for filename in os.listdir(txt_folder):
+                            if filename.endswith('_abstract.txt'):
+                                file_id = filename.split('_')[0]
+                                file_path = os.path.join(txt_folder, filename)
+                                
+                                with open(file_path, 'r', encoding='utf-8') as file:
+                                    lines = file.readlines()
+                                    # Ignore empty lines at the beginning
+                                    abstract_lines = [line.strip() for line in lines if line.strip()]
+                                    abstract_text = ' '.join(abstract_lines)
+                                    
+                                    if abstract_text:  # Ensure we don't write empty abstracts
+                                        writer.writerow([abstract_text, file_id])
+                                        print(f"Appended abstract from file {filename} to CSV.")
+
     @staticmethod
     def make_abstracts_unique():
         cwd = os.getcwd()
