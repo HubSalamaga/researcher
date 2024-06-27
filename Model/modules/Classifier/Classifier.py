@@ -13,7 +13,7 @@ import csv
 
 class DataPreparator:
     def load_data_from_csv(file_path):
-        dataframe = pd.read_csv(file_path)
+        dataframe = pd.read_csv(file_path, sep=';')
         return dataframe
 
     def randomize_scores(scores, max_deviation= 0.05):
@@ -52,7 +52,7 @@ class ModelTrainer:
     def save_model(model, path):
         torch.save(model.state_dict(), path)
 
-    def train_model(train_dataloader, device, epochs = 16, model_index = 0):
+    def train_model(train_dataloader, device, epochs = 8, model_index = 0):
         model = BertForRegression("microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext")
         model.to(device)
         optimizer = AdamW(model.parameters(), lr=2e-5) # test value  # torch.optim.AdamW
@@ -73,6 +73,7 @@ class ModelTrainer:
             avg_train_loss = total_loss / len(train_dataloader)
             print(f"Epoch {epoch + 1}, Loss: {avg_train_loss}")
             ModelTrainer.save_model(model, f"trained_model_{model_index}.pt")
+            torch.cuda.empty_cache()
         
         return model
 
