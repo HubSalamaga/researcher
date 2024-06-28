@@ -11,7 +11,7 @@ class FileManager:
         cwd = os.getcwd()
         data_path = os.path.join(cwd, self.data_directory)
         dir_path_date = os.path.join(data_path, "date")
-        date_file_path = os.path.join(dir_path_date, "current_date.txt")
+        date_file_path = os.path.join(dir_path_date, "previous_date.txt")
         
         if not os.path.exists(dir_path_date):
             os.makedirs(dir_path_date)
@@ -30,24 +30,31 @@ class FileManager:
         return None
 
     @staticmethod
-    def overwrite_date(date_file_path, previous_date, current_date, file_path, download_dir, is_first_run=True, threshold=7):
+    def overwrite_date(date_file_path, previous_date, current_date, file_path, download_dir, is_first_run=False, threshold=7):
         current_date = datetime.datetime.strptime(str(current_date), "%Y-%m-%d").date()
         previous_date = datetime.datetime.strptime(str(previous_date), "%Y-%m-%d").date()
         date_difference = abs((current_date - previous_date).days)
         cwd = os.getcwd()
         results_directory = os.path.join(cwd, "results")
         download_dir = results_directory
-
+        # Ensure that the results directory exists
+        if not os.path.exists(results_directory):
+            os.makedirs(results_directory)
+        
+        download_dir = results_directory
+        
         try:
             if is_first_run:
                 file_path = os.path.join(cwd, "data", "query_list", "queries.txt")
-                NCBIManager.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
+                NCBIManager.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date, is_first_run=True)
+                with open(date_file_path, 'w') as file:
+                    file.write(str(current_date))
                 print(f"First run success")
             elif date_difference == 0:
                 print("Program run on the same day")
             elif date_difference >= threshold:
                 file_path = os.path.join(cwd, "data", "query_list", "queries.txt")
-                NCBIManager.read_queries_and_fetch_articles(date_file_path, file_path, download_dir, current_date, previous_date)
+                NCBIManager.read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date)
                 with open(date_file_path, 'w') as file:
                     file.write(str(current_date))
                 print(f"More than {threshold} days passed")
@@ -94,7 +101,7 @@ class NCBIManager:
     @staticmethod
     def fetch_pmc_ids(query):
         print(f"Fetching PMC IDs for query: {query}")  # Debug statement
-        handle = Entrez.esearch(db="pmc", term=query, retmax=200)
+        handle = Entrez.esearch(db="pmc", term=query, retmax=50)
         record = Entrez.read(handle)
         handle.close()
         print(f"Fetched IDs: {record['IdList']}")  # Debug statement
@@ -119,33 +126,39 @@ class NCBIManager:
             return None
 
     @staticmethod
-    def read_queries_and_fetch_articles(date_file_path, file_path, download_dir, current_date, previous_date=None):
+    def read_queries_and_fetch_articles(file_path, download_dir, current_date, previous_date=None, is_first_run=False):
         from_format = "%Y-%m-%d"
         to_format = "%Y/%m/%d"
 
         current_date_str = FileManager.convert_date_format(str(current_date), from_format, to_format)
+        try:
+            with open(file_path, 'r') as file:
+                for query in file:
+                    query = query.strip()
+                    query_folder, is_new_folder = NCBIManager.create_query_folder(query, download_dir)
+                    
+                    #Check if the folder already exists and get the last modification date
+                    if not is_new_folder:
+                        last_modification_date = NCBIManager.get_last_modification_date(query_folder)
+                        if last_modification_date:
+                            previous_date = last_modification_date
 
-        with open(file_path, 'r') as file:
-            for query in file:
-                query = query.strip()
-                query_folder, is_new_folder = NCBIManager.create_query_folder(query, download_dir)
+                    previous_date_str = FileManager.convert_date_format(str(previous_date), from_format, to_format)
 
-                #Check if the folder already exists and get the last modification date
-                if not is_new_folder:
-                    last_modification_date = NCBIManager.get_last_modification_date(query_folder)
-                    if last_modification_date:
-                        previous_date = last_modification_date
-
-                previous_date_str = FileManager.convert_date_format(str(previous_date), from_format, to_format)
-
-                if is_new_folder or current_date_str != previous_date_str:
-                    constructed_query = f"{query} AND ({previous_date_str}[PubDate] : {current_date_str}[PubDate])"
-                    print(f"Constructed query: {constructed_query}")  # Debug statement
-                    if constructed_query:
-                        print(f"Processing query: {constructed_query}")
-                        print(f"Creating/using folder: {query_folder}")
-                        NCBIManager.download_pmc_articles(constructed_query, query_folder)
-
+                    if is_first_run or is_new_folder or current_date_str != previous_date_str:
+                        if is_first_run == True or is_new_folder == True:
+                            constructed_query = f"{query}"
+                            print(f"Constructed query: {constructed_query}")  # Debug statement
+                        else:
+                            constructed_query = f"{query} AND ({previous_date_str}[PubDate] : {current_date_str}[PubDate])"
+                            print(f"Constructed query: {constructed_query}")  # Debug statement
+                        
+                        if constructed_query:
+                            print(f"Processing query: {constructed_query}")
+                            print(f"Creating/using folder: {query_folder}")
+                            NCBIManager.download_pmc_articles(constructed_query, query_folder)
+        except Exception as e:
+            print(f"An error occurred while running readqueriesandarticles: {e}")
     @staticmethod
     def download_pmc_articles(query, destination_dir, max_retries=3, rate_limit=0.33, timeout=30):
         pmc_ids = NCBIManager.fetch_pmc_ids(query)
@@ -204,21 +217,24 @@ class HTMLProcessor:
         if not os.path.isdir(folder_path):
             raise ValueError("The provided path is not a valid directory")
         
-        for filename in os.listdir(folder_path):
-            if filename.endswith('.xml'):
-                file_path = os.path.join(folder_path, filename)
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    soup = BeautifulSoup(file, 'html.parser')
-                    body = soup.find('body')
-                    if body:
-                        body_path = os.path.join(folder_path, "html_bodies")
-                        if not os.path.exists(body_path):
-                            os.makedirs(body_path)
-                        output_file_path = os.path.join(body_path, f"{os.path.splitext(filename)[0]}_body.html")
-                        with open(output_file_path, 'w', encoding='utf-8') as output_file:
-                            output_file.write(str(body))
-                    else:
-                        print(f"No body tag found")
+        for query_result_folder in os.listdir(folder_path):
+            query_full_path = os.path.join(folder_path, query_result_folder)
+            if os.path.isdir(query_full_path):
+                for filename in os.listdir(query_full_path):
+                    if filename.endswith('.xml'):
+                        file_path = os.path.join(query_full_path, filename)
+                        with open(file_path, 'r', encoding='utf-8') as file:
+                            soup = BeautifulSoup(file, 'html.parser')
+                            body = soup.find('body')
+                            if body:
+                                body_path = os.path.join(query_full_path, "html_bodies")
+                                if not os.path.exists(body_path):
+                                    os.makedirs(body_path)
+                                output_file_path = os.path.join(body_path, f"{os.path.splitext(filename)[0]}_body.html")
+                                with open(output_file_path, 'w', encoding='utf-8') as output_file:
+                                    output_file.write(str(body))
+                            else:
+                                print(f"No body tag found")
 
     @staticmethod
     def extract_abstract_from_html_files(folder_path):
@@ -239,7 +255,7 @@ class HTMLProcessor:
                                 if abstract:
                                     p_tags = abstract.find_all('p')
                                     abstract_text = ' '.join(p.get_text() for p in p_tags)
-                                        
+                                    abstract_text = abstract_text.replace('"', '')
                                     abstract_path = os.path.join(query_full_path, "txt_abstracts")
                                     if not os.path.exists(abstract_path):
                                         os.makedirs(abstract_path)
@@ -313,7 +329,7 @@ class HTMLProcessor:
         df = pd.read_csv(csv_file_path)
         df = df.drop_duplicates(subset='ID')
         df = df.reset_index(drop=True)
-
+    
         df.to_csv(csv_file_path, mode='w', index=False, encoding='utf-8')
 
 
