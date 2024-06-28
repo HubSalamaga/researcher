@@ -13,7 +13,7 @@ import csv
 
 class DataPreparator:
     def load_data_from_csv(file_path):
-        dataframe = pd.read_csv(file_path, sep=';')
+        dataframe = pd.read_csv(file_path, sep=',')
         return dataframe
 
     def randomize_scores(scores, max_deviation= 0.05):
@@ -87,7 +87,8 @@ class ModelTrainer:
                 for batch in test_dataloader:
                     b_input_ids, b_input_mask, b_labels = [item.to(device) for item in batch]
                     outputs = model(b_input_ids, b_input_mask)
-                    predictions.extend(outputs.cpu().numpy())
+                    sigmoid_outputs = torch.sigmoid(outputs)
+                    predictions.extend(sigmoid_outputs.cpu().numpy())
                     true_scores.extend(b_labels.cpu().numpy())
             all_predictions.append(predictions)
 
