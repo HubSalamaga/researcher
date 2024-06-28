@@ -26,6 +26,7 @@ def main():
 
     # Add predictions to the dataset
     predictions_df = pd.DataFrame(predictions, columns=["Predicted_AwT_score", "Predicted_SoE_score"])
+    predictions_df = predictions_df.clip(lower=0, upper=1)
     dataset[["Predicted_AwT_score", "Predicted_SoE_score"]] = predictions_df
 
     # Save the predictions to a new CSV file
