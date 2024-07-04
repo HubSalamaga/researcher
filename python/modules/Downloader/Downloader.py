@@ -142,6 +142,7 @@ class NCBIManager:
                         last_modification_date = NCBIManager.get_last_modification_date(query_folder)
                         if last_modification_date:
                             previous_date = last_modification_date
+                            print(f"query folder: {query_folder} was previously modified on: {previous_date}")
 
                     previous_date_str = FileManager.convert_date_format(str(previous_date), from_format, to_format)
 
@@ -277,12 +278,11 @@ class HTMLProcessor:
             
     
     @staticmethod
-    
     def append_abstracts_to_csv(folder_path):
         
         cwd = os.getcwd()
         parent_dir = os.path.dirname(cwd)
-        abstracts_dataset_path = os.path.join(parent_dir, r"Model\data\initial_training_data")
+        abstracts_dataset_path = os.path.join(parent_dir, r"Model\data\inference_data")
         # Ensure the CSV folder exists
         if not os.path.exists(abstracts_dataset_path):
             os.makedirs(abstracts_dataset_path)
@@ -324,7 +324,7 @@ class HTMLProcessor:
     def make_abstracts_unique():
         cwd = os.getcwd()
         parent_dir = os.path.dirname(cwd)
-        abstracts_dataset_path = os.path.join(parent_dir, r"Model\data\initial_training_data")
+        abstracts_dataset_path = os.path.join(parent_dir, r"Model\data\inference_data")
         csv_file_path = os.path.join(abstracts_dataset_path, 'abstract_dataset.csv')
         df = pd.read_csv(csv_file_path)
         df = df.drop_duplicates(subset='ID')

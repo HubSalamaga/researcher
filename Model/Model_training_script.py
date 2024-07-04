@@ -19,7 +19,7 @@ def main():
         sys.stdout = f
         torch.cuda.empty_cache()
         cwd = os.getcwd()
-        file_path = os.path.join(cwd, r"data\initial_training_data\test.csv")
+        file_path = os.path.join(cwd, r"data\initial_training_data\training_dataset.csv")
         dataset = DataPreparator.load_data_from_csv(file_path)
 
         # Create dataframe before randomisation
@@ -44,7 +44,7 @@ def main():
         train_dataloader = DataPreparator.prepare_dataloader(train_data, batch_size=6)
         test_dataloader = DataPreparator.prepare_dataloader(test_data, batch_size=6, test=True)
 
-        num_models = 2
+        num_models = 4
         models = []
         for i in range(num_models):
             model = ModelTrainer.train_model(train_dataloader, device, model_index=i)

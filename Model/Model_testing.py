@@ -14,7 +14,7 @@ def load_data_from_csv(file_path):
 
 # Define paths
 cwd = os.getcwd()
-file_path = os.path.join(cwd, r'data\initial_training_data\abstract_dataset.csv')
+file_path = os.path.join(cwd, r'data\inference_data\abstract_dataset.csv')
 dataset = load_data_from_csv(file_path)
 
 # Define the BERT regression model
@@ -96,12 +96,12 @@ predictions_df = pd.DataFrame(predictions, columns=["Predicted_AwT_score", "Pred
 dataset[["Predicted_AwT_score", "Predicted_SoE_score"]] = predictions_df
 
 # Save the predictions to a new CSV file
-output_file_path = os.path.join(cwd, r"data/initial_training_data/predicted_test.csv")
+output_file_path = os.path.join(cwd, r"data/inference_data/predicted_inference.csv")
 dataset.to_csv(output_file_path, index=False)
 
 print(f"Predictions saved to {output_file_path}")
 
 # Filter the articles
 input_file_path = output_file_path
-output_file_path = os.path.join(cwd, r"data/initial_training_data/filtered_articles.csv")
+output_file_path = os.path.join(cwd, r"data/inference_data/filtered_articles.csv")
 filter_and_save_ids(input_file_path, output_file_path)

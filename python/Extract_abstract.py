@@ -1,9 +1,6 @@
 # %%
-import os 
 import argparse
-import subprocess
-from bs4 import BeautifulSoup
-from modules.Downloader import NCBIManager, HTMLProcessor, ConfigManager, FileManager
+from modules.Downloader import HTMLProcessor
 
 def main():
     parser = argparse.ArgumentParser(description='Extract <abstract> content from HTML files in a folder.')
