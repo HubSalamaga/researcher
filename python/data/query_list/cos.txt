@@ -1,4 +1,0 @@
-infertility AND genetic variant
-human OR genome
-human NOT genetic variant
-("humans"[MeSH Terms] OR human[All Fields])  AND ("genetic variant"[All Fields] OR "genetic variants"[All Fields] OR "genetic polymorphism"[All Fields] OR "mutation"[MeSH Terms])  AND ("phenotype"[MeSH Terms] OR "phenotype"[All Fields] OR "phenotypes"[All Fields] OR "disease"[MeSH Terms] OR "disease"[All Fields])  AND ("infertility"[MeSH Terms] OR "infertility"[All Fields]) AND ("molecular pathway"[All Fields] OR "molecular pathways"[All Fields] OR "signal transduction"[MeSH Terms])

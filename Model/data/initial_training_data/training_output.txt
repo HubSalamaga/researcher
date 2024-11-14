@@ -1,0 +1,28 @@
+Combined dataframe:
+                                                 text  AwT_score  SoE_score  \
+0   Nutritional status and gene polymorphisms of o...       0.90       0.20   
+1   Thrombophilic gene polymorphism is known to be...       0.90       0.50   
+2   Whether adiponectin (ADIPOQ) polymorphisms are...       0.95       1.00   
+3   Polycystic ovary syndrome (PCOS) is a common, ...       0.95       1.00   
+4   Endometriosis has been considered an epigeneti...       0.95       0.55   
+..                                                ...        ...        ...   
+60  Histone deacetylase (HDAC) serves as a critica...       0.10       0.05   
+61  As one of the most prevalent chronic inflammat...       0.15       0.05   
+62  Human hemoglobin of G-Makassar and hemoglobin ...       0.50       0.10   
+63  For many diseases, and cancer in particular, e...       0.10       0.05   
+64  Solute carrier family 26 (Slc26) is a family o...       0.00       0.00   
+
+               ID  randomized_AwT_score  randomized_SoE_score  
+0    "PMC9569987"              0.922204              0.191167  
+1    "PMC6045916"              0.883634              0.503282  
+2    "PMC6278103"              0.917864              1.000000  
+3    "PMC4557132"              0.911992              0.995865  
+4      "21429654"              0.981087              0.575106  
+..            ...                   ...                   ...  
+60       11143662              0.097252              0.052451  
+61       11144009              0.155629              0.048572  
+62       11144427              0.513893              0.097819  
+63       11144459              0.102101              0.051775  
+64       11145369              0.000000              0.000000  
+
+[65 rows x 6 columns]
